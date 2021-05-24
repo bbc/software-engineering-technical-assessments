@@ -1,0 +1,21 @@
+.Scoreboard {
+  text-align: left;
+}
+
+.Election-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.Election-scoreboard-header {
+  background-color: #bb1919;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
