@@ -8,15 +8,12 @@ const defaultData = [{
 
 function Scorecard({result}) {
 
-  console.log(result);
-
   if (!result || result.length === 0) {
     result = defaultData;
   }
 
   return (
     <div className="Scorecard">
-        <h2>Results</h2>
         <table>
           <thead>
             <tr>
@@ -25,11 +22,13 @@ function Scorecard({result}) {
               <th>Votes</th>
             </tr>
           </thead>
-          <tr>
-            <td>{result[0].party}</td>
-            <td>{result[0].candidate}</td>
-            <td>{result[0].votes}</td>
-          </tr>
+          <tbody>
+            <tr>
+              <td>{result[0].party}</td>
+              <td>{result[0].candidate}</td>
+              <td>{result[0].votes}</td>
+            </tr>
+          </tbody>
         </table>
     </div>
   );

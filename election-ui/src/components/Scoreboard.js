@@ -1,22 +1,17 @@
 import React, { useState, useEffect } from 'react';
 import Logo from './logo/logo';
+import fetchData from '../dataFetcher';
 import Scorecard from './Scorecard';
 import './Scoreboard.css';
 
-const sampleData = [
-  {
-    'party': 'Green',
-    'candidate': 'Ann Other',
-    'votes': '1056'
-  }
-];
 
 function Scoreboard() {
   const [results, setResults] = useState([]);
 
   useEffect(() => {
-    setResults(sampleData);
-  });
+    const resultData = fetchData();
+    setResults(resultData);
+  }, []);
 
   return (
     <div className="Scoreboard">
@@ -24,6 +19,7 @@ function Scoreboard() {
         <Logo language="en" />
       </header>
       <main>
+        <h1>Results</h1>
         <Scorecard result={results} />
       </main>
     </div>
