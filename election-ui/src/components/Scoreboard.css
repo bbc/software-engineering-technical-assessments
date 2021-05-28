@@ -12,10 +12,28 @@
   min-height: 10vh;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  padding: 1rem;
   font-size: calc(10px + 2vmin);
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+main {
+  margin: 0 auto;
+  padding: 1rem;
+  max-width: 980px;
+}
+
+.Scoreboard-refresh {
+  padding: 1rem;
+  border: 3px solid#bb1919;
+  margin-top: 1rem;
+  display: inline-block;
+  cursor: pointer;
+  transition: background-color 0.25s;
+}
+
+.Scoreboard-refresh:hover {
+  background-color: #bb1919;
+  color: white;
 }

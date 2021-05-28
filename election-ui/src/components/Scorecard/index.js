@@ -1,20 +1,24 @@
 import './Scorecard.css';
 
-const defaultData = [{
-  party: '',
-  candidate: '',
-  votes: 0
-}];
+function Scorecard({ results }) {
+  if (!results || results.length === 0) {
+    return <div>No results</div>;
+  }
 
-function Scorecard({result}) {
-
-  if (!result || result.length === 0) {
-    result = defaultData;
+  let scores = [];
+  for (let i=0; i< results.length; i++) {
+    scores.push(
+      <tr key={i}>
+        <td>{results[i].party}</td>
+        <td>{results[i].candidate}</td>
+        <td>{results[i].votes}</td>
+      </tr>
+    )
   }
 
   return (
     <div className="Scorecard">
-        <table>
+        <table className="Scorecard-table">
           <thead>
             <tr>
               <th>Party</th>
@@ -23,11 +27,7 @@ function Scorecard({result}) {
             </tr>
           </thead>
           <tbody>
-            <tr>
-              <td>{result[0].party}</td>
-              <td>{result[0].candidate}</td>
-              <td>{result[0].votes}</td>
-            </tr>
+            {scores}
           </tbody>
         </table>
     </div>

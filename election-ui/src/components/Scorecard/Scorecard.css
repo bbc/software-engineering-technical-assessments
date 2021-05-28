@@ -1,0 +1,21 @@
+.Scorecard {
+  background-color: #eeeeee;
+}
+
+.Scorecard-table {
+  width: 100%;
+}
+
+.Scorecard-table th,
+.Scorecard-table td {
+  padding: 0.5rem;
+}
+
+.Scorecard-table thead {
+  background-color: #bb1919;
+  color: white;
+}
+
+.Scorecard-table tbody tr:nth-of-type(2n + 1) {
+  background-color: white;
+}
