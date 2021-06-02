@@ -26,7 +26,7 @@ main {
 
 .Scoreboard-refresh {
   padding: 1rem;
-  border: 3px solid#bb1919;
+  border: 3px solid #bb1919;
   margin-top: 1rem;
   display: inline-block;
   cursor: pointer;

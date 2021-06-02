@@ -6,7 +6,7 @@ function Scorecard({ results }) {
   }
 
   let scores = [];
-  for (let i=0; i< results.length; i++) {
+  for (let i=0; i < results.length; i++) {
     scores.push(
       <tr key={i}>
         <td>{results[i].party}</td>

@@ -1,21 +1,32 @@
 import { render, screen, waitFor, fireEvent } from '@testing-library/react';
 import Scoreboard from './Scoreboard';
-import * as dataFetcher from '../dataFetcher';
+import dataFetcher from '../dataFetcher';
+
+jest.mock('../dataFetcher');
 
 test('renders Results', async () => {
+  dataFetcher.mockImplementationOnce(() => {
+    return Promise.resolve(
+      [
+        {
+          'party': 'Independent',
+          'candidate': 'Lord Buckethead',
+          'votes': '9900'
+        }
+      ]
+    )
+  });
+
   render(<Scoreboard />);
   
   await waitFor(() => {
-    const results = screen.getByText(/Green/i);
+    const results = screen.getByText(/Independent/i);
     expect(results).toBeInTheDocument();
   });
 });
 
-
 test('renders error state', async () => {
-  const dataFetcherSpy = jest.spyOn(dataFetcher, 'default');
-  
-  dataFetcherSpy.mockImplementationOnce(() => {
+  dataFetcher.mockImplementationOnce(() => {
     throw new Error();
   });
 
@@ -28,13 +39,11 @@ test('renders error state', async () => {
 });
 
 test('fetches results again when refresh button clicked', async () => {
-  const dataFetcherSpy = jest.spyOn(dataFetcher, 'default');
-
   render(<Scoreboard />);
 
   await waitFor(() => {
     const refreshButton = screen.getByText(/Refresh/i);
     fireEvent.click(refreshButton);
-    expect(dataFetcherSpy).toBeCalled();
+    expect(dataFetcher).toBeCalled();
   });
 });
