@@ -16,6 +16,7 @@ function Scoreboard() {
       setResults(resultData);
       setLoading(false);
     } catch (e) {
+      setLoading(false);
       setError(true);
     }
   }
