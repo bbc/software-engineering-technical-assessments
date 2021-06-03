@@ -1,0 +1,37 @@
+{
+	"id": 543,
+	"name": "Stratford On Avon",
+	"seqNo": 503,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23452,
+			"share": 51.30
+		},
+		{
+			"party": "LD",
+			"votes": 12524,
+			"share": 27.40
+		},
+		{
+			"party": "LAB",
+			"votes": 7077,
+			"share": 15.50
+		},
+		{
+			"party": "GRN",
+			"votes": 1463,
+			"share": 3.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 1212,
+			"share": 2.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

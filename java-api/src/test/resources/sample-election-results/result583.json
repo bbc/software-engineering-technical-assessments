@@ -1,0 +1,37 @@
+{
+	"id": 155,
+	"name": "Clwyd West",
+	"seqNo": 583,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 13021,
+			"share": 36.10
+		},
+		{
+			"party": "LAB",
+			"votes": 12970,
+			"share": 36.00
+		},
+		{
+			"party": "LD",
+			"votes": 4801,
+			"share": 13.30
+		},
+		{
+			"party": "PC",
+			"votes": 3912,
+			"share": 10.90
+		},
+		{
+			"party": "OTH",
+			"votes": 820,
+			"share": 2.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 523,
+			"share": 1.50
+		}
+	]
+}

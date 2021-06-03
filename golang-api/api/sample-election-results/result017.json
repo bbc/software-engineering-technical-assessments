@@ -1,0 +1,32 @@
+{
+	"id": 184,
+	"name": "Derbyshire Mid",
+	"seqNo": 17,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20050,
+			"share": 47.20
+		},
+		{
+			"party": "LAB",
+			"votes": 14721,
+			"share": 34.60
+		},
+		{
+			"party": "LD",
+			"votes": 6809,
+			"share": 16.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 923,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

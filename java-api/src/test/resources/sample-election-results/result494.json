@@ -1,0 +1,32 @@
+{
+	"id": 241,
+	"name": "Erewash",
+	"seqNo": 494,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19369,
+			"share": 44.70
+		},
+		{
+			"party": "CON",
+			"votes": 12587,
+			"share": 29.10
+		},
+		{
+			"party": "LD",
+			"votes": 5850,
+			"share": 13.50
+		},
+		{
+			"party": "OTH",
+			"votes": 4679,
+			"share": 10.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 824,
+			"share": 1.90
+		}
+	]
+}

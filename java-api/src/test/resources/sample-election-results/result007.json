@@ -1,0 +1,32 @@
+{
+	"id": 90,
+	"name": "Brent Central",
+	"seqNo": 7,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19684,
+			"share": 50.10
+		},
+		{
+			"party": "LD",
+			"votes": 12215,
+			"share": 31.10
+		},
+		{
+			"party": "CON",
+			"votes": 5142,
+			"share": 13.10
+		},
+		{
+			"party": "GRN",
+			"votes": 1426,
+			"share": 3.60
+		},
+		{
+			"party": "OTH",
+			"votes": 800,
+			"share": 2.00
+		}
+	]
+}

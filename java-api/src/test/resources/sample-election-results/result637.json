@@ -1,0 +1,52 @@
+{
+	"id": 45,
+	"name": "Belfast East",
+	"seqNo": 637,
+	"partyResults": [
+		{
+			"party": "DUP",
+			"votes": 15152,
+			"share": 49.10
+		},
+		{
+			"party": "UUP",
+			"votes": 9275,
+			"share": 30.10
+		},
+		{
+			"party": "AP",
+			"votes": 3746,
+			"share": 12.20
+		},
+		{
+			"party": "SF",
+			"votes": 1029,
+			"share": 3.30
+		},
+		{
+			"party": "SDLP",
+			"votes": 844,
+			"share": 2.70
+		},
+		{
+			"party": "CON",
+			"votes": 434,
+			"share": 1.40
+		},
+		{
+			"party": "WP",
+			"votes": 179,
+			"share": 0.60
+		},
+		{
+			"party": "VFY",
+			"votes": 172,
+			"share": 0.60
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

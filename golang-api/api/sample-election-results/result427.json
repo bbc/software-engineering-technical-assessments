@@ -1,0 +1,32 @@
+{
+	"id": 96,
+	"name": "Brigg \u0026 Goole",
+	"seqNo": 427,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18795,
+			"share": 45.80
+		},
+		{
+			"party": "CON",
+			"votes": 15578,
+			"share": 38.00
+		},
+		{
+			"party": "LD",
+			"votes": 5411,
+			"share": 13.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 1226,
+			"share": 3.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

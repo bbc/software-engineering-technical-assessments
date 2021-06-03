@@ -1,0 +1,27 @@
+{
+	"id": 551,
+	"name": "Sunderland Central",
+	"seqNo": 66,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18543,
+			"share": 50.00
+		},
+		{
+			"party": "CON",
+			"votes": 9079,
+			"share": 24.50
+		},
+		{
+			"party": "LD",
+			"votes": 6249,
+			"share": 16.90
+		},
+		{
+			"party": "OTH",
+			"votes": 3193,
+			"share": 8.60
+		}
+	]
+}

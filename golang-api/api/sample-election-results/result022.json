@@ -1,0 +1,32 @@
+{
+	"id": 251,
+	"name": "Filton \u0026 Bradley Stoke",
+	"seqNo": 22,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 14629,
+			"share": 35.50
+		},
+		{
+			"party": "LAB",
+			"votes": 13976,
+			"share": 33.90
+		},
+		{
+			"party": "LD",
+			"votes": 11703,
+			"share": 28.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 935,
+			"share": 2.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

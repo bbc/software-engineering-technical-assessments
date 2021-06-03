@@ -1,0 +1,32 @@
+{
+	"id": 564,
+	"name": "Taunton Deane",
+	"seqNo": 468,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 25159,
+			"share": 44.40
+		},
+		{
+			"party": "CON",
+			"votes": 23291,
+			"share": 41.10
+		},
+		{
+			"party": "LAB",
+			"votes": 6844,
+			"share": 12.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1355,
+			"share": 2.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

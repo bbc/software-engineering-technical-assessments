@@ -1,0 +1,37 @@
+{
+	"id": 410,
+	"name": "New Forest West",
+	"seqNo": 553,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24646,
+			"share": 55.90
+		},
+		{
+			"party": "LD",
+			"votes": 8463,
+			"share": 19.20
+		},
+		{
+			"party": "LAB",
+			"votes": 7295,
+			"share": 16.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1839,
+			"share": 4.20
+		},
+		{
+			"party": "GRN",
+			"votes": 1837,
+			"share": 4.20
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

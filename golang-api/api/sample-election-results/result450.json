@@ -1,0 +1,52 @@
+{
+	"id": 479,
+	"name": "Ross, Skye \u0026 Lochaber",
+	"seqNo": 450,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 19100,
+			"share": 58.70
+		},
+		{
+			"party": "LAB",
+			"votes": 4851,
+			"share": 14.90
+		},
+		{
+			"party": "CON",
+			"votes": 3275,
+			"share": 10.10
+		},
+		{
+			"party": "SNP",
+			"votes": 3119,
+			"share": 9.60
+		},
+		{
+			"party": "SGP",
+			"votes": 1097,
+			"share": 3.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 500,
+			"share": 1.50
+		},
+		{
+			"party": "SSP",
+			"votes": 412,
+			"share": 1.30
+		},
+		{
+			"party": "IND",
+			"votes": 184,
+			"share": 0.60
+		},
+		{
+			"party": "OTH",
+			"votes": 184,
+			"share": 0.60
+		}
+	]
+}

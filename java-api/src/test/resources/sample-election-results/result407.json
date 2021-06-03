@@ -1,0 +1,32 @@
+{
+	"id": 354,
+	"name": "Leeds North West",
+	"seqNo": 407,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 15328,
+			"share": 36.90
+		},
+		{
+			"party": "LAB",
+			"votes": 13264,
+			"share": 31.90
+		},
+		{
+			"party": "CON",
+			"votes": 11151,
+			"share": 26.80
+		},
+		{
+			"party": "GRN",
+			"votes": 1103,
+			"share": 2.70
+		},
+		{
+			"party": "OTH",
+			"votes": 726,
+			"share": 1.70
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 458,
+	"name": "Portsmouth South",
+	"seqNo": 147,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 15370,
+			"share": 41.60
+		},
+		{
+			"party": "CON",
+			"votes": 12415,
+			"share": 33.60
+		},
+		{
+			"party": "LAB",
+			"votes": 8268,
+			"share": 22.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 869,
+			"share": 2.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 189,
+	"name": "Devon East",
+	"seqNo": 520,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22535,
+			"share": 47.30
+		},
+		{
+			"party": "LD",
+			"votes": 13367,
+			"share": 28.00
+		},
+		{
+			"party": "LAB",
+			"votes": 8691,
+			"share": 18.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 2679,
+			"share": 5.60
+		},
+		{
+			"party": "OTH",
+			"votes": 400,
+			"share": 0.80
+		}
+	]
+}

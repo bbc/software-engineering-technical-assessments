@@ -1,0 +1,32 @@
+{
+	"id": 247,
+	"name": "Faversham \u0026 Kent Mid",
+	"seqNo": 417,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21295,
+			"share": 50.10
+		},
+		{
+			"party": "LAB",
+			"votes": 12368,
+			"share": 29.10
+		},
+		{
+			"party": "LD",
+			"votes": 7119,
+			"share": 16.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1124,
+			"share": 2.60
+		},
+		{
+			"party": "OTH",
+			"votes": 610,
+			"share": 1.40
+		}
+	]
+}

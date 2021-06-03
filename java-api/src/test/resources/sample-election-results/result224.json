@@ -1,0 +1,32 @@
+{
+	"id": 76,
+	"name": "Bolton North East",
+	"seqNo": 224,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17486,
+			"share": 46.30
+		},
+		{
+			"party": "CON",
+			"votes": 12959,
+			"share": 34.30
+		},
+		{
+			"party": "LD",
+			"votes": 6083,
+			"share": 16.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 662,
+			"share": 1.80
+		},
+		{
+			"party": "OTH",
+			"votes": 582,
+			"share": 1.50
+		}
+	]
+}

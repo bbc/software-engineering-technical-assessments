@@ -1,0 +1,37 @@
+{
+	"id": 605,
+	"name": "Waveney",
+	"seqNo": 527,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 22492,
+			"share": 45.40
+		},
+		{
+			"party": "CON",
+			"votes": 16542,
+			"share": 33.40
+		},
+		{
+			"party": "LD",
+			"votes": 7495,
+			"share": 15.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1862,
+			"share": 3.80
+		},
+		{
+			"party": "GRN",
+			"votes": 1198,
+			"share": 2.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

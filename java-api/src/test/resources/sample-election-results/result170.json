@@ -1,0 +1,32 @@
+{
+	"id": 595,
+	"name": "Walthamstow",
+	"seqNo": 170,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17323,
+			"share": 50.30
+		},
+		{
+			"party": "LD",
+			"votes": 9330,
+			"share": 27.10
+		},
+		{
+			"party": "CON",
+			"votes": 6254,
+			"share": 18.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 810,
+			"share": 2.40
+		},
+		{
+			"party": "OTH",
+			"votes": 727,
+			"share": 2.10
+		}
+	]
+}

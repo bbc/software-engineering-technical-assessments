@@ -1,0 +1,32 @@
+{
+	"id": 282,
+	"name": "Halesowen \u0026 Rowley Regis",
+	"seqNo": 223,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19199,
+			"share": 46.20
+		},
+		{
+			"party": "CON",
+			"votes": 15189,
+			"share": 36.60
+		},
+		{
+			"party": "LD",
+			"votes": 5187,
+			"share": 12.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1940,
+			"share": 4.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

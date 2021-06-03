@@ -1,0 +1,32 @@
+{
+	"id": 274,
+	"name": "Grantham \u0026 Stamford",
+	"seqNo": 510,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21746,
+			"share": 46.90
+		},
+		{
+			"party": "LAB",
+			"votes": 14438,
+			"share": 31.20
+		},
+		{
+			"party": "LD",
+			"votes": 7640,
+			"share": 16.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1482,
+			"share": 3.20
+		},
+		{
+			"party": "OTH",
+			"votes": 1038,
+			"share": 2.20
+		}
+	]
+}

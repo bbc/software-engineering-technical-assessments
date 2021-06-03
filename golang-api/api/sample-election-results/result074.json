@@ -1,0 +1,32 @@
+{
+	"id": 620,
+	"name": "Wiltshire South West",
+	"seqNo": 74,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22321,
+			"share": 49.10
+		},
+		{
+			"party": "LD",
+			"votes": 13753,
+			"share": 30.30
+		},
+		{
+			"party": "LAB",
+			"votes": 7807,
+			"share": 17.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 1573,
+			"share": 3.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

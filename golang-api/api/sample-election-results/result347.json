@@ -1,0 +1,37 @@
+{
+	"id": 480,
+	"name": "Rossendale \u0026 Darwen",
+	"seqNo": 347,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19024,
+			"share": 43.00
+		},
+		{
+			"party": "CON",
+			"votes": 15328,
+			"share": 34.60
+		},
+		{
+			"party": "LD",
+			"votes": 6587,
+			"share": 14.90
+		},
+		{
+			"party": "OTH",
+			"votes": 1736,
+			"share": 3.90
+		},
+		{
+			"party": "GRN",
+			"votes": 829,
+			"share": 1.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 740,
+			"share": 1.70
+		}
+	]
+}

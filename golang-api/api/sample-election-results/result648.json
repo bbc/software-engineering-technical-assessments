@@ -1,0 +1,37 @@
+{
+	"id": 203,
+	"name": "Down South",
+	"seqNo": 648,
+	"partyResults": [
+		{
+			"party": "SDLP",
+			"votes": 21557,
+			"share": 44.70
+		},
+		{
+			"party": "SF",
+			"votes": 12417,
+			"share": 25.80
+		},
+		{
+			"party": "DUP",
+			"votes": 8815,
+			"share": 18.30
+		},
+		{
+			"party": "UUP",
+			"votes": 4775,
+			"share": 9.90
+		},
+		{
+			"party": "AP",
+			"votes": 613,
+			"share": 1.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

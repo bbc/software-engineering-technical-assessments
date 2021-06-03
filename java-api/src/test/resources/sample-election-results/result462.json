@@ -1,0 +1,37 @@
+{
+	"id": 627,
+	"name": "Witney",
+	"seqNo": 462,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 25579,
+			"share": 49.40
+		},
+		{
+			"party": "LD",
+			"votes": 11705,
+			"share": 22.60
+		},
+		{
+			"party": "LAB",
+			"votes": 11592,
+			"share": 22.40
+		},
+		{
+			"party": "GRN",
+			"votes": 1620,
+			"share": 3.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1315,
+			"share": 2.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

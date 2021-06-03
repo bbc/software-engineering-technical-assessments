@@ -1,0 +1,32 @@
+{
+	"id": 555,
+	"name": "Sussex Mid",
+	"seqNo": 432,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24715,
+			"share": 48.30
+		},
+		{
+			"party": "LD",
+			"votes": 18253,
+			"share": 35.60
+		},
+		{
+			"party": "LAB",
+			"votes": 6567,
+			"share": 12.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1683,
+			"share": 3.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

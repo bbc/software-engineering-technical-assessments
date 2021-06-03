@@ -1,0 +1,32 @@
+{
+	"id": 275,
+	"name": "Gravesham",
+	"seqNo": 573,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 19739,
+			"share": 43.70
+		},
+		{
+			"party": "LAB",
+			"votes": 19085,
+			"share": 42.20
+		},
+		{
+			"party": "LD",
+			"votes": 4851,
+			"share": 10.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 850,
+			"share": 1.90
+		},
+		{
+			"party": "OTH",
+			"votes": 654,
+			"share": 1.40
+		}
+	]
+}

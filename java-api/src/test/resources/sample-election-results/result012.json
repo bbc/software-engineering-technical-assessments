@@ -1,0 +1,37 @@
+{
+	"id": 140,
+	"name": "Chelsea \u0026 Fulham",
+	"seqNo": 12,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 19003,
+			"share": 55.20
+		},
+		{
+			"party": "LAB",
+			"votes": 8750,
+			"share": 25.40
+		},
+		{
+			"party": "LD",
+			"votes": 4831,
+			"share": 14.00
+		},
+		{
+			"party": "GRN",
+			"votes": 1443,
+			"share": 4.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 388,
+			"share": 1.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

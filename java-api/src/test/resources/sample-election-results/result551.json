@@ -1,0 +1,32 @@
+{
+	"id": 622,
+	"name": "Winchester",
+	"seqNo": 551,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 25621,
+			"share": 50.00
+		},
+		{
+			"party": "CON",
+			"votes": 19097,
+			"share": 37.30
+		},
+		{
+			"party": "LAB",
+			"votes": 4774,
+			"share": 9.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 1133,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 581,
+			"share": 1.10
+		}
+	]
+}

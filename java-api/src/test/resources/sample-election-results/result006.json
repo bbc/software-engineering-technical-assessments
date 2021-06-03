@@ -1,0 +1,32 @@
+{
+	"id": 85,
+	"name": "Bradford East",
+	"seqNo": 6,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16172,
+			"share": 44.10
+		},
+		{
+			"party": "LD",
+			"votes": 10945,
+			"share": 29.80
+		},
+		{
+			"party": "CON",
+			"votes": 6392,
+			"share": 17.40
+		},
+		{
+			"party": "OTH",
+			"votes": 2535,
+			"share": 6.90
+		},
+		{
+			"party": "GRN",
+			"votes": 661,
+			"share": 1.80
+		}
+	]
+}

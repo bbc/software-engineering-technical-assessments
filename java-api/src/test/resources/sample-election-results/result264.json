@@ -1,0 +1,42 @@
+{
+	"id": 264,
+	"name": "Glasgow North",
+	"seqNo": 264,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 11001,
+			"share": 39.40
+		},
+		{
+			"party": "LD",
+			"votes": 7663,
+			"share": 27.40
+		},
+		{
+			"party": "SNP",
+			"votes": 3614,
+			"share": 12.90
+		},
+		{
+			"party": "CON",
+			"votes": 2441,
+			"share": 8.70
+		},
+		{
+			"party": "SGP",
+			"votes": 2135,
+			"share": 7.60
+		},
+		{
+			"party": "SSP",
+			"votes": 1067,
+			"share": 3.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

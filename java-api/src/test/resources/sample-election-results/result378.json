@@ -1,0 +1,37 @@
+{
+	"id": 561,
+	"name": "Swindon South",
+	"seqNo": 378,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17227,
+			"share": 40.40
+		},
+		{
+			"party": "CON",
+			"votes": 15734,
+			"share": 36.90
+		},
+		{
+			"party": "LD",
+			"votes": 7244,
+			"share": 17.00
+		},
+		{
+			"party": "GRN",
+			"votes": 1234,
+			"share": 2.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 941,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 246,
+			"share": 0.60
+		}
+	]
+}

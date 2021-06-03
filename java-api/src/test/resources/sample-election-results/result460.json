@@ -1,0 +1,37 @@
+{
+	"id": 591,
+	"name": "Wakefield",
+	"seqNo": 460,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18497,
+			"share": 44.10
+		},
+		{
+			"party": "CON",
+			"votes": 11148,
+			"share": 26.50
+		},
+		{
+			"party": "LD",
+			"votes": 7889,
+			"share": 18.80
+		},
+		{
+			"party": "OTH",
+			"votes": 3171,
+			"share": 7.60
+		},
+		{
+			"party": "GRN",
+			"votes": 818,
+			"share": 1.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 467,
+			"share": 1.10
+		}
+	]
+}

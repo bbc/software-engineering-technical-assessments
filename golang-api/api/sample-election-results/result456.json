@@ -1,0 +1,37 @@
+{
+	"id": 102,
+	"name": "Bristol West",
+	"seqNo": 456,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 17599,
+			"share": 39.10
+		},
+		{
+			"party": "LAB",
+			"votes": 16452,
+			"share": 36.50
+		},
+		{
+			"party": "CON",
+			"votes": 7373,
+			"share": 16.40
+		},
+		{
+			"party": "GRN",
+			"votes": 2545,
+			"share": 5.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 568,
+			"share": 1.30
+		},
+		{
+			"party": "OTH",
+			"votes": 519,
+			"share": 1.20
+		}
+	]
+}

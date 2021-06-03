@@ -1,0 +1,32 @@
+{
+	"id": 201,
+	"name": "Dover",
+	"seqNo": 270,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21833,
+			"share": 45.30
+		},
+		{
+			"party": "CON",
+			"votes": 16828,
+			"share": 35.00
+		},
+		{
+			"party": "LD",
+			"votes": 7605,
+			"share": 15.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1273,
+			"share": 2.60
+		},
+		{
+			"party": "OTH",
+			"votes": 606,
+			"share": 1.30
+		}
+	]
+}

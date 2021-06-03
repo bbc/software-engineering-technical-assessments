@@ -1,0 +1,32 @@
+{
+	"id": 257,
+	"name": "Gainsborough",
+	"seqNo": 498,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 19524,
+			"share": 43.80
+		},
+		{
+			"party": "LAB",
+			"votes": 11629,
+			"share": 26.10
+		},
+		{
+			"party": "LD",
+			"votes": 11578,
+			"share": 26.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 1803,
+			"share": 4.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

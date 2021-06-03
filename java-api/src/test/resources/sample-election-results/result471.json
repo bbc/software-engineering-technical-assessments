@@ -1,0 +1,37 @@
+{
+	"id": 278,
+	"name": "Greenwich \u0026 Woolwich",
+	"seqNo": 471,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18636,
+			"share": 52.50
+		},
+		{
+			"party": "LD",
+			"votes": 6998,
+			"share": 19.70
+		},
+		{
+			"party": "CON",
+			"votes": 6244,
+			"share": 17.60
+		},
+		{
+			"party": "GRN",
+			"votes": 1579,
+			"share": 4.40
+		},
+		{
+			"party": "OTH",
+			"votes": 1277,
+			"share": 3.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 783,
+			"share": 2.20
+		}
+	]
+}

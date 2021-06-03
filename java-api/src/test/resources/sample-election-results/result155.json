@@ -1,0 +1,32 @@
+{
+	"id": 337,
+	"name": "Jarrow",
+	"seqNo": 155,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20637,
+			"share": 58.80
+		},
+		{
+			"party": "LD",
+			"votes": 7888,
+			"share": 22.50
+		},
+		{
+			"party": "CON",
+			"votes": 4485,
+			"share": 12.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1664,
+			"share": 4.70
+		},
+		{
+			"party": "OTH",
+			"votes": 400,
+			"share": 1.10
+		}
+	]
+}

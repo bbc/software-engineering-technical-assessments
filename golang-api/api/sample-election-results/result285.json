@@ -1,0 +1,32 @@
+{
+	"id": 11,
+	"name": "Amber Valley",
+	"seqNo": 285,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20427,
+			"share": 46.50
+		},
+		{
+			"party": "CON",
+			"votes": 14915,
+			"share": 33.90
+		},
+		{
+			"party": "LD",
+			"votes": 5446,
+			"share": 12.40
+		},
+		{
+			"party": "OTH",
+			"votes": 2467,
+			"share": 5.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 718,
+			"share": 1.60
+		}
+	]
+}

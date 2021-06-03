@@ -1,0 +1,32 @@
+{
+	"id": 409,
+	"name": "New Forest East",
+	"seqNo": 488,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23333,
+			"share": 49.40
+		},
+		{
+			"party": "LD",
+			"votes": 15680,
+			"share": 33.20
+		},
+		{
+			"party": "LAB",
+			"votes": 5787,
+			"share": 12.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 2422,
+			"share": 5.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 180,
+	"name": "Denton \u0026 Reddish",
+	"seqNo": 207,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19595,
+			"share": 57.60
+		},
+		{
+			"party": "CON",
+			"votes": 6467,
+			"share": 19.00
+		},
+		{
+			"party": "LD",
+			"votes": 5541,
+			"share": 16.30
+		},
+		{
+			"party": "OTH",
+			"votes": 1326,
+			"share": 3.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1065,
+			"share": 3.10
+		}
+	]
+}

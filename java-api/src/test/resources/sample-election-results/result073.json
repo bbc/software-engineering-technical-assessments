@@ -1,0 +1,37 @@
+{
+	"id": 615,
+	"name": "Westminster North",
+	"seqNo": 73,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 12823,
+			"share": 39.90
+		},
+		{
+			"party": "CON",
+			"votes": 10703,
+			"share": 33.30
+		},
+		{
+			"party": "LD",
+			"votes": 6322,
+			"share": 19.70
+		},
+		{
+			"party": "GRN",
+			"votes": 1523,
+			"share": 4.70
+		},
+		{
+			"party": "OTH",
+			"votes": 409,
+			"share": 1.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 376,
+			"share": 1.20
+		}
+	]
+}

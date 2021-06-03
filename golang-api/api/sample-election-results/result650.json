@@ -1,0 +1,32 @@
+{
+	"id": 292,
+	"name": "Harlow",
+	"seqNo": 650,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16434,
+			"share": 41.40
+		},
+		{
+			"party": "CON",
+			"votes": 16204,
+			"share": 40.80
+		},
+		{
+			"party": "LD",
+			"votes": 5148,
+			"share": 13.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 994,
+			"share": 2.50
+		},
+		{
+			"party": "OTH",
+			"votes": 941,
+			"share": 2.40
+		}
+	]
+}

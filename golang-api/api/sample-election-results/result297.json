@@ -1,0 +1,52 @@
+{
+	"id": 228,
+	"name": "Edinburgh East",
+	"seqNo": 297,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 15899,
+			"share": 40.00
+		},
+		{
+			"party": "LD",
+			"votes": 9697,
+			"share": 24.40
+		},
+		{
+			"party": "SNP",
+			"votes": 6760,
+			"share": 17.00
+		},
+		{
+			"party": "CON",
+			"votes": 4093,
+			"share": 10.30
+		},
+		{
+			"party": "SGP",
+			"votes": 2266,
+			"share": 5.70
+		},
+		{
+			"party": "SSP",
+			"votes": 868,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 126,
+			"share": 0.30
+		},
+		{
+			"party": "DDT",
+			"votes": 89,
+			"share": 0.20
+		},
+		{
+			"party": "IND",
+			"votes": 37,
+			"share": 0.10
+		}
+	]
+}

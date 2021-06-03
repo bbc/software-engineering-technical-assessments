@@ -1,0 +1,32 @@
+{
+	"id": 78,
+	"name": "Bolton West",
+	"seqNo": 291,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19137,
+			"share": 45.40
+		},
+		{
+			"party": "CON",
+			"votes": 14096,
+			"share": 33.40
+		},
+		{
+			"party": "LD",
+			"votes": 7990,
+			"share": 18.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 597,
+			"share": 1.40
+		},
+		{
+			"party": "OTH",
+			"votes": 364,
+			"share": 0.90
+		}
+	]
+}

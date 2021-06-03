@@ -1,0 +1,32 @@
+{
+	"id": 334,
+	"name": "Islington North",
+	"seqNo": 212,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16118,
+			"share": 51.20
+		},
+		{
+			"party": "LD",
+			"votes": 9402,
+			"share": 29.90
+		},
+		{
+			"party": "CON",
+			"votes": 3740,
+			"share": 11.90
+		},
+		{
+			"party": "GRN",
+			"votes": 2234,
+			"share": 7.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

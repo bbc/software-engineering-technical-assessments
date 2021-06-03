@@ -1,0 +1,47 @@
+{
+	"id": 211,
+	"name": "Dundee East",
+	"seqNo": 357,
+	"partyResults": [
+		{
+			"party": "SNP",
+			"votes": 14708,
+			"share": 37.20
+		},
+		{
+			"party": "LAB",
+			"votes": 14325,
+			"share": 36.20
+		},
+		{
+			"party": "CON",
+			"votes": 5061,
+			"share": 12.80
+		},
+		{
+			"party": "LD",
+			"votes": 4498,
+			"share": 11.40
+		},
+		{
+			"party": "SSP",
+			"votes": 537,
+			"share": 1.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 292,
+			"share": 0.70
+		},
+		{
+			"party": "OTH",
+			"votes": 119,
+			"share": 0.30
+		},
+		{
+			"party": "IND",
+			"votes": 119,
+			"share": 0.30
+		}
+	]
+}

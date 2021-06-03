@@ -1,0 +1,32 @@
+{
+	"id": 519,
+	"name": "Somerton \u0026 Frome",
+	"seqNo": 403,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 23341,
+			"share": 43.80
+		},
+		{
+			"party": "CON",
+			"votes": 22746,
+			"share": 42.60
+		},
+		{
+			"party": "LAB",
+			"votes": 5775,
+			"share": 10.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1004,
+			"share": 1.90
+		},
+		{
+			"party": "OTH",
+			"votes": 484,
+			"share": 0.90
+		}
+	]
+}

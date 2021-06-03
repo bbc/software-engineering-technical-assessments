@@ -1,0 +1,32 @@
+{
+	"id": 429,
+	"name": "Northamptonshire South",
+	"seqNo": 47,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 25628,
+			"share": 51.60
+		},
+		{
+			"party": "LAB",
+			"votes": 14272,
+			"share": 28.70
+		},
+		{
+			"party": "LD",
+			"votes": 8516,
+			"share": 17.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1277,
+			"share": 2.60
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"id": 342,
+	"name": "Kilmarnock \u0026 Loudoun",
+	"seqNo": 252,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20976,
+			"share": 47.30
+		},
+		{
+			"party": "SNP",
+			"votes": 12273,
+			"share": 27.70
+		},
+		{
+			"party": "CON",
+			"votes": 5026,
+			"share": 11.30
+		},
+		{
+			"party": "LD",
+			"votes": 4945,
+			"share": 11.10
+		},
+		{
+			"party": "SSP",
+			"votes": 833,
+			"share": 1.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 330,
+			"share": 0.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

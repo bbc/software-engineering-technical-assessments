@@ -1,0 +1,32 @@
+{
+	"id": 383,
+	"name": "Maidenhead",
+	"seqNo": 217,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 25434,
+			"share": 51.80
+		},
+		{
+			"party": "LD",
+			"votes": 17784,
+			"share": 36.20
+		},
+		{
+			"party": "LAB",
+			"votes": 4476,
+			"share": 9.10
+		},
+		{
+			"party": "OTH",
+			"votes": 704,
+			"share": 1.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 692,
+			"share": 1.40
+		}
+	]
+}

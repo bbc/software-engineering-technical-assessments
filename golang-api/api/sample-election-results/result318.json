@@ -1,0 +1,37 @@
+{
+	"id": 515,
+	"name": "Slough",
+	"seqNo": 318,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18434,
+			"share": 46.20
+		},
+		{
+			"party": "CON",
+			"votes": 10510,
+			"share": 26.30
+		},
+		{
+			"party": "LD",
+			"votes": 6681,
+			"share": 16.70
+		},
+		{
+			"party": "OTH",
+			"votes": 1999,
+			"share": 5.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 1470,
+			"share": 3.70
+		},
+		{
+			"party": "GRN",
+			"votes": 813,
+			"share": 2.00
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 238,
+	"name": "Enfield Southgate",
+	"seqNo": 354,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 18134,
+			"share": 43.80
+		},
+		{
+			"party": "LAB",
+			"votes": 17007,
+			"share": 41.00
+		},
+		{
+			"party": "LD",
+			"votes": 4611,
+			"share": 11.10
+		},
+		{
+			"party": "GRN",
+			"votes": 1155,
+			"share": 2.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 526,
+			"share": 1.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

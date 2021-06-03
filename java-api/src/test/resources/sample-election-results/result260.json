@@ -1,0 +1,32 @@
+{
+	"id": 239,
+	"name": "Epping Forest",
+	"seqNo": 260,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22679,
+			"share": 52.70
+		},
+		{
+			"party": "LAB",
+			"votes": 9206,
+			"share": 21.40
+		},
+		{
+			"party": "LD",
+			"votes": 7787,
+			"share": 18.10
+		},
+		{
+			"party": "OTH",
+			"votes": 2359,
+			"share": 5.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 970,
+			"share": 2.30
+		}
+	]
+}

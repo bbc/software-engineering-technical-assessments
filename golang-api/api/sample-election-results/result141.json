@@ -1,0 +1,27 @@
+{
+	"id": 361,
+	"name": "Leigh",
+	"seqNo": 141,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 22544,
+			"share": 57.80
+		},
+		{
+			"party": "LD",
+			"votes": 7446,
+			"share": 19.10
+		},
+		{
+			"party": "CON",
+			"votes": 6393,
+			"share": 16.40
+		},
+		{
+			"party": "OTH",
+			"votes": 2604,
+			"share": 6.70
+		}
+	]
+}

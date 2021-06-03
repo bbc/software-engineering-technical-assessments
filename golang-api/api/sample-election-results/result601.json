@@ -1,0 +1,32 @@
+{
+	"id": 425,
+	"name": "Norfolk South West",
+	"seqNo": 601,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20435,
+			"share": 45.00
+		},
+		{
+			"party": "LAB",
+			"votes": 13618,
+			"share": 30.00
+		},
+		{
+			"party": "LD",
+			"votes": 8719,
+			"share": 19.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 2166,
+			"share": 4.80
+		},
+		{
+			"party": "OTH",
+			"votes": 506,
+			"share": 1.10
+		}
+	]
+}

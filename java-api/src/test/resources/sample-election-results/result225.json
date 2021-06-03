@@ -1,0 +1,37 @@
+{
+	"id": 366,
+	"name": "Leyton \u0026 Wanstead",
+	"seqNo": 225,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 15748,
+			"share": 45.80
+		},
+		{
+			"party": "LD",
+			"votes": 8495,
+			"share": 24.70
+		},
+		{
+			"party": "CON",
+			"votes": 7825,
+			"share": 22.80
+		},
+		{
+			"party": "GRN",
+			"votes": 1522,
+			"share": 4.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 610,
+			"share": 1.80
+		},
+		{
+			"party": "OTH",
+			"votes": 155,
+			"share": 0.50
+		}
+	]
+}

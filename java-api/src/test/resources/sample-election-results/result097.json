@@ -1,0 +1,27 @@
+{
+	"id": 522,
+	"name": "South Shields",
+	"seqNo": 97,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19529,
+			"share": 60.80
+		},
+		{
+			"party": "LD",
+			"votes": 6161,
+			"share": 19.20
+		},
+		{
+			"party": "CON",
+			"votes": 5667,
+			"share": 17.60
+		},
+		{
+			"party": "OTH",
+			"votes": 773,
+			"share": 2.40
+		}
+	]
+}

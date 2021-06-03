@@ -1,0 +1,32 @@
+{
+	"id": 616,
+	"name": "Westmorland \u0026 Lonsdale",
+	"seqNo": 580,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 21829,
+			"share": 46.00
+		},
+		{
+			"party": "CON",
+			"votes": 21023,
+			"share": 44.30
+		},
+		{
+			"party": "LAB",
+			"votes": 3712,
+			"share": 7.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 632,
+			"share": 1.30
+		},
+		{
+			"party": "OTH",
+			"votes": 309,
+			"share": 0.70
+		}
+	]
+}

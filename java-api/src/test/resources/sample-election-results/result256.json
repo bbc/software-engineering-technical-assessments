@@ -1,0 +1,32 @@
+{
+	"id": 109,
+	"name": "Burnley",
+	"seqNo": 256,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 14999,
+			"share": 38.50
+		},
+		{
+			"party": "OTH",
+			"votes": 10181,
+			"share": 26.10
+		},
+		{
+			"party": "LD",
+			"votes": 9221,
+			"share": 23.70
+		},
+		{
+			"party": "CON",
+			"votes": 4206,
+			"share": 10.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 376,
+			"share": 1.00
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 351,
+	"name": "Leeds Central",
+	"seqNo": 114,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20236,
+			"share": 59.50
+		},
+		{
+			"party": "LD",
+			"votes": 7320,
+			"share": 21.50
+		},
+		{
+			"party": "CON",
+			"votes": 4320,
+			"share": 12.70
+		},
+		{
+			"party": "OTH",
+			"votes": 1641,
+			"share": 4.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 491,
+			"share": 1.40
+		}
+	]
+}

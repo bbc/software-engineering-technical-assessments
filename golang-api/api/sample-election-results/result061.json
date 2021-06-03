@@ -1,0 +1,32 @@
+{
+	"id": 503,
+	"name": "Sheffield Brightside \u0026 Hillsborough",
+	"seqNo": 61,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 23126,
+			"share": 69.60
+		},
+		{
+			"party": "LD",
+			"votes": 4325,
+			"share": 13.00
+		},
+		{
+			"party": "CON",
+			"votes": 3250,
+			"share": 9.80
+		},
+		{
+			"party": "OTH",
+			"votes": 1537,
+			"share": 4.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 992,
+			"share": 3.00
+		}
+	]
+}

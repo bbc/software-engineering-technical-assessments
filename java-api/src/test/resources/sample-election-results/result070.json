@@ -1,0 +1,37 @@
+{
+	"id": 587,
+	"name": "Uxbridge \u0026 South Ruislip",
+	"seqNo": 70,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 17712,
+			"share": 44.40
+		},
+		{
+			"party": "LAB",
+			"votes": 10534,
+			"share": 26.40
+		},
+		{
+			"party": "LD",
+			"votes": 9034,
+			"share": 22.70
+		},
+		{
+			"party": "OTH",
+			"votes": 1047,
+			"share": 2.60
+		},
+		{
+			"party": "GRN",
+			"votes": 876,
+			"share": 2.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 655,
+			"share": 1.60
+		}
+	]
+}

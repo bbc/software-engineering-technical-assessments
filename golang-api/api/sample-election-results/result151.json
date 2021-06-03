@@ -1,0 +1,32 @@
+{
+	"id": 594,
+	"name": "Walsall South",
+	"seqNo": 151,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18739,
+			"share": 49.20
+		},
+		{
+			"party": "CON",
+			"votes": 10829,
+			"share": 28.40
+		},
+		{
+			"party": "LD",
+			"votes": 3738,
+			"share": 9.80
+		},
+		{
+			"party": "OTH",
+			"votes": 2922,
+			"share": 7.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1861,
+			"share": 4.90
+		}
+	]
+}

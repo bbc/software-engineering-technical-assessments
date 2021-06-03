@@ -1,0 +1,32 @@
+{
+	"id": 313,
+	"name": "Heywood \u0026 Middleton",
+	"seqNo": 126,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20059,
+			"share": 48.30
+		},
+		{
+			"party": "CON",
+			"votes": 9025,
+			"share": 21.70
+		},
+		{
+			"party": "LD",
+			"votes": 8403,
+			"share": 20.20
+		},
+		{
+			"party": "OTH",
+			"votes": 3232,
+			"share": 7.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 800,
+			"share": 1.90
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 537,
+	"name": "Stoke On Trent Central",
+	"seqNo": 236,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 15068,
+			"share": 52.40
+		},
+		{
+			"party": "LD",
+			"votes": 5351,
+			"share": 18.60
+		},
+		{
+			"party": "CON",
+			"votes": 4977,
+			"share": 17.30
+		},
+		{
+			"party": "OTH",
+			"votes": 2424,
+			"share": 8.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 930,
+			"share": 3.20
+		}
+	]
+}

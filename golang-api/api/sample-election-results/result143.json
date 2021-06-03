@@ -1,0 +1,42 @@
+{
+	"id": 407,
+	"name": "Na H-Eileanan An Iar (Western Isles)",
+	"seqNo": 143,
+	"partyResults": [
+		{
+			"party": "SNP",
+			"votes": 6213,
+			"share": 44.90
+		},
+		{
+			"party": "LAB",
+			"votes": 4772,
+			"share": 34.50
+		},
+		{
+			"party": "LD",
+			"votes": 1096,
+			"share": 7.90
+		},
+		{
+			"party": "OTH",
+			"votes": 1048,
+			"share": 7.60
+		},
+		{
+			"party": "OCV",
+			"votes": 1048,
+			"share": 7.60
+		},
+		{
+			"party": "CON",
+			"votes": 610,
+			"share": 4.40
+		},
+		{
+			"party": "SSP",
+			"votes": 97,
+			"share": 0.70
+		}
+	]
+}

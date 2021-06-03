@@ -1,0 +1,32 @@
+{
+	"id": 593,
+	"name": "Walsall North",
+	"seqNo": 302,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16008,
+			"share": 48.20
+		},
+		{
+			"party": "CON",
+			"votes": 9107,
+			"share": 27.40
+		},
+		{
+			"party": "LD",
+			"votes": 4102,
+			"share": 12.40
+		},
+		{
+			"party": "OTH",
+			"votes": 2762,
+			"share": 8.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 1215,
+			"share": 3.70
+		}
+	]
+}

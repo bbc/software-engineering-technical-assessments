@@ -1,0 +1,32 @@
+{
+	"id": 53,
+	"name": "Beverley \u0026 Holderness",
+	"seqNo": 323,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20345,
+			"share": 40.90
+		},
+		{
+			"party": "LAB",
+			"votes": 17248,
+			"share": 34.70
+		},
+		{
+			"party": "LD",
+			"votes": 9784,
+			"share": 19.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 2312,
+			"share": 4.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

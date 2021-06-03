@@ -1,0 +1,32 @@
+{
+	"id": 560,
+	"name": "Swindon North",
+	"seqNo": 314,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19311,
+			"share": 45.10
+		},
+		{
+			"party": "CON",
+			"votes": 16636,
+			"share": 38.90
+		},
+		{
+			"party": "LD",
+			"votes": 5502,
+			"share": 12.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 959,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 403,
+			"share": 0.90
+		}
+	]
+}

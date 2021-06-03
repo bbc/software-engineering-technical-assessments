@@ -1,0 +1,42 @@
+{
+	"id": 208,
+	"name": "Dumfriesshire, Clydesdale \u0026 Tweeddale",
+	"seqNo": 479,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 16141,
+			"share": 36.20
+		},
+		{
+			"party": "LAB",
+			"votes": 14403,
+			"share": 32.30
+		},
+		{
+			"party": "LD",
+			"votes": 9046,
+			"share": 20.30
+		},
+		{
+			"party": "SNP",
+			"votes": 4075,
+			"share": 9.10
+		},
+		{
+			"party": "SSP",
+			"votes": 521,
+			"share": 1.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 430,
+			"share": 1.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

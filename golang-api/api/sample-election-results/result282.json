@@ -1,0 +1,52 @@
+{
+	"id": 23,
+	"name": "Ayr, Carrick \u0026 Cumnock",
+	"seqNo": 282,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20433,
+			"share": 45.40
+		},
+		{
+			"party": "CON",
+			"votes": 10436,
+			"share": 23.20
+		},
+		{
+			"party": "LD",
+			"votes": 6341,
+			"share": 14.10
+		},
+		{
+			"party": "SNP",
+			"votes": 5932,
+			"share": 13.20
+		},
+		{
+			"party": "OTH",
+			"votes": 987,
+			"share": 2.20
+		},
+		{
+			"party": "SSCP",
+			"votes": 592,
+			"share": 1.30
+		},
+		{
+			"party": "SSP",
+			"votes": 554,
+			"share": 1.20
+		},
+		{
+			"party": "SLP",
+			"votes": 395,
+			"share": 0.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 365,
+			"share": 0.80
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 481,
+	"name": "Rother Valley",
+	"seqNo": 103,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20929,
+			"share": 51.60
+		},
+		{
+			"party": "CON",
+			"votes": 9371,
+			"share": 23.10
+		},
+		{
+			"party": "LD",
+			"votes": 6549,
+			"share": 16.10
+		},
+		{
+			"party": "OTH",
+			"votes": 2020,
+			"share": 5.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 1728,
+			"share": 4.30
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 233,
+	"name": "Edmonton",
+	"seqNo": 425,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20357,
+			"share": 55.90
+		},
+		{
+			"party": "CON",
+			"votes": 10045,
+			"share": 27.60
+		},
+		{
+			"party": "LD",
+			"votes": 4369,
+			"share": 12.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 818,
+			"share": 2.20
+		},
+		{
+			"party": "GRN",
+			"votes": 817,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

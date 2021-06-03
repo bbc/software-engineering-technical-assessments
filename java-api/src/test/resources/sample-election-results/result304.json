@@ -1,0 +1,32 @@
+{
+	"id": 477,
+	"name": "Romford",
+	"seqNo": 304,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24442,
+			"share": 57.70
+		},
+		{
+			"party": "LAB",
+			"votes": 12322,
+			"share": 29.10
+		},
+		{
+			"party": "LD",
+			"votes": 3572,
+			"share": 8.40
+		},
+		{
+			"party": "OTH",
+			"votes": 1088,
+			"share": 2.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 965,
+			"share": 2.30
+		}
+	]
+}

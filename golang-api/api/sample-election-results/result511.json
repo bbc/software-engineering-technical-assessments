@@ -1,0 +1,42 @@
+{
+	"id": 459,
+	"name": "Preseli Pembrokeshire",
+	"seqNo": 511,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 14261,
+			"share": 36.40
+		},
+		{
+			"party": "LAB",
+			"votes": 13660,
+			"share": 34.80
+		},
+		{
+			"party": "LD",
+			"votes": 5105,
+			"share": 13.00
+		},
+		{
+			"party": "PC",
+			"votes": 4895,
+			"share": 12.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 504,
+			"share": 1.30
+		},
+		{
+			"party": "GRN",
+			"votes": 499,
+			"share": 1.30
+		},
+		{
+			"party": "OTH",
+			"votes": 275,
+			"share": 0.70
+		}
+	]
+}

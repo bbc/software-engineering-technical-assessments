@@ -1,0 +1,32 @@
+{
+	"id": 646,
+	"name": "Yeovil",
+	"seqNo": 269,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 26076,
+			"share": 51.50
+		},
+		{
+			"party": "CON",
+			"votes": 17297,
+			"share": 34.10
+		},
+		{
+			"party": "LAB",
+			"votes": 5346,
+			"share": 10.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1946,
+			"share": 3.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

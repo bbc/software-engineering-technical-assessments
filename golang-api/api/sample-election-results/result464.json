@@ -1,0 +1,47 @@
+{
+	"id": 267,
+	"name": "Glasgow South",
+	"seqNo": 464,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18153,
+			"share": 47.20
+		},
+		{
+			"party": "LD",
+			"votes": 7321,
+			"share": 19.00
+		},
+		{
+			"party": "SNP",
+			"votes": 4860,
+			"share": 12.60
+		},
+		{
+			"party": "CON",
+			"votes": 4836,
+			"share": 12.60
+		},
+		{
+			"party": "SGP",
+			"votes": 1692,
+			"share": 4.40
+		},
+		{
+			"party": "SSP",
+			"votes": 1303,
+			"share": 3.40
+		},
+		{
+			"party": "SLP",
+			"votes": 266,
+			"share": 0.70
+		},
+		{
+			"party": "OTH",
+			"votes": 266,
+			"share": 0.70
+		}
+	]
+}

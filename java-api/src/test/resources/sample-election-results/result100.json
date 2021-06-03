@@ -1,0 +1,32 @@
+{
+	"id": 21,
+	"name": "Ashton Under Lyne",
+	"seqNo": 100,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20136,
+			"share": 58.50
+		},
+		{
+			"party": "CON",
+			"votes": 6937,
+			"share": 20.10
+		},
+		{
+			"party": "LD",
+			"votes": 4017,
+			"share": 11.70
+		},
+		{
+			"party": "OTH",
+			"votes": 2621,
+			"share": 7.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 721,
+			"share": 2.10
+		}
+	]
+}

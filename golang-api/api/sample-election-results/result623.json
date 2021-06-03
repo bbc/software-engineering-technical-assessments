@@ -1,0 +1,32 @@
+{
+	"id": 421,
+	"name": "Norfolk Mid",
+	"seqNo": 623,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22265,
+			"share": 46.50
+		},
+		{
+			"party": "LAB",
+			"votes": 14472,
+			"share": 30.30
+		},
+		{
+			"party": "LD",
+			"votes": 9186,
+			"share": 19.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 1914,
+			"share": 4.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

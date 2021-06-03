@@ -1,0 +1,37 @@
+{
+	"id": 65,
+	"name": "Birmingham Yardley",
+	"seqNo": 296,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 16485,
+			"share": 42.00
+		},
+		{
+			"party": "LAB",
+			"votes": 13621,
+			"share": 34.70
+		},
+		{
+			"party": "CON",
+			"votes": 4142,
+			"share": 10.60
+		},
+		{
+			"party": "OTH",
+			"votes": 4104,
+			"share": 10.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 670,
+			"share": 1.70
+		},
+		{
+			"party": "GRN",
+			"votes": 201,
+			"share": 0.50
+		}
+	]
+}
