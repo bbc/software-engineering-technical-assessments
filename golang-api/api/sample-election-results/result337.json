@@ -1,0 +1,37 @@
+{
+	"id": 99,
+	"name": "Bristol East",
+	"seqNo": 337,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19236,
+			"share": 45.50
+		},
+		{
+			"party": "CON",
+			"votes": 11901,
+			"share": 28.20
+		},
+		{
+			"party": "LD",
+			"votes": 8318,
+			"share": 19.70
+		},
+		{
+			"party": "GRN",
+			"votes": 1148,
+			"share": 2.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1131,
+			"share": 2.70
+		},
+		{
+			"party": "OTH",
+			"votes": 532,
+			"share": 1.30
+		}
+	]
+}

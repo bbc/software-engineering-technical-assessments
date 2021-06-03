@@ -1,0 +1,32 @@
+{
+	"id": 628,
+	"name": "Woking",
+	"seqNo": 418,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21838,
+			"share": 47.40
+		},
+		{
+			"party": "LD",
+			"votes": 15226,
+			"share": 33.10
+		},
+		{
+			"party": "LAB",
+			"votes": 7507,
+			"share": 16.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 1324,
+			"share": 2.90
+		},
+		{
+			"party": "OTH",
+			"votes": 150,
+			"share": 0.30
+		}
+	]
+}

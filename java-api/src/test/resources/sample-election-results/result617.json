@@ -1,0 +1,32 @@
+{
+	"id": 162,
+	"name": "Cornwall North",
+	"seqNo": 617,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 17812,
+			"share": 42.30
+		},
+		{
+			"party": "CON",
+			"votes": 14920,
+			"share": 35.40
+		},
+		{
+			"party": "LAB",
+			"votes": 5272,
+			"share": 12.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 2419,
+			"share": 5.70
+		},
+		{
+			"party": "OTH",
+			"votes": 1675,
+			"share": 4.00
+		}
+	]
+}

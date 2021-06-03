@@ -1,0 +1,32 @@
+{
+	"id": 100,
+	"name": "Bristol North West",
+	"seqNo": 504,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18649,
+			"share": 38.20
+		},
+		{
+			"party": "CON",
+			"votes": 15868,
+			"share": 32.50
+		},
+		{
+			"party": "LD",
+			"votes": 12138,
+			"share": 24.80
+		},
+		{
+			"party": "OTH",
+			"votes": 1393,
+			"share": 2.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 803,
+			"share": 1.60
+		}
+	]
+}

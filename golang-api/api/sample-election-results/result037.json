@@ -1,0 +1,32 @@
+{
+	"id": 360,
+	"name": "Leicestershire South",
+	"seqNo": 37,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22183,
+			"share": 45.40
+		},
+		{
+			"party": "LAB",
+			"votes": 14479,
+			"share": 29.60
+		},
+		{
+			"party": "LD",
+			"votes": 9294,
+			"share": 19.00
+		},
+		{
+			"party": "OTH",
+			"votes": 1704,
+			"share": 3.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1188,
+			"share": 2.40
+		}
+	]
+}

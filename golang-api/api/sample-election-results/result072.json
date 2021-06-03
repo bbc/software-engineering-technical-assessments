@@ -1,0 +1,32 @@
+{
+	"id": 611,
+	"name": "Wentworth \u0026 Dearne",
+	"seqNo": 72,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 23810,
+			"share": 61.80
+		},
+		{
+			"party": "LD",
+			"votes": 6259,
+			"share": 16.20
+		},
+		{
+			"party": "CON",
+			"votes": 5301,
+			"share": 13.80
+		},
+		{
+			"party": "OTH",
+			"votes": 1798,
+			"share": 4.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1365,
+			"share": 3.50
+		}
+	]
+}

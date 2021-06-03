@@ -1,0 +1,27 @@
+{
+	"id": 123,
+	"name": "Cambridgeshire South East",
+	"seqNo": 605,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24422,
+			"share": 47.10
+		},
+		{
+			"party": "LD",
+			"votes": 16312,
+			"share": 31.50
+		},
+		{
+			"party": "LAB",
+			"votes": 11065,
+			"share": 21.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 344,
+	"name": "Kingswood",
+	"seqNo": 165,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20498,
+			"share": 45.90
+		},
+		{
+			"party": "CON",
+			"votes": 14353,
+			"share": 32.10
+		},
+		{
+			"party": "LD",
+			"votes": 8054,
+			"share": 18.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 1073,
+			"share": 2.40
+		},
+		{
+			"party": "OTH",
+			"votes": 669,
+			"share": 1.50
+		}
+	]
+}

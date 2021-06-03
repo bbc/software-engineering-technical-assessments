@@ -1,0 +1,37 @@
+{
+	"id": 67,
+	"name": "Blackburn",
+	"seqNo": 132,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17439,
+			"share": 42.10
+		},
+		{
+			"party": "CON",
+			"votes": 9391,
+			"share": 22.70
+		},
+		{
+			"party": "LD",
+			"votes": 8518,
+			"share": 20.60
+		},
+		{
+			"party": "OTH",
+			"votes": 4321,
+			"share": 10.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 944,
+			"share": 2.30
+		},
+		{
+			"party": "GRN",
+			"votes": 775,
+			"share": 1.90
+		}
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"id": 48,
+	"name": "Belfast West",
+	"seqNo": 632,
+	"partyResults": [
+		{
+			"party": "SF",
+			"votes": 24348,
+			"share": 70.50
+		},
+		{
+			"party": "SDLP",
+			"votes": 5033,
+			"share": 14.60
+		},
+		{
+			"party": "DUP",
+			"votes": 3652,
+			"share": 10.60
+		},
+		{
+			"party": "UUP",
+			"votes": 779,
+			"share": 2.30
+		},
+		{
+			"party": "WP",
+			"votes": 432,
+			"share": 1.30
+		},
+		{
+			"party": "VFY",
+			"votes": 154,
+			"share": 0.40
+		},
+		{
+			"party": "IND",
+			"votes": 147,
+			"share": 0.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"id": 603,
+	"name": "Washington \u0026 Sunderland West",
+	"seqNo": 71,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 22327,
+			"share": 68.80
+		},
+		{
+			"party": "LD",
+			"votes": 5267,
+			"share": 16.20
+		},
+		{
+			"party": "CON",
+			"votes": 4864,
+			"share": 15.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

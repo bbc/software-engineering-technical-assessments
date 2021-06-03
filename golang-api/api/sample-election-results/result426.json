@@ -1,0 +1,37 @@
+{
+	"id": 225,
+	"name": "Eastbourne",
+	"seqNo": 426,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20594,
+			"share": 43.10
+		},
+		{
+			"party": "LD",
+			"votes": 19922,
+			"share": 41.70
+		},
+		{
+			"party": "LAB",
+			"votes": 5142,
+			"share": 10.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1221,
+			"share": 2.60
+		},
+		{
+			"party": "GRN",
+			"votes": 943,
+			"share": 2.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

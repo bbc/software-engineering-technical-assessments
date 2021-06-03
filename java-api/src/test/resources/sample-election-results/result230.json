@@ -1,0 +1,32 @@
+{
+	"id": 144,
+	"name": "Chesterfield",
+	"seqNo": 230,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 20190,
+			"share": 47.00
+		},
+		{
+			"party": "LAB",
+			"votes": 17457,
+			"share": 40.60
+		},
+		{
+			"party": "CON",
+			"votes": 3554,
+			"share": 8.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 977,
+			"share": 2.30
+		},
+		{
+			"party": "OTH",
+			"votes": 814,
+			"share": 1.90
+		}
+	]
+}

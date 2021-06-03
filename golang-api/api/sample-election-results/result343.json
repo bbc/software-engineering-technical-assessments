@@ -1,0 +1,32 @@
+{
+	"id": 82,
+	"name": "Bournemouth East",
+	"seqNo": 343,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 18949,
+			"share": 45.30
+		},
+		{
+			"party": "LD",
+			"votes": 13075,
+			"share": 31.30
+		},
+		{
+			"party": "LAB",
+			"votes": 7761,
+			"share": 18.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 2050,
+			"share": 4.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 482,
+	"name": "Rotherham",
+	"seqNo": 82,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19371,
+			"share": 57.70
+		},
+		{
+			"party": "LD",
+			"votes": 5506,
+			"share": 16.40
+		},
+		{
+			"party": "CON",
+			"votes": 4464,
+			"share": 13.30
+		},
+		{
+			"party": "OTH",
+			"votes": 1986,
+			"share": 5.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1318,
+			"share": 3.90
+		},
+		{
+			"party": "GRN",
+			"votes": 905,
+			"share": 2.70
+		}
+	]
+}

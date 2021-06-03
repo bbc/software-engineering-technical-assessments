@@ -1,0 +1,32 @@
+{
+	"id": 384,
+	"name": "Maidstone \u0026 The Weald",
+	"seqNo": 385,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23088,
+			"share": 51.80
+		},
+		{
+			"party": "LD",
+			"votes": 10166,
+			"share": 22.80
+		},
+		{
+			"party": "LAB",
+			"votes": 9983,
+			"share": 22.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1343,
+			"share": 3.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

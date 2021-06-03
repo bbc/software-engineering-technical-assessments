@@ -1,0 +1,37 @@
+{
+	"id": 127,
+	"name": "Cardiff North",
+	"seqNo": 396,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17707,
+			"share": 39.00
+		},
+		{
+			"party": "CON",
+			"votes": 16561,
+			"share": 36.50
+		},
+		{
+			"party": "LD",
+			"votes": 8483,
+			"share": 18.70
+		},
+		{
+			"party": "PC",
+			"votes": 1936,
+			"share": 4.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 534,
+			"share": 1.20
+		},
+		{
+			"party": "OTH",
+			"votes": 139,
+			"share": 0.30
+		}
+	]
+}

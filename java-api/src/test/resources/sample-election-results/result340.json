@@ -1,0 +1,37 @@
+{
+	"id": 300,
+	"name": "Hayes \u0026 Harlington",
+	"seqNo": 340,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20844,
+			"share": 56.40
+		},
+		{
+			"party": "CON",
+			"votes": 10250,
+			"share": 27.70
+		},
+		{
+			"party": "LD",
+			"votes": 3637,
+			"share": 9.80
+		},
+		{
+			"party": "OTH",
+			"votes": 1050,
+			"share": 2.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 623,
+			"share": 1.70
+		},
+		{
+			"party": "GRN",
+			"votes": 535,
+			"share": 1.40
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 645,
+	"name": "Wythenshawe \u0026 Sale East",
+	"seqNo": 135,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18878,
+			"share": 52.20
+		},
+		{
+			"party": "CON",
+			"votes": 8051,
+			"share": 22.30
+		},
+		{
+			"party": "LD",
+			"votes": 7766,
+			"share": 21.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1120,
+			"share": 3.10
+		},
+		{
+			"party": "OTH",
+			"votes": 369,
+			"share": 1.00
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"id": 75,
+	"name": "Bolsover",
+	"seqNo": 469,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 26331,
+			"share": 65.20
+		},
+		{
+			"party": "LD",
+			"votes": 7071,
+			"share": 17.50
+		},
+		{
+			"party": "CON",
+			"votes": 6993,
+			"share": 17.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 198,
+	"name": "Dorset North",
+	"seqNo": 577,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22721,
+			"share": 46.40
+		},
+		{
+			"party": "LD",
+			"votes": 18521,
+			"share": 37.80
+		},
+		{
+			"party": "LAB",
+			"votes": 4709,
+			"share": 9.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1888,
+			"share": 3.90
+		},
+		{
+			"party": "GRN",
+			"votes": 1117,
+			"share": 2.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

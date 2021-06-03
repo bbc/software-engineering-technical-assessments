@@ -1,0 +1,32 @@
+{
+	"id": 68,
+	"name": "Blackley \u0026 Broughton",
+	"seqNo": 5,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18825,
+			"share": 62.50
+		},
+		{
+			"party": "LD",
+			"votes": 5765,
+			"share": 19.10
+		},
+		{
+			"party": "CON",
+			"votes": 3927,
+			"share": 13.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 1607,
+			"share": 5.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

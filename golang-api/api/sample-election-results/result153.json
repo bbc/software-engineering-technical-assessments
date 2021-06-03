@@ -1,0 +1,27 @@
+{
+	"id": 352,
+	"name": "Leeds East",
+	"seqNo": 153,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21423,
+			"share": 59.80
+		},
+		{
+			"party": "CON",
+			"votes": 7734,
+			"share": 21.60
+		},
+		{
+			"party": "LD",
+			"votes": 6172,
+			"share": 17.20
+		},
+		{
+			"party": "OTH",
+			"votes": 500,
+			"share": 1.40
+		}
+	]
+}

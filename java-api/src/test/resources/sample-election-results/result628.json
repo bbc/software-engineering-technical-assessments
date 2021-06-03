@@ -1,0 +1,37 @@
+{
+	"id": 17,
+	"name": "Argyll \u0026 Bute",
+	"seqNo": 628,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 15786,
+			"share": 36.50
+		},
+		{
+			"party": "CON",
+			"votes": 10150,
+			"share": 23.50
+		},
+		{
+			"party": "LAB",
+			"votes": 9696,
+			"share": 22.40
+		},
+		{
+			"party": "SNP",
+			"votes": 6716,
+			"share": 15.50
+		},
+		{
+			"party": "SSP",
+			"votes": 881,
+			"share": 2.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

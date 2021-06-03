@@ -1,0 +1,42 @@
+{
+	"id": 115,
+	"name": "Caithness, Sutherland \u0026 Easter Ross",
+	"seqNo": 374,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 13957,
+			"share": 50.50
+		},
+		{
+			"party": "LAB",
+			"votes": 5789,
+			"share": 20.90
+		},
+		{
+			"party": "SNP",
+			"votes": 3686,
+			"share": 13.30
+		},
+		{
+			"party": "CON",
+			"votes": 2835,
+			"share": 10.20
+		},
+		{
+			"party": "OTH",
+			"votes": 848,
+			"share": 3.10
+		},
+		{
+			"party": "IND",
+			"votes": 848,
+			"share": 3.10
+		},
+		{
+			"party": "SSP",
+			"votes": 548,
+			"share": 2.00
+		}
+	]
+}

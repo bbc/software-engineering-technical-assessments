@@ -1,0 +1,32 @@
+{
+	"id": 536,
+	"name": "Stockton South",
+	"seqNo": 619,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20692,
+			"share": 47.70
+		},
+		{
+			"party": "CON",
+			"votes": 14858,
+			"share": 34.20
+		},
+		{
+			"party": "LD",
+			"votes": 6979,
+			"share": 16.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 894,
+			"share": 2.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

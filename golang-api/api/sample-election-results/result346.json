@@ -1,0 +1,27 @@
+{
+	"id": 390,
+	"name": "Mansfield",
+	"seqNo": 346,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21988,
+			"share": 50.10
+		},
+		{
+			"party": "CON",
+			"votes": 8212,
+			"share": 18.70
+		},
+		{
+			"party": "OTH",
+			"votes": 7525,
+			"share": 17.10
+		},
+		{
+			"party": "LD",
+			"votes": 6157,
+			"share": 14.00
+		}
+	]
+}

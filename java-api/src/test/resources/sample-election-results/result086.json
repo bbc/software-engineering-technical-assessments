@@ -1,0 +1,37 @@
+{
+	"id": 462,
+	"name": "Putney",
+	"seqNo": 86,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 15193,
+			"share": 42.30
+		},
+		{
+			"party": "LAB",
+			"votes": 13470,
+			"share": 37.50
+		},
+		{
+			"party": "LD",
+			"votes": 5861,
+			"share": 16.30
+		},
+		{
+			"party": "GRN",
+			"votes": 972,
+			"share": 2.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 380,
+			"share": 1.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

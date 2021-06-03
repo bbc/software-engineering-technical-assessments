@@ -1,0 +1,27 @@
+{
+	"id": 582,
+	"name": "Tynemouth",
+	"seqNo": 382,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 22752,
+			"share": 48.30
+		},
+		{
+			"party": "CON",
+			"votes": 17262,
+			"share": 36.60
+		},
+		{
+			"party": "LD",
+			"votes": 7109,
+			"share": 15.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

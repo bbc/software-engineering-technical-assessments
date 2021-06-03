@@ -1,0 +1,32 @@
+{
+	"id": 234,
+	"name": "Ellesmere Port \u0026 Neston",
+	"seqNo": 386,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20449,
+			"share": 48.70
+		},
+		{
+			"party": "CON",
+			"votes": 13736,
+			"share": 32.70
+		},
+		{
+			"party": "LD",
+			"votes": 6600,
+			"share": 15.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1201,
+			"share": 2.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

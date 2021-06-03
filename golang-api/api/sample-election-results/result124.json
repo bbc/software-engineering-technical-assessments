@@ -1,0 +1,32 @@
+{
+	"id": 388,
+	"name": "Manchester Gorton",
+	"seqNo": 124,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17224,
+			"share": 53.10
+		},
+		{
+			"party": "LD",
+			"votes": 10869,
+			"share": 33.50
+		},
+		{
+			"party": "CON",
+			"votes": 3194,
+			"share": 9.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 785,
+			"share": 2.40
+		},
+		{
+			"party": "OTH",
+			"votes": 340,
+			"share": 1.00
+		}
+	]
+}

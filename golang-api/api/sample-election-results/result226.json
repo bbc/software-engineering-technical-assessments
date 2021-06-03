@@ -1,0 +1,27 @@
+{
+	"id": 338,
+	"name": "Keighley",
+	"seqNo": 226,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20720,
+			"share": 44.70
+		},
+		{
+			"party": "CON",
+			"votes": 15868,
+			"share": 34.30
+		},
+		{
+			"party": "LD",
+			"votes": 5484,
+			"share": 11.80
+		},
+		{
+			"party": "OTH",
+			"votes": 4240,
+			"share": 9.20
+		}
+	]
+}

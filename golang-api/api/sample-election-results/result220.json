@@ -1,0 +1,37 @@
+{
+	"id": 271,
+	"name": "Gordon",
+	"seqNo": 220,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 20008,
+			"share": 45.00
+		},
+		{
+			"party": "LAB",
+			"votes": 8982,
+			"share": 20.20
+		},
+		{
+			"party": "CON",
+			"votes": 7842,
+			"share": 17.60
+		},
+		{
+			"party": "SNP",
+			"votes": 7098,
+			"share": 16.00
+		},
+		{
+			"party": "SSP",
+			"votes": 508,
+			"share": 1.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

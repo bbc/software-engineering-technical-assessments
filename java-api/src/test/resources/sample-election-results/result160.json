@@ -1,0 +1,42 @@
+{
+	"id": 138,
+	"name": "Cheadle",
+	"seqNo": 160,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 23671,
+			"share": 47.80
+		},
+		{
+			"party": "CON",
+			"votes": 19999,
+			"share": 40.30
+		},
+		{
+			"party": "LAB",
+			"votes": 4889,
+			"share": 9.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 584,
+			"share": 1.20
+		},
+		{
+			"party": "OTH",
+			"votes": 421,
+			"share": 0.80
+		},
+		{
+			"party": "AFC",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "VER",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"id": 50,
+	"name": "Berwick Upon Tweed",
+	"seqNo": 625,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 19147,
+			"share": 52.60
+		},
+		{
+			"party": "CON",
+			"votes": 10562,
+			"share": 29.00
+		},
+		{
+			"party": "LAB",
+			"votes": 6697,
+			"share": 18.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

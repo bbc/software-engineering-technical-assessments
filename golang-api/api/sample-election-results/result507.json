@@ -1,0 +1,27 @@
+{
+	"id": 404,
+	"name": "Morecambe \u0026 Lunesdale",
+	"seqNo": 507,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20266,
+			"share": 49.10
+		},
+		{
+			"party": "CON",
+			"votes": 15417,
+			"share": 37.30
+		},
+		{
+			"party": "LD",
+			"votes": 5627,
+			"share": 13.60
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

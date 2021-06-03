@@ -1,0 +1,37 @@
+{
+	"id": 546,
+	"name": "Stroud",
+	"seqNo": 557,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21592,
+			"share": 40.20
+		},
+		{
+			"party": "CON",
+			"votes": 20596,
+			"share": 38.30
+		},
+		{
+			"party": "LD",
+			"votes": 7499,
+			"share": 13.90
+		},
+		{
+			"party": "GRN",
+			"votes": 3056,
+			"share": 5.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1032,
+			"share": 1.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

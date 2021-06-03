@@ -1,0 +1,32 @@
+{
+	"id": 578,
+	"name": "Tottenham",
+	"seqNo": 312,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18343,
+			"share": 57.90
+		},
+		{
+			"party": "LD",
+			"votes": 5309,
+			"share": 16.80
+		},
+		{
+			"party": "CON",
+			"votes": 4278,
+			"share": 13.50
+		},
+		{
+			"party": "OTH",
+			"votes": 2277,
+			"share": 7.20
+		},
+		{
+			"party": "GRN",
+			"votes": 1457,
+			"share": 4.60
+		}
+	]
+}

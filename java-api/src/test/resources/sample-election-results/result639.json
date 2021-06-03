@@ -1,0 +1,32 @@
+{
+	"id": 249,
+	"name": "Fermanagh \u0026 South Tyrone",
+	"seqNo": 639,
+	"partyResults": [
+		{
+			"party": "SF",
+			"votes": 18638,
+			"share": 38.20
+		},
+		{
+			"party": "DUP",
+			"votes": 14056,
+			"share": 28.80
+		},
+		{
+			"party": "UUP",
+			"votes": 8869,
+			"share": 18.20
+		},
+		{
+			"party": "SDLP",
+			"votes": 7230,
+			"share": 14.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

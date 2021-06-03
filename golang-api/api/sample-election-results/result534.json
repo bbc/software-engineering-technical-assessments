@@ -1,0 +1,37 @@
+{
+	"id": 253,
+	"name": "Folkestone \u0026 Hythe",
+	"seqNo": 534,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 27587,
+			"share": 53.90
+		},
+		{
+			"party": "LD",
+			"votes": 15141,
+			"share": 29.60
+		},
+		{
+			"party": "LAB",
+			"votes": 6449,
+			"share": 12.60
+		},
+		{
+			"party": "GRN",
+			"votes": 777,
+			"share": 1.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 698,
+			"share": 1.40
+		},
+		{
+			"party": "OTH",
+			"votes": 501,
+			"share": 1.00
+		}
+	]
+}

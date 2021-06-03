@@ -1,0 +1,32 @@
+{
+	"id": 79,
+	"name": "Bootle",
+	"seqNo": 98,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 26243,
+			"share": 71.00
+		},
+		{
+			"party": "LD",
+			"votes": 6118,
+			"share": 16.60
+		},
+		{
+			"party": "CON",
+			"votes": 2719,
+			"share": 7.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1202,
+			"share": 3.30
+		},
+		{
+			"party": "OTH",
+			"votes": 655,
+			"share": 1.80
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"id": 132,
+	"name": "Carmarthen West \u0026 Pembrokeshire South",
+	"seqNo": 447,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 14090,
+			"share": 36.70
+		},
+		{
+			"party": "CON",
+			"votes": 12047,
+			"share": 31.30
+		},
+		{
+			"party": "PC",
+			"votes": 5960,
+			"share": 15.50
+		},
+		{
+			"party": "LD",
+			"votes": 5435,
+			"share": 14.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 556,
+			"share": 1.40
+		},
+		{
+			"party": "OTH",
+			"votes": 341,
+			"share": 0.90
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

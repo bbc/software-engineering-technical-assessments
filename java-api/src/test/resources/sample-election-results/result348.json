@@ -1,0 +1,32 @@
+{
+	"id": 87,
+	"name": "Bradford West",
+	"seqNo": 348,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 14524,
+			"share": 39.70
+		},
+		{
+			"party": "CON",
+			"votes": 11474,
+			"share": 31.40
+		},
+		{
+			"party": "LD",
+			"votes": 6967,
+			"share": 19.00
+		},
+		{
+			"party": "OTH",
+			"votes": 2525,
+			"share": 6.90
+		},
+		{
+			"party": "GRN",
+			"votes": 1093,
+			"share": 3.00
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"id": 157,
+	"name": "Colchester",
+	"seqNo": 491,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 19517,
+			"share": 47.70
+		},
+		{
+			"party": "CON",
+			"votes": 13129,
+			"share": 32.10
+		},
+		{
+			"party": "LAB",
+			"votes": 8291,
+			"share": 20.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 66,
+	"name": "Bishop Auckland",
+	"seqNo": 531,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19065,
+			"share": 50.00
+		},
+		{
+			"party": "LD",
+			"votes": 9018,
+			"share": 23.70
+		},
+		{
+			"party": "CON",
+			"votes": 8736,
+			"share": 22.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1309,
+			"share": 3.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

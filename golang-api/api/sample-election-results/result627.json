@@ -1,0 +1,37 @@
+{
+	"id": 494,
+	"name": "St. Ives",
+	"seqNo": 627,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 22651,
+			"share": 51.80
+		},
+		{
+			"party": "CON",
+			"votes": 11940,
+			"share": 27.30
+		},
+		{
+			"party": "LAB",
+			"votes": 5473,
+			"share": 12.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1889,
+			"share": 4.30
+		},
+		{
+			"party": "GRN",
+			"votes": 1738,
+			"share": 4.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

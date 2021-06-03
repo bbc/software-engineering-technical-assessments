@@ -1,0 +1,37 @@
+{
+	"id": 568,
+	"name": "Thanet South",
+	"seqNo": 559,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 19003,
+			"share": 41.20
+		},
+		{
+			"party": "LAB",
+			"votes": 18193,
+			"share": 39.50
+		},
+		{
+			"party": "LD",
+			"votes": 5631,
+			"share": 12.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 2205,
+			"share": 4.80
+		},
+		{
+			"party": "GRN",
+			"votes": 888,
+			"share": 1.90
+		},
+		{
+			"party": "OTH",
+			"votes": 188,
+			"share": 0.40
+		}
+	]
+}

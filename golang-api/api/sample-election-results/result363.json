@@ -1,0 +1,62 @@
+{
+	"id": 262,
+	"name": "Glasgow Central",
+	"seqNo": 363,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 13518,
+			"share": 48.20
+		},
+		{
+			"party": "LD",
+			"votes": 4987,
+			"share": 17.80
+		},
+		{
+			"party": "SNP",
+			"votes": 4148,
+			"share": 14.80
+		},
+		{
+			"party": "CON",
+			"votes": 1757,
+			"share": 6.30
+		},
+		{
+			"party": "SGP",
+			"votes": 1372,
+			"share": 4.90
+		},
+		{
+			"party": "OTH",
+			"votes": 1145,
+			"share": 4.10
+		},
+		{
+			"party": "SSP",
+			"votes": 1110,
+			"share": 4.00
+		},
+		{
+			"party": "BNP",
+			"votes": 671,
+			"share": 2.40
+		},
+		{
+			"party": "SLP",
+			"votes": 255,
+			"share": 0.90
+		},
+		{
+			"party": "OCV",
+			"votes": 139,
+			"share": 0.50
+		},
+		{
+			"party": "CPB",
+			"votes": 80,
+			"share": 0.30
+		}
+	]
+}

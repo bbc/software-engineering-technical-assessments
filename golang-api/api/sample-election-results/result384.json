@@ -1,0 +1,37 @@
+{
+	"id": 335,
+	"name": "Islington South \u0026 Finsbury",
+	"seqNo": 384,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 12345,
+			"share": 39.90
+		},
+		{
+			"party": "LD",
+			"votes": 11861,
+			"share": 38.30
+		},
+		{
+			"party": "CON",
+			"votes": 4594,
+			"share": 14.80
+		},
+		{
+			"party": "GRN",
+			"votes": 1471,
+			"share": 4.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 470,
+			"share": 1.50
+		},
+		{
+			"party": "OTH",
+			"votes": 220,
+			"share": 0.70
+		}
+	]
+}

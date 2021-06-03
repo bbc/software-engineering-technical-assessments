@@ -1,0 +1,32 @@
+{
+	"id": 358,
+	"name": "Leicester West",
+	"seqNo": 214,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16420,
+			"share": 50.80
+		},
+		{
+			"party": "CON",
+			"votes": 7881,
+			"share": 24.40
+		},
+		{
+			"party": "LD",
+			"votes": 5906,
+			"share": 18.30
+		},
+		{
+			"party": "GRN",
+			"votes": 1561,
+			"share": 4.80
+		},
+		{
+			"party": "OTH",
+			"votes": 552,
+			"share": 1.70
+		}
+	]
+}

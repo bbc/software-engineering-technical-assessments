@@ -1,0 +1,32 @@
+{
+	"id": 218,
+	"name": "Ealing Central \u0026 Acton",
+	"seqNo": 20,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 12944,
+			"share": 33.40
+		},
+		{
+			"party": "CON",
+			"votes": 12105,
+			"share": 31.20
+		},
+		{
+			"party": "LD",
+			"votes": 11883,
+			"share": 30.60
+		},
+		{
+			"party": "GRN",
+			"votes": 1869,
+			"share": 4.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

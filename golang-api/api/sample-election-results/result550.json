@@ -1,0 +1,32 @@
+{
+	"id": 145,
+	"name": "Chichester",
+	"seqNo": 550,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24693,
+			"share": 48.00
+		},
+		{
+			"party": "LD",
+			"votes": 14236,
+			"share": 27.70
+		},
+		{
+			"party": "LAB",
+			"votes": 9553,
+			"share": 18.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 2973,
+			"share": 5.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

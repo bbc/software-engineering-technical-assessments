@@ -1,0 +1,32 @@
+{
+	"id": 508,
+	"name": "Sherwood",
+	"seqNo": 538,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21327,
+			"share": 49.40
+		},
+		{
+			"party": "CON",
+			"votes": 14458,
+			"share": 33.50
+		},
+		{
+			"party": "LD",
+			"votes": 5806,
+			"share": 13.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1601,
+			"share": 3.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

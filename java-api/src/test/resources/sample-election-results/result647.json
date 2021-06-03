@@ -1,0 +1,42 @@
+{
+	"id": 255,
+	"name": "Foyle",
+	"seqNo": 647,
+	"partyResults": [
+		{
+			"party": "SDLP",
+			"votes": 21119,
+			"share": 46.30
+		},
+		{
+			"party": "SF",
+			"votes": 15162,
+			"share": 33.20
+		},
+		{
+			"party": "DUP",
+			"votes": 6557,
+			"share": 14.40
+		},
+		{
+			"party": "SEA",
+			"votes": 1649,
+			"share": 3.60
+		},
+		{
+			"party": "UUP",
+			"votes": 1091,
+			"share": 2.40
+		},
+		{
+			"party": "VFY",
+			"votes": 31,
+			"share": 0.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

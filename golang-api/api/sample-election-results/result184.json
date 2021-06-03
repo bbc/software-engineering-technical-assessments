@@ -1,0 +1,32 @@
+{
+	"id": 447,
+	"name": "Pendle",
+	"seqNo": 184,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 15250,
+			"share": 37.10
+		},
+		{
+			"party": "CON",
+			"votes": 13070,
+			"share": 31.80
+		},
+		{
+			"party": "LD",
+			"votes": 9528,
+			"share": 23.20
+		},
+		{
+			"party": "OTH",
+			"votes": 2547,
+			"share": 6.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 737,
+			"share": 1.80
+		}
+	]
+}

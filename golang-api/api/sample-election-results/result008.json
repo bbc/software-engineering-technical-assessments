@@ -1,0 +1,37 @@
+{
+	"id": 95,
+	"name": "Bridgwater \u0026 West Somerset",
+	"seqNo": 8,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23140,
+			"share": 45.40
+		},
+		{
+			"party": "LAB",
+			"votes": 13059,
+			"share": 25.60
+		},
+		{
+			"party": "LD",
+			"votes": 11545,
+			"share": 22.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1853,
+			"share": 3.60
+		},
+		{
+			"party": "GRN",
+			"votes": 1391,
+			"share": 2.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

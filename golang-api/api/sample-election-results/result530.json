@@ -1,0 +1,32 @@
+{
+	"id": 490,
+	"name": "St. Albans",
+	"seqNo": 530,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 16921,
+			"share": 37.30
+		},
+		{
+			"party": "LAB",
+			"votes": 15587,
+			"share": 34.30
+		},
+		{
+			"party": "LD",
+			"votes": 11547,
+			"share": 25.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 706,
+			"share": 1.60
+		},
+		{
+			"party": "OTH",
+			"votes": 649,
+			"share": 1.40
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 130,
+	"name": "Carlisle",
+	"seqNo": 199,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17701,
+			"share": 46.80
+		},
+		{
+			"party": "CON",
+			"votes": 12616,
+			"share": 33.40
+		},
+		{
+			"party": "LD",
+			"votes": 6257,
+			"share": 16.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 874,
+			"share": 2.30
+		},
+		{
+			"party": "OTH",
+			"votes": 343,
+			"share": 0.90
+		}
+	]
+}

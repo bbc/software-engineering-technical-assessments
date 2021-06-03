@@ -1,0 +1,32 @@
+{
+	"id": 562,
+	"name": "Tamworth",
+	"seqNo": 193,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18801,
+			"share": 43.00
+		},
+		{
+			"party": "CON",
+			"votes": 16232,
+			"share": 37.10
+		},
+		{
+			"party": "LD",
+			"votes": 6175,
+			"share": 14.10
+		},
+		{
+			"party": "OTH",
+			"votes": 1320,
+			"share": 3.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 1212,
+			"share": 2.80
+		}
+	]
+}

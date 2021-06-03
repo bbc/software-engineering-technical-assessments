@@ -1,0 +1,32 @@
+{
+	"id": 58,
+	"name": "Birmingham Erdington",
+	"seqNo": 481,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17037,
+			"share": 52.90
+		},
+		{
+			"party": "CON",
+			"votes": 7360,
+			"share": 22.90
+		},
+		{
+			"party": "LD",
+			"votes": 5089,
+			"share": 15.80
+		},
+		{
+			"party": "OTH",
+			"votes": 1928,
+			"share": 6.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 766,
+			"share": 2.40
+		}
+	]
+}

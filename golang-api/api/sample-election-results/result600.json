@@ -1,0 +1,32 @@
+{
+	"id": 567,
+	"name": "Thanet North",
+	"seqNo": 600,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 19126,
+			"share": 47.90
+		},
+		{
+			"party": "LAB",
+			"votes": 13008,
+			"share": 32.60
+		},
+		{
+			"party": "LD",
+			"votes": 6205,
+			"share": 15.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1566,
+			"share": 3.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

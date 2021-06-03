@@ -1,0 +1,32 @@
+{
+	"id": 573,
+	"name": "Tonbridge \u0026 Malling",
+	"seqNo": 434,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24357,
+			"share": 52.80
+		},
+		{
+			"party": "LAB",
+			"votes": 11005,
+			"share": 23.80
+		},
+		{
+			"party": "LD",
+			"votes": 8980,
+			"share": 19.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1806,
+			"share": 3.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

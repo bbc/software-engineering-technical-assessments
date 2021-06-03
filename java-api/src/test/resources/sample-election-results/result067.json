@@ -1,0 +1,32 @@
+{
+	"id": 569,
+	"name": "Thirsk \u0026 Malton",
+	"seqNo": 67,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 25702,
+			"share": 51.90
+		},
+		{
+			"party": "LAB",
+			"votes": 11585,
+			"share": 23.40
+		},
+		{
+			"party": "LD",
+			"votes": 9314,
+			"share": 18.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1522,
+			"share": 3.10
+		},
+		{
+			"party": "OTH",
+			"votes": 1417,
+			"share": 2.90
+		}
+	]
+}

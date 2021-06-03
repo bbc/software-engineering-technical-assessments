@@ -1,0 +1,32 @@
+{
+	"id": 640,
+	"name": "Wrekin, The",
+	"seqNo": 435,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 17531,
+			"share": 42.10
+		},
+		{
+			"party": "LAB",
+			"votes": 16344,
+			"share": 39.30
+		},
+		{
+			"party": "LD",
+			"votes": 6248,
+			"share": 15.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 1501,
+			"share": 3.60
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"id": 128,
+	"name": "Cardiff South \u0026 Penarth",
+	"seqNo": 218,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18402,
+			"share": 46.60
+		},
+		{
+			"party": "CON",
+			"votes": 9447,
+			"share": 23.90
+		},
+		{
+			"party": "LD",
+			"votes": 7824,
+			"share": 19.80
+		},
+		{
+			"party": "PC",
+			"votes": 2071,
+			"share": 5.20
+		},
+		{
+			"party": "GRN",
+			"votes": 729,
+			"share": 1.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 562,
+			"share": 1.40
+		},
+		{
+			"party": "OTH",
+			"votes": 452,
+			"share": 1.10
+		}
+	]
+}

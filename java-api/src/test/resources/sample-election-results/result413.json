@@ -1,0 +1,32 @@
+{
+	"id": 74,
+	"name": "Bognor Regis \u0026 Littlehampton",
+	"seqNo": 413,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 19309,
+			"share": 45.20
+		},
+		{
+			"party": "LAB",
+			"votes": 10692,
+			"share": 25.00
+		},
+		{
+			"party": "LD",
+			"votes": 9357,
+			"share": 21.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 3408,
+			"share": 8.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

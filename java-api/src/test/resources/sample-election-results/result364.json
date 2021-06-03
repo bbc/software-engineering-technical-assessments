@@ -1,0 +1,32 @@
+{
+	"id": 182,
+	"name": "Derby South",
+	"seqNo": 364,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21370,
+			"share": 53.20
+		},
+		{
+			"party": "LD",
+			"votes": 9715,
+			"share": 24.20
+		},
+		{
+			"party": "CON",
+			"votes": 7946,
+			"share": 19.80
+		},
+		{
+			"party": "OTH",
+			"votes": 608,
+			"share": 1.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 562,
+			"share": 1.40
+		}
+	]
+}

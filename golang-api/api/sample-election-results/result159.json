@@ -1,0 +1,32 @@
+{
+	"id": 412,
+	"name": "Newbury",
+	"seqNo": 159,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 26343,
+			"share": 49.00
+		},
+		{
+			"party": "LD",
+			"votes": 22891,
+			"share": 42.60
+		},
+		{
+			"party": "LAB",
+			"votes": 3191,
+			"share": 5.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 844,
+			"share": 1.60
+		},
+		{
+			"party": "OTH",
+			"votes": 495,
+			"share": 0.90
+		}
+	]
+}

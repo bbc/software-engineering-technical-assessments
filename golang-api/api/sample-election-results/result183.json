@@ -1,0 +1,42 @@
+{
+	"id": 647,
+	"name": "Ynys Mon",
+	"seqNo": 183,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 12278,
+			"share": 34.60
+		},
+		{
+			"party": "PC",
+			"votes": 11036,
+			"share": 31.10
+		},
+		{
+			"party": "OTH",
+			"votes": 5448,
+			"share": 15.40
+		},
+		{
+			"party": "CON",
+			"votes": 3915,
+			"share": 11.00
+		},
+		{
+			"party": "LD",
+			"votes": 2418,
+			"share": 6.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 367,
+			"share": 1.00
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

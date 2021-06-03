@@ -1,0 +1,32 @@
+{
+	"id": 607,
+	"name": "Weaver Vale",
+	"seqNo": 311,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17196,
+			"share": 45.70
+		},
+		{
+			"party": "CON",
+			"votes": 11919,
+			"share": 31.70
+		},
+		{
+			"party": "LD",
+			"votes": 7435,
+			"share": 19.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1072,
+			"share": 2.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

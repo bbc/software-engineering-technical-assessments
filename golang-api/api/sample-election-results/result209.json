@@ -1,0 +1,32 @@
+{
+	"id": 455,
+	"name": "Poole",
+	"seqNo": 209,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 18296,
+			"share": 43.40
+		},
+		{
+			"party": "LD",
+			"votes": 12261,
+			"share": 29.10
+		},
+		{
+			"party": "LAB",
+			"votes": 9561,
+			"share": 22.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1479,
+			"share": 3.50
+		},
+		{
+			"party": "OTH",
+			"votes": 547,
+			"share": 1.30
+		}
+	]
+}

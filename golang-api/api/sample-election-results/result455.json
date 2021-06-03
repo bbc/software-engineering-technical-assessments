@@ -1,0 +1,32 @@
+{
+	"id": 294,
+	"name": "Harrow East",
+	"seqNo": 455,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19366,
+			"share": 45.50
+		},
+		{
+			"party": "CON",
+			"votes": 16432,
+			"share": 38.60
+		},
+		{
+			"party": "LD",
+			"votes": 6043,
+			"share": 14.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 757,
+			"share": 1.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

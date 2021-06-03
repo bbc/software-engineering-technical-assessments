@@ -1,0 +1,32 @@
+{
+	"id": 599,
+	"name": "Warrington North",
+	"seqNo": 144,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21101,
+			"share": 52.90
+		},
+		{
+			"party": "CON",
+			"votes": 9719,
+			"share": 24.40
+		},
+		{
+			"party": "LD",
+			"votes": 7449,
+			"share": 18.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1057,
+			"share": 2.60
+		},
+		{
+			"party": "OTH",
+			"votes": 573,
+			"share": 1.40
+		}
+	]
+}

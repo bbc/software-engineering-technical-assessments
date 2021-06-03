@@ -1,0 +1,32 @@
+{
+	"id": 511,
+	"name": "Shropshire North",
+	"seqNo": 552,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23061,
+			"share": 49.60
+		},
+		{
+			"party": "LAB",
+			"votes": 12041,
+			"share": 25.90
+		},
+		{
+			"party": "LD",
+			"votes": 9175,
+			"share": 19.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 2233,
+			"share": 4.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

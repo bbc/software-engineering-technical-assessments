@@ -1,0 +1,32 @@
+{
+	"id": 195,
+	"name": "Doncaster Central",
+	"seqNo": 615,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19265,
+			"share": 51.00
+		},
+		{
+			"party": "LD",
+			"votes": 8940,
+			"share": 23.70
+		},
+		{
+			"party": "CON",
+			"votes": 7040,
+			"share": 18.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1290,
+			"share": 3.40
+		},
+		{
+			"party": "OTH",
+			"votes": 1239,
+			"share": 3.30
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 371,
+	"name": "Liverpool Walton",
+	"seqNo": 317,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 23070,
+			"share": 71.80
+		},
+		{
+			"party": "LD",
+			"votes": 5459,
+			"share": 17.00
+		},
+		{
+			"party": "CON",
+			"votes": 2069,
+			"share": 6.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1075,
+			"share": 3.30
+		},
+		{
+			"party": "OTH",
+			"votes": 480,
+			"share": 1.50
+		}
+	]
+}

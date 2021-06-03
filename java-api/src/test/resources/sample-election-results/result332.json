@@ -1,0 +1,37 @@
+{
+	"id": 474,
+	"name": "Rochdale",
+	"seqNo": 332,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17547,
+			"share": 40.90
+		},
+		{
+			"party": "LD",
+			"votes": 17398,
+			"share": 40.50
+		},
+		{
+			"party": "CON",
+			"votes": 4493,
+			"share": 10.50
+		},
+		{
+			"party": "OTH",
+			"votes": 2487,
+			"share": 5.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 568,
+			"share": 1.30
+		},
+		{
+			"party": "GRN",
+			"votes": 448,
+			"share": 1.00
+		}
+	]
+}

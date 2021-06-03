@@ -1,0 +1,37 @@
+{
+	"id": 531,
+	"name": "Stalybridge \u0026 Hyde",
+	"seqNo": 239,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17779,
+			"share": 49.70
+		},
+		{
+			"party": "CON",
+			"votes": 9324,
+			"share": 26.10
+		},
+		{
+			"party": "LD",
+			"votes": 5584,
+			"share": 15.60
+		},
+		{
+			"party": "OTH",
+			"votes": 1399,
+			"share": 3.90
+		},
+		{
+			"party": "GRN",
+			"votes": 1088,
+			"share": 3.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 586,
+			"share": 1.60
+		}
+	]
+}

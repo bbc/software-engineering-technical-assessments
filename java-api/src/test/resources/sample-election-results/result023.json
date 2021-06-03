@@ -1,0 +1,32 @@
+{
+	"id": 258,
+	"name": "Garston \u0026 Halewood",
+	"seqNo": 23,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 22433,
+			"share": 57.90
+		},
+		{
+			"party": "LD",
+			"votes": 11619,
+			"share": 30.00
+		},
+		{
+			"party": "CON",
+			"votes": 3818,
+			"share": 9.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 697,
+			"share": 1.80
+		},
+		{
+			"party": "OTH",
+			"votes": 163,
+			"share": 0.40
+		}
+	]
+}

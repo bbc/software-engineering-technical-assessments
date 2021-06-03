@@ -1,0 +1,32 @@
+{
+	"id": 246,
+	"name": "Fareham",
+	"seqNo": 461,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24151,
+			"share": 49.70
+		},
+		{
+			"party": "LAB",
+			"votes": 12449,
+			"share": 25.60
+		},
+		{
+			"party": "LD",
+			"votes": 10551,
+			"share": 21.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1425,
+			"share": 2.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

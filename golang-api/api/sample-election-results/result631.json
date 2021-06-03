@@ -1,0 +1,32 @@
+{
+	"id": 168,
+	"name": "Crawley",
+	"seqNo": 631,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16411,
+			"share": 39.10
+		},
+		{
+			"party": "CON",
+			"votes": 16374,
+			"share": 39.00
+		},
+		{
+			"party": "LD",
+			"votes": 6503,
+			"share": 15.50
+		},
+		{
+			"party": "OTH",
+			"votes": 1750,
+			"share": 4.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 935,
+			"share": 2.20
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 242,
+	"name": "Erith \u0026 Thamesmead",
+	"seqNo": 582,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19890,
+			"share": 52.60
+		},
+		{
+			"party": "CON",
+			"votes": 10020,
+			"share": 26.50
+		},
+		{
+			"party": "LD",
+			"votes": 4856,
+			"share": 12.80
+		},
+		{
+			"party": "OTH",
+			"votes": 1620,
+			"share": 4.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 1419,
+			"share": 3.80
+		}
+	]
+}

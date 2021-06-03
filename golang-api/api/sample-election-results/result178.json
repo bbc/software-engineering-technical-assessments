@@ -1,0 +1,27 @@
+{
+	"id": 311,
+	"name": "Hertsmere",
+	"seqNo": 178,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22665,
+			"share": 53.20
+		},
+		{
+			"party": "LAB",
+			"votes": 11572,
+			"share": 27.20
+		},
+		{
+			"party": "LD",
+			"votes": 7817,
+			"share": 18.40
+		},
+		{
+			"party": "OTH",
+			"votes": 518,
+			"share": 1.20
+		}
+	]
+}

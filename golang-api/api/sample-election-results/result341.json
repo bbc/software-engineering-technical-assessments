@@ -1,0 +1,32 @@
+{
+	"id": 70,
+	"name": "Blackpool South",
+	"seqNo": 341,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16232,
+			"share": 48.50
+		},
+		{
+			"party": "CON",
+			"votes": 10321,
+			"share": 30.90
+		},
+		{
+			"party": "LD",
+			"votes": 5054,
+			"share": 15.10
+		},
+		{
+			"party": "OTH",
+			"votes": 1113,
+			"share": 3.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 731,
+			"share": 2.20
+		}
+	]
+}

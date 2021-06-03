@@ -1,0 +1,32 @@
+{
+	"id": 472,
+	"name": "Richmond(Yorks)",
+	"seqNo": 544,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 29793,
+			"share": 59.30
+		},
+		{
+			"party": "LAB",
+			"votes": 10343,
+			"share": 20.60
+		},
+		{
+			"party": "LD",
+			"votes": 8500,
+			"share": 16.90
+		},
+		{
+			"party": "GRN",
+			"votes": 1581,
+			"share": 3.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

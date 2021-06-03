@@ -1,0 +1,27 @@
+{
+	"id": 73,
+	"name": "Blyth Valley",
+	"seqNo": 290,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19659,
+			"share": 55.00
+		},
+		{
+			"party": "LD",
+			"votes": 11132,
+			"share": 31.10
+		},
+		{
+			"party": "CON",
+			"votes": 4982,
+			"share": 13.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

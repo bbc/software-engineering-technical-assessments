@@ -1,0 +1,37 @@
+{
+	"id": 432,
+	"name": "Nottingham East",
+	"seqNo": 173,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 13651,
+			"share": 46.70
+		},
+		{
+			"party": "CON",
+			"votes": 6568,
+			"share": 22.50
+		},
+		{
+			"party": "LD",
+			"votes": 6389,
+			"share": 21.90
+		},
+		{
+			"party": "GRN",
+			"votes": 1517,
+			"share": 5.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 742,
+			"share": 2.50
+		},
+		{
+			"party": "OTH",
+			"votes": 373,
+			"share": 1.30
+		}
+	]
+}

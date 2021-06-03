@@ -1,0 +1,27 @@
+{
+	"id": 285,
+	"name": "Halton",
+	"seqNo": 92,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 23436,
+			"share": 63.10
+		},
+		{
+			"party": "CON",
+			"votes": 7376,
+			"share": 19.90
+		},
+		{
+			"party": "LD",
+			"votes": 6317,
+			"share": 17.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}
