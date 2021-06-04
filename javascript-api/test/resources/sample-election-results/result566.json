@@ -1,0 +1,37 @@
+{
+	"id": 496,
+	"name": "Salisbury",
+	"seqNo": 566,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21085,
+			"share": 46.40
+		},
+		{
+			"party": "LD",
+			"votes": 12225,
+			"share": 26.90
+		},
+		{
+			"party": "LAB",
+			"votes": 8455,
+			"share": 18.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1884,
+			"share": 4.10
+		},
+		{
+			"party": "GRN",
+			"votes": 1555,
+			"share": 3.40
+		},
+		{
+			"party": "OTH",
+			"votes": 240,
+			"share": 0.50
+		}
+	]
+}

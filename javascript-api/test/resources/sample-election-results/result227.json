@@ -1,0 +1,32 @@
+{
+	"id": 112,
+	"name": "Bury South",
+	"seqNo": 227,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21807,
+			"share": 50.90
+		},
+		{
+			"party": "CON",
+			"votes": 12028,
+			"share": 28.10
+		},
+		{
+			"party": "LD",
+			"votes": 7326,
+			"share": 17.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1097,
+			"share": 2.60
+		},
+		{
+			"party": "OTH",
+			"votes": 557,
+			"share": 1.30
+		}
+	]
+}

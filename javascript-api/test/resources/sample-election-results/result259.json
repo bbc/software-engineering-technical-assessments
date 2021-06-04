@@ -1,0 +1,37 @@
+{
+	"id": 61,
+	"name": "Birmingham Ladywood",
+	"seqNo": 259,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 15422,
+			"share": 52.60
+		},
+		{
+			"party": "LD",
+			"votes": 8618,
+			"share": 29.40
+		},
+		{
+			"party": "CON",
+			"votes": 2470,
+			"share": 8.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1621,
+			"share": 5.50
+		},
+		{
+			"party": "OTH",
+			"votes": 1081,
+			"share": 3.70
+		},
+		{
+			"party": "GRN",
+			"votes": 84,
+			"share": 0.30
+		}
+	]
+}

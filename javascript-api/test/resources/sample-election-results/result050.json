@@ -1,0 +1,32 @@
+{
+	"id": 453,
+	"name": "Plymouth Sutton \u0026 Devonport",
+	"seqNo": 50,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16370,
+			"share": 40.70
+		},
+		{
+			"party": "CON",
+			"votes": 11898,
+			"share": 29.60
+		},
+		{
+			"party": "LD",
+			"votes": 9102,
+			"share": 22.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 2645,
+			"share": 6.60
+		},
+		{
+			"party": "OTH",
+			"votes": 230,
+			"share": 0.60
+		}
+	]
+}

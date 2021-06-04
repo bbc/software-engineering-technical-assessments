@@ -1,0 +1,57 @@
+{
+	"id": 558,
+	"name": "Swansea East",
+	"seqNo": 191,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17457,
+			"share": 56.60
+		},
+		{
+			"party": "LD",
+			"votes": 6208,
+			"share": 20.10
+		},
+		{
+			"party": "CON",
+			"votes": 3103,
+			"share": 10.10
+		},
+		{
+			"party": "PC",
+			"votes": 2129,
+			"share": 6.90
+		},
+		{
+			"party": "OTH",
+			"votes": 770,
+			"share": 2.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 674,
+			"share": 2.20
+		},
+		{
+			"party": "GRN",
+			"votes": 493,
+			"share": 1.60
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

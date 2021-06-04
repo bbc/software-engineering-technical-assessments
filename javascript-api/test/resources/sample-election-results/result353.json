@@ -1,0 +1,37 @@
+{
+	"id": 122,
+	"name": "Cambridgeshire South",
+	"seqNo": 353,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24621,
+			"share": 46.50
+		},
+		{
+			"party": "LD",
+			"votes": 14987,
+			"share": 28.30
+		},
+		{
+			"party": "LAB",
+			"votes": 10429,
+			"share": 19.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1467,
+			"share": 2.80
+		},
+		{
+			"party": "GRN",
+			"votes": 1442,
+			"share": 2.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

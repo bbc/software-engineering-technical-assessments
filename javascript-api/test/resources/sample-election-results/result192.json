@@ -1,0 +1,42 @@
+{
+	"id": 4,
+	"name": "Aberdeen South",
+	"seqNo": 192,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 15272,
+			"share": 36.70
+		},
+		{
+			"party": "LD",
+			"votes": 13924,
+			"share": 33.50
+		},
+		{
+			"party": "CON",
+			"votes": 7134,
+			"share": 17.10
+		},
+		{
+			"party": "SNP",
+			"votes": 4120,
+			"share": 9.90
+		},
+		{
+			"party": "SGP",
+			"votes": 768,
+			"share": 1.80
+		},
+		{
+			"party": "SSP",
+			"votes": 403,
+			"share": 1.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

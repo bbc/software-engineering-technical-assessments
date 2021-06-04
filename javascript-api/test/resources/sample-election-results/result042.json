@@ -1,0 +1,37 @@
+{
+	"id": 397,
+	"name": "Milton Keynes North",
+	"seqNo": 42,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18767,
+			"share": 37.90
+		},
+		{
+			"party": "CON",
+			"votes": 17919,
+			"share": 36.20
+		},
+		{
+			"party": "LD",
+			"votes": 10215,
+			"share": 20.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1400,
+			"share": 2.80
+		},
+		{
+			"party": "GRN",
+			"votes": 1090,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 142,
+			"share": 0.30
+		}
+	]
+}

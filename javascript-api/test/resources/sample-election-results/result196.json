@@ -1,0 +1,37 @@
+{
+	"id": 506,
+	"name": "Sheffield Heeley",
+	"seqNo": 196,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20418,
+			"share": 54.10
+		},
+		{
+			"party": "LD",
+			"votes": 8078,
+			"share": 21.40
+		},
+		{
+			"party": "CON",
+			"votes": 5428,
+			"share": 14.40
+		},
+		{
+			"party": "OTH",
+			"votes": 1579,
+			"share": 4.20
+		},
+		{
+			"party": "GRN",
+			"votes": 1379,
+			"share": 3.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 891,
+			"share": 2.40
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 471,
+	"name": "Ribble Valley",
+	"seqNo": 339,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20693,
+			"share": 44.90
+		},
+		{
+			"party": "LAB",
+			"votes": 13740,
+			"share": 29.80
+		},
+		{
+			"party": "LD",
+			"votes": 10404,
+			"share": 22.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1229,
+			"share": 2.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

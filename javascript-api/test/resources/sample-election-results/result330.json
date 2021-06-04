@@ -1,0 +1,37 @@
+{
+	"id": 589,
+	"name": "Vale Of Glamorgan",
+	"seqNo": 330,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19068,
+			"share": 40.80
+		},
+		{
+			"party": "CON",
+			"votes": 17494,
+			"share": 37.40
+		},
+		{
+			"party": "LD",
+			"votes": 6171,
+			"share": 13.20
+		},
+		{
+			"party": "PC",
+			"votes": 2426,
+			"share": 5.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 822,
+			"share": 1.80
+		},
+		{
+			"party": "OTH",
+			"votes": 767,
+			"share": 1.60
+		}
+	]
+}

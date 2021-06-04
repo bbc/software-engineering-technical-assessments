@@ -1,0 +1,47 @@
+{
+	"id": 24,
+	"name": "Ayrshire Central",
+	"seqNo": 233,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19905,
+			"share": 46.40
+		},
+		{
+			"party": "CON",
+			"votes": 9482,
+			"share": 22.10
+		},
+		{
+			"party": "LD",
+			"votes": 6881,
+			"share": 16.10
+		},
+		{
+			"party": "SNP",
+			"votes": 4969,
+			"share": 11.60
+		},
+		{
+			"party": "SSP",
+			"votes": 820,
+			"share": 1.90
+		},
+		{
+			"party": "SLP",
+			"votes": 468,
+			"share": 1.10
+		},
+		{
+			"party": "OTH",
+			"votes": 468,
+			"share": 1.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 346,
+			"share": 0.80
+		}
+	]
+}

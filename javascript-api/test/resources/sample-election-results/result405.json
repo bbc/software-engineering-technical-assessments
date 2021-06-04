@@ -1,0 +1,62 @@
+{
+	"id": 104,
+	"name": "Bromley \u0026 Chislehurst",
+	"seqNo": 405,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 18024,
+			"share": 45.00
+		},
+		{
+			"party": "LAB",
+			"votes": 9788,
+			"share": 24.40
+		},
+		{
+			"party": "LD",
+			"votes": 9494,
+			"share": 23.70
+		},
+		{
+			"party": "GRN",
+			"votes": 1470,
+			"share": 3.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1269,
+			"share": 3.20
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		},
+		{
+			"party": "MRLP",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "ED",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "MRP",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "NF",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

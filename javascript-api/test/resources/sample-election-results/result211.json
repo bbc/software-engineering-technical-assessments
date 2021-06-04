@@ -1,0 +1,32 @@
+{
+	"id": 153,
+	"name": "Cleethorpes",
+	"seqNo": 211,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18887,
+			"share": 43.30
+		},
+		{
+			"party": "CON",
+			"votes": 16247,
+			"share": 37.30
+		},
+		{
+			"party": "LD",
+			"votes": 6437,
+			"share": 14.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 2016,
+			"share": 4.60
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

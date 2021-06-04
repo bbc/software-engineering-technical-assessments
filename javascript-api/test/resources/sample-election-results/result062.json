@@ -1,0 +1,32 @@
+{
+	"id": 507,
+	"name": "Sheffield South East",
+	"seqNo": 62,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 22023,
+			"share": 60.30
+		},
+		{
+			"party": "LD",
+			"votes": 6180,
+			"share": 16.90
+		},
+		{
+			"party": "CON",
+			"votes": 5250,
+			"share": 14.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1606,
+			"share": 4.40
+		},
+		{
+			"party": "OTH",
+			"votes": 1477,
+			"share": 4.00
+		}
+	]
+}

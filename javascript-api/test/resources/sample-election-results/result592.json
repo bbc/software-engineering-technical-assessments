@@ -1,0 +1,32 @@
+{
+	"id": 438,
+	"name": "Old Bexley \u0026 Sidcup",
+	"seqNo": 592,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21151,
+			"share": 50.00
+		},
+		{
+			"party": "LAB",
+			"votes": 11842,
+			"share": 28.00
+		},
+		{
+			"party": "LD",
+			"votes": 5862,
+			"share": 13.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1920,
+			"share": 4.50
+		},
+		{
+			"party": "OTH",
+			"votes": 1531,
+			"share": 3.60
+		}
+	]
+}

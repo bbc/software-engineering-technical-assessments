@@ -1,0 +1,32 @@
+{
+	"id": 439,
+	"name": "Oldham East \u0026 Saddleworth",
+	"seqNo": 254,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17381,
+			"share": 42.50
+		},
+		{
+			"party": "LD",
+			"votes": 13136,
+			"share": 32.10
+		},
+		{
+			"party": "CON",
+			"votes": 7256,
+			"share": 17.80
+		},
+		{
+			"party": "OTH",
+			"votes": 2247,
+			"share": 5.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 843,
+			"share": 2.10
+		}
+	]
+}

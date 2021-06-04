@@ -1,0 +1,27 @@
+{
+	"id": 149,
+	"name": "Chorley",
+	"seqNo": 412,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 22568,
+			"share": 50.80
+		},
+		{
+			"party": "CON",
+			"votes": 15283,
+			"share": 34.40
+		},
+		{
+			"party": "LD",
+			"votes": 6537,
+			"share": 14.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

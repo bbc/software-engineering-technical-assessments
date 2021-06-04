@@ -1,0 +1,32 @@
+{
+	"id": 491,
+	"name": "St. Austell \u0026 Newquay",
+	"seqNo": 57,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 21747,
+			"share": 47.30
+		},
+		{
+			"party": "CON",
+			"votes": 16024,
+			"share": 34.80
+		},
+		{
+			"party": "LAB",
+			"votes": 6335,
+			"share": 13.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1895,
+			"share": 4.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

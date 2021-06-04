@@ -1,0 +1,37 @@
+{
+	"id": 119,
+	"name": "Cambridge",
+	"seqNo": 596,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 21278,
+			"share": 44.80
+		},
+		{
+			"party": "LAB",
+			"votes": 15444,
+			"share": 32.50
+		},
+		{
+			"party": "CON",
+			"votes": 8200,
+			"share": 17.30
+		},
+		{
+			"party": "GRN",
+			"votes": 1355,
+			"share": 2.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 660,
+			"share": 1.40
+		},
+		{
+			"party": "OTH",
+			"votes": 597,
+			"share": 1.30
+		}
+	]
+}

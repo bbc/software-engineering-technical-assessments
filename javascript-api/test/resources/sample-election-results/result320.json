@@ -1,0 +1,32 @@
+{
+	"id": 83,
+	"name": "Bournemouth West",
+	"seqNo": 320,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 14476,
+			"share": 39.50
+		},
+		{
+			"party": "LD",
+			"votes": 11710,
+			"share": 32.00
+		},
+		{
+			"party": "LAB",
+			"votes": 8384,
+			"share": 22.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 2043,
+			"share": 5.60
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

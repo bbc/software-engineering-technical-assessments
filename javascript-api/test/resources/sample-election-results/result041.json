@@ -1,0 +1,62 @@
+{
+	"id": 393,
+	"name": "Merthyr Tydfil",
+	"seqNo": 41,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18129,
+			"share": 60.50
+		},
+		{
+			"party": "LD",
+			"votes": 4195,
+			"share": 14.00
+		},
+		{
+			"party": "PC",
+			"votes": 2972,
+			"share": 9.90
+		},
+		{
+			"party": "CON",
+			"votes": 2680,
+			"share": 8.90
+		},
+		{
+			"party": "OTH",
+			"votes": 1301,
+			"share": 4.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 699,
+			"share": 2.30
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

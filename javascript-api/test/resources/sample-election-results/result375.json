@@ -1,0 +1,32 @@
+{
+	"id": 650,
+	"name": "Yorkshire East",
+	"seqNo": 375,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21410,
+			"share": 45.40
+		},
+		{
+			"party": "LAB",
+			"votes": 15126,
+			"share": 32.10
+		},
+		{
+			"party": "LD",
+			"votes": 8938,
+			"share": 18.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1721,
+			"share": 3.60
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

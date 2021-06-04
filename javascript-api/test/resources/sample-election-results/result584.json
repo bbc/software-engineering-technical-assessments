@@ -1,0 +1,32 @@
+{
+	"id": 319,
+	"name": "Horsham",
+	"seqNo": 584,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24557,
+			"share": 49.30
+		},
+		{
+			"party": "LD",
+			"votes": 13777,
+			"share": 27.70
+		},
+		{
+			"party": "LAB",
+			"votes": 8316,
+			"share": 16.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 2350,
+			"share": 4.70
+		},
+		{
+			"party": "OTH",
+			"votes": 770,
+			"share": 1.50
+		}
+	]
+}

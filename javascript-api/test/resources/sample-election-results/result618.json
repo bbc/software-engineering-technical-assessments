@@ -1,0 +1,32 @@
+{
+	"id": 535,
+	"name": "Stockton North",
+	"seqNo": 618,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20800,
+			"share": 54.80
+		},
+		{
+			"party": "CON",
+			"votes": 8058,
+			"share": 21.20
+		},
+		{
+			"party": "LD",
+			"votes": 7061,
+			"share": 18.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1023,
+			"share": 2.70
+		},
+		{
+			"party": "OTH",
+			"votes": 986,
+			"share": 2.60
+		}
+	]
+}

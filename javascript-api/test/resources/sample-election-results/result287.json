@@ -1,0 +1,47 @@
+{
+	"id": 27,
+	"name": "Banff \u0026 Buchan",
+	"seqNo": 287,
+	"partyResults": [
+		{
+			"party": "SNP",
+			"votes": 19044,
+			"share": 51.20
+		},
+		{
+			"party": "CON",
+			"votes": 7207,
+			"share": 19.40
+		},
+		{
+			"party": "LD",
+			"votes": 4952,
+			"share": 13.30
+		},
+		{
+			"party": "LAB",
+			"votes": 4476,
+			"share": 12.00
+		},
+		{
+			"party": "OTH",
+			"votes": 683,
+			"share": 1.80
+		},
+		{
+			"party": "OCV",
+			"votes": 683,
+			"share": 1.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 442,
+			"share": 1.20
+		},
+		{
+			"party": "SSP",
+			"votes": 412,
+			"share": 1.10
+		}
+	]
+}

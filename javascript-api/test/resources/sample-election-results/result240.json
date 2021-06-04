@@ -1,0 +1,52 @@
+{
+	"id": 71,
+	"name": "Blaenau Gwent",
+	"seqNo": 240,
+	"partyResults": [
+		{
+			"party": "OTH",
+			"votes": 20505,
+			"share": 58.20
+		},
+		{
+			"party": "LAB",
+			"votes": 11384,
+			"share": 32.30
+		},
+		{
+			"party": "LD",
+			"votes": 1511,
+			"share": 4.30
+		},
+		{
+			"party": "PC",
+			"votes": 843,
+			"share": 2.40
+		},
+		{
+			"party": "CON",
+			"votes": 816,
+			"share": 2.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 192,
+			"share": 0.50
+		},
+		{
+			"party": "MRLP",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 486,
+	"name": "Rushcliffe",
+	"seqNo": 393,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23156,
+			"share": 48.00
+		},
+		{
+			"party": "LAB",
+			"votes": 13224,
+			"share": 27.40
+		},
+		{
+			"party": "LD",
+			"votes": 8351,
+			"share": 17.30
+		},
+		{
+			"party": "GRN",
+			"votes": 1692,
+			"share": 3.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1175,
+			"share": 2.40
+		},
+		{
+			"party": "OTH",
+			"votes": 624,
+			"share": 1.30
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 500,
+	"name": "Sefton Central",
+	"seqNo": 59,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18776,
+			"share": 45.60
+		},
+		{
+			"party": "CON",
+			"votes": 13826,
+			"share": 33.60
+		},
+		{
+			"party": "LD",
+			"votes": 7915,
+			"share": 19.20
+		},
+		{
+			"party": "OTH",
+			"votes": 356,
+			"share": 0.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 306,
+			"share": 0.70
+		}
+	]
+}

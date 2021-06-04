@@ -1,0 +1,27 @@
+{
+	"id": 610,
+	"name": "Welwyn Hatfield",
+	"seqNo": 472,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22172,
+			"share": 49.60
+		},
+		{
+			"party": "LAB",
+			"votes": 16226,
+			"share": 36.30
+		},
+		{
+			"party": "LD",
+			"votes": 6318,
+			"share": 14.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

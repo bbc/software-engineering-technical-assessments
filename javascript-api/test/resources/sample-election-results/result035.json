@@ -1,0 +1,27 @@
+{
+	"id": 346,
+	"name": "Knowsley",
+	"seqNo": 35,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 30112,
+			"share": 71.80
+		},
+		{
+			"party": "LD",
+			"votes": 5779,
+			"share": 13.80
+		},
+		{
+			"party": "CON",
+			"votes": 4709,
+			"share": 11.20
+		},
+		{
+			"party": "OTH",
+			"votes": 1336,
+			"share": 3.20
+		}
+	]
+}

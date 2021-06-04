@@ -1,0 +1,32 @@
+{
+	"id": 638,
+	"name": "Worthing East \u0026 Shoreham",
+	"seqNo": 606,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 19540,
+			"share": 43.90
+		},
+		{
+			"party": "LAB",
+			"votes": 11360,
+			"share": 25.50
+		},
+		{
+			"party": "LD",
+			"votes": 10840,
+			"share": 24.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 2108,
+			"share": 4.70
+		},
+		{
+			"party": "OTH",
+			"votes": 677,
+			"share": 1.50
+		}
+	]
+}

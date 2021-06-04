@@ -1,0 +1,32 @@
+{
+	"id": 293,
+	"name": "Harrogate \u0026 Knaresborough",
+	"seqNo": 271,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 25639,
+			"share": 52.10
+		},
+		{
+			"party": "CON",
+			"votes": 17659,
+			"share": 35.90
+		},
+		{
+			"party": "LAB",
+			"votes": 4480,
+			"share": 9.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 845,
+			"share": 1.70
+		},
+		{
+			"party": "OTH",
+			"votes": 589,
+			"share": 1.20
+		}
+	]
+}

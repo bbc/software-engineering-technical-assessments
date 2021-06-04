@@ -1,0 +1,32 @@
+{
+	"id": 516,
+	"name": "Solihull",
+	"seqNo": 526,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20058,
+			"share": 39.70
+		},
+		{
+			"party": "LD",
+			"votes": 19934,
+			"share": 39.40
+		},
+		{
+			"party": "LAB",
+			"votes": 7902,
+			"share": 15.60
+		},
+		{
+			"party": "OTH",
+			"votes": 1752,
+			"share": 3.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 937,
+			"share": 1.90
+		}
+	]
+}

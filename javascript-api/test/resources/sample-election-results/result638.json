@@ -1,0 +1,42 @@
+{
+	"id": 376,
+	"name": "Londonderry East",
+	"seqNo": 638,
+	"partyResults": [
+		{
+			"party": "DUP",
+			"votes": 15225,
+			"share": 42.90
+		},
+		{
+			"party": "UUP",
+			"votes": 7498,
+			"share": 21.10
+		},
+		{
+			"party": "SDLP",
+			"votes": 6077,
+			"share": 17.10
+		},
+		{
+			"party": "SF",
+			"votes": 5709,
+			"share": 16.10
+		},
+		{
+			"party": "AP",
+			"votes": 924,
+			"share": 2.60
+		},
+		{
+			"party": "IND",
+			"votes": 71,
+			"share": 0.20
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

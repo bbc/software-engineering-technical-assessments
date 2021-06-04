@@ -1,0 +1,37 @@
+{
+	"id": 254,
+	"name": "Forest Of Dean",
+	"seqNo": 610,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 19474,
+			"share": 40.90
+		},
+		{
+			"party": "LAB",
+			"votes": 17425,
+			"share": 36.60
+		},
+		{
+			"party": "LD",
+			"votes": 8185,
+			"share": 17.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 1140,
+			"share": 2.40
+		},
+		{
+			"party": "GRN",
+			"votes": 991,
+			"share": 2.10
+		},
+		{
+			"party": "OTH",
+			"votes": 425,
+			"share": 0.90
+		}
+	]
+}
