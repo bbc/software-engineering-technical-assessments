@@ -1,0 +1,37 @@
+{
+	"id": 248,
+	"name": "Feltham \u0026 Heston",
+	"seqNo": 581,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18978,
+			"share": 48.10
+		},
+		{
+			"party": "CON",
+			"votes": 11380,
+			"share": 28.80
+		},
+		{
+			"party": "LD",
+			"votes": 6586,
+			"share": 16.70
+		},
+		{
+			"party": "OTH",
+			"votes": 1016,
+			"share": 2.60
+		},
+		{
+			"party": "GRN",
+			"votes": 888,
+			"share": 2.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 612,
+			"share": 1.60
+		}
+	]
+}

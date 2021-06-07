@@ -1,0 +1,27 @@
+{
+	"id": 194,
+	"name": "Don Valley",
+	"seqNo": 609,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21674,
+			"share": 56.50
+		},
+		{
+			"party": "CON",
+			"votes": 10341,
+			"share": 27.00
+		},
+		{
+			"party": "LD",
+			"votes": 6330,
+			"share": 16.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"id": 19,
+	"name": "Ashfield",
+	"seqNo": 449,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20801,
+			"share": 48.70
+		},
+		{
+			"party": "CON",
+			"votes": 10431,
+			"share": 24.40
+		},
+		{
+			"party": "LD",
+			"votes": 5910,
+			"share": 13.80
+		},
+		{
+			"party": "OTH",
+			"votes": 5569,
+			"share": 13.00
+		}
+	]
+}

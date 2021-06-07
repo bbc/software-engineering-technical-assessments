@@ -1,0 +1,32 @@
+{
+	"id": 509,
+	"name": "Shipley",
+	"seqNo": 345,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 18077,
+			"share": 38.80
+		},
+		{
+			"party": "LAB",
+			"votes": 17627,
+			"share": 37.90
+		},
+		{
+			"party": "LD",
+			"votes": 7059,
+			"share": 15.20
+		},
+		{
+			"party": "OTH",
+			"votes": 2189,
+			"share": 4.70
+		},
+		{
+			"party": "GRN",
+			"votes": 1599,
+			"share": 3.40
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 37,
+	"name": "Batley \u0026 Spen",
+	"seqNo": 232,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20249,
+			"share": 45.30
+		},
+		{
+			"party": "CON",
+			"votes": 14189,
+			"share": 31.70
+		},
+		{
+			"party": "LD",
+			"votes": 6888,
+			"share": 15.40
+		},
+		{
+			"party": "OTH",
+			"votes": 2668,
+			"share": 6.00
+		},
+		{
+			"party": "GRN",
+			"votes": 750,
+			"share": 1.70
+		}
+	]
+}

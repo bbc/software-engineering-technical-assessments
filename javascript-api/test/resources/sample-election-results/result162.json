@@ -1,0 +1,32 @@
+{
+	"id": 624,
+	"name": "Wirral South",
+	"seqNo": 162,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16157,
+			"share": 42.50
+		},
+		{
+			"party": "CON",
+			"votes": 12619,
+			"share": 33.20
+		},
+		{
+			"party": "LD",
+			"votes": 8218,
+			"share": 21.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 593,
+			"share": 1.60
+		},
+		{
+			"party": "OTH",
+			"votes": 460,
+			"share": 1.20
+		}
+	]
+}

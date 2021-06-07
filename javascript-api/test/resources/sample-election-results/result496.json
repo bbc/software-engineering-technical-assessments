@@ -1,0 +1,32 @@
+{
+	"id": 227,
+	"name": "Eddisbury",
+	"seqNo": 496,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20272,
+			"share": 46.90
+		},
+		{
+			"party": "LAB",
+			"votes": 13864,
+			"share": 32.10
+		},
+		{
+			"party": "LD",
+			"votes": 7775,
+			"share": 18.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 1292,
+			"share": 3.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

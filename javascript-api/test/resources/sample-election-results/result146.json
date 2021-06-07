@@ -1,0 +1,32 @@
+{
+	"id": 451,
+	"name": "Peterborough",
+	"seqNo": 146,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 19414,
+			"share": 43.30
+		},
+		{
+			"party": "LAB",
+			"votes": 15409,
+			"share": 34.40
+		},
+		{
+			"party": "LD",
+			"votes": 7487,
+			"share": 16.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1436,
+			"share": 3.20
+		},
+		{
+			"party": "OTH",
+			"votes": 1098,
+			"share": 2.40
+		}
+	]
+}

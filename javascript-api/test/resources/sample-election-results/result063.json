@@ -1,0 +1,37 @@
+{
+	"id": 517,
+	"name": "Somerset North",
+	"seqNo": 63,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21631,
+			"share": 41.80
+		},
+		{
+			"party": "LD",
+			"votes": 15624,
+			"share": 30.20
+		},
+		{
+			"party": "LAB",
+			"votes": 11267,
+			"share": 21.80
+		},
+		{
+			"party": "GRN",
+			"votes": 1309,
+			"share": 2.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1272,
+			"share": 2.50
+		},
+		{
+			"party": "OTH",
+			"votes": 633,
+			"share": 1.20
+		}
+	]
+}

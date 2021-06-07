@@ -1,0 +1,27 @@
+{
+	"id": 214,
+	"name": "Durham, City Of",
+	"seqNo": 310,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20928,
+			"share": 47.20
+		},
+		{
+			"party": "LD",
+			"votes": 17654,
+			"share": 39.80
+		},
+		{
+			"party": "CON",
+			"votes": 4179,
+			"share": 9.40
+		},
+		{
+			"party": "OTH",
+			"votes": 1603,
+			"share": 3.60
+		}
+	]
+}

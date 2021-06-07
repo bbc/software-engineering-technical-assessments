@@ -1,0 +1,32 @@
+{
+	"id": 309,
+	"name": "Hertfordshire North East",
+	"seqNo": 603,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23149,
+			"share": 48.10
+		},
+		{
+			"party": "LAB",
+			"votes": 13639,
+			"share": 28.30
+		},
+		{
+			"party": "LD",
+			"votes": 9782,
+			"share": 20.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 1587,
+			"share": 3.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

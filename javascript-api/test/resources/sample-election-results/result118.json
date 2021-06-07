@@ -1,0 +1,47 @@
+{
+	"id": 223,
+	"name": "East Kilbride, Strathaven \u0026 Lesmahagow",
+	"seqNo": 118,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 23264,
+			"share": 48.70
+		},
+		{
+			"party": "SNP",
+			"votes": 8541,
+			"share": 17.90
+		},
+		{
+			"party": "LD",
+			"votes": 7904,
+			"share": 16.60
+		},
+		{
+			"party": "CON",
+			"votes": 4776,
+			"share": 10.00
+		},
+		{
+			"party": "OTH",
+			"votes": 1673,
+			"share": 3.50
+		},
+		{
+			"party": "SGP",
+			"votes": 1575,
+			"share": 3.30
+		},
+		{
+			"party": "IND",
+			"votes": 1513,
+			"share": 3.20
+		},
+		{
+			"party": "IND",
+			"votes": 160,
+			"share": 0.30
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 372,
+	"name": "Liverpool Wavertree",
+	"seqNo": 333,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16181,
+			"share": 49.50
+		},
+		{
+			"party": "LD",
+			"votes": 13270,
+			"share": 40.60
+		},
+		{
+			"party": "CON",
+			"votes": 2107,
+			"share": 6.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 652,
+			"share": 2.00
+		},
+		{
+			"party": "OTH",
+			"votes": 471,
+			"share": 1.40
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 469,
+	"name": "Renfrewshire East",
+	"seqNo": 109,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20815,
+			"share": 43.90
+		},
+		{
+			"party": "CON",
+			"votes": 14158,
+			"share": 29.90
+		},
+		{
+			"party": "LD",
+			"votes": 8659,
+			"share": 18.30
+		},
+		{
+			"party": "SNP",
+			"votes": 3245,
+			"share": 6.80
+		},
+		{
+			"party": "SSP",
+			"votes": 528,
+			"share": 1.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

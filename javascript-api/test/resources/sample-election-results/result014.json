@@ -1,0 +1,32 @@
+{
+	"id": 152,
+	"name": "Clacton",
+	"seqNo": 14,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 18971,
+			"share": 44.50
+		},
+		{
+			"party": "LAB",
+			"votes": 15342,
+			"share": 35.90
+		},
+		{
+			"party": "LD",
+			"votes": 5776,
+			"share": 13.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1957,
+			"share": 4.60
+		},
+		{
+			"party": "OTH",
+			"votes": 631,
+			"share": 1.50
+		}
+	]
+}

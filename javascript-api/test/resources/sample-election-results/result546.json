@@ -1,0 +1,37 @@
+{
+	"id": 80,
+	"name": "Boston \u0026 Skegness",
+	"seqNo": 546,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 19991,
+			"share": 46.30
+		},
+		{
+			"party": "LAB",
+			"votes": 13600,
+			"share": 31.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 4081,
+			"share": 9.50
+		},
+		{
+			"party": "LD",
+			"votes": 4034,
+			"share": 9.30
+		},
+		{
+			"party": "OTH",
+			"votes": 1025,
+			"share": 2.40
+		},
+		{
+			"party": "GRN",
+			"votes": 420,
+			"share": 1.00
+		}
+	]
+}

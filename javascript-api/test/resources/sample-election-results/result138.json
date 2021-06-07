@@ -1,0 +1,32 @@
+{
+	"id": 523,
+	"name": "Southampton Itchen",
+	"seqNo": 138,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19493,
+			"share": 48.30
+		},
+		{
+			"party": "CON",
+			"votes": 11014,
+			"share": 27.30
+		},
+		{
+			"party": "LD",
+			"votes": 8373,
+			"share": 20.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1495,
+			"share": 3.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

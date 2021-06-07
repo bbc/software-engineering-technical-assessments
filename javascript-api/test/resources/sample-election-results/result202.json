@@ -1,0 +1,37 @@
+{
+	"id": 450,
+	"name": "Perth \u0026 North Perthshire",
+	"seqNo": 202,
+	"partyResults": [
+		{
+			"party": "SNP",
+			"votes": 15469,
+			"share": 33.70
+		},
+		{
+			"party": "CON",
+			"votes": 13948,
+			"share": 30.40
+		},
+		{
+			"party": "LAB",
+			"votes": 8601,
+			"share": 18.70
+		},
+		{
+			"party": "LD",
+			"votes": 7403,
+			"share": 16.10
+		},
+		{
+			"party": "SSP",
+			"votes": 509,
+			"share": 1.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

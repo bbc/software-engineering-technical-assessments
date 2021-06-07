@@ -1,0 +1,47 @@
+{
+	"id": 266,
+	"name": "Glasgow North West",
+	"seqNo": 213,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16748,
+			"share": 49.20
+		},
+		{
+			"party": "LD",
+			"votes": 6655,
+			"share": 19.50
+		},
+		{
+			"party": "SNP",
+			"votes": 4676,
+			"share": 13.70
+		},
+		{
+			"party": "CON",
+			"votes": 3262,
+			"share": 9.60
+		},
+		{
+			"party": "SGP",
+			"votes": 1333,
+			"share": 3.90
+		},
+		{
+			"party": "SSP",
+			"votes": 1108,
+			"share": 3.30
+		},
+		{
+			"party": "SLP",
+			"votes": 279,
+			"share": 0.80
+		},
+		{
+			"party": "OTH",
+			"votes": 279,
+			"share": 0.80
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 396,
+	"name": "Midlothian",
+	"seqNo": 107,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17153,
+			"share": 45.50
+		},
+		{
+			"party": "LD",
+			"votes": 9888,
+			"share": 26.20
+		},
+		{
+			"party": "SNP",
+			"votes": 6400,
+			"share": 17.00
+		},
+		{
+			"party": "CON",
+			"votes": 3537,
+			"share": 9.40
+		},
+		{
+			"party": "SSP",
+			"votes": 726,
+			"share": 1.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

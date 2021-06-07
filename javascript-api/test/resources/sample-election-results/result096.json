@@ -1,0 +1,32 @@
+{
+	"id": 466,
+	"name": "Redcar",
+	"seqNo": 96,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19968,
+			"share": 51.40
+		},
+		{
+			"party": "LD",
+			"votes": 7852,
+			"share": 20.20
+		},
+		{
+			"party": "CON",
+			"votes": 6954,
+			"share": 17.90
+		},
+		{
+			"party": "OTH",
+			"votes": 3523,
+			"share": 9.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 564,
+			"share": 1.50
+		}
+	]
+}

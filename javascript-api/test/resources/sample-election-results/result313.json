@@ -1,0 +1,32 @@
+{
+	"id": 197,
+	"name": "Dorset Mid \u0026 Poole North",
+	"seqNo": 313,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 22596,
+			"share": 50.00
+		},
+		{
+			"party": "CON",
+			"votes": 16665,
+			"share": 36.90
+		},
+		{
+			"party": "LAB",
+			"votes": 4547,
+			"share": 10.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1412,
+			"share": 3.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

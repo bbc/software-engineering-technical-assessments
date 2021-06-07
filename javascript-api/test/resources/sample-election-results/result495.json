@@ -1,0 +1,37 @@
+{
+	"id": 89,
+	"name": "Brecon \u0026 Radnorshire",
+	"seqNo": 495,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 17182,
+			"share": 44.80
+		},
+		{
+			"party": "CON",
+			"votes": 13277,
+			"share": 34.60
+		},
+		{
+			"party": "LAB",
+			"votes": 5755,
+			"share": 15.00
+		},
+		{
+			"party": "PC",
+			"votes": 1404,
+			"share": 3.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 723,
+			"share": 1.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

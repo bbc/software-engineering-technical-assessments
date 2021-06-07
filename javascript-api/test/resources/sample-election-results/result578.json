@@ -1,0 +1,32 @@
+{
+	"id": 39,
+	"name": "Beaconsfield",
+	"seqNo": 578,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24934,
+			"share": 54.10
+		},
+		{
+			"party": "LD",
+			"votes": 10140,
+			"share": 22.00
+		},
+		{
+			"party": "LAB",
+			"votes": 8963,
+			"share": 19.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 2063,
+			"share": 4.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

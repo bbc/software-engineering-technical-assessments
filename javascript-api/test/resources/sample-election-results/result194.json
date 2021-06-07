@@ -1,0 +1,42 @@
+{
+	"id": 209,
+	"name": "Dunbartonshire East",
+	"seqNo": 194,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 19533,
+			"share": 41.80
+		},
+		{
+			"party": "LAB",
+			"votes": 15472,
+			"share": 33.10
+		},
+		{
+			"party": "CON",
+			"votes": 7708,
+			"share": 16.50
+		},
+		{
+			"party": "SNP",
+			"votes": 2716,
+			"share": 5.80
+		},
+		{
+			"party": "SGP",
+			"votes": 876,
+			"share": 1.90
+		},
+		{
+			"party": "SSP",
+			"votes": 419,
+			"share": 0.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

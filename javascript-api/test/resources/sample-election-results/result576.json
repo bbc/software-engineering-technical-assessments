@@ -1,0 +1,32 @@
+{
+	"id": 449,
+	"name": "Penrith \u0026 The Border",
+	"seqNo": 576,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21689,
+			"share": 51.40
+		},
+		{
+			"party": "LD",
+			"votes": 10894,
+			"share": 25.80
+		},
+		{
+			"party": "LAB",
+			"votes": 8042,
+			"share": 19.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1032,
+			"share": 2.40
+		},
+		{
+			"party": "OTH",
+			"votes": 549,
+			"share": 1.30
+		}
+	]
+}

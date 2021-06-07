@@ -1,0 +1,32 @@
+{
+	"id": 310,
+	"name": "Hertfordshire South West",
+	"seqNo": 593,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23927,
+			"share": 47.00
+		},
+		{
+			"party": "LD",
+			"votes": 15287,
+			"share": 30.00
+		},
+		{
+			"party": "LAB",
+			"votes": 10568,
+			"share": 20.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1133,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

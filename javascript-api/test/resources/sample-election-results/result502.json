@@ -1,0 +1,32 @@
+{
+	"id": 520,
+	"name": "South Holland \u0026 The Deepings",
+	"seqNo": 502,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 26549,
+			"share": 57.00
+		},
+		{
+			"party": "LAB",
+			"votes": 11422,
+			"share": 24.50
+		},
+		{
+			"party": "LD",
+			"votes": 5995,
+			"share": 12.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1867,
+			"share": 4.00
+		},
+		{
+			"party": "OTH",
+			"votes": 747,
+			"share": 1.60
+		}
+	]
+}

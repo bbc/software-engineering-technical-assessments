@@ -1,0 +1,32 @@
+{
+	"id": 377,
+	"name": "Loughborough",
+	"seqNo": 586,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19261,
+			"share": 41.20
+		},
+		{
+			"party": "CON",
+			"votes": 17445,
+			"share": 37.30
+		},
+		{
+			"party": "LD",
+			"votes": 8354,
+			"share": 17.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1112,
+			"share": 2.40
+		},
+		{
+			"party": "OTH",
+			"votes": 588,
+			"share": 1.30
+		}
+	]
+}

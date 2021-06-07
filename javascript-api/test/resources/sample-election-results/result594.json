@@ -1,0 +1,32 @@
+{
+	"id": 137,
+	"name": "Chatham \u0026 Aylesford",
+	"seqNo": 594,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17960,
+			"share": 45.10
+		},
+		{
+			"party": "CON",
+			"votes": 14671,
+			"share": 36.80
+		},
+		{
+			"party": "LD",
+			"votes": 5388,
+			"share": 13.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1178,
+			"share": 3.00
+		},
+		{
+			"party": "OTH",
+			"votes": 668,
+			"share": 1.70
+		}
+	]
+}

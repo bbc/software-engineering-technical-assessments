@@ -1,0 +1,32 @@
+{
+	"id": 147,
+	"name": "Chippenham",
+	"seqNo": 13,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 19704,
+			"share": 42.40
+		},
+		{
+			"party": "CON",
+			"votes": 17521,
+			"share": 37.70
+		},
+		{
+			"party": "LAB",
+			"votes": 7801,
+			"share": 16.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1419,
+			"share": 3.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

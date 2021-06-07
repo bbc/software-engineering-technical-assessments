@@ -1,0 +1,32 @@
+{
+	"id": 261,
+	"name": "Gillingham \u0026 Rainham",
+	"seqNo": 25,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18009,
+			"share": 40.70
+		},
+		{
+			"party": "CON",
+			"votes": 17994,
+			"share": 40.70
+		},
+		{
+			"party": "LD",
+			"votes": 6774,
+			"share": 15.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 1180,
+			"share": 2.70
+		},
+		{
+			"party": "OTH",
+			"votes": 254,
+			"share": 0.60
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 154,
+	"name": "Clwyd South",
+	"seqNo": 267,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 14172,
+			"share": 45.20
+		},
+		{
+			"party": "CON",
+			"votes": 7952,
+			"share": 25.40
+		},
+		{
+			"party": "LD",
+			"votes": 4853,
+			"share": 15.50
+		},
+		{
+			"party": "PC",
+			"votes": 2958,
+			"share": 9.40
+		},
+		{
+			"party": "OTH",
+			"votes": 803,
+			"share": 2.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 612,
+			"share": 2.00
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 484,
+	"name": "Ruislip, Northwood \u0026 Pinner",
+	"seqNo": 56,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23652,
+			"share": 54.70
+		},
+		{
+			"party": "LAB",
+			"votes": 10378,
+			"share": 24.00
+		},
+		{
+			"party": "LD",
+			"votes": 7049,
+			"share": 16.30
+		},
+		{
+			"party": "OTH",
+			"votes": 841,
+			"share": 1.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 650,
+			"share": 1.50
+		},
+		{
+			"party": "GRN",
+			"votes": 648,
+			"share": 1.50
+		}
+	]
+}

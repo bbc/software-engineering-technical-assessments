@@ -1,0 +1,32 @@
+{
+	"id": 592,
+	"name": "Wallasey",
+	"seqNo": 176,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20752,
+			"share": 54.50
+		},
+		{
+			"party": "CON",
+			"votes": 11622,
+			"share": 30.50
+		},
+		{
+			"party": "LD",
+			"votes": 4843,
+			"share": 12.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 855,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

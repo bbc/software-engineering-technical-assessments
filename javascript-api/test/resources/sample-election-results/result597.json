@@ -1,0 +1,32 @@
+{
+	"id": 540,
+	"name": "Stone",
+	"seqNo": 597,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21178,
+			"share": 48.40
+		},
+		{
+			"party": "LAB",
+			"votes": 12987,
+			"share": 29.70
+		},
+		{
+			"party": "LD",
+			"votes": 8154,
+			"share": 18.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1425,
+			"share": 3.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 64,
+	"name": "Birmingham Selly Oak",
+	"seqNo": 590,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20672,
+			"share": 46.80
+		},
+		{
+			"party": "CON",
+			"votes": 13108,
+			"share": 29.70
+		},
+		{
+			"party": "LD",
+			"votes": 7651,
+			"share": 17.30
+		},
+		{
+			"party": "GRN",
+			"votes": 1594,
+			"share": 3.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1106,
+			"share": 2.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

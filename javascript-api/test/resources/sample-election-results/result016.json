@@ -1,0 +1,32 @@
+{
+	"id": 183,
+	"name": "Derbyshire Dales",
+	"seqNo": 16,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 19684,
+			"share": 46.50
+		},
+		{
+			"party": "LAB",
+			"votes": 10874,
+			"share": 25.70
+		},
+		{
+			"party": "LD",
+			"votes": 10308,
+			"share": 24.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1049,
+			"share": 2.50
+		},
+		{
+			"party": "OTH",
+			"votes": 410,
+			"share": 1.00
+		}
+	]
+}

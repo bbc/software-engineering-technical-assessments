@@ -1,0 +1,32 @@
+{
+	"id": 631,
+	"name": "Wolverhampton South East",
+	"seqNo": 108,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20025,
+			"share": 59.50
+		},
+		{
+			"party": "CON",
+			"votes": 7716,
+			"share": 22.90
+		},
+		{
+			"party": "LD",
+			"votes": 4148,
+			"share": 12.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 1761,
+			"share": 5.20
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

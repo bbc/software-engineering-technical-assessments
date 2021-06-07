@@ -1,0 +1,32 @@
+{
+	"id": 277,
+	"name": "Great Yarmouth",
+	"seqNo": 465,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18850,
+			"share": 45.60
+		},
+		{
+			"party": "CON",
+			"votes": 15795,
+			"share": 38.20
+		},
+		{
+			"party": "LD",
+			"votes": 4585,
+			"share": 11.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1759,
+			"share": 4.30
+		},
+		{
+			"party": "OTH",
+			"votes": 389,
+			"share": 0.90
+		}
+	]
+}

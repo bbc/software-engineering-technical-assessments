@@ -1,0 +1,37 @@
+{
+	"id": 286,
+	"name": "Hammersmith",
+	"seqNo": 26,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18463,
+			"share": 42.40
+		},
+		{
+			"party": "CON",
+			"votes": 14790,
+			"share": 34.00
+		},
+		{
+			"party": "LD",
+			"votes": 8267,
+			"share": 19.00
+		},
+		{
+			"party": "GRN",
+			"votes": 1767,
+			"share": 4.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 254,
+			"share": 0.60
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

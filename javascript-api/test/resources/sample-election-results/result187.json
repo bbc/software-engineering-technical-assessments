@@ -1,0 +1,27 @@
+{
+	"id": 35,
+	"name": "Bassetlaw",
+	"seqNo": 187,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 24413,
+			"share": 53.00
+		},
+		{
+			"party": "CON",
+			"votes": 16157,
+			"share": 35.10
+		},
+		{
+			"party": "LD",
+			"votes": 5507,
+			"share": 12.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

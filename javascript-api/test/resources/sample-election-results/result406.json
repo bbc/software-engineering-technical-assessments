@@ -1,0 +1,32 @@
+{
+	"id": 636,
+	"name": "Workington",
+	"seqNo": 406,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18622,
+			"share": 52.00
+		},
+		{
+			"party": "CON",
+			"votes": 10396,
+			"share": 29.00
+		},
+		{
+			"party": "LD",
+			"votes": 5170,
+			"share": 14.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1245,
+			"share": 3.50
+		},
+		{
+			"party": "OTH",
+			"votes": 381,
+			"share": 1.10
+		}
+	]
+}

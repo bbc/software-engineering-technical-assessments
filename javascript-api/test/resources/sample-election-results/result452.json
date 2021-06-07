@@ -1,0 +1,32 @@
+{
+	"id": 532,
+	"name": "Stevenage",
+	"seqNo": 452,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17602,
+			"share": 43.10
+		},
+		{
+			"party": "CON",
+			"votes": 14314,
+			"share": 35.00
+		},
+		{
+			"party": "LD",
+			"votes": 7500,
+			"share": 18.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1272,
+			"share": 3.10
+		},
+		{
+			"party": "OTH",
+			"votes": 152,
+			"share": 0.40
+		}
+	]
+}

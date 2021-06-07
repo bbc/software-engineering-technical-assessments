@@ -1,0 +1,32 @@
+{
+	"id": 534,
+	"name": "Stockport",
+	"seqNo": 111,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18119,
+			"share": 52.30
+		},
+		{
+			"party": "CON",
+			"votes": 8137,
+			"share": 23.50
+		},
+		{
+			"party": "LD",
+			"votes": 7419,
+			"share": 21.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 955,
+			"share": 2.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"id": 230,
+	"name": "Edinburgh South",
+	"seqNo": 421,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 14183,
+			"share": 33.20
+		},
+		{
+			"party": "LD",
+			"votes": 13783,
+			"share": 32.30
+		},
+		{
+			"party": "CON",
+			"votes": 10291,
+			"share": 24.10
+		},
+		{
+			"party": "SNP",
+			"votes": 2635,
+			"share": 6.20
+		},
+		{
+			"party": "SGP",
+			"votes": 1387,
+			"share": 3.20
+		},
+		{
+			"party": "SSP",
+			"votes": 414,
+			"share": 1.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 33,
+	"name": "Basildon South \u0026 East Thurrock",
+	"seqNo": 3,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17195,
+			"share": 40.70
+		},
+		{
+			"party": "CON",
+			"votes": 16290,
+			"share": 38.50
+		},
+		{
+			"party": "LD",
+			"votes": 4469,
+			"share": 10.60
+		},
+		{
+			"party": "OTH",
+			"votes": 2565,
+			"share": 6.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1109,
+			"share": 2.60
+		},
+		{
+			"party": "GRN",
+			"votes": 662,
+			"share": 1.60
+		}
+	]
+}

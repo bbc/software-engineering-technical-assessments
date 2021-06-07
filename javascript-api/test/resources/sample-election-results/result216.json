@@ -1,0 +1,37 @@
+{
+	"id": 114,
+	"name": "Caerphilly",
+	"seqNo": 216,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20082,
+			"share": 55.40
+		},
+		{
+			"party": "PC",
+			"votes": 6565,
+			"share": 18.10
+		},
+		{
+			"party": "CON",
+			"votes": 5334,
+			"share": 14.70
+		},
+		{
+			"party": "LD",
+			"votes": 3606,
+			"share": 10.00
+		},
+		{
+			"party": "OTH",
+			"votes": 636,
+			"share": 1.80
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

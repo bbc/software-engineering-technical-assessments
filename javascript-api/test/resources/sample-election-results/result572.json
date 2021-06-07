@@ -1,0 +1,32 @@
+{
+	"id": 333,
+	"name": "Isle Of Wight",
+	"seqNo": 572,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 32717,
+			"share": 48.90
+		},
+		{
+			"party": "LD",
+			"votes": 19739,
+			"share": 29.50
+		},
+		{
+			"party": "LAB",
+			"votes": 11484,
+			"share": 17.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 2352,
+			"share": 3.50
+		},
+		{
+			"party": "OTH",
+			"votes": 551,
+			"share": 0.80
+		}
+	]
+}

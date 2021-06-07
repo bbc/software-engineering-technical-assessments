@@ -1,0 +1,32 @@
+{
+	"id": 111,
+	"name": "Bury North",
+	"seqNo": 277,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17064,
+			"share": 41.80
+		},
+		{
+			"party": "CON",
+			"votes": 15005,
+			"share": 36.80
+		},
+		{
+			"party": "LD",
+			"votes": 6156,
+			"share": 15.10
+		},
+		{
+			"party": "OTH",
+			"votes": 2115,
+			"share": 5.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 438,
+			"share": 1.10
+		}
+	]
+}

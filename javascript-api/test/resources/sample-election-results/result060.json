@@ -1,0 +1,27 @@
+{
+	"id": 501,
+	"name": "Selby \u0026 Ainsty",
+	"seqNo": 60,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22554,
+			"share": 47.20
+		},
+		{
+			"party": "LAB",
+			"votes": 20494,
+			"share": 42.80
+		},
+		{
+			"party": "LD",
+			"votes": 4785,
+			"share": 10.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

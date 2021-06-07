@@ -1,0 +1,32 @@
+{
+	"id": 222,
+	"name": "East Ham",
+	"seqNo": 241,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 22109,
+			"share": 53.60
+		},
+		{
+			"party": "RES",
+			"votes": 8460,
+			"share": 20.50
+		},
+		{
+			"party": "CON",
+			"votes": 5675,
+			"share": 13.80
+		},
+		{
+			"party": "LD",
+			"votes": 4442,
+			"share": 10.80
+		},
+		{
+			"party": "OTH",
+			"votes": 580,
+			"share": 1.40
+		}
+	]
+}

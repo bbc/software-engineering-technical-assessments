@@ -1,0 +1,27 @@
+{
+	"id": 221,
+	"name": "Easington",
+	"seqNo": 129,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 23043,
+			"share": 71.30
+		},
+		{
+			"party": "LD",
+			"votes": 4169,
+			"share": 12.90
+		},
+		{
+			"party": "CON",
+			"votes": 3472,
+			"share": 10.70
+		},
+		{
+			"party": "OTH",
+			"votes": 1638,
+			"share": 5.10
+		}
+	]
+}
