@@ -8,14 +8,17 @@ function Scoreboard() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
   const [results, setResults] = useState([]);
+  const [isElectionComplete, setIsElectionComplete] = useState(false); 
 
   async function getData() {
     try {
       setLoading(true);
       const resultData = await fetchData();
-      setResults(resultData);
+      setResults(resultData.results);
+      setIsElectionComplete(resultData.isComplete);
       setLoading(false);
     } catch (e) {
+      setLoading(false);
       setError(true);
     }
   }

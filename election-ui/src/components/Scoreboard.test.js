@@ -4,18 +4,23 @@ import dataFetcher from '../dataFetcher';
 
 jest.mock('../dataFetcher');
 
-test('renders Results', async () => {
+const mockDataFetcher = () => {
   dataFetcher.mockImplementationOnce(() => {
-    return Promise.resolve(
-      [
+    return Promise.resolve({
+      isComplete: false,
+      results: [
         {
           'party': 'Independent',
           'candidate': 'Lord Buckethead',
           'votes': '9900'
         }
       ]
-    )
+    })
   });
+}
+
+test('renders Results', async () => {
+  mockDataFetcher();
 
   render(<Scoreboard />);
   
@@ -39,6 +44,8 @@ test('renders error state', async () => {
 });
 
 test('fetches results again when refresh button clicked', async () => {
+  mockDataFetcher();
+
   render(<Scoreboard />);
 
   await waitFor(() => {
