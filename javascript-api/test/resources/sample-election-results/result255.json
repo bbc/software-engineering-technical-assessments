@@ -1,0 +1,32 @@
+{
+	"id": 81,
+	"name": "Bosworth",
+	"seqNo": 255,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21210,
+			"share": 42.60
+		},
+		{
+			"party": "LAB",
+			"votes": 15875,
+			"share": 31.90
+		},
+		{
+			"party": "LD",
+			"votes": 10750,
+			"share": 21.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1933,
+			"share": 3.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

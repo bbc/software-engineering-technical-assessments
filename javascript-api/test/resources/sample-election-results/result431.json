@@ -1,0 +1,32 @@
+{
+	"id": 105,
+	"name": "Bromsgrove",
+	"seqNo": 431,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24387,
+			"share": 51.00
+		},
+		{
+			"party": "LAB",
+			"votes": 14307,
+			"share": 29.90
+		},
+		{
+			"party": "LD",
+			"votes": 7197,
+			"share": 15.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1919,
+			"share": 4.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

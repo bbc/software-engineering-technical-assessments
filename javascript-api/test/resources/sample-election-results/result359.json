@@ -1,0 +1,37 @@
+{
+	"id": 133,
+	"name": "Carshalton \u0026 Wallington",
+	"seqNo": 359,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 16870,
+			"share": 40.40
+		},
+		{
+			"party": "CON",
+			"votes": 15645,
+			"share": 37.50
+		},
+		{
+			"party": "LAB",
+			"votes": 7234,
+			"share": 17.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 1111,
+			"share": 2.70
+		},
+		{
+			"party": "GRN",
+			"votes": 908,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

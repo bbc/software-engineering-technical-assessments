@@ -1,0 +1,32 @@
+{
+	"id": 630,
+	"name": "Wolverhampton North East",
+	"seqNo": 125,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18787,
+			"share": 54.70
+		},
+		{
+			"party": "CON",
+			"votes": 10159,
+			"share": 29.60
+		},
+		{
+			"party": "LD",
+			"votes": 3996,
+			"share": 11.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1402,
+			"share": 4.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

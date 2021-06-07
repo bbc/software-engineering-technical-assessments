@@ -1,0 +1,37 @@
+{
+	"id": 305,
+	"name": "Henley",
+	"seqNo": 571,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 26208,
+			"share": 53.20
+		},
+		{
+			"party": "LD",
+			"votes": 12842,
+			"share": 26.10
+		},
+		{
+			"party": "LAB",
+			"votes": 7397,
+			"share": 15.00
+		},
+		{
+			"party": "GRN",
+			"votes": 1600,
+			"share": 3.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 1216,
+			"share": 2.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

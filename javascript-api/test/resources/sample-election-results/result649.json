@@ -1,0 +1,37 @@
+{
+	"id": 585,
+	"name": "Ulster Mid",
+	"seqNo": 649,
+	"partyResults": [
+		{
+			"party": "SF",
+			"votes": 21641,
+			"share": 47.60
+		},
+		{
+			"party": "DUP",
+			"votes": 10665,
+			"share": 23.50
+		},
+		{
+			"party": "SDLP",
+			"votes": 7922,
+			"share": 17.40
+		},
+		{
+			"party": "UUP",
+			"votes": 4853,
+			"share": 10.70
+		},
+		{
+			"party": "WP",
+			"votes": 345,
+			"share": 0.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"id": 220,
+	"name": "Ealing Southall",
+	"seqNo": 324,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19634,
+			"share": 57.30
+		},
+		{
+			"party": "CON",
+			"votes": 6494,
+			"share": 18.90
+		},
+		{
+			"party": "LD",
+			"votes": 6254,
+			"share": 18.20
+		},
+		{
+			"party": "GRN",
+			"votes": 1612,
+			"share": 4.70
+		},
+		{
+			"party": "OTH",
+			"votes": 289,
+			"share": 0.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "RES",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "ED",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "MRLP",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "CHP",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

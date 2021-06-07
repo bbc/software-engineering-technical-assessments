@@ -1,0 +1,32 @@
+{
+	"id": 172,
+	"name": "Croydon South",
+	"seqNo": 334,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 26478,
+			"share": 52.00
+		},
+		{
+			"party": "LAB",
+			"votes": 12250,
+			"share": 24.10
+		},
+		{
+			"party": "LD",
+			"votes": 10400,
+			"share": 20.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1104,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 682,
+			"share": 1.30
+		}
+	]
+}

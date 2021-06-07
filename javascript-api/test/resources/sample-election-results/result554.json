@@ -1,0 +1,32 @@
+{
+	"id": 161,
+	"name": "Corby",
+	"seqNo": 554,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20913,
+			"share": 43.10
+		},
+		{
+			"party": "CON",
+			"votes": 19396,
+			"share": 40.00
+		},
+		{
+			"party": "LD",
+			"votes": 6184,
+			"share": 12.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1278,
+			"share": 2.60
+		},
+		{
+			"party": "OTH",
+			"votes": 756,
+			"share": 1.60
+		}
+	]
+}

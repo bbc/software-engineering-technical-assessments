@@ -1,0 +1,37 @@
+{
+	"id": 26,
+	"name": "Banbury",
+	"seqNo": 563,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 25170,
+			"share": 46.90
+		},
+		{
+			"party": "LAB",
+			"votes": 15080,
+			"share": 28.10
+		},
+		{
+			"party": "LD",
+			"votes": 9395,
+			"share": 17.50
+		},
+		{
+			"party": "GRN",
+			"votes": 1514,
+			"share": 2.80
+		},
+		{
+			"party": "OTH",
+			"votes": 1335,
+			"share": 2.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1191,
+			"share": 2.20
+		}
+	]
+}

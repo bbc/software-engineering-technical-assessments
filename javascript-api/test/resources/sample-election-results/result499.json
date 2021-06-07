@@ -1,0 +1,37 @@
+{
+	"id": 252,
+	"name": "Finchley \u0026 Golders Green",
+	"seqNo": 499,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 16692,
+			"share": 39.80
+		},
+		{
+			"party": "LAB",
+			"votes": 16398,
+			"share": 39.10
+		},
+		{
+			"party": "LD",
+			"votes": 7186,
+			"share": 17.10
+		},
+		{
+			"party": "GRN",
+			"votes": 1092,
+			"share": 2.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 461,
+			"share": 1.10
+		},
+		{
+			"party": "OTH",
+			"votes": 110,
+			"share": 0.30
+		}
+	]
+}

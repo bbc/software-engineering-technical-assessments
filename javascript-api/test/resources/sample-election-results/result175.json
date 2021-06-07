@@ -1,0 +1,37 @@
+{
+	"id": 57,
+	"name": "Birmingham Edgbaston",
+	"seqNo": 175,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16732,
+			"share": 43.10
+		},
+		{
+			"party": "CON",
+			"votes": 15177,
+			"share": 39.10
+		},
+		{
+			"party": "LD",
+			"votes": 4972,
+			"share": 12.80
+		},
+		{
+			"party": "GRN",
+			"votes": 1103,
+			"share": 2.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 841,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 431,
+	"name": "Norwich South",
+	"seqNo": 486,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 15275,
+			"share": 37.40
+		},
+		{
+			"party": "LD",
+			"votes": 12252,
+			"share": 30.00
+		},
+		{
+			"party": "CON",
+			"votes": 8917,
+			"share": 21.80
+		},
+		{
+			"party": "GRN",
+			"votes": 3032,
+			"share": 7.40
+		},
+		{
+			"party": "OTH",
+			"votes": 770,
+			"share": 1.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 596,
+			"share": 1.50
+		}
+	]
+}

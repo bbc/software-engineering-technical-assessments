@@ -1,0 +1,27 @@
+{
+	"id": 649,
+	"name": "York Outer",
+	"seqNo": 79,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 16904,
+			"share": 36.70
+		},
+		{
+			"party": "CON",
+			"votes": 16701,
+			"share": 36.30
+		},
+		{
+			"party": "LAB",
+			"votes": 12425,
+			"share": 27.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

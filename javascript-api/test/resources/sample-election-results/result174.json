@@ -1,0 +1,32 @@
+{
+	"id": 525,
+	"name": "Southend West",
+	"seqNo": 174,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 18726,
+			"share": 46.20
+		},
+		{
+			"party": "LD",
+			"votes": 9718,
+			"share": 24.00
+		},
+		{
+			"party": "LAB",
+			"votes": 9190,
+			"share": 22.70
+		},
+		{
+			"party": "OTH",
+			"votes": 1552,
+			"share": 3.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1383,
+			"share": 3.40
+		}
+	]
+}

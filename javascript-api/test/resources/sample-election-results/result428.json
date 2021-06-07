@@ -1,0 +1,27 @@
+{
+	"id": 303,
+	"name": "Hemsworth",
+	"seqNo": 428,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 22542,
+			"share": 58.70
+		},
+		{
+			"party": "CON",
+			"votes": 8516,
+			"share": 22.20
+		},
+		{
+			"party": "LD",
+			"votes": 6034,
+			"share": 15.70
+		},
+		{
+			"party": "OTH",
+			"votes": 1329,
+			"share": 3.50
+		}
+	]
+}

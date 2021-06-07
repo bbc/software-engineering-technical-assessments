@@ -1,0 +1,37 @@
+{
+	"id": 473,
+	"name": "Richmond Park",
+	"seqNo": 516,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 23771,
+			"share": 46.70
+		},
+		{
+			"party": "CON",
+			"votes": 20158,
+			"share": 39.60
+		},
+		{
+			"party": "LAB",
+			"votes": 4711,
+			"share": 9.20
+		},
+		{
+			"party": "GRN",
+			"votes": 1379,
+			"share": 2.70
+		},
+		{
+			"party": "OTH",
+			"votes": 478,
+			"share": 0.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 454,
+			"share": 0.90
+		}
+	]
+}

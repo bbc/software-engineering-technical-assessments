@@ -1,0 +1,32 @@
+{
+	"id": 435,
+	"name": "Nuneaton",
+	"seqNo": 331,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18652,
+			"share": 46.60
+		},
+		{
+			"party": "CON",
+			"votes": 14758,
+			"share": 36.90
+		},
+		{
+			"party": "LD",
+			"votes": 5008,
+			"share": 12.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1574,
+			"share": 3.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

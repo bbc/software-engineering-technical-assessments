@@ -1,0 +1,32 @@
+{
+	"id": 456,
+	"name": "Poplar \u0026 Limehouse",
+	"seqNo": 51,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 12463,
+			"share": 35.30
+		},
+		{
+			"party": "CON",
+			"votes": 8640,
+			"share": 24.50
+		},
+		{
+			"party": "OTH",
+			"votes": 8329,
+			"share": 23.60
+		},
+		{
+			"party": "LD",
+			"votes": 4919,
+			"share": 13.90
+		},
+		{
+			"party": "GRN",
+			"votes": 925,
+			"share": 2.60
+		}
+	]
+}

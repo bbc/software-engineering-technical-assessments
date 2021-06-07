@@ -1,0 +1,32 @@
+{
+	"id": 433,
+	"name": "Nottingham North",
+	"seqNo": 115,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18545,
+			"share": 59.10
+		},
+		{
+			"party": "CON",
+			"votes": 5675,
+			"share": 18.10
+		},
+		{
+			"party": "LD",
+			"votes": 5452,
+			"share": 17.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1684,
+			"share": 5.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

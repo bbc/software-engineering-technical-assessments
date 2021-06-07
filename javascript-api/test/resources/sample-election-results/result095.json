@@ -1,0 +1,57 @@
+{
+	"id": 213,
+	"name": "Dunfermline \u0026 West Fife",
+	"seqNo": 95,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20111,
+			"share": 47.40
+		},
+		{
+			"party": "LD",
+			"votes": 8549,
+			"share": 20.20
+		},
+		{
+			"party": "SNP",
+			"votes": 8026,
+			"share": 18.90
+		},
+		{
+			"party": "CON",
+			"votes": 4376,
+			"share": 10.30
+		},
+		{
+			"party": "SSP",
+			"votes": 689,
+			"share": 1.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 643,
+			"share": 1.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		},
+		{
+			"party": "CG",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "NAAT",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "SCP",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 8,
+	"name": "Aldridge-Brownhills",
+	"seqNo": 238,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 17845,
+			"share": 48.20
+		},
+		{
+			"party": "LAB",
+			"votes": 12113,
+			"share": 32.70
+		},
+		{
+			"party": "LD",
+			"votes": 4406,
+			"share": 11.90
+		},
+		{
+			"party": "OTH",
+			"votes": 1620,
+			"share": 4.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1032,
+			"share": 2.80
+		}
+	]
+}

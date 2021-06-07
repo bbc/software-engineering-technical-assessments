@@ -1,0 +1,37 @@
+{
+	"id": 16,
+	"name": "Arfon",
+	"seqNo": 2,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 8484,
+			"share": 33.90
+		},
+		{
+			"party": "PC",
+			"votes": 8028,
+			"share": 32.10
+		},
+		{
+			"party": "CON",
+			"votes": 4106,
+			"share": 16.40
+		},
+		{
+			"party": "LD",
+			"votes": 3942,
+			"share": 15.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 482,
+			"share": 1.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

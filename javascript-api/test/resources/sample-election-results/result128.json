@@ -1,0 +1,32 @@
+{
+	"id": 618,
+	"name": "Wigan",
+	"seqNo": 128,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 23017,
+			"share": 58.10
+		},
+		{
+			"party": "CON",
+			"votes": 7516,
+			"share": 19.00
+		},
+		{
+			"party": "LD",
+			"votes": 6699,
+			"share": 16.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1338,
+			"share": 3.40
+		},
+		{
+			"party": "OTH",
+			"votes": 1026,
+			"share": 2.60
+		}
+	]
+}

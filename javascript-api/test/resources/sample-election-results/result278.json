@@ -1,0 +1,37 @@
+{
+	"id": 101,
+	"name": "Bristol South",
+	"seqNo": 278,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21364,
+			"share": 48.60
+		},
+		{
+			"party": "LD",
+			"votes": 10436,
+			"share": 23.70
+		},
+		{
+			"party": "CON",
+			"votes": 8623,
+			"share": 19.60
+		},
+		{
+			"party": "GRN",
+			"votes": 2183,
+			"share": 5.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 1361,
+			"share": 3.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

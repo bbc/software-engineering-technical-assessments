@@ -1,0 +1,32 @@
+{
+	"id": 143,
+	"name": "Chester, City Of",
+	"seqNo": 441,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17263,
+			"share": 39.00
+		},
+		{
+			"party": "CON",
+			"votes": 16290,
+			"share": 36.80
+		},
+		{
+			"party": "LD",
+			"votes": 9657,
+			"share": 21.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 766,
+			"share": 1.70
+		},
+		{
+			"party": "OTH",
+			"votes": 308,
+			"share": 0.70
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 403,
+	"name": "Moray",
+	"seqNo": 294,
+	"partyResults": [
+		{
+			"party": "SNP",
+			"votes": 14196,
+			"share": 36.60
+		},
+		{
+			"party": "CON",
+			"votes": 8520,
+			"share": 22.00
+		},
+		{
+			"party": "LAB",
+			"votes": 7919,
+			"share": 20.40
+		},
+		{
+			"party": "LD",
+			"votes": 7460,
+			"share": 19.20
+		},
+		{
+			"party": "SSP",
+			"votes": 698,
+			"share": 1.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

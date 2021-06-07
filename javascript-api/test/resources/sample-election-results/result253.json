@@ -1,0 +1,27 @@
+{
+	"id": 283,
+	"name": "Halifax",
+	"seqNo": 253,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16658,
+			"share": 41.90
+		},
+		{
+			"party": "CON",
+			"votes": 13177,
+			"share": 33.10
+		},
+		{
+			"party": "LD",
+			"votes": 7120,
+			"share": 17.90
+		},
+		{
+			"party": "OTH",
+			"votes": 2818,
+			"share": 7.10
+		}
+	]
+}

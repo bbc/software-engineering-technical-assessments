@@ -1,0 +1,37 @@
+{
+	"id": 476,
+	"name": "Rochford \u0026 Southend East",
+	"seqNo": 186,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 17449,
+			"share": 45.40
+		},
+		{
+			"party": "LAB",
+			"votes": 12142,
+			"share": 31.60
+		},
+		{
+			"party": "LD",
+			"votes": 5668,
+			"share": 14.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1863,
+			"share": 4.80
+		},
+		{
+			"party": "GRN",
+			"votes": 1328,
+			"share": 3.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

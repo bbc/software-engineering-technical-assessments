@@ -1,0 +1,32 @@
+{
+	"id": 110,
+	"name": "Burton",
+	"seqNo": 514,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18677,
+			"share": 42.10
+		},
+		{
+			"party": "CON",
+			"votes": 16545,
+			"share": 37.30
+		},
+		{
+			"party": "LD",
+			"votes": 5538,
+			"share": 12.50
+		},
+		{
+			"party": "OTH",
+			"votes": 2752,
+			"share": 6.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 856,
+			"share": 1.90
+		}
+	]
+}

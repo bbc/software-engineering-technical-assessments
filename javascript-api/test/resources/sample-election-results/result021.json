@@ -1,0 +1,27 @@
+{
+	"id": 235,
+	"name": "Elmet \u0026 Rothwell",
+	"seqNo": 21,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 24416,
+			"share": 45.90
+		},
+		{
+			"party": "CON",
+			"votes": 18338,
+			"share": 34.50
+		},
+		{
+			"party": "LD",
+			"votes": 9202,
+			"share": 17.30
+		},
+		{
+			"party": "OTH",
+			"votes": 1231,
+			"share": 2.30
+		}
+	]
+}

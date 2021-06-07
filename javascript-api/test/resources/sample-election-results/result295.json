@@ -1,0 +1,32 @@
+{
+	"id": 191,
+	"name": "Devon South West",
+	"seqNo": 295,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20831,
+			"share": 44.40
+		},
+		{
+			"party": "LAB",
+			"votes": 11389,
+			"share": 24.30
+		},
+		{
+			"party": "LD",
+			"votes": 11179,
+			"share": 23.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 3532,
+			"share": 7.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

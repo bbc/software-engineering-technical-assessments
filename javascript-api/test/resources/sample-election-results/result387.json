@@ -1,0 +1,37 @@
+{
+	"id": 644,
+	"name": "Wyre Forest",
+	"seqNo": 387,
+	"partyResults": [
+		{
+			"party": "IKHH",
+			"votes": 18739,
+			"share": 38.60
+		},
+		{
+			"party": "CON",
+			"votes": 14126,
+			"share": 29.10
+		},
+		{
+			"party": "LAB",
+			"votes": 10944,
+			"share": 22.60
+		},
+		{
+			"party": "OTH",
+			"votes": 2969,
+			"share": 6.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1121,
+			"share": 2.30
+		},
+		{
+			"party": "LD",
+			"votes": 607,
+			"share": 1.30
+		}
+	]
+}

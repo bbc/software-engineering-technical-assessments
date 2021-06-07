@@ -1,0 +1,32 @@
+{
+	"id": 259,
+	"name": "Gateshead",
+	"seqNo": 24,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21510,
+			"share": 61.40
+		},
+		{
+			"party": "LD",
+			"votes": 7265,
+			"share": 20.70
+		},
+		{
+			"party": "CON",
+			"votes": 3564,
+			"share": 10.20
+		},
+		{
+			"party": "OTH",
+			"votes": 1519,
+			"share": 4.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 1163,
+			"share": 3.30
+		}
+	]
+}

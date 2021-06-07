@@ -1,0 +1,27 @@
+{
+	"id": 159,
+	"name": "Congleton",
+	"seqNo": 543,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21189,
+			"share": 45.40
+		},
+		{
+			"party": "LAB",
+			"votes": 12943,
+			"share": 27.70
+		},
+		{
+			"party": "LD",
+			"votes": 12550,
+			"share": 26.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

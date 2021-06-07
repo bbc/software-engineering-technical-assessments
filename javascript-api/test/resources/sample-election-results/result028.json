@@ -1,0 +1,37 @@
+{
+	"id": 297,
+	"name": "Harwich \u0026 North Essex",
+	"seqNo": 28,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20285,
+			"share": 42.60
+		},
+		{
+			"party": "LAB",
+			"votes": 14702,
+			"share": 30.90
+		},
+		{
+			"party": "LD",
+			"votes": 9162,
+			"share": 19.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 1735,
+			"share": 3.60
+		},
+		{
+			"party": "GRN",
+			"votes": 1718,
+			"share": 3.60
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

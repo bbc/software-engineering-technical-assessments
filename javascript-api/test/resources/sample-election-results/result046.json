@@ -1,0 +1,27 @@
+{
+	"id": 426,
+	"name": "Normanton, Pontefract \u0026 Castleford",
+	"seqNo": 46,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 27630,
+			"share": 65.30
+		},
+		{
+			"party": "CON",
+			"votes": 7022,
+			"share": 16.60
+		},
+		{
+			"party": "LD",
+			"votes": 4704,
+			"share": 11.10
+		},
+		{
+			"party": "OTH",
+			"votes": 2931,
+			"share": 6.90
+		}
+	]
+}

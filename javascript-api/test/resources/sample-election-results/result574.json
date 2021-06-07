@@ -1,0 +1,32 @@
+{
+	"id": 55,
+	"name": "Bexley Heath \u0026 Crayford",
+	"seqNo": 574,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 19497,
+			"share": 46.50
+		},
+		{
+			"party": "LAB",
+			"votes": 14330,
+			"share": 34.20
+		},
+		{
+			"party": "LD",
+			"votes": 5494,
+			"share": 13.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1338,
+			"share": 3.20
+		},
+		{
+			"party": "OTH",
+			"votes": 1241,
+			"share": 3.00
+		}
+	]
+}

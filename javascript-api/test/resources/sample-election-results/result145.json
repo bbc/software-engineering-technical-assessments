@@ -1,0 +1,42 @@
+{
+	"id": 173,
+	"name": "Cumbernauld, Kilsyth \u0026 Kirkintilloch East",
+	"seqNo": 145,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20251,
+			"share": 51.80
+		},
+		{
+			"party": "SNP",
+			"votes": 8689,
+			"share": 22.20
+		},
+		{
+			"party": "LD",
+			"votes": 5817,
+			"share": 14.90
+		},
+		{
+			"party": "CON",
+			"votes": 2718,
+			"share": 7.00
+		},
+		{
+			"party": "SSP",
+			"votes": 1141,
+			"share": 2.90
+		},
+		{
+			"party": "OCV",
+			"votes": 472,
+			"share": 1.20
+		},
+		{
+			"party": "OTH",
+			"votes": 472,
+			"share": 1.20
+		}
+	]
+}

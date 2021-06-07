@@ -1,0 +1,32 @@
+{
+	"id": 367,
+	"name": "Lichfield",
+	"seqNo": 485,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23009,
+			"share": 48.70
+		},
+		{
+			"party": "LAB",
+			"votes": 15218,
+			"share": 32.20
+		},
+		{
+			"party": "LD",
+			"votes": 7502,
+			"share": 15.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1529,
+			"share": 3.20
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

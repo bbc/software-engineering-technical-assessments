@@ -1,0 +1,32 @@
+{
+	"id": 529,
+	"name": "Staffordshire Moorlands",
+	"seqNo": 547,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 16671,
+			"share": 39.70
+		},
+		{
+			"party": "LAB",
+			"votes": 15053,
+			"share": 35.90
+		},
+		{
+			"party": "LD",
+			"votes": 7377,
+			"share": 17.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 2862,
+			"share": 6.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 362,
+	"name": "Lewes",
+	"seqNo": 477,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 24071,
+			"share": 51.50
+		},
+		{
+			"party": "CON",
+			"votes": 16182,
+			"share": 34.60
+		},
+		{
+			"party": "LAB",
+			"votes": 4370,
+			"share": 9.40
+		},
+		{
+			"party": "GRN",
+			"votes": 1063,
+			"share": 2.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 1033,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

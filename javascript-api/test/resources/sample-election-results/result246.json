@@ -1,0 +1,32 @@
+{
+	"id": 498,
+	"name": "Scunthorpe",
+	"seqNo": 246,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17815,
+			"share": 52.00
+		},
+		{
+			"party": "CON",
+			"votes": 9177,
+			"share": 26.80
+		},
+		{
+			"party": "LD",
+			"votes": 5835,
+			"share": 17.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 1403,
+			"share": 4.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

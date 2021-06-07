@@ -1,0 +1,37 @@
+{
+	"id": 148,
+	"name": "Chipping Barnet",
+	"seqNo": 274,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20825,
+			"share": 45.90
+		},
+		{
+			"party": "LAB",
+			"votes": 15368,
+			"share": 33.80
+		},
+		{
+			"party": "LD",
+			"votes": 6941,
+			"share": 15.30
+		},
+		{
+			"party": "GRN",
+			"votes": 1273,
+			"share": 2.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 942,
+			"share": 2.10
+		},
+		{
+			"party": "OTH",
+			"votes": 59,
+			"share": 0.10
+		}
+	]
+}

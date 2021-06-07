@@ -1,0 +1,37 @@
+{
+	"id": 464,
+	"name": "Reading East",
+	"seqNo": 614,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 15386,
+			"share": 35.60
+		},
+		{
+			"party": "LAB",
+			"votes": 14647,
+			"share": 33.90
+		},
+		{
+			"party": "LD",
+			"votes": 10517,
+			"share": 24.40
+		},
+		{
+			"party": "GRN",
+			"votes": 1519,
+			"share": 3.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 834,
+			"share": 1.90
+		},
+		{
+			"party": "OTH",
+			"votes": 257,
+			"share": 0.60
+		}
+	]
+}

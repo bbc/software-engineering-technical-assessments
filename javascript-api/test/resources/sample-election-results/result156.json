@@ -1,0 +1,57 @@
+{
+	"id": 533,
+	"name": "Stirling",
+	"seqNo": 156,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 15729,
+			"share": 36.00
+		},
+		{
+			"party": "CON",
+			"votes": 10962,
+			"share": 25.10
+		},
+		{
+			"party": "LD",
+			"votes": 9052,
+			"share": 20.70
+		},
+		{
+			"party": "SNP",
+			"votes": 5503,
+			"share": 12.60
+		},
+		{
+			"party": "SGP",
+			"votes": 1302,
+			"share": 3.00
+		},
+		{
+			"party": "OTH",
+			"votes": 476,
+			"share": 1.10
+		},
+		{
+			"party": "SSP",
+			"votes": 458,
+			"share": 1.00
+		},
+		{
+			"party": "IND",
+			"votes": 261,
+			"share": 0.60
+		},
+		{
+			"party": "OCV",
+			"votes": 215,
+			"share": 0.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 209,
+			"share": 0.50
+		}
+	]
+}

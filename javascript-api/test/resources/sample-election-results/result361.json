@@ -1,0 +1,37 @@
+{
+	"id": 141,
+	"name": "Cheltenham",
+	"seqNo": 361,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 18877,
+			"share": 39.40
+		},
+		{
+			"party": "CON",
+			"votes": 18561,
+			"share": 38.70
+		},
+		{
+			"party": "LAB",
+			"votes": 5652,
+			"share": 11.80
+		},
+		{
+			"party": "OTH",
+			"votes": 3176,
+			"share": 6.60
+		},
+		{
+			"party": "GRN",
+			"votes": 1030,
+			"share": 2.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 608,
+			"share": 1.30
+		}
+	]
+}

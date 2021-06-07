@@ -1,0 +1,32 @@
+{
+	"id": 440,
+	"name": "Oldham West \u0026 Royton",
+	"seqNo": 237,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18637,
+			"share": 48.40
+		},
+		{
+			"party": "LD",
+			"votes": 8183,
+			"share": 21.20
+		},
+		{
+			"party": "CON",
+			"votes": 8127,
+			"share": 21.10
+		},
+		{
+			"party": "OTH",
+			"votes": 2606,
+			"share": 6.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 981,
+			"share": 2.50
+		}
+	]
+}

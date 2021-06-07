@@ -1,0 +1,37 @@
+{
+	"id": 134,
+	"name": "Castle Point",
+	"seqNo": 424,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22118,
+			"share": 48.30
+		},
+		{
+			"party": "LAB",
+			"votes": 13917,
+			"share": 30.40
+		},
+		{
+			"party": "LD",
+			"votes": 4719,
+			"share": 10.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 3431,
+			"share": 7.50
+		},
+		{
+			"party": "GRN",
+			"votes": 1617,
+			"share": 3.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

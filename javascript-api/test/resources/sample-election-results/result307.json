@@ -1,0 +1,32 @@
+{
+	"id": 193,
+	"name": "Dewsbury",
+	"seqNo": 307,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18278,
+			"share": 40.60
+		},
+		{
+			"party": "CON",
+			"votes": 14279,
+			"share": 31.70
+		},
+		{
+			"party": "LD",
+			"votes": 6187,
+			"share": 13.70
+		},
+		{
+			"party": "OTH",
+			"votes": 5379,
+			"share": 11.90
+		},
+		{
+			"party": "GRN",
+			"votes": 913,
+			"share": 2.00
+		}
+	]
+}

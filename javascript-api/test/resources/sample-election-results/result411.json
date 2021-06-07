@@ -1,0 +1,37 @@
+{
+	"id": 364,
+	"name": "Lewisham East",
+	"seqNo": 411,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17897,
+			"share": 47.60
+		},
+		{
+			"party": "CON",
+			"votes": 9139,
+			"share": 24.30
+		},
+		{
+			"party": "LD",
+			"votes": 7482,
+			"share": 19.90
+		},
+		{
+			"party": "GRN",
+			"votes": 1591,
+			"share": 4.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 844,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 625,
+			"share": 1.70
+		}
+	]
+}
