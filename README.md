@@ -5,13 +5,18 @@ Hello
 
 This repository contains a few pieces of software. One of which will be used as the basis for your interview technical assessment when applying to join a BBC team.
 
-Each makes up part a mock elections system which could show results pages similar to how BBC News covers elections, for example: https://www.bbc.co.uk/news/topics/c37d28xdn99t/scottish-parliament-election-2021. These pieces of software do not interact, and are not dependant on one another.
+The applications:
 
-Your assessment will be based around ONE of these applications, so please select the one with which you are most comfortable and that gives you the best opportunity to show your ability. More information can be found inside the readme of the relevant application.
+- `election-api-golang` A fake election API written with Go
+- `election-api-java` A fake election API written with Java
+- `election-api-javascript` A fake election API written with NodeJS
+- `election-ui-javascript` A fake elections Web UI written with React and Javascript
 
-Before the assessment we do NOT ask you to do any work on either application. However we would like you to select one, and familiarise yourself with it briefly. In the assessment we will ask you to screenshare your working environment with us.
+Each makes up part a mock elections system which could show results pages similar to how BBC News covers elections, for example: https://www.bbc.co.uk/news/topics/c37d28xdn99t/scottish-parliament-election-2021. These pieces of software do not interact, and are not dependant on one another in any way.
 
-In the assessment we will discuss and work on the following:
+Your assessment will be based around ONE of these applications, so please select the ONE with which you are most comfortable and that gives you the best opportunity to show your ability. More information can be found inside the readme of the relevant application.
+
+Before the assessment interview itself, we don't ask you to do any work on any of the applications. However we would like you to select one and familiarise yourself with it. In the assessment we will ask you to screenshare your working environment with us as we discuss and work on the following:
 
 1) How does the software work?
 2) Are there any changes/improvements that you would suggest and/or want to tackle?
@@ -19,10 +24,12 @@ In the assessment we will discuss and work on the following:
 
 In Summary:
 
+What you need to do:
+
 - Please select the application that best matches your skillset or gives you the best chance to show your skills.
 - Inform the recruiter of your choice so that the assessment can be finalised.
-- Install/Set up the application 'locally'.
+- Install/Set up the application 'locally' as per the README file in the relevant directory
 - Familiarise yourself with your chosen application
-- Attend booked assessment date.
+- Attend booked assessment date
 
 If you have any questions about any of this. Please contact your recruitment contact, and/or the person who sent you the link to this repository.
