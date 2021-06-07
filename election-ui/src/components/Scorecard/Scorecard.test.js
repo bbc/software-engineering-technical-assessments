@@ -4,7 +4,7 @@ import Scorecard from '.';
 const results = [
   {
     'party': 'Green',
-    'candidate': 'Ann Other',
+    'candidate': '',
     'votes': '1056'
   }
 ];
@@ -17,7 +17,6 @@ test('renders results', async () => {
   const votesHeading = screen.getByText(/Votes/i);
 
   const party = screen.getByText(/Green/i);
-  const candidate = screen.getByText(/Ann Other/i);
   const votes = screen.getByText(/votes/i);
   
   expect(partyHeading).toBeInTheDocument();
@@ -25,7 +24,6 @@ test('renders results', async () => {
   expect(votesHeading).toBeInTheDocument();
 
   expect(party).toBeInTheDocument();
-  expect(candidate).toBeInTheDocument();
   expect(votes).toBeInTheDocument();
 });
 

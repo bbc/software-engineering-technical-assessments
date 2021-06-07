@@ -10,7 +10,7 @@ function Scorecard({ results }) {
     scores.push(
       <tr key={i}>
         <td>{results[i].party}</td>
-        <td>{results[i].candidate}</td>
+        <td>{results[i].candidateId}</td>
         <td>{results[i].votes}</td>
       </tr>
     )
