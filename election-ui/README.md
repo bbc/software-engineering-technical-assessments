@@ -16,10 +16,13 @@ npm start
 ```
 
 Notes:
-- You will see some console warnings when running the 'build' and 'start' step. Assuming the application starts up correctly these can be ignored.
-- The contents of the fakeAPI directory can be ignored. They exist to mock an external API for the purpose of the assessment.
+1) You will see some console warnings when running the 'build' and 'start' step. Assuming the application starts up correctly these can be ignored.
+2) The contents of the fakeAPI directory can be ignored. They exist to mock an external API for the purpose of the assessment.
 
 At this point we don't ask you to do any more until your booked assessment time.
+
+Assessment Time
+---
 
 In the assessment we will ask you to screenshare your working environment and talk through the following with us:
 
