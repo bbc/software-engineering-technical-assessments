@@ -19,5 +19,4 @@ function scoreboard() {
     //  Left blank for you to fill in
 }
 
-
 module.exports = { getResult, newResult, reset, scoreboard };

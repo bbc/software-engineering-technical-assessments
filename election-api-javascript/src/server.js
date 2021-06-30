@@ -16,8 +16,4 @@ server.get('/scoreboard', (req, res) => {
     res.send(scoreboard());
 });
 
-function resetScores() {
-  reset();
-}
-
-module.exports = { default: server, resetScores };
+module.exports = { default: server, resetScores: reset };
