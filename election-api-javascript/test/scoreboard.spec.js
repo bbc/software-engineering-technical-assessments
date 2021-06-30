@@ -23,11 +23,10 @@ function fetchScoreboard(server) {
 }
 
 describe('Scoreboard Tests', () => {
-    let server;
+    const server = request(expressServer);
 
     beforeEach(() => {
         resetScores();
-        server = request(expressServer);
     });
 
     test('first 5', async () => {
