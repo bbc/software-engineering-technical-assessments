@@ -11,8 +11,13 @@ function newResult(result) {
     return {};
 }
 
+function reset() {
+    store.reset();
+}
+
 function scoreboard() {
     //  Left blank for you to fill in
 }
 
-module.exports = { getResult, newResult, scoreboard };
+
+module.exports = { getResult, newResult, reset, scoreboard };

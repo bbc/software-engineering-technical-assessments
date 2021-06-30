@@ -16,7 +16,7 @@ function resultStore() {
     }
 
     function reset() {
-        store = [];
+        store.splice(0);
     }
 
     return {
