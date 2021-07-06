@@ -1,13 +1,13 @@
 const fs = require('fs');
 const request = require('supertest');
-const { default: expressServer } = require('../src/server');
+const { default: expressServer, resetScores } = require('../src/server');
 
 const resultsSamplesPath = './test/resources/sample-election-results';
 
 function loadAndPostResultFile(server, num) {
     const fileNumber = new String(parseInt(num, 10)).padStart(3, '0');
     const result = fs.readFileSync(`${resultsSamplesPath}/result${fileNumber}.json`);
-    return server.post('/result', result);
+    return server.post('/result').send(JSON.parse(result));
 }
 
 async function loadResults(server, quantity) {
@@ -23,13 +23,10 @@ function fetchScoreboard(server) {
 }
 
 describe('Scoreboard Tests', () => {
-    let server;
+    const server = request(expressServer);
 
     beforeEach(() => {
-        server = request(expressServer);
-    });
-
-    afterEach(() => {
+        resetScores();
     });
 
     test('first 5', async () => {

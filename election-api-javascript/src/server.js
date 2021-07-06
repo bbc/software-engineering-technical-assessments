@@ -1,5 +1,5 @@
 const express = require('express');
-const { getResult, newResult, scoreboard } = require('./resultsController');
+const { getResult, newResult, reset, scoreboard } = require('./resultsController');
 
 const server = express();
 server.use(express.json());
@@ -16,4 +16,4 @@ server.get('/scoreboard', (req, res) => {
     res.send(scoreboard());
 });
 
-module.exports.default = server;
+module.exports = { default: server, resetScores: reset };
