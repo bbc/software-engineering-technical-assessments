@@ -16,7 +16,9 @@ The API has 3 endpoints:
 
 ### Task
 
-During your assessment we will ask you to work though the task in `tasks.md` with a pair. Please do not work on or complete these prior to the assessment.
+During your assessment we will ask you to work though a set of tasks which will be given to you on the 
+day.  Please don't change the code base before you start.
+
 ## Prerequisites
 - Node 14
 
