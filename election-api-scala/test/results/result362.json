@@ -1,0 +1,32 @@
+{
+	"id": 541,
+	"name": "Stourbridge",
+	"seqNo": 362,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18469,
+			"share": 42.20
+		},
+		{
+			"party": "CON",
+			"votes": 17189,
+			"share": 39.20
+		},
+		{
+			"party": "LD",
+			"votes": 6982,
+			"share": 15.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1163,
+			"share": 2.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

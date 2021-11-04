@@ -1,0 +1,32 @@
+{
+	"id": 452,
+	"name": "Plymouth Moor View",
+	"seqNo": 49,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17739,
+			"share": 44.40
+		},
+		{
+			"party": "CON",
+			"votes": 9999,
+			"share": 25.00
+		},
+		{
+			"party": "LD",
+			"votes": 7583,
+			"share": 19.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 3071,
+			"share": 7.70
+		},
+		{
+			"party": "OTH",
+			"votes": 1568,
+			"share": 3.90
+		}
+	]
+}

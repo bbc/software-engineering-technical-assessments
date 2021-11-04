@@ -1,0 +1,42 @@
+{
+	"id": 542,
+	"name": "Strangford",
+	"seqNo": 644,
+	"partyResults": [
+		{
+			"party": "DUP",
+			"votes": 20921,
+			"share": 56.50
+		},
+		{
+			"party": "UUP",
+			"votes": 7872,
+			"share": 21.30
+		},
+		{
+			"party": "AP",
+			"votes": 3332,
+			"share": 9.00
+		},
+		{
+			"party": "SDLP",
+			"votes": 2496,
+			"share": 6.70
+		},
+		{
+			"party": "CON",
+			"votes": 1462,
+			"share": 3.90
+		},
+		{
+			"party": "SF",
+			"votes": 949,
+			"share": 2.60
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

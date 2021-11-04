@@ -1,0 +1,32 @@
+{
+	"id": 316,
+	"name": "Holborn \u0026 St. Pancras",
+	"seqNo": 149,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19872,
+			"share": 45.10
+		},
+		{
+			"party": "LD",
+			"votes": 11524,
+			"share": 26.20
+		},
+		{
+			"party": "CON",
+			"votes": 9203,
+			"share": 20.90
+		},
+		{
+			"party": "GRN",
+			"votes": 3299,
+			"share": 7.50
+		},
+		{
+			"party": "OTH",
+			"votes": 152,
+			"share": 0.30
+		}
+	]
+}

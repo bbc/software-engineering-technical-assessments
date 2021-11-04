@@ -1,0 +1,42 @@
+{
+	"id": 232,
+	"name": "Edinburgh West",
+	"seqNo": 344,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 22417,
+			"share": 49.50
+		},
+		{
+			"party": "CON",
+			"votes": 8817,
+			"share": 19.50
+		},
+		{
+			"party": "LAB",
+			"votes": 8433,
+			"share": 18.60
+		},
+		{
+			"party": "SNP",
+			"votes": 4124,
+			"share": 9.10
+		},
+		{
+			"party": "SGP",
+			"votes": 964,
+			"share": 2.10
+		},
+		{
+			"party": "SSP",
+			"votes": 510,
+			"share": 1.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 457,
+	"name": "Portsmouth North",
+	"seqNo": 177,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 15858,
+			"share": 38.50
+		},
+		{
+			"party": "CON",
+			"votes": 15543,
+			"share": 37.80
+		},
+		{
+			"party": "LD",
+			"votes": 8361,
+			"share": 20.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 1407,
+			"share": 3.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

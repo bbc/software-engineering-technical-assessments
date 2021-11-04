@@ -1,0 +1,32 @@
+{
+	"id": 92,
+	"name": "Brentford \u0026 Isleworth",
+	"seqNo": 607,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17092,
+			"share": 39.00
+		},
+		{
+			"party": "CON",
+			"votes": 13459,
+			"share": 30.70
+		},
+		{
+			"party": "LD",
+			"votes": 10068,
+			"share": 23.00
+		},
+		{
+			"party": "OTH",
+			"votes": 1641,
+			"share": 3.70
+		},
+		{
+			"party": "GRN",
+			"votes": 1579,
+			"share": 3.60
+		}
+	]
+}

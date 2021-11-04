@@ -1,0 +1,32 @@
+{
+	"id": 596,
+	"name": "Wansbeck",
+	"seqNo": 321,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20315,
+			"share": 55.20
+		},
+		{
+			"party": "LD",
+			"votes": 9734,
+			"share": 26.40
+		},
+		{
+			"party": "CON",
+			"votes": 5515,
+			"share": 15.00
+		},
+		{
+			"party": "GRN",
+			"votes": 1245,
+			"share": 3.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

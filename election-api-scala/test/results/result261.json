@@ -1,0 +1,32 @@
+{
+	"id": 580,
+	"name": "Tunbridge Wells",
+	"seqNo": 261,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23099,
+			"share": 50.80
+		},
+		{
+			"party": "LD",
+			"votes": 11527,
+			"share": 25.30
+		},
+		{
+			"party": "LAB",
+			"votes": 9309,
+			"share": 20.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1568,
+			"share": 3.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

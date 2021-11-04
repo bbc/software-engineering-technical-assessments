@@ -1,0 +1,37 @@
+{
+	"id": 206,
+	"name": "Dulwich \u0026 West Norwood",
+	"seqNo": 519,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17590,
+			"share": 44.20
+		},
+		{
+			"party": "CON",
+			"votes": 9737,
+			"share": 24.50
+		},
+		{
+			"party": "LD",
+			"votes": 9199,
+			"share": 23.10
+		},
+		{
+			"party": "GRN",
+			"votes": 2498,
+			"share": 6.30
+		},
+		{
+			"party": "OTH",
+			"votes": 447,
+			"share": 1.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 285,
+			"share": 0.70
+		}
+	]
+}

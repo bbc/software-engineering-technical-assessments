@@ -1,0 +1,32 @@
+{
+	"id": 84,
+	"name": "Bracknell",
+	"seqNo": 180,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22789,
+			"share": 49.90
+		},
+		{
+			"party": "LAB",
+			"votes": 12752,
+			"share": 27.90
+		},
+		{
+			"party": "LD",
+			"votes": 8134,
+			"share": 17.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1622,
+			"share": 3.50
+		},
+		{
+			"party": "OTH",
+			"votes": 407,
+			"share": 0.90
+		}
+	]
+}

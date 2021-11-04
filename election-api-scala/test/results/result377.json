@@ -1,0 +1,32 @@
+{
+	"id": 527,
+	"name": "Spelthorne",
+	"seqNo": 377,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21620,
+			"share": 50.50
+		},
+		{
+			"party": "LAB",
+			"votes": 11684,
+			"share": 27.30
+		},
+		{
+			"party": "LD",
+			"votes": 7318,
+			"share": 17.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1968,
+			"share": 4.60
+		},
+		{
+			"party": "OTH",
+			"votes": 239,
+			"share": 0.60
+		}
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"id": 331,
+	"name": "Inverness, Nairn, Badenoch \u0026 Strathspey",
+	"seqNo": 443,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 17830,
+			"share": 40.30
+		},
+		{
+			"party": "LAB",
+			"votes": 13682,
+			"share": 30.90
+		},
+		{
+			"party": "SNP",
+			"votes": 5992,
+			"share": 13.50
+		},
+		{
+			"party": "CON",
+			"votes": 4579,
+			"share": 10.30
+		},
+		{
+			"party": "SGP",
+			"votes": 1065,
+			"share": 2.40
+		},
+		{
+			"party": "PubP",
+			"votes": 678,
+			"share": 1.50
+		},
+		{
+			"party": "OTH",
+			"votes": 678,
+			"share": 1.50
+		},
+		{
+			"party": "SSP",
+			"votes": 429,
+			"share": 1.00
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 49,
+	"name": "Bermondsey \u0026 Old Southwark",
+	"seqNo": 4,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 17177,
+			"share": 47.60
+		},
+		{
+			"party": "LAB",
+			"votes": 11408,
+			"share": 31.60
+		},
+		{
+			"party": "CON",
+			"votes": 4671,
+			"share": 13.00
+		},
+		{
+			"party": "GRN",
+			"votes": 1096,
+			"share": 3.00
+		},
+		{
+			"party": "OTH",
+			"votes": 937,
+			"share": 2.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 763,
+			"share": 2.10
+		}
+	]
+}

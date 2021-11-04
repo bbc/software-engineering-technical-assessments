@@ -1,0 +1,32 @@
+{
+	"id": 289,
+	"name": "Hampshire North West",
+	"seqNo": 414,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 25079,
+			"share": 50.50
+		},
+		{
+			"party": "LD",
+			"votes": 12396,
+			"share": 25.00
+		},
+		{
+			"party": "LAB",
+			"votes": 10357,
+			"share": 20.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1851,
+			"share": 3.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

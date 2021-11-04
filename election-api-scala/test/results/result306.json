@@ -1,0 +1,32 @@
+{
+	"id": 327,
+	"name": "Hyndburn",
+	"seqNo": 306,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18308,
+			"share": 45.70
+		},
+		{
+			"party": "CON",
+			"votes": 12780,
+			"share": 31.90
+		},
+		{
+			"party": "LD",
+			"votes": 5750,
+			"share": 14.40
+		},
+		{
+			"party": "OTH",
+			"votes": 2468,
+			"share": 6.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 753,
+			"share": 1.90
+		}
+	]
+}

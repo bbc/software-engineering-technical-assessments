@@ -6,4 +6,4 @@ case class ConstituencyResult(id: Int, name: String, seqNo: Int, partyResults: S
 case class ApiResponse (error: String, message: String)
 
 
-class Scoreboard()
+case class Scoreboard(declared:Int)

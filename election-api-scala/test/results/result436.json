@@ -1,0 +1,37 @@
+{
+	"id": 200,
+	"name": "Dorset West",
+	"seqNo": 436,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24763,
+			"share": 46.50
+		},
+		{
+			"party": "LD",
+			"votes": 22302,
+			"share": 41.90
+		},
+		{
+			"party": "LAB",
+			"votes": 4124,
+			"share": 7.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1084,
+			"share": 2.00
+		},
+		{
+			"party": "GRN",
+			"votes": 952,
+			"share": 1.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

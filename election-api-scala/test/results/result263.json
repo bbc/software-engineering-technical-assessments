@@ -1,0 +1,32 @@
+{
+	"id": 9,
+	"name": "Altrincham \u0026 Sale West",
+	"seqNo": 263,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20384,
+			"share": 47.00
+		},
+		{
+			"party": "LAB",
+			"votes": 12766,
+			"share": 29.40
+		},
+		{
+			"party": "LD",
+			"votes": 9489,
+			"share": 21.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 718,
+			"share": 1.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

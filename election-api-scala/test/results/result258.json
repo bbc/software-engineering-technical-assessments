@@ -1,0 +1,32 @@
+{
+	"id": 565,
+	"name": "Telford",
+	"seqNo": 258,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18119,
+			"share": 48.10
+		},
+		{
+			"party": "CON",
+			"votes": 12468,
+			"share": 33.10
+		},
+		{
+			"party": "LD",
+			"votes": 5301,
+			"share": 14.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1748,
+			"share": 4.60
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

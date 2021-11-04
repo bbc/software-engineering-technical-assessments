@@ -1,0 +1,32 @@
+{
+	"id": 489,
+	"name": "Saffron Walden",
+	"seqNo": 588,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 25086,
+			"share": 50.80
+		},
+		{
+			"party": "LD",
+			"votes": 14603,
+			"share": 29.60
+		},
+		{
+			"party": "LAB",
+			"votes": 6995,
+			"share": 14.20
+		},
+		{
+			"party": "OTH",
+			"votes": 1335,
+			"share": 2.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1320,
+			"share": 2.70
+		}
+	]
+}

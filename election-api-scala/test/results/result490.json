@@ -1,0 +1,37 @@
+{
+	"id": 113,
+	"name": "Bury St. Edmunds",
+	"seqNo": 490,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24549,
+			"share": 46.40
+		},
+		{
+			"party": "LAB",
+			"votes": 14469,
+			"share": 27.30
+		},
+		{
+			"party": "LD",
+			"votes": 10461,
+			"share": 19.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1873,
+			"share": 3.50
+		},
+		{
+			"party": "GRN",
+			"votes": 1607,
+			"share": 3.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

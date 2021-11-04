@@ -1,0 +1,37 @@
+{
+	"id": 88,
+	"name": "Braintree",
+	"seqNo": 463,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22422,
+			"share": 49.90
+		},
+		{
+			"party": "LAB",
+			"votes": 13764,
+			"share": 30.70
+		},
+		{
+			"party": "LD",
+			"votes": 6100,
+			"share": 13.60
+		},
+		{
+			"party": "GRN",
+			"votes": 1308,
+			"share": 2.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1076,
+			"share": 2.40
+		},
+		{
+			"party": "OTH",
+			"votes": 228,
+			"share": 0.50
+		}
+	]
+}

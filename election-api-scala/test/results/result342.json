@@ -1,0 +1,37 @@
+{
+	"id": 98,
+	"name": "Brighton Pavilion",
+	"seqNo": 342,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16283,
+			"share": 36.40
+		},
+		{
+			"party": "CON",
+			"votes": 10416,
+			"share": 23.30
+		},
+		{
+			"party": "GRN",
+			"votes": 9804,
+			"share": 21.90
+		},
+		{
+			"party": "LD",
+			"votes": 7174,
+			"share": 16.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 538,
+			"share": 1.20
+		},
+		{
+			"party": "OTH",
+			"votes": 526,
+			"share": 1.20
+		}
+	]
+}

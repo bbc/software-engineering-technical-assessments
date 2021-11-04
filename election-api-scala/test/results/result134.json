@@ -1,0 +1,62 @@
+{
+	"id": 374,
+	"name": "Livingston",
+	"seqNo": 134,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 22657,
+			"share": 51.10
+		},
+		{
+			"party": "SNP",
+			"votes": 9560,
+			"share": 21.60
+		},
+		{
+			"party": "LD",
+			"votes": 6832,
+			"share": 15.40
+		},
+		{
+			"party": "CON",
+			"votes": 4499,
+			"share": 10.10
+		},
+		{
+			"party": "SSP",
+			"votes": 789,
+			"share": 1.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		},
+		{
+			"party": "SOC",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "UKIP",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "GRN",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "AFC",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

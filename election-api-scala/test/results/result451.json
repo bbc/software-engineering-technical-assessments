@@ -1,0 +1,37 @@
+{
+	"id": 131,
+	"name": "Carmarthen East \u0026 Dinefwr",
+	"seqNo": 451,
+	"partyResults": [
+		{
+			"party": "PC",
+			"votes": 17124,
+			"share": 45.90
+		},
+		{
+			"party": "LAB",
+			"votes": 10573,
+			"share": 28.30
+		},
+		{
+			"party": "CON",
+			"votes": 5105,
+			"share": 13.70
+		},
+		{
+			"party": "LD",
+			"votes": 3626,
+			"share": 9.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 644,
+			"share": 1.70
+		},
+		{
+			"party": "OTH",
+			"votes": 272,
+			"share": 0.70
+		}
+	]
+}

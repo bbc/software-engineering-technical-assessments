@@ -1,0 +1,32 @@
+{
+	"id": 160,
+	"name": "Copeland",
+	"seqNo": 250,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18198,
+			"share": 46.70
+		},
+		{
+			"party": "CON",
+			"votes": 13041,
+			"share": 33.50
+		},
+		{
+			"party": "LD",
+			"votes": 5432,
+			"share": 13.90
+		},
+		{
+			"party": "OTH",
+			"votes": 1396,
+			"share": 3.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 891,
+			"share": 2.30
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 204,
+	"name": "Dudley North",
+	"seqNo": 116,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 15682,
+			"share": 42.60
+		},
+		{
+			"party": "CON",
+			"votes": 11576,
+			"share": 31.40
+		},
+		{
+			"party": "OTH",
+			"votes": 4022,
+			"share": 10.90
+		},
+		{
+			"party": "LD",
+			"votes": 3868,
+			"share": 10.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1697,
+			"share": 4.60
+		}
+	]
+}

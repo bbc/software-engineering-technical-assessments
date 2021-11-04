@@ -1,0 +1,47 @@
+{
+	"id": 417,
+	"name": "Newport East",
+	"seqNo": 309,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 14389,
+			"share": 45.20
+		},
+		{
+			"party": "LD",
+			"votes": 7551,
+			"share": 23.70
+		},
+		{
+			"party": "CON",
+			"votes": 7459,
+			"share": 23.40
+		},
+		{
+			"party": "PC",
+			"votes": 1221,
+			"share": 3.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 945,
+			"share": 3.00
+		},
+		{
+			"party": "OTH",
+			"votes": 260,
+			"share": 0.80
+		},
+		{
+			"party": "ED",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

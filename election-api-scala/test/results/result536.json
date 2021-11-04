@@ -1,0 +1,32 @@
+{
+	"id": 22,
+	"name": "Aylesbury",
+	"seqNo": 536,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23103,
+			"share": 48.30
+		},
+		{
+			"party": "LD",
+			"votes": 13789,
+			"share": 28.90
+		},
+		{
+			"party": "LAB",
+			"votes": 8730,
+			"share": 18.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 2161,
+			"share": 4.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

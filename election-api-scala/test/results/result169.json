@@ -1,0 +1,37 @@
+{
+	"id": 402,
+	"name": "Montgomeryshire",
+	"seqNo": 169,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 15548,
+			"share": 50.30
+		},
+		{
+			"party": "CON",
+			"votes": 8500,
+			"share": 27.50
+		},
+		{
+			"party": "LAB",
+			"votes": 3794,
+			"share": 12.30
+		},
+		{
+			"party": "PC",
+			"votes": 2156,
+			"share": 7.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 916,
+			"share": 3.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

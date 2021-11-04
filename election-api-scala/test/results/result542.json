@@ -1,0 +1,37 @@
+{
+	"id": 465,
+	"name": "Reading West",
+	"seqNo": 542,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19362,
+			"share": 45.00
+		},
+		{
+			"party": "CON",
+			"votes": 14431,
+			"share": 33.60
+		},
+		{
+			"party": "LD",
+			"votes": 6781,
+			"share": 15.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1196,
+			"share": 2.80
+		},
+		{
+			"party": "GRN",
+			"votes": 950,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 267,
+			"share": 0.60
+		}
+	]
+}

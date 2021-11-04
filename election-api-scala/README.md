@@ -20,20 +20,17 @@ During your assessment we will ask you to work though the task in `tasks.md` wit
 
 ## Prerequisites
 - Java 11
+- Scala
+- sbt
 
 ### To Build
-macOS / 'nix
 
-`./gradlew build`
-
-Windows:
-
-`gradlew.bat build`
+`sbt compile`
 
 ### To Run
 
-`./gradlew bootRun`
+`sbt run`
 
 ### To Test
 
-`./gradlew test`
+`sbt test`

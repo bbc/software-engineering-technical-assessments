@@ -1,0 +1,32 @@
+{
+	"id": 175,
+	"name": "Dagenham \u0026 Rainham",
+	"seqNo": 15,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19964,
+			"share": 49.20
+		},
+		{
+			"party": "CON",
+			"votes": 13592,
+			"share": 33.50
+		},
+		{
+			"party": "LD",
+			"votes": 3676,
+			"share": 9.10
+		},
+		{
+			"party": "OTH",
+			"votes": 1789,
+			"share": 4.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1585,
+			"share": 3.90
+		}
+	]
+}

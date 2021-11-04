@@ -1,0 +1,32 @@
+{
+	"id": 108,
+	"name": "Buckingham",
+	"seqNo": 575,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 28781,
+			"share": 58.20
+		},
+		{
+			"party": "LAB",
+			"votes": 10065,
+			"share": 20.30
+		},
+		{
+			"party": "LD",
+			"votes": 8922,
+			"share": 18.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 1705,
+			"share": 3.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

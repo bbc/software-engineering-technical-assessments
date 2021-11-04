@@ -1,0 +1,37 @@
+{
+	"id": 170,
+	"name": "Croydon Central",
+	"seqNo": 622,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18745,
+			"share": 41.10
+		},
+		{
+			"party": "CON",
+			"votes": 18417,
+			"share": 40.40
+		},
+		{
+			"party": "LD",
+			"votes": 5835,
+			"share": 12.80
+		},
+		{
+			"party": "GRN",
+			"votes": 1009,
+			"share": 2.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 988,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 598,
+			"share": 1.30
+		}
+	]
+}

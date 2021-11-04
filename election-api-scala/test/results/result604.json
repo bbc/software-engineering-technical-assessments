@@ -1,0 +1,37 @@
+{
+	"id": 606,
+	"name": "Wealden",
+	"seqNo": 604,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 25166,
+			"share": 50.40
+		},
+		{
+			"party": "LD",
+			"votes": 12354,
+			"share": 24.70
+		},
+		{
+			"party": "LAB",
+			"votes": 8334,
+			"share": 16.70
+		},
+		{
+			"party": "GRN",
+			"votes": 2166,
+			"share": 4.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 1901,
+			"share": 3.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

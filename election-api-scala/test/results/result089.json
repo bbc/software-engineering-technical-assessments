@@ -1,0 +1,52 @@
+{
+	"id": 348,
+	"name": "Lanark \u0026 Hamilton East",
+	"seqNo": 89,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20072,
+			"share": 46.00
+		},
+		{
+			"party": "LD",
+			"votes": 8125,
+			"share": 18.60
+		},
+		{
+			"party": "SNP",
+			"votes": 7746,
+			"share": 17.80
+		},
+		{
+			"party": "CON",
+			"votes": 5576,
+			"share": 12.80
+		},
+		{
+			"party": "OTH",
+			"votes": 831,
+			"share": 1.90
+		},
+		{
+			"party": "SSP",
+			"votes": 802,
+			"share": 1.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 437,
+			"share": 1.00
+		},
+		{
+			"party": "IND",
+			"votes": 416,
+			"share": 1.00
+		},
+		{
+			"party": "OCV",
+			"votes": 415,
+			"share": 1.00
+		}
+	]
+}

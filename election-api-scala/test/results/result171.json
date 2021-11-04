@@ -1,0 +1,32 @@
+{
+	"id": 545,
+	"name": "Stretford \u0026 Urmston",
+	"seqNo": 171,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20061,
+			"share": 51.40
+		},
+		{
+			"party": "CON",
+			"votes": 11751,
+			"share": 30.10
+		},
+		{
+			"party": "LD",
+			"votes": 5429,
+			"share": 13.90
+		},
+		{
+			"party": "OTH",
+			"votes": 950,
+			"share": 2.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 863,
+			"share": 2.20
+		}
+	]
+}

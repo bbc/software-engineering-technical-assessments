@@ -1,0 +1,42 @@
+{
+	"id": 94,
+	"name": "Bridgend",
+	"seqNo": 300,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 14621,
+			"share": 42.90
+		},
+		{
+			"party": "CON",
+			"votes": 8532,
+			"share": 25.00
+		},
+		{
+			"party": "LD",
+			"votes": 7512,
+			"share": 22.00
+		},
+		{
+			"party": "PC",
+			"votes": 2350,
+			"share": 6.90
+		},
+		{
+			"party": "GRN",
+			"votes": 595,
+			"share": 1.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 469,
+			"share": 1.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

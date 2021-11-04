@@ -1,0 +1,32 @@
+{
+	"id": 577,
+	"name": "Totnes",
+	"seqNo": 564,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20009,
+			"share": 42.80
+		},
+		{
+			"party": "LD",
+			"votes": 17316,
+			"share": 37.10
+		},
+		{
+			"party": "LAB",
+			"votes": 5674,
+			"share": 12.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 3537,
+			"share": 7.60
+		},
+		{
+			"party": "OTH",
+			"votes": 199,
+			"share": 0.40
+		}
+	]
+}

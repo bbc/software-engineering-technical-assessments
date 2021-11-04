@@ -1,0 +1,47 @@
+{
+	"id": 210,
+	"name": "Dunbartonshire West",
+	"seqNo": 133,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21600,
+			"share": 51.90
+		},
+		{
+			"party": "SNP",
+			"votes": 9047,
+			"share": 21.80
+		},
+		{
+			"party": "LD",
+			"votes": 5999,
+			"share": 14.40
+		},
+		{
+			"party": "CON",
+			"votes": 2679,
+			"share": 6.40
+		},
+		{
+			"party": "SSP",
+			"votes": 1708,
+			"share": 4.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 354,
+			"share": 0.90
+		},
+		{
+			"party": "OCV",
+			"votes": 202,
+			"share": 0.50
+		},
+		{
+			"party": "OTH",
+			"votes": 202,
+			"share": 0.50
+		}
+	]
+}

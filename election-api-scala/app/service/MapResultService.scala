@@ -1,8 +1,10 @@
 package service
+import com.google.inject.Singleton
 import model.ConstituencyResult
 
 import scala.util.Try
 
+@Singleton
 class MapResultService extends ResultService {
   var internalDatabase: Map[Int,ConstituencyResult] = Map[Int,ConstituencyResult]()
 

@@ -1,0 +1,47 @@
+{
+	"id": 250,
+	"name": "Fife North East",
+	"seqNo": 93,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 20088,
+			"share": 52.10
+		},
+		{
+			"party": "CON",
+			"votes": 7517,
+			"share": 19.50
+		},
+		{
+			"party": "LAB",
+			"votes": 4920,
+			"share": 12.80
+		},
+		{
+			"party": "SNP",
+			"votes": 4011,
+			"share": 10.40
+		},
+		{
+			"party": "SGP",
+			"votes": 1071,
+			"share": 2.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 533,
+			"share": 1.40
+		},
+		{
+			"party": "SSP",
+			"votes": 416,
+			"share": 1.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

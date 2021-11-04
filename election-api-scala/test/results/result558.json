@@ -1,0 +1,32 @@
+{
+	"id": 150,
+	"name": "Christchurch",
+	"seqNo": 558,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 25886,
+			"share": 55.30
+		},
+		{
+			"party": "LD",
+			"votes": 11246,
+			"share": 24.00
+		},
+		{
+			"party": "LAB",
+			"votes": 7297,
+			"share": 15.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 2378,
+			"share": 5.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

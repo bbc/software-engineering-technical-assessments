@@ -12,15 +12,11 @@ import scala.util.{Failure, Success}
 class ResultsController @Inject()(val controllerComponents: ControllerComponents,
                                   val resultService: ResultService)
   extends BaseController {
-  implicit val constituencyResultJson: OFormat[ConstituencyResult] = Json.format[ConstituencyResult]
   implicit val partyResultJson: OFormat[PartyResult] = Json.format[PartyResult]
-//  implicit val scoreboardJson: OFormat[Scoreboard] = Json.format[Scoreboard]
+  implicit val constituencyResultJson: OFormat[ConstituencyResult] = Json.format[ConstituencyResult]
+  implicit val scoreboardJson: OFormat[Scoreboard] = Json.format[Scoreboard]
   implicit val apiResponseJson : OFormat[ApiResponse] = Json.format[ApiResponse]
 
-  implicit val scoreboardJson = new Writes[Scoreboard] {
-    def writes(scoreboard: Scoreboard) = Json.obj(
-    )
-  }
 
 
   def getResult(id: Int): Action[AnyContent] = Action {

@@ -1,0 +1,32 @@
+{
+	"id": 44,
+	"name": "Bedfordshire South West",
+	"seqNo": 288,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22114,
+			"share": 48.30
+		},
+		{
+			"party": "LAB",
+			"votes": 13837,
+			"share": 30.20
+		},
+		{
+			"party": "LD",
+			"votes": 7723,
+			"share": 16.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1923,
+			"share": 4.20
+		},
+		{
+			"party": "OTH",
+			"votes": 217,
+			"share": 0.50
+		}
+	]
+}

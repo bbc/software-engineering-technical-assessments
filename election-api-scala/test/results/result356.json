@@ -1,0 +1,32 @@
+{
+	"id": 502,
+	"name": "Sevenoaks",
+	"seqNo": 356,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22982,
+			"share": 51.40
+		},
+		{
+			"party": "LD",
+			"votes": 9922,
+			"share": 22.20
+		},
+		{
+			"party": "LAB",
+			"votes": 9492,
+			"share": 21.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 1355,
+			"share": 3.00
+		},
+		{
+			"party": "OTH",
+			"votes": 984,
+			"share": 2.20
+		}
+	]
+}
