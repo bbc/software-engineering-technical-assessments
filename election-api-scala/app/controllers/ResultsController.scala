@@ -1,0 +1,5 @@
+package controllers
+
+class ResultsController {
+
+}

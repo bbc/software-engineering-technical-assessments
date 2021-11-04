@@ -1,0 +1,5 @@
+package service
+
+trait ResultService {
+
+}

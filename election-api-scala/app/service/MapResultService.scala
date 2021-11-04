@@ -1,0 +1,5 @@
+package service
+
+class MapResultService {
+
+}
