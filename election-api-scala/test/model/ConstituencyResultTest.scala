@@ -5,8 +5,8 @@ import play.api.libs.json.{Json, OFormat}
 
 class ConstituencyResultTest extends FunSuite {
 
-  implicit val constituencyResultJson: OFormat[ConstituencyResult] = Json.format[ConstituencyResult]
   implicit val partyResultJson: OFormat[PartyResult] = Json.format[PartyResult]
+  implicit val constituencyResultJson: OFormat[ConstituencyResult] = Json.format[ConstituencyResult]
   test("jsonParse") {
     val json = """{
                  |	"id": 2,
