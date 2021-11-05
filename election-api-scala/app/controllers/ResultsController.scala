@@ -14,6 +14,7 @@ class ResultsController @Inject()(val controllerComponents: ControllerComponents
   extends BaseController {
   implicit val partyResultJson: OFormat[PartyResult] = Json.format[PartyResult]
   implicit val constituencyResultJson: OFormat[ConstituencyResult] = Json.format[ConstituencyResult]
+  //TODO: You will need to check the json formatting of your scoreboard object if it has a sequence of results
   implicit val scoreboardJson: OFormat[Scoreboard] = Json.format[Scoreboard]
   implicit val apiResponseJson : OFormat[ApiResponse] = Json.format[ApiResponse]
 
@@ -44,7 +45,7 @@ class ResultsController @Inject()(val controllerComponents: ControllerComponents
   }
 
   def getScoreboard: Action[AnyContent] =  Action {
-    InternalServerError(Json.toJson(ApiResponse(message = "Implement me", error = "")))
-  }
 
+    Ok(Json.toJson(Scoreboard(0)))
+  }
 }
