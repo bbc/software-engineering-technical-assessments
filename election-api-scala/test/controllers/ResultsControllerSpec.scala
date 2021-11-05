@@ -60,7 +60,7 @@ class ResultsControllerSpec extends PlaySpec with GuiceOneAppPerTest with Inject
       ld mustEqual LDSeats
       lab mustEqual LabSeats
       con mustEqual ConSeats
-//      scoreboard.winner mustEqual winner
+//      something mustEqual winner
       fail("Implement me")
     }
 
