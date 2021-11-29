@@ -11,7 +11,7 @@ const mockDataFetcher = () => {
       results: [
         {
           'party': 'Independent',
-          'candidate': 'Lord Buckethead',
+          'candidateId': 1,
           'votes': '9900'
         }
       ]

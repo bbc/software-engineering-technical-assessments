@@ -1,5 +1,5 @@
 import fetchResults from '../dataFetcher';
-import { fetchResultData } from '../fakeAPI';
+import { fetchResultData, fetchCandidateMap } from '../fakeAPI';
 
 jest.mock('../fakeAPI');
 
@@ -10,12 +10,20 @@ const mockFakeApi = () => {
       results: [
         {
           'party': 'Independent',
-          'candidate': 'Lord Buckethead',
-          'votes': '9900'
+          'votes': '9900',
+          'candidateId': 1
         }
       ]
     })
   });
+  fetchCandidateMap.mockImplementationOnce(() => {
+    return [
+      {
+        id: 1,
+        name: 'Baldrick'
+      }
+    ]
+  })
 }
 
 test('returns an Object', async () => {
