@@ -17,7 +17,7 @@ The scoreboard should show:
 - The seats for each party
 - The overall winner if there is one
 
-There is a function in the [endpoint controller](src/resultsController.js) to put your implementation. You will also need to [complete the tests](scoreboard.spec.js) according to the output format you create.
+There is a function in the [endpoint controller](src/resultsController.js) to put your implementation. You will also need to [complete the tests](test/scoreboard.spec.js) according to the output format you create.
 
 Bonus information for the scoreboard:
 - The total votes for each party
