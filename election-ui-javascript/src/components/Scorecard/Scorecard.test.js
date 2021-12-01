@@ -4,7 +4,7 @@ import Scorecard from '.';
 const results = [
   {
     'party': 'Green',
-    'candidate': '',
+    'candidateId': 2,
     'votes': '1056'
   }
 ];
