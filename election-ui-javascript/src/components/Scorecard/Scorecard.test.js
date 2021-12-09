@@ -17,8 +17,8 @@ test('renders results', async () => {
   const votesHeading = screen.getByText(/Votes/i);
 
   const party = screen.getByText(/Green/i);
-  const votes = screen.getByText(/votes/i);
-  
+  const votes = screen.getByText(/1056/i);
+
   expect(partyHeading).toBeInTheDocument();
   expect(candidateHeading).toBeInTheDocument();
   expect(votesHeading).toBeInTheDocument();
