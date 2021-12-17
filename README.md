@@ -10,6 +10,7 @@ The applications:
 - `election-api-golang` A fake election API written with Go
 - `election-api-java` A fake election API written with Java
 - `election-api-javascript` A fake election API written with NodeJS
+- `election-api-scala` A fake election API written with Scala
 - `election-ui-javascript` A fake elections Web UI written with React and Javascript
 
 Each makes up part a mock elections system which could show results pages similar to how BBC News covers elections, for example: https://www.bbc.co.uk/news/topics/c37d28xdn99t/scottish-parliament-election-2021. These pieces of software don't rely on one another or interact in any way.
