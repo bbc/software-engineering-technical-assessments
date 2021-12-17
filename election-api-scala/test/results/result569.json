@@ -1,0 +1,32 @@
+{
+	"id": 422,
+	"name": "Norfolk North",
+	"seqNo": 569,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 26410,
+			"share": 53.20
+		},
+		{
+			"party": "CON",
+			"votes": 17835,
+			"share": 35.90
+		},
+		{
+			"party": "LAB",
+			"votes": 4439,
+			"share": 8.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 817,
+			"share": 1.60
+		},
+		{
+			"party": "OTH",
+			"votes": 116,
+			"share": 0.20
+		}
+	]
+}

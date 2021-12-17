@@ -1,0 +1,32 @@
+{
+	"id": 121,
+	"name": "Cambridgeshire North West",
+	"seqNo": 430,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24491,
+			"share": 46.20
+		},
+		{
+			"party": "LAB",
+			"votes": 13566,
+			"share": 25.60
+		},
+		{
+			"party": "LD",
+			"votes": 12128,
+			"share": 22.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 2805,
+			"share": 5.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

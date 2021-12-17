@@ -1,0 +1,32 @@
+{
+	"id": 315,
+	"name": "Hitchin \u0026 Harpenden",
+	"seqNo": 602,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23866,
+			"share": 49.40
+		},
+		{
+			"party": "LD",
+			"votes": 12802,
+			"share": 26.50
+		},
+		{
+			"party": "LAB",
+			"votes": 10593,
+			"share": 21.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 845,
+			"share": 1.70
+		},
+		{
+			"party": "OTH",
+			"votes": 199,
+			"share": 0.40
+		}
+	]
+}

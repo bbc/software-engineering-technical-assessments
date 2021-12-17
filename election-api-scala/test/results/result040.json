@@ -1,0 +1,32 @@
+{
+	"id": 391,
+	"name": "Meon Valley",
+	"seqNo": 40,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22228,
+			"share": 45.90
+		},
+		{
+			"party": "LD",
+			"votes": 19850,
+			"share": 41.00
+		},
+		{
+			"party": "LAB",
+			"votes": 5141,
+			"share": 10.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1225,
+			"share": 2.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

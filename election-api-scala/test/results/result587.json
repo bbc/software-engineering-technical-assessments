@@ -1,0 +1,32 @@
+{
+	"id": 177,
+	"name": "Dartford",
+	"seqNo": 587,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19518,
+			"share": 43.00
+		},
+		{
+			"party": "CON",
+			"votes": 18658,
+			"share": 41.10
+		},
+		{
+			"party": "LD",
+			"votes": 4581,
+			"share": 10.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1361,
+			"share": 3.00
+		},
+		{
+			"party": "OTH",
+			"votes": 1224,
+			"share": 2.70
+		}
+	]
+}

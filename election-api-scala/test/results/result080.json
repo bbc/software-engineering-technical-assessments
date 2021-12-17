@@ -1,0 +1,42 @@
+{
+	"id": 487,
+	"name": "Rutherglen \u0026 Hamilton West",
+	"seqNo": 80,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 24054,
+			"share": 55.60
+		},
+		{
+			"party": "LD",
+			"votes": 7942,
+			"share": 18.40
+		},
+		{
+			"party": "SNP",
+			"votes": 6023,
+			"share": 13.90
+		},
+		{
+			"party": "CON",
+			"votes": 3621,
+			"share": 8.40
+		},
+		{
+			"party": "SSP",
+			"votes": 1164,
+			"share": 2.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 457,
+			"share": 1.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 314,
+	"name": "High Peak",
+	"seqNo": 535,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18950,
+			"share": 41.10
+		},
+		{
+			"party": "CON",
+			"votes": 17200,
+			"share": 37.30
+		},
+		{
+			"party": "LD",
+			"votes": 8946,
+			"share": 19.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 989,
+			"share": 2.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

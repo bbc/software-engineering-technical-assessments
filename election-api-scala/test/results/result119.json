@@ -1,0 +1,32 @@
+{
+	"id": 106,
+	"name": "Broxbourne",
+	"seqNo": 119,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21878,
+			"share": 53.80
+		},
+		{
+			"party": "LAB",
+			"votes": 10369,
+			"share": 25.50
+		},
+		{
+			"party": "LD",
+			"votes": 4973,
+			"share": 12.20
+		},
+		{
+			"party": "OTH",
+			"votes": 1929,
+			"share": 4.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1479,
+			"share": 3.60
+		}
+	]
+}

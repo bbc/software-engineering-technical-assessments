@@ -1,0 +1,37 @@
+{
+	"id": 387,
+	"name": "Manchester Central",
+	"seqNo": 200,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18004,
+			"share": 59.30
+		},
+		{
+			"party": "LD",
+			"votes": 6368,
+			"share": 21.00
+		},
+		{
+			"party": "CON",
+			"votes": 3168,
+			"share": 10.40
+		},
+		{
+			"party": "GRN",
+			"votes": 1264,
+			"share": 4.20
+		},
+		{
+			"party": "OTH",
+			"votes": 986,
+			"share": 3.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 547,
+			"share": 1.80
+		}
+	]
+}

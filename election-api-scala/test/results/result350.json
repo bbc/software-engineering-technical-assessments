@@ -1,0 +1,32 @@
+{
+	"id": 332,
+	"name": "Ipswich",
+	"seqNo": 350,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19020,
+			"share": 42.90
+		},
+		{
+			"party": "CON",
+			"votes": 13785,
+			"share": 31.10
+		},
+		{
+			"party": "LD",
+			"votes": 9368,
+			"share": 21.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1207,
+			"share": 2.70
+		},
+		{
+			"party": "OTH",
+			"votes": 940,
+			"share": 2.10
+		}
+	]
+}

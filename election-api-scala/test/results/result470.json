@@ -1,0 +1,32 @@
+{
+	"id": 467,
+	"name": "Redditch",
+	"seqNo": 470,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18166,
+			"share": 43.70
+		},
+		{
+			"party": "CON",
+			"votes": 16003,
+			"share": 38.50
+		},
+		{
+			"party": "LD",
+			"votes": 5975,
+			"share": 14.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1432,
+			"share": 3.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 581,
+	"name": "Twickenham",
+	"seqNo": 508,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 26696,
+			"share": 51.60
+		},
+		{
+			"party": "CON",
+			"votes": 16731,
+			"share": 32.40
+		},
+		{
+			"party": "LAB",
+			"votes": 5868,
+			"share": 11.40
+		},
+		{
+			"party": "GRN",
+			"votes": 1445,
+			"share": 2.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 766,
+			"share": 1.50
+		},
+		{
+			"party": "OTH",
+			"votes": 181,
+			"share": 0.40
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 176,
+	"name": "Darlington",
+	"seqNo": 122,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20811,
+			"share": 52.30
+		},
+		{
+			"party": "CON",
+			"votes": 10394,
+			"share": 26.10
+		},
+		{
+			"party": "LD",
+			"votes": 7346,
+			"share": 18.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 737,
+			"share": 1.90
+		},
+		{
+			"party": "OTH",
+			"votes": 509,
+			"share": 1.30
+		}
+	]
+}

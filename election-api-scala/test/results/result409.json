@@ -1,0 +1,32 @@
+{
+	"id": 302,
+	"name": "Hemel Hempstead",
+	"seqNo": 409,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 18567,
+			"share": 40.10
+		},
+		{
+			"party": "LAB",
+			"votes": 18399,
+			"share": 39.80
+		},
+		{
+			"party": "LD",
+			"votes": 7823,
+			"share": 16.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1492,
+			"share": 3.20
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

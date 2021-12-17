@@ -1,0 +1,37 @@
+{
+	"id": 547,
+	"name": "Suffolk Central \u0026 Ipswich North",
+	"seqNo": 467,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21570,
+			"share": 44.50
+		},
+		{
+			"party": "LAB",
+			"votes": 13784,
+			"share": 28.50
+		},
+		{
+			"party": "LD",
+			"votes": 9808,
+			"share": 20.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 1681,
+			"share": 3.50
+		},
+		{
+			"party": "GRN",
+			"votes": 1593,
+			"share": 3.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

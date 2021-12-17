@@ -1,0 +1,32 @@
+{
+	"id": 324,
+	"name": "Hull North",
+	"seqNo": 142,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 14679,
+			"share": 52.30
+		},
+		{
+			"party": "LD",
+			"votes": 7295,
+			"share": 26.00
+		},
+		{
+			"party": "CON",
+			"votes": 3730,
+			"share": 13.30
+		},
+		{
+			"party": "OTH",
+			"votes": 1527,
+			"share": 5.40
+		},
+		{
+			"party": "GRN",
+			"votes": 858,
+			"share": 3.10
+		}
+	]
+}

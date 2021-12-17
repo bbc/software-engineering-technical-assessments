@@ -1,0 +1,32 @@
+{
+	"id": 343,
+	"name": "Kingston \u0026 Surbiton",
+	"seqNo": 257,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 25637,
+			"share": 51.10
+		},
+		{
+			"party": "CON",
+			"votes": 16553,
+			"share": 33.00
+		},
+		{
+			"party": "LAB",
+			"votes": 6610,
+			"share": 13.20
+		},
+		{
+			"party": "OTH",
+			"votes": 712,
+			"share": 1.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 661,
+			"share": 1.30
+		}
+	]
+}

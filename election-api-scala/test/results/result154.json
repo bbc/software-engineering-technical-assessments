@@ -1,0 +1,37 @@
+{
+	"id": 369,
+	"name": "Linlithgow \u0026 East Falkirk",
+	"seqNo": 154,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 22121,
+			"share": 47.70
+		},
+		{
+			"party": "SNP",
+			"votes": 10919,
+			"share": 23.50
+		},
+		{
+			"party": "LD",
+			"votes": 7100,
+			"share": 15.30
+		},
+		{
+			"party": "CON",
+			"votes": 5486,
+			"share": 11.80
+		},
+		{
+			"party": "SSP",
+			"votes": 763,
+			"share": 1.60
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

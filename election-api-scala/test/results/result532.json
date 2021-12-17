@@ -1,0 +1,32 @@
+{
+	"id": 287,
+	"name": "Hampshire East",
+	"seqNo": 532,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21441,
+			"share": 47.00
+		},
+		{
+			"party": "LD",
+			"votes": 15473,
+			"share": 33.90
+		},
+		{
+			"party": "LAB",
+			"votes": 7499,
+			"share": 16.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1176,
+			"share": 2.60
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

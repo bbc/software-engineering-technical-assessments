@@ -1,0 +1,32 @@
+{
+	"id": 368,
+	"name": "Lincoln",
+	"seqNo": 316,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17563,
+			"share": 43.70
+		},
+		{
+			"party": "CON",
+			"votes": 13757,
+			"share": 34.20
+		},
+		{
+			"party": "LD",
+			"votes": 7387,
+			"share": 18.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1475,
+			"share": 3.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

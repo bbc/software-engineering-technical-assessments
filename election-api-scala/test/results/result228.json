@@ -1,0 +1,37 @@
+{
+	"id": 544,
+	"name": "Streatham",
+	"seqNo": 228,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17699,
+			"share": 47.00
+		},
+		{
+			"party": "LD",
+			"votes": 11115,
+			"share": 29.50
+		},
+		{
+			"party": "CON",
+			"votes": 6138,
+			"share": 16.30
+		},
+		{
+			"party": "GRN",
+			"votes": 2072,
+			"share": 5.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 366,
+			"share": 1.00
+		},
+		{
+			"party": "OTH",
+			"votes": 302,
+			"share": 0.80
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 460,
+	"name": "Preston",
+	"seqNo": 203,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 14663,
+			"share": 48.70
+		},
+		{
+			"party": "CON",
+			"votes": 6325,
+			"share": 21.00
+		},
+		{
+			"party": "LD",
+			"votes": 5986,
+			"share": 19.90
+		},
+		{
+			"party": "OTH",
+			"votes": 2318,
+			"share": 7.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 845,
+			"share": 2.80
+		}
+	]
+}

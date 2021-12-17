@@ -1,0 +1,32 @@
+{
+	"id": 375,
+	"name": "Llanelli",
+	"seqNo": 244,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16592,
+			"share": 46.90
+		},
+		{
+			"party": "PC",
+			"votes": 9358,
+			"share": 26.50
+		},
+		{
+			"party": "CON",
+			"votes": 4844,
+			"share": 13.70
+		},
+		{
+			"party": "LD",
+			"votes": 4550,
+			"share": 12.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 488,
+	"name": "Rutland \u0026 Melton",
+	"seqNo": 438,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 25328,
+			"share": 51.20
+		},
+		{
+			"party": "LAB",
+			"votes": 12330,
+			"share": 24.90
+		},
+		{
+			"party": "LD",
+			"votes": 9183,
+			"share": 18.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1562,
+			"share": 3.20
+		},
+		{
+			"party": "OTH",
+			"votes": 1033,
+			"share": 2.10
+		}
+	]
+}

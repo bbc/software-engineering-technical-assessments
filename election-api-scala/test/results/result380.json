@@ -1,0 +1,32 @@
+{
+	"id": 181,
+	"name": "Derby North",
+	"seqNo": 380,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16420,
+			"share": 42.10
+		},
+		{
+			"party": "LD",
+			"votes": 10729,
+			"share": 27.50
+		},
+		{
+			"party": "CON",
+			"votes": 10120,
+			"share": 25.90
+		},
+		{
+			"party": "OTH",
+			"votes": 958,
+			"share": 2.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 805,
+			"share": 2.10
+		}
+	]
+}

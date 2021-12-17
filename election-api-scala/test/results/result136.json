@@ -1,0 +1,47 @@
+{
+	"id": 445,
+	"name": "Paisley \u0026 Renfrewshire North",
+	"seqNo": 136,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18697,
+			"share": 45.70
+		},
+		{
+			"party": "SNP",
+			"votes": 7696,
+			"share": 18.80
+		},
+		{
+			"party": "LD",
+			"votes": 7464,
+			"share": 18.30
+		},
+		{
+			"party": "CON",
+			"votes": 5566,
+			"share": 13.60
+		},
+		{
+			"party": "SSP",
+			"votes": 646,
+			"share": 1.60
+		},
+		{
+			"party": "SLP",
+			"votes": 444,
+			"share": 1.10
+		},
+		{
+			"party": "OTH",
+			"votes": 444,
+			"share": 1.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 372,
+			"share": 0.90
+		}
+	]
+}

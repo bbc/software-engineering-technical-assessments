@@ -1,0 +1,32 @@
+{
+	"id": 40,
+	"name": "Beckenham",
+	"seqNo": 367,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 25002,
+			"share": 59.70
+		},
+		{
+			"party": "LAB",
+			"votes": 8089,
+			"share": 19.30
+		},
+		{
+			"party": "LD",
+			"votes": 6748,
+			"share": 16.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1189,
+			"share": 2.80
+		},
+		{
+			"party": "OTH",
+			"votes": 836,
+			"share": 2.00
+		}
+	]
+}

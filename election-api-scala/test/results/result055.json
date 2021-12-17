@@ -1,0 +1,32 @@
+{
+	"id": 483,
+	"name": "Rugby",
+	"seqNo": 55,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20047,
+			"share": 43.50
+		},
+		{
+			"party": "CON",
+			"votes": 17650,
+			"share": 38.30
+		},
+		{
+			"party": "LD",
+			"votes": 6896,
+			"share": 15.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 905,
+			"share": 2.00
+		},
+		{
+			"party": "OTH",
+			"votes": 557,
+			"share": 1.20
+		}
+	]
+}

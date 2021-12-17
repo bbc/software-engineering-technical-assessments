@@ -1,0 +1,32 @@
+{
+	"id": 493,
+	"name": "St. Helens South",
+	"seqNo": 215,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 22820,
+			"share": 55.60
+		},
+		{
+			"party": "LD",
+			"votes": 11833,
+			"share": 28.80
+		},
+		{
+			"party": "CON",
+			"votes": 4977,
+			"share": 12.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 781,
+			"share": 1.90
+		},
+		{
+			"party": "OTH",
+			"votes": 643,
+			"share": 1.60
+		}
+	]
+}

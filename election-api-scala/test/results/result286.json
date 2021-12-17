@@ -1,0 +1,32 @@
+{
+	"id": 373,
+	"name": "Liverpool West Derby",
+	"seqNo": 286,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18547,
+			"share": 60.50
+		},
+		{
+			"party": "LD",
+			"votes": 4673,
+			"share": 15.30
+		},
+		{
+			"party": "OTH",
+			"votes": 4304,
+			"share": 14.10
+		},
+		{
+			"party": "CON",
+			"votes": 2519,
+			"share": 8.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 589,
+			"share": 1.90
+		}
+	]
+}

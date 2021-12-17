@@ -1,0 +1,32 @@
+{
+	"id": 579,
+	"name": "Truro \u0026 Falmouth",
+	"seqNo": 69,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 17406,
+			"share": 41.00
+		},
+		{
+			"party": "CON",
+			"votes": 13475,
+			"share": 31.70
+		},
+		{
+			"party": "LAB",
+			"votes": 8090,
+			"share": 19.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 2447,
+			"share": 5.80
+		},
+		{
+			"party": "OTH",
+			"votes": 1062,
+			"share": 2.50
+		}
+	]
+}

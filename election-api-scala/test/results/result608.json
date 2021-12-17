@@ -1,0 +1,32 @@
+{
+	"id": 521,
+	"name": "South Ribble",
+	"seqNo": 608,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20642,
+			"share": 44.30
+		},
+		{
+			"party": "CON",
+			"votes": 18114,
+			"share": 38.80
+		},
+		{
+			"party": "LD",
+			"votes": 6854,
+			"share": 14.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1029,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

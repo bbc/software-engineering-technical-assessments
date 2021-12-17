@@ -1,0 +1,47 @@
+{
+	"id": 231,
+	"name": "Edinburgh South West",
+	"seqNo": 404,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17476,
+			"share": 39.80
+		},
+		{
+			"party": "CON",
+			"votes": 10234,
+			"share": 23.30
+		},
+		{
+			"party": "LD",
+			"votes": 9252,
+			"share": 21.10
+		},
+		{
+			"party": "SNP",
+			"votes": 4654,
+			"share": 10.60
+		},
+		{
+			"party": "SGP",
+			"votes": 1520,
+			"share": 3.50
+		},
+		{
+			"party": "SSP",
+			"votes": 585,
+			"share": 1.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 205,
+			"share": 0.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

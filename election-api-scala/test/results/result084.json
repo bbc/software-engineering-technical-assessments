@@ -1,0 +1,27 @@
+{
+	"id": 325,
+	"name": "Hull West \u0026 Hessle",
+	"seqNo": 84,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 15244,
+			"share": 55.10
+		},
+		{
+			"party": "LD",
+			"votes": 5814,
+			"share": 21.00
+		},
+		{
+			"party": "CON",
+			"votes": 5741,
+			"share": 20.70
+		},
+		{
+			"party": "OTH",
+			"votes": 889,
+			"share": 3.20
+		}
+	]
+}

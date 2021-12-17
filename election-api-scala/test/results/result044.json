@@ -1,0 +1,27 @@
+{
+	"id": 405,
+	"name": "Morley \u0026 Outwood",
+	"seqNo": 44,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19024,
+			"share": 46.00
+		},
+		{
+			"party": "CON",
+			"votes": 10355,
+			"share": 25.00
+		},
+		{
+			"party": "OTH",
+			"votes": 7851,
+			"share": 19.00
+		},
+		{
+			"party": "LD",
+			"votes": 4159,
+			"share": 10.00
+		}
+	]
+}

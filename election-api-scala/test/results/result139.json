@@ -1,0 +1,37 @@
+{
+	"id": 355,
+	"name": "Leeds West",
+	"seqNo": 139,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19831,
+			"share": 56.20
+		},
+		{
+			"party": "LD",
+			"votes": 6132,
+			"share": 17.40
+		},
+		{
+			"party": "CON",
+			"votes": 4967,
+			"share": 14.10
+		},
+		{
+			"party": "GRN",
+			"votes": 2544,
+			"share": 7.20
+		},
+		{
+			"party": "OTH",
+			"votes": 1166,
+			"share": 3.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 643,
+			"share": 1.80
+		}
+	]
+}

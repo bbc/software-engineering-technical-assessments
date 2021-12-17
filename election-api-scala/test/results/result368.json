@@ -1,0 +1,42 @@
+{
+	"id": 229,
+	"name": "Edinburgh North \u0026 Leith",
+	"seqNo": 368,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 14597,
+			"share": 34.20
+		},
+		{
+			"party": "LD",
+			"votes": 12444,
+			"share": 29.20
+		},
+		{
+			"party": "CON",
+			"votes": 7969,
+			"share": 18.70
+		},
+		{
+			"party": "SNP",
+			"votes": 4344,
+			"share": 10.20
+		},
+		{
+			"party": "SGP",
+			"votes": 2482,
+			"share": 5.80
+		},
+		{
+			"party": "SSP",
+			"votes": 804,
+			"share": 1.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

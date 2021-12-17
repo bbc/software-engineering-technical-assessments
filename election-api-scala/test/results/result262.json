@@ -1,0 +1,32 @@
+{
+	"id": 399,
+	"name": "Mitcham \u0026 Morden",
+	"seqNo": 262,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 22526,
+			"share": 56.70
+		},
+		{
+			"party": "CON",
+			"votes": 9787,
+			"share": 24.60
+		},
+		{
+			"party": "LD",
+			"votes": 5543,
+			"share": 14.00
+		},
+		{
+			"party": "GRN",
+			"votes": 1388,
+			"share": 3.50
+		},
+		{
+			"party": "OTH",
+			"votes": 472,
+			"share": 1.20
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 386,
+	"name": "Maldon",
+	"seqNo": 39,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23889,
+			"share": 56.30
+		},
+		{
+			"party": "LAB",
+			"votes": 10258,
+			"share": 24.20
+		},
+		{
+			"party": "LD",
+			"votes": 6360,
+			"share": 15.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 1917,
+			"share": 4.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

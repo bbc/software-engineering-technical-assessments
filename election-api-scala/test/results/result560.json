@@ -1,0 +1,52 @@
+{
+	"id": 441,
+	"name": "Orkney \u0026 Shetland",
+	"seqNo": 560,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 9138,
+			"share": 51.50
+		},
+		{
+			"party": "LAB",
+			"votes": 2511,
+			"share": 14.20
+		},
+		{
+			"party": "CON",
+			"votes": 2357,
+			"share": 13.30
+		},
+		{
+			"party": "SNP",
+			"votes": 1833,
+			"share": 10.30
+		},
+		{
+			"party": "SSP",
+			"votes": 992,
+			"share": 5.60
+		},
+		{
+			"party": "OTH",
+			"votes": 487,
+			"share": 2.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 424,
+			"share": 2.40
+		},
+		{
+			"party": "LC",
+			"votes": 311,
+			"share": 1.80
+		},
+		{
+			"party": "FSP",
+			"votes": 176,
+			"share": 1.00
+		}
+	]
+}

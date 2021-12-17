@@ -1,0 +1,27 @@
+{
+	"id": 186,
+	"name": "Derbyshire South",
+	"seqNo": 493,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19146,
+			"share": 42.90
+		},
+		{
+			"party": "CON",
+			"votes": 16710,
+			"share": 37.40
+		},
+		{
+			"party": "LD",
+			"votes": 5738,
+			"share": 12.80
+		},
+		{
+			"party": "OTH",
+			"votes": 3069,
+			"share": 6.90
+		}
+	]
+}

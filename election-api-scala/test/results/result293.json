@@ -1,0 +1,37 @@
+{
+	"id": 296,
+	"name": "Hartlepool",
+	"seqNo": 293,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18251,
+			"share": 51.50
+		},
+		{
+			"party": "LD",
+			"votes": 10773,
+			"share": 30.40
+		},
+		{
+			"party": "CON",
+			"votes": 4058,
+			"share": 11.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1256,
+			"share": 3.50
+		},
+		{
+			"party": "OTH",
+			"votes": 810,
+			"share": 2.30
+		},
+		{
+			"party": "GRN",
+			"votes": 288,
+			"share": 0.80
+		}
+	]
+}
