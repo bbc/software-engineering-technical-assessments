@@ -6,4 +6,4 @@
 # An example controller showing a sample home page
 GET     /result/:id                           controllers.ResultsController.getResult(id: Int)
 GET     /scoreboard                           controllers.ResultsController.getScoreboard
-POST    /result                               controllers.ResultsController.postResult
+POST    /result                               controllers.ResultsController.postResult()
