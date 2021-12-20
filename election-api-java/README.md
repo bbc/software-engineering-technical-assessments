@@ -24,16 +24,26 @@ During your assessment we will ask you to work though the task in `tasks.md` wit
 ### To Build
 macOS / 'nix
 
-`./gradlew build`
+`./gradlew build` or `./mvw install`
 
 Windows:
 
-`gradlew.bat build`
+`gradlew.bat build` or `./mvnw.cmd install`
 
 ### To Run
+macOS / 'nix
 
-`./gradlew bootRun`
+`./gradlew bootRun` or `./mvnw spring-boot:run`
+
+Windows:
+
+`gradlew.bat bootRun` or `./mvnw.cmd spring-boot:run`
 
 ### To Test
+macOS / 'nix
 
-`./gradlew test`
+`./gradlew test` or `./mvnw test`
+
+Windows:
+
+`gradlew.bat test` or `./mvnw.cmd test`
