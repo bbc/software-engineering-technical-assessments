@@ -28,6 +28,7 @@ Summary:
 
 What you need to do:
 
+- If you are not familiar with how elections work in the UK, please see this short BBC video https://www.youtube.com/watch?v=cRxUhGetEPQ
 - Please select the application that best matches your skillset or gives you the best chance to show your skills.
 - Inform the recruiter of your choice so that the assessment can be finalised.
 - Install/Set up the application 'locally' as per the README file in the relevant directory

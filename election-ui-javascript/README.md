@@ -1,5 +1,7 @@
 # Mock Election UI
 
+If you are not familiar with how elections work in the UK, please see this short BBC video https://www.youtube.com/watch?v=cRxUhGetEPQ
+
 This repository contains a fake 'in progress' elections UI.
 
 Before your election we would like you to get a 'local' environment set up to run this application.

@@ -1,4 +1,7 @@
 ## Description
+
+If you are not familiar with how elections work in the UK, please see this short BBC video https://www.youtube.com/watch?v=cRxUhGetEPQ
+
 The results API presents a simple elections result service.
 
 ### Domain

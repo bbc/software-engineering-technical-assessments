@@ -14,10 +14,10 @@ Note: 325 isn't a proper majority of 650 but the speaker of the house makes the 
 
 The scoreboard should show:
 - The seats for each party
-- The overall winner if there is one
+- The overall winner (i.e. the party with 325 or more seats) if there is one
 
 There is a case class [Scoreboard](app/model/PartyResult.scala) ready to be extended and an
-endpoint controller: [ResultsController](app/controllers/ResultsController.scala).   You will also need to complete 
+endpoint controller to put your implementation: [ResultsController](app/controllers/ResultsController.scala).   You will also need to complete 
 the [tests](test/controllers/ResultsControllerSpec.scala) as part of your implementation.
 
 Bonus information for the scoreboard:

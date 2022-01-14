@@ -15,12 +15,14 @@ Note: 325 isn't a proper majority of 650 but the speaker of the house makes the 
 
 The scoreboard should show:
 - The seats for each party
-- The overall winner if there is one
+- The overall winner (i.e. the party with 325 or more seats) if there is one
+
+There is a function in the [app.go](api/app.go) to put your implementation. You will also need 
+to [complete the tests](api/app_test.go) alongside your implementation.
 
 Bonus information for the scoreboard:
 - The total votes for each party
 - The total share of the vote for each party. So the percentage of votes for each party.
-
 
 ### Possible other implementations
 
