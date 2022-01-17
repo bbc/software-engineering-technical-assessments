@@ -27,7 +27,7 @@ During your assessment we will ask you to work though the task in `tasks.md` wit
 ### To Build
 macOS / 'nix
 
-`./gradlew build` or `./mvw install`
+`./gradlew build` or `./mvnw install`
 
 Windows:
 
