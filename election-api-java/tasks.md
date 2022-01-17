@@ -10,7 +10,7 @@ For each constituency a winner can be declared:
 Someone wins in the UK if they receive half of the constituency seats in Parliament (325).
 So if a party has received 325 or more seats it can be declared the winner overall.
 
-Note: 325 isn't a proper majority of 650 but the speaker of the house makes the effective number of voting MPs 349.
+Note: 325 isn't a proper majority of 650 but the speaker of the house makes the effective number of voting MPs 649.
 
 The scoreboard should show:
 - The seats for each party
