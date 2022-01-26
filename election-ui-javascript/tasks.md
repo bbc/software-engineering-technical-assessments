@@ -10,7 +10,7 @@ Features:
 
 - Can we make it clear when the counting is complete?
 - Can we calculate the winner and highlight them in the table somehow?
-- When counting is complete can be remove the refresh button?
+- When counting is complete can we remove the refresh button?
 
 3) Why does the table vanish when I press "refresh"?
 
