@@ -38,7 +38,7 @@ function Scoreboard() {
           <>
             <h1>Results</h1>
             <Scorecard results={results} />
-            <a className="Scoreboard-refresh" onClick={getData}>Refresh</a>
+            <a className="Scoreboard-refresh">Refresh</a>
             <h1>Learn more about the parties...</h1>
             <PartyLinks/>
           </>
