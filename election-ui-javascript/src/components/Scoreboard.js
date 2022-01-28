@@ -3,6 +3,7 @@ import Logo from './logo/logo';
 import fetchData from '../dataFetcher';
 import Scorecard from './Scorecard';
 import './Scoreboard.css';
+import PartyLinks from "./PartyLinks";
 
 function Scoreboard() {
   const [loading, setLoading] = useState(true);
@@ -38,6 +39,8 @@ function Scoreboard() {
             <h1>Results</h1>
             <Scorecard results={results} />
             <a className="Scoreboard-refresh" onClick={getData}>Refresh</a>
+            <h1>Learn more about the parties...</h1>
+            <PartyLinks/>
           </>
         }
       </main>
