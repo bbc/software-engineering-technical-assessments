@@ -9,7 +9,7 @@ const PARTIES = [
   { name: 'Rattle Party', url: 'https://en.wikipedia.org/wiki/Rattlesnake'},
 ]
 
-function Scorecard() {
+function PartyLinks() {
   return (
     <ul className="Party-links">
       {PARTIES.map((party) =>
@@ -21,4 +21,4 @@ function Scorecard() {
   );
 }
 
-export default Scorecard;
+export default PartyLinks;
