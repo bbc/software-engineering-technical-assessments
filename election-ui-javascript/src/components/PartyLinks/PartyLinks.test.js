@@ -11,7 +11,7 @@ test('renders party links as a list', async () => {
 test('renders all the party links', async () => {
   const { container } = render(<PartyLinks/>);
 
-  const partyLink = container.querySelectorAll('.Party-link')
+  const partyLink = container.querySelectorAll('li.Party-link')
   expect(partyLink.length).toBe(6);
 });
 
