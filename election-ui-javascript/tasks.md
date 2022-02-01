@@ -1,5 +1,7 @@
 The product owner has asked us to use to add some additional features to the application. They are unfortunately not available to clarify the below so we are being trusted in our interpretation of them!
 
+When you are working on the application you will also need to run and update the tests associated with the components that you change.  Use `npm test` to run the tests from the command line.
+
 Features:
 
 1) There are no candidate names!
