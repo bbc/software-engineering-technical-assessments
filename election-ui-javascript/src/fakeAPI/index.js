@@ -1,6 +1,6 @@
 // Important!
 // This file returns static data in a crude attempt to mock an external API for the purpose of the test
-// It can be IGNORED for the purposes of the assessment
+// You may want to use it as a reference, but you do not need to make any changes to this file.
 
 const candidateMap = [
   {
