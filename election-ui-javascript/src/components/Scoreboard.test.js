@@ -4,7 +4,7 @@ import dataFetcher from '../dataFetcher';
 
 jest.mock('../dataFetcher');
 
-const mockDataFetcher = () => {
+test('renders Results', async () => {
   dataFetcher.mockImplementationOnce(() => {
     return Promise.resolve({
       isComplete: false,
@@ -17,13 +17,9 @@ const mockDataFetcher = () => {
       ]
     })
   });
-}
-
-test('renders Results', async () => {
-  mockDataFetcher();
 
   render(<Scoreboard />);
-  
+
   await waitFor(() => {
     const results = screen.getByText(/Independent/i);
     expect(results).toBeInTheDocument();
@@ -44,13 +40,44 @@ test('renders error state', async () => {
 });
 
 test('fetches results again when refresh button clicked', async () => {
-  mockDataFetcher();
+  dataFetcher.mockImplementationOnce(() => {
+    return Promise.resolve({
+      isComplete: false,
+      results: [
+        {
+          'party': 'Independent',
+          'candidateId': 2,
+          'votes': '9900'
+        }
+      ]
+    })
+  });
+
+  dataFetcher.mockImplementationOnce(() => {
+    return Promise.resolve({
+      isComplete: false,
+      results: [
+        {
+          'party': 'Independent',
+          'candidateId': 2,
+          'votes': '12345'
+        }
+      ]
+    })
+  });
 
   render(<Scoreboard />);
 
   await waitFor(() => {
-    const refreshButton = screen.getByText(/Refresh/i);
-    fireEvent.click(refreshButton);
-    expect(dataFetcher).toBeCalled();
+    const votes = screen.getByText(/9900/i);
+    expect(votes).toBeInTheDocument();
+  });
+
+  const refreshButton = screen.getByText(/Refresh/i);
+  fireEvent.click(refreshButton);
+
+  await waitFor(() => {
+    const votesAfterRefresh = screen.getByText(/12345/i);
+    expect(votesAfterRefresh).toBeInTheDocument();
   });
 });
