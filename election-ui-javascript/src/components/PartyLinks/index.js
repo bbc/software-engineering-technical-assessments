@@ -1,12 +1,12 @@
 import './PartyLinks.css';
 
 const PARTIES = [
-  { name: 'Adder Party', url: 'https://en.wikipedia.org/wiki/Vipera_berus'},
-  { name: 'Python Party', url: 'https://en.wikipedia.org/wiki/Pythonidae'},
-  { name: 'Cobra Party', url: 'https://en.wikipedia.org/wiki/Elapidae'},
-  { name: 'Anaconda Party', url: 'https://en.wikipedia.org/wiki/Green_anaconda'},
-  { name: 'Boa Party', url: 'https://en.wikipedia.org/wiki/Boa_constrictor'},
-  { name: 'Rattle Party', url: 'https://en.wikipedia.org/wiki/Rattlesnake'},
+  { name: 'Hippo Party', url: 'https://en.wikipedia.org/wiki/Hippopotamus'},
+  { name: 'Giraffe Party', url: 'https://en.wikipedia.org/wiki/Giraffe'},
+  { name: 'Tiger Party', url: 'https://en.wikipedia.org/wiki/Tiger'},
+  { name: 'Zebra Party', url: 'https://en.wikipedia.org/wiki/Zebra'},
+  { name: 'Meerkat Party', url: 'https://en.wikipedia.org/wiki/Meerkat'},
+  { name: 'Pelican Party', url: 'https://en.wikipedia.org/wiki/Pelican'},
 ]
 
 function PartyLinks() {

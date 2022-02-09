@@ -19,6 +19,6 @@ test('renders a party link with the correct text and href', async () => {
   const { container } = render(<PartyLinks/>);
 
   const partyLinksAnchorTag = container.querySelector('.Party-link a')
-  expect(partyLinksAnchorTag.textContent).toBe('Adder Party');
-  expect(partyLinksAnchorTag.href).toBe('https://en.wikipedia.org/wiki/Vipera_berus');
+  expect(partyLinksAnchorTag.textContent).toBe('Hippo Party');
+  expect(partyLinksAnchorTag.href).toBe('https://en.wikipedia.org/wiki/Hippopotamus');
 });
