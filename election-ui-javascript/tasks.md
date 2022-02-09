@@ -1,3 +1,5 @@
+⚠️ **These tasks have changed**: for candidates booked for assessment after 10 February 2022, please make sure that you get the latest version on or after 14 February 2022.
+
 Various team members have asked us to make some changes to the application. They are unfortunately not available to clarify the below so we are being trusted in our interpretation of them!
 
 When you are working on the application you will also need to run and update the tests associated with the components that you change.  Use `npm test` to run the tests from the command line.
