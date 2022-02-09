@@ -61,11 +61,11 @@ const fetchResultData = () => {
   }
 )};
 
-const fetchCandidateMap = () => candidateMap;
+const fetchCandidateData = () => candidateMap;
 
 export {
   fetchResultData,
-  fetchCandidateMap
+  fetchCandidateData
 }
 
 export default fetchResultData;

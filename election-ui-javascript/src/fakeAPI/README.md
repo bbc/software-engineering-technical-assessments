@@ -4,7 +4,7 @@ This directory contains a rudimentary mock of a data API for the purposes of the
 
 ## Interface
 
-The mock API exports two named functions `fetchResultData` and `fetchCandidateMap`, and a default export of `fetchResultData`.
+The mock API exports two named functions `fetchResultData` and `fetchCandidateData`, and a default export of `fetchResultData`.
 
 ### `fetchResultData`
 - Takes no parameters.
@@ -48,23 +48,23 @@ Expected output after > 5 mock "requests":
     {
       'party': 'Adder Party',
       'candidateId': 1,
-      'votes': '1056'
+      'votes': '1656'
     },
     {
       'party': 'Independent',
       'candidateId': 2,
-      'votes': '6900'
+      'votes': '7500'
     },
     {
       'party': 'Independent',
       'candidateId': 3,
-      'votes': '9900'
+      'votes': '10500'
     }
   ]
 }
 ```
 
-### `fetchCandidateMap`
+### `fetchCandidateData`
 - Takes no parameters.
 - Returns an array.
 
