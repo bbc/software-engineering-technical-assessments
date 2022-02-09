@@ -2,7 +2,7 @@
 // This file returns static data in a crude attempt to mock an external API for the purpose of the test
 // You may want to use it as a reference, but you do not need to make any changes to this file.
 
-const candidateMap = [
+const candidateData = [
   {
     id: 1,
     name: 'Baldrick'
@@ -61,7 +61,7 @@ const fetchResultData = () => {
   }
 )};
 
-const fetchCandidateData = () => candidateMap;
+const fetchCandidateData = () => candidateData;
 
 export {
   fetchResultData,

@@ -2,7 +2,7 @@ import { fetchResultData, fetchCandidateData } from '../fakeAPI'; // Lets imagin
 
 async function fetchResults() {
   const results = await fetchResultData();
-  const candidateMap = fetchCandidateData();
+  const candidateData = fetchCandidateData();
 
   return results;
 }
