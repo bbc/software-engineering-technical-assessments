@@ -23,7 +23,7 @@ test('renders Results', async () => {
   mockDataFetcher();
 
   render(<Scoreboard />);
-  
+
   await waitFor(() => {
     const results = screen.getByText(/Independent/i);
     expect(results).toBeInTheDocument();
@@ -47,6 +47,8 @@ test('fetches results again when refresh button clicked', async () => {
   mockDataFetcher();
 
   render(<Scoreboard />);
+
+  dataFetcher.mockClear()
 
   await waitFor(() => {
     const refreshButton = screen.getByText(/Refresh/i);
