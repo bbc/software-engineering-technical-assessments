@@ -68,6 +68,8 @@ test('fetches results again when refresh button clicked', async () => {
 
   render(<Scoreboard />);
 
+  dataFetcher.mockClear()
+
   await waitFor(() => {
     const votes = screen.getByText(/9900/i);
     expect(votes).toBeInTheDocument();

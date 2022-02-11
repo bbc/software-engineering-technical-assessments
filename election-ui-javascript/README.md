@@ -19,7 +19,7 @@ npm start
 
 Notes:
 1) You will see some console warnings when running the 'build' and 'start' step. Assuming the application starts up correctly these can be ignored.
-2) The contents of the fakeAPI directory can be ignored. They exist to mock an external API for the purpose of the assessment.
+2) The fakeAPI directory contains a mock of an external API, for the purposes of the assessment. Inside the fakeAPI directory you will find a README that describes the interface and outputs of the API, but you should not need to change the mock API itself.
 
 At this point we don't ask you to do any more until your booked assessment time.
 

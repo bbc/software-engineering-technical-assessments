@@ -1,8 +1,8 @@
 // Important!
 // This file returns static data in a crude attempt to mock an external API for the purpose of the test
-// It can be IGNORED for the purposes of the assessment
+// You may want to use it as a reference, but you do not need to make any changes to this file.
 
-const candidateMap = [
+const candidateData = [
   {
     id: 1,
     name: 'Baldrick'
@@ -23,17 +23,17 @@ const defaultData = {
   },
   results: [
     {
-      'party': 'Adder Party',
+      'party': 'Hippo Party',
       'candidateId': 1,
       'votes': '1056'
     },
     {
-      'party': 'Independent',
+      'party': 'Giraffe Party',
       'candidateId': 2,
       'votes': '6900'
     },
     {
-      'party': 'Independent',
+      'party': 'Tiger Party',
       'candidateId': 3,
       'votes': '9900'
     }
@@ -43,7 +43,7 @@ const defaultData = {
 // 😬
 let callCount = 0;
 const dubiouslyUpdateVoteCount = (item, multiplier = 0) => parseInt(item.votes) + (100 * multiplier);
-const dubiouslyIncrementCount = (count) => count < 6 ? count + 1 : count;
+const dubiouslyIncrementCount = (count) => count < 5 ? count + 1 : count;
 const dubiouslySetResult = (metadata, count) => count >= 5 ? { ...metadata, isComplete: true } : metadata;
 
 const fetchResultData = () => {
@@ -61,11 +61,11 @@ const fetchResultData = () => {
   }
 )};
 
-const fetchCandidateMap = () => candidateMap;
+const fetchCandidateData = () => candidateData;
 
 export {
   fetchResultData,
-  fetchCandidateMap
+  fetchCandidateData
 }
 
 export default fetchResultData;
