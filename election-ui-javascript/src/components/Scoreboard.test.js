@@ -1,4 +1,4 @@
-import { render, screen, waitFor, fireEvent } from '@testing-library/react';
+import { fireEvent, render, screen, waitFor, within } from '@testing-library/react';
 import Scoreboard from './Scoreboard';
 import dataFetcher from '../dataFetcher';
 
@@ -10,7 +10,7 @@ test('renders Results', async () => {
       isComplete: false,
       results: [
         {
-          'party': 'Independent',
+          'party': 'Giraffe Party',
           'candidateId': 2,
           'votes': '9900'
         }
@@ -21,8 +21,8 @@ test('renders Results', async () => {
   render(<Scoreboard />);
 
   await waitFor(() => {
-    const results = screen.getByText(/Independent/i);
-    expect(results).toBeInTheDocument();
+    const resultParty = within(screen.getByRole('table')).getByText(/Giraffe Party/i);
+    expect(resultParty).toBeInTheDocument();
   });
 });
 
@@ -45,7 +45,7 @@ test('fetches results again when refresh button clicked', async () => {
       isComplete: false,
       results: [
         {
-          'party': 'Independent',
+          'party': 'Giraffe Party',
           'candidateId': 2,
           'votes': '9900'
         }
@@ -58,7 +58,7 @@ test('fetches results again when refresh button clicked', async () => {
       isComplete: false,
       results: [
         {
-          'party': 'Independent',
+          'party': 'Giraffe Party',
           'candidateId': 2,
           'votes': '12345'
         }
@@ -67,8 +67,6 @@ test('fetches results again when refresh button clicked', async () => {
   });
 
   render(<Scoreboard />);
-
-  dataFetcher.mockClear()
 
   await waitFor(() => {
     const votes = screen.getByText(/9900/i);
