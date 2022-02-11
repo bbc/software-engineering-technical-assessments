@@ -43,7 +43,7 @@ const defaultData = {
 // 😬
 let callCount = 0;
 const dubiouslyUpdateVoteCount = (item, multiplier = 0) => parseInt(item.votes) + (100 * multiplier);
-const dubiouslyIncrementCount = (count) => count < 6 ? count + 1 : count;
+const dubiouslyIncrementCount = (count) => count < 5 ? count + 1 : count;
 const dubiouslySetResult = (metadata, count) => count >= 5 ? { ...metadata, isComplete: true } : metadata;
 
 const fetchResultData = () => {
