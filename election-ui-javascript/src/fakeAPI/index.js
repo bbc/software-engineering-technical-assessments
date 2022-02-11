@@ -23,7 +23,7 @@ const defaultData = {
   },
   results: [
     {
-      'party': 'Adder Party',
+      'party': 'Hippo Party',
       'candidateId': 1,
       'votes': '1056'
     },
