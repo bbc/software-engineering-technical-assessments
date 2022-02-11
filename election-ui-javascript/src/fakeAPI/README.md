@@ -19,17 +19,17 @@ Expected initial output:
   },
   results: [
     {
-      'party': 'Adder Party',
+      'party': 'Hippo Party',
       'candidateId': 1,
       'votes': '1056'
     },
     {
-      'party': 'Independent',
+      'party': 'Giraffe Party',
       'candidateId': 2,
       'votes': '6900'
     },
     {
-      'party': 'Independent',
+      'party': 'Tiger Party',
       'candidateId': 3,
       'votes': '9900'
     }
@@ -37,7 +37,7 @@ Expected initial output:
 }
 ```
 
-Expected output after > 5 mock "requests":
+Expected output after 4 calls from the UI:
 
 ```js
 {
@@ -46,19 +46,19 @@ Expected output after > 5 mock "requests":
   },
   results: [
     {
-      'party': 'Adder Party',
+      'party': 'Hippo Party',
       'candidateId': 1,
-      'votes': '1656'
+      'votes': '1556'
     },
     {
-      'party': 'Independent',
+      'party': 'Giraffe Party',
       'candidateId': 2,
-      'votes': '7500'
+      'votes': '7400'
     },
     {
-      'party': 'Independent',
+      'party': 'Tiger Party',
       'candidateId': 3,
-      'votes': '10500'
+      'votes': '10400'
     }
   ]
 }
