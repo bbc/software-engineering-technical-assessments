@@ -1,4 +1,4 @@
-import { fetchResultData, fetchCandidateMap } from '../fakeAPI'; // Lets imagine this is an external service that we are calling via https
+import { fetchResultData, fetchCandidateMap } from '../fakeAPI'; // Let's imagine this is an external service that we are calling via https
 
 async function fetchResults() {
   const results = await fetchResultData();

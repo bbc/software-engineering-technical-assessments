@@ -28,12 +28,12 @@ const defaultData = {
       'votes': '1056'
     },
     {
-      'party': 'Independent',
+      'party': 'Giraffe Party',
       'candidateId': 2,
       'votes': '6900'
     },
     {
-      'party': 'Independent',
+      'party': 'Tiger Party',
       'candidateId': 3,
       'votes': '9900'
     }
