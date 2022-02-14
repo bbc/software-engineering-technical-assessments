@@ -40,7 +40,7 @@ function Scoreboard() {
             <Scorecard results={results} />
             <a className="Scoreboard-refresh">Refresh</a>
             <h1>Learn more about the parties...</h1>
-            <PartyLinks/>
+            <PartyLinks />
           </>
         }
       </main>

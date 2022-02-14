@@ -68,6 +68,7 @@ test('fetches results again when refresh button clicked', async () => {
 
   render(<Scoreboard />);
 
+  expect(dataFetcher).toBeCalledTimes(1);
   await waitFor(() => {
     const votes = screen.getByText(/9900/i);
     expect(votes).toBeInTheDocument();
@@ -76,6 +77,7 @@ test('fetches results again when refresh button clicked', async () => {
   const refreshButton = screen.getByText(/Refresh/i);
   fireEvent.click(refreshButton);
 
+  expect(dataFetcher).toBeCalledTimes(2);
   await waitFor(() => {
     const votesAfterRefresh = screen.getByText(/12345/i);
     expect(votesAfterRefresh).toBeInTheDocument();
