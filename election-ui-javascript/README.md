@@ -23,6 +23,8 @@ Notes:
 
 At this point we don't ask you to do any more until your booked assessment time.
 
+:warning:  If you make any changes to the code, please ensure you return it to it's initial (HEAD) state before your assessment.
+
 Assessment Time
 ---
 
