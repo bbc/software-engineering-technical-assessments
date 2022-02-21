@@ -9,7 +9,7 @@ const mockFakeApi = () => {
       isComplete: false,
       results: [
         {
-          'party': 'Independent',
+          'party': 'Giraffe Party',
           'candidateId': 2,
           'votes': '9900'
         }
