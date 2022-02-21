@@ -3,7 +3,6 @@ package bbc.news.elections.service;
 import bbc.news.elections.model.ConstituencyResult;
 import org.springframework.stereotype.Component;
 
-import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 

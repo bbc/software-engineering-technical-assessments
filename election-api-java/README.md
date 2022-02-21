@@ -25,7 +25,6 @@ During your assessment we will ask you to work though the task in `tasks.md` wit
 
 ## Prerequisites
 - Java 11
-- [Lombok](https://projectlombok.org/)
 
 ### Please ensure that the project builds without error within your choice of IDE. This should require no changes to the files in this repository.
 ### To Build
