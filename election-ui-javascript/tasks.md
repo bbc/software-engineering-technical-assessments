@@ -1,4 +1,4 @@
-⚠️ **These tasks have changed**: for candidates booked for assessment after 24 February 2022, please make sure that you get the latest version on or after 28 February 2022.
+⚠️ **These tasks have changed**: for candidates booked for assessment after 24 February 2022, please make sure that you get the latest version on or after 25 February 2022.
 
 Various team members have asked us to make some changes to the application. They are unfortunately not available to clarify the below so we are being trusted in our interpretation of them!
 

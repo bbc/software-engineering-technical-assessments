@@ -1,32 +1,28 @@
-import { render, screen, waitFor, fireEvent } from '@testing-library/react';
+import { fireEvent, render, screen, waitFor, within } from '@testing-library/react';
 import Scoreboard from './Scoreboard';
 import dataFetcher from '../dataFetcher';
 
 jest.mock('../dataFetcher');
 
-const mockDataFetcher = () => {
+test('renders Results', async () => {
   dataFetcher.mockImplementationOnce(() => {
     return Promise.resolve({
       isComplete: false,
       results: [
         {
-          'party': 'Independent',
+          'party': 'Giraffe Party',
           'candidateId': 2,
           'votes': '9900'
         }
       ]
     })
   });
-}
-
-test('renders Results', async () => {
-  mockDataFetcher();
 
   render(<Scoreboard />);
 
   await waitFor(() => {
-    const results = screen.getByText(/Independent/i);
-    expect(results).toBeInTheDocument();
+    const resultParty = within(screen.getByRole('table')).getByText(/Giraffe Party/i);
+    expect(resultParty).toBeInTheDocument();
   });
 });
 
@@ -44,15 +40,46 @@ test('renders error state', async () => {
 });
 
 test('fetches results again when refresh button clicked', async () => {
-  mockDataFetcher();
+  dataFetcher.mockImplementationOnce(() => {
+    return Promise.resolve({
+      isComplete: false,
+      results: [
+        {
+          'party': 'Giraffe Party',
+          'candidateId': 2,
+          'votes': '9900'
+        }
+      ]
+    })
+  });
+
+  dataFetcher.mockImplementationOnce(() => {
+    return Promise.resolve({
+      isComplete: false,
+      results: [
+        {
+          'party': 'Giraffe Party',
+          'candidateId': 2,
+          'votes': '12345'
+        }
+      ]
+    })
+  });
 
   render(<Scoreboard />);
 
-  dataFetcher.mockClear()
-
+  expect(dataFetcher).toBeCalledTimes(1);
   await waitFor(() => {
-    const refreshButton = screen.getByText(/Refresh/i);
-    fireEvent.click(refreshButton);
-    expect(dataFetcher).toBeCalled();
+    const votes = screen.getByText(/9900/i);
+    expect(votes).toBeInTheDocument();
+  });
+
+  const refreshButton = screen.getByText(/Refresh/i);
+  fireEvent.click(refreshButton);
+
+  expect(dataFetcher).toBeCalledTimes(2);
+  await waitFor(() => {
+    const votesAfterRefresh = screen.getByText(/12345/i);
+    expect(votesAfterRefresh).toBeInTheDocument();
   });
 });

@@ -9,9 +9,11 @@ Before your election we would like you to get a 'local' environment set up to ru
 Setup
 ---
 
-Requires: Node (14)
+Requires: 
+* node (16) - available from https://nodejs.org/en/download/, use the LTS version.
+* npm (8.x) - will be installed with node 16, or see https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
-```javascript
+```
 npm install
 npm run build
 npm start
@@ -19,9 +21,11 @@ npm start
 
 Notes:
 1) You will see some console warnings when running the 'build' and 'start' step. Assuming the application starts up correctly these can be ignored.
-2) The contents of the fakeAPI directory can be ignored. They exist to mock an external API for the purpose of the assessment.
+2) The fakeAPI directory contains a mock of an external API, for the purposes of the assessment. Inside the fakeAPI directory you will find a README that describes the interface and outputs of the API, but you should not need to change the mock API itself.
 
 At this point we don't ask you to do any more until your booked assessment time.
+
+:warning:  If you make any changes to the code, please ensure you return it to it's initial (HEAD) state before your assessment.
 
 Assessment Time
 ---
