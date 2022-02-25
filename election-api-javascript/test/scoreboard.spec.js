@@ -33,39 +33,48 @@ describe('Scoreboard Tests', () => {
         await loadResults(server, 5);
         const scoreboard = await fetchScoreboard(server);
         expect(scoreboard).not.toBeNull();
-		// assert LD == 1
-		// assert LAB = 4
-		// assert winner = noone
+        // assert LD == 1
+        // assert LAB = 4
+        // assert winner = noone
     });
 
     test('first 100', async () => {
         await loadResults(server, 100);
         const scoreboard = await fetchScoreboard(server);
         expect(scoreboard).not.toBeNull();
-		// assert LD == 12
-		// assert LAB == 56
-		// assert CON == 31
-		// assert winner = noone
+        // assert LD == 12
+        // assert LAB == 56
+        // assert CON == 31
+        // assert SGP == 0
+        // assert winner = noone
+        // Bonus Task (total votes):
+        // assert SGP == 1071
     });
 
     test('first 554', async () => {
         await loadResults(server, 554);
         const scoreboard = await fetchScoreboard(server);
         expect(scoreboard).not.toBeNull();
-		// assert LD == 52
-		// assert LAB = 325
-		// assert CON = 167
-		// assert winner = LAB
+        // assert LD == 52
+        // assert LAB = 325
+        // assert CON = 167
+        // assert IKHH = 1
+        // assert winner = LAB
+        // Bonus Task (total votes):
+        // assert IKHH == 18739
     });
 
     test('test all results', async () => {
         await loadResults(server, 650);
         const scoreboard = await fetchScoreboard(server);
         expect(scoreboard).not.toBeNull();
-		// assert LD == 62
-		// assert LAB == 349
-		// assert CON == 210
-		// assert winner = LAB
-		// assert sum = 650
+        // assert LD == 62
+        // assert LAB == 349
+        // assert CON == 210
+        // assert SDLP == 3
+        // assert winner = LAB
+        // assert sum = 650
+        // Bonus Task (total votes):
+        // assert SDLP == 125626
     });
 });
