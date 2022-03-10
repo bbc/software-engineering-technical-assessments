@@ -1,0 +1,32 @@
+{
+	"id": 166,
+	"name": "Coventry North West",
+	"seqNo": 360,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20084,
+			"share": 48.00
+		},
+		{
+			"party": "CON",
+			"votes": 11150,
+			"share": 26.60
+		},
+		{
+			"party": "LD",
+			"votes": 7702,
+			"share": 18.40
+		},
+		{
+			"party": "OTH",
+			"votes": 2171,
+			"share": 5.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 737,
+			"share": 1.80
+		}
+	]
+}

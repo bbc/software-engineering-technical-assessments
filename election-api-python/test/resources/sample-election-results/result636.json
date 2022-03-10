@@ -1,0 +1,42 @@
+{
+	"id": 13,
+	"name": "Antrim East",
+	"seqNo": 636,
+	"partyResults": [
+		{
+			"party": "DUP",
+			"votes": 15766,
+			"share": 49.60
+		},
+		{
+			"party": "UUP",
+			"votes": 8462,
+			"share": 26.60
+		},
+		{
+			"party": "AP",
+			"votes": 4869,
+			"share": 15.30
+		},
+		{
+			"party": "SDLP",
+			"votes": 1695,
+			"share": 5.30
+		},
+		{
+			"party": "SF",
+			"votes": 828,
+			"share": 2.60
+		},
+		{
+			"party": "VFY",
+			"votes": 147,
+			"share": 0.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

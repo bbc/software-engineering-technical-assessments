@@ -1,0 +1,32 @@
+{
+	"id": 625,
+	"name": "Wirral West",
+	"seqNo": 630,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 15705,
+			"share": 41.80
+		},
+		{
+			"party": "LAB",
+			"votes": 15136,
+			"share": 40.30
+		},
+		{
+			"party": "LD",
+			"votes": 6158,
+			"share": 16.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 437,
+			"share": 1.20
+		},
+		{
+			"party": "OTH",
+			"votes": 163,
+			"share": 0.40
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 420,
+	"name": "Newton Abbot",
+	"seqNo": 45,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 20967,
+			"share": 45.60
+		},
+		{
+			"party": "CON",
+			"votes": 16137,
+			"share": 35.10
+		},
+		{
+			"party": "LAB",
+			"votes": 5233,
+			"share": 11.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 2990,
+			"share": 6.50
+		},
+		{
+			"party": "OTH",
+			"votes": 685,
+			"share": 1.50
+		}
+	]
+}

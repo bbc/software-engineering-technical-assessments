@@ -1,0 +1,32 @@
+{
+	"id": 600,
+	"name": "Warrington South",
+	"seqNo": 251,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19503,
+			"share": 41.20
+		},
+		{
+			"party": "CON",
+			"votes": 15166,
+			"share": 32.10
+		},
+		{
+			"party": "LD",
+			"votes": 11361,
+			"share": 24.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 833,
+			"share": 1.80
+		},
+		{
+			"party": "OTH",
+			"votes": 453,
+			"share": 1.00
+		}
+	]
+}

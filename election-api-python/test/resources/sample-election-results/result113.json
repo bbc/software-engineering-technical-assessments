@@ -1,0 +1,32 @@
+{
+	"id": 385,
+	"name": "Makerfield",
+	"seqNo": 113,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 22913,
+			"share": 62.10
+		},
+		{
+			"party": "CON",
+			"votes": 5010,
+			"share": 13.60
+		},
+		{
+			"party": "LD",
+			"votes": 4215,
+			"share": 11.40
+		},
+		{
+			"party": "OTH",
+			"votes": 3990,
+			"share": 10.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 790,
+			"share": 2.10
+		}
+	]
+}

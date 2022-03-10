@@ -1,0 +1,32 @@
+{
+	"id": 598,
+	"name": "Warley",
+	"seqNo": 157,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19232,
+			"share": 54.90
+		},
+		{
+			"party": "CON",
+			"votes": 8026,
+			"share": 22.90
+		},
+		{
+			"party": "LD",
+			"votes": 4635,
+			"share": 13.20
+		},
+		{
+			"party": "OTH",
+			"votes": 2398,
+			"share": 6.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 735,
+			"share": 2.10
+		}
+	]
+}

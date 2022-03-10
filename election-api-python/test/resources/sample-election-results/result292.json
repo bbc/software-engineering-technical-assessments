@@ -1,0 +1,37 @@
+{
+	"id": 621,
+	"name": "Wimbledon",
+	"seqNo": 292,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 18028,
+			"share": 41.40
+		},
+		{
+			"party": "LAB",
+			"votes": 15548,
+			"share": 35.70
+		},
+		{
+			"party": "LD",
+			"votes": 7908,
+			"share": 18.20
+		},
+		{
+			"party": "GRN",
+			"votes": 1381,
+			"share": 3.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 408,
+			"share": 0.90
+		},
+		{
+			"party": "OTH",
+			"votes": 283,
+			"share": 0.60
+		}
+	]
+}

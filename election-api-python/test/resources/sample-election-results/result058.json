@@ -1,0 +1,32 @@
+{
+	"id": 495,
+	"name": "Salford \u0026 Eccles",
+	"seqNo": 58,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18183,
+			"share": 55.40
+		},
+		{
+			"party": "LD",
+			"votes": 7476,
+			"share": 22.80
+		},
+		{
+			"party": "CON",
+			"votes": 5528,
+			"share": 16.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1618,
+			"share": 4.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

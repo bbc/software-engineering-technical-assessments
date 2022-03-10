@@ -1,0 +1,37 @@
+{
+	"id": 336,
+	"name": "Islwyn",
+	"seqNo": 91,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21795,
+			"share": 64.30
+		},
+		{
+			"party": "PC",
+			"votes": 4213,
+			"share": 12.40
+		},
+		{
+			"party": "LD",
+			"votes": 4128,
+			"share": 12.20
+		},
+		{
+			"party": "CON",
+			"votes": 3735,
+			"share": 11.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

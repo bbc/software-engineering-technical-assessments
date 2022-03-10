@@ -1,0 +1,37 @@
+{
+	"id": 347,
+	"name": "Lagan Valley",
+	"seqNo": 645,
+	"partyResults": [
+		{
+			"party": "DUP",
+			"votes": 23289,
+			"share": 54.70
+		},
+		{
+			"party": "UUP",
+			"votes": 9172,
+			"share": 21.50
+		},
+		{
+			"party": "AP",
+			"votes": 4316,
+			"share": 10.10
+		},
+		{
+			"party": "SF",
+			"votes": 3197,
+			"share": 7.50
+		},
+		{
+			"party": "SDLP",
+			"votes": 2598,
+			"share": 6.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

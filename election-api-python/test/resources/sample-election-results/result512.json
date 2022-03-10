@@ -1,0 +1,37 @@
+{
+	"id": 635,
+	"name": "Worcestershire West",
+	"seqNo": 512,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22756,
+			"share": 45.00
+		},
+		{
+			"party": "LD",
+			"votes": 19703,
+			"share": 38.90
+		},
+		{
+			"party": "LAB",
+			"votes": 5299,
+			"share": 10.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1649,
+			"share": 3.30
+		},
+		{
+			"party": "GRN",
+			"votes": 1216,
+			"share": 2.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

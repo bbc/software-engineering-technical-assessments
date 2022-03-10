@@ -1,0 +1,32 @@
+{
+	"id": 632,
+	"name": "Wolverhampton South West",
+	"seqNo": 247,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17288,
+			"share": 43.40
+		},
+		{
+			"party": "CON",
+			"votes": 15174,
+			"share": 38.10
+		},
+		{
+			"party": "LD",
+			"votes": 5364,
+			"share": 13.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 984,
+			"share": 2.50
+		},
+		{
+			"party": "OTH",
+			"votes": 983,
+			"share": 2.50
+		}
+	]
+}

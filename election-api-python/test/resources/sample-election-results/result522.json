@@ -1,0 +1,37 @@
+{
+	"id": 633,
+	"name": "Worcester",
+	"seqNo": 522,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19421,
+			"share": 41.90
+		},
+		{
+			"party": "CON",
+			"votes": 16277,
+			"share": 35.10
+		},
+		{
+			"party": "LD",
+			"votes": 7557,
+			"share": 16.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 1113,
+			"share": 2.40
+		},
+		{
+			"party": "OTH",
+			"votes": 1099,
+			"share": 2.40
+		},
+		{
+			"party": "GRN",
+			"votes": 921,
+			"share": 2.00
+		}
+	]
+}

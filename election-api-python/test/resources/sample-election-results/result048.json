@@ -1,0 +1,32 @@
+{
+	"id": 448,
+	"name": "Penistone \u0026 Stocksbridge",
+	"seqNo": 48,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19047,
+			"share": 45.20
+		},
+		{
+			"party": "LD",
+			"votes": 10430,
+			"share": 24.70
+		},
+		{
+			"party": "CON",
+			"votes": 9996,
+			"share": 23.70
+		},
+		{
+			"party": "OTH",
+			"votes": 2010,
+			"share": 4.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 696,
+			"share": 1.70
+		}
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"id": 47,
+	"name": "Belfast South",
+	"seqNo": 633,
+	"partyResults": [
+		{
+			"party": "SDLP",
+			"votes": 10339,
+			"share": 32.30
+		},
+		{
+			"party": "DUP",
+			"votes": 9104,
+			"share": 28.40
+		},
+		{
+			"party": "UUP",
+			"votes": 7263,
+			"share": 22.70
+		},
+		{
+			"party": "SF",
+			"votes": 2882,
+			"share": 9.00
+		},
+		{
+			"party": "AP",
+			"votes": 2012,
+			"share": 6.30
+		},
+		{
+			"party": "VFY",
+			"votes": 235,
+			"share": 0.70
+		},
+		{
+			"party": "WP",
+			"votes": 193,
+			"share": 0.60
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

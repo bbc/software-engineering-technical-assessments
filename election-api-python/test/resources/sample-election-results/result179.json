@@ -1,0 +1,27 @@
+{
+	"id": 215,
+	"name": "Durham North",
+	"seqNo": 179,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 23932,
+			"share": 64.10
+		},
+		{
+			"party": "LD",
+			"votes": 7151,
+			"share": 19.20
+		},
+		{
+			"party": "CON",
+			"votes": 6258,
+			"share": 16.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

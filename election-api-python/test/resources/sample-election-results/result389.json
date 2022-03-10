@@ -1,0 +1,37 @@
+{
+	"id": 219,
+	"name": "Ealing North",
+	"seqNo": 389,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20483,
+			"share": 46.90
+		},
+		{
+			"party": "CON",
+			"votes": 12357,
+			"share": 28.30
+		},
+		{
+			"party": "LD",
+			"votes": 8390,
+			"share": 19.20
+		},
+		{
+			"party": "GRN",
+			"votes": 1242,
+			"share": 2.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 692,
+			"share": 1.60
+		},
+		{
+			"party": "OTH",
+			"votes": 495,
+			"share": 1.10
+		}
+	]
+}

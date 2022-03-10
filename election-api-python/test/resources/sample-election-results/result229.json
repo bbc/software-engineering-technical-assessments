@@ -1,0 +1,32 @@
+{
+	"id": 329,
+	"name": "Ilford South",
+	"seqNo": 229,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20856,
+			"share": 48.90
+		},
+		{
+			"party": "CON",
+			"votes": 11628,
+			"share": 27.20
+		},
+		{
+			"party": "LD",
+			"votes": 8761,
+			"share": 20.50
+		},
+		{
+			"party": "OTH",
+			"votes": 763,
+			"share": 1.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 685,
+			"share": 1.60
+		}
+	]
+}

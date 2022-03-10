@@ -1,0 +1,37 @@
+{
+	"id": 60,
+	"name": "Birmingham Hodge Hill",
+	"seqNo": 556,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19437,
+			"share": 46.90
+		},
+		{
+			"party": "LD",
+			"votes": 12374,
+			"share": 29.90
+		},
+		{
+			"party": "CON",
+			"votes": 4394,
+			"share": 10.60
+		},
+		{
+			"party": "OTH",
+			"votes": 3923,
+			"share": 9.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1140,
+			"share": 2.80
+		},
+		{
+			"party": "GRN",
+			"votes": 167,
+			"share": 0.40
+		}
+	]
+}

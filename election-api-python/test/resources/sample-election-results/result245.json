@@ -1,0 +1,32 @@
+{
+	"id": 328,
+	"name": "Ilford North",
+	"seqNo": 245,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 18349,
+			"share": 43.80
+		},
+		{
+			"party": "LAB",
+			"votes": 16614,
+			"share": 39.60
+		},
+		{
+			"party": "LD",
+			"votes": 5778,
+			"share": 13.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 883,
+			"share": 2.10
+		},
+		{
+			"party": "OTH",
+			"votes": 293,
+			"share": 0.70
+		}
+	]
+}

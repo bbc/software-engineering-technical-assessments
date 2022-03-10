@@ -1,0 +1,37 @@
+{
+	"id": 192,
+	"name": "Devon West \u0026 Torridge",
+	"seqNo": 599,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21520,
+			"share": 42.30
+		},
+		{
+			"party": "LD",
+			"votes": 18788,
+			"share": 36.90
+		},
+		{
+			"party": "LAB",
+			"votes": 5363,
+			"share": 10.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 3232,
+			"share": 6.30
+		},
+		{
+			"party": "GRN",
+			"votes": 2003,
+			"share": 3.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

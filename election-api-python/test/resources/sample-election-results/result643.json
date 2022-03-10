@@ -1,0 +1,37 @@
+{
+	"id": 15,
+	"name": "Antrim South",
+	"seqNo": 643,
+	"partyResults": [
+		{
+			"party": "DUP",
+			"votes": 14507,
+			"share": 38.20
+		},
+		{
+			"party": "UUP",
+			"votes": 11059,
+			"share": 29.10
+		},
+		{
+			"party": "SDLP",
+			"votes": 4706,
+			"share": 12.40
+		},
+		{
+			"party": "SF",
+			"votes": 4407,
+			"share": 11.60
+		},
+		{
+			"party": "AP",
+			"votes": 3278,
+			"share": 8.60
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

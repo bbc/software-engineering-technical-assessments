@@ -1,0 +1,37 @@
+{
+	"id": 597,
+	"name": "Wantage",
+	"seqNo": 616,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22424,
+			"share": 43.10
+		},
+		{
+			"party": "LD",
+			"votes": 14385,
+			"share": 27.60
+		},
+		{
+			"party": "LAB",
+			"votes": 12467,
+			"share": 24.00
+		},
+		{
+			"party": "GRN",
+			"votes": 1334,
+			"share": 2.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 796,
+			"share": 1.50
+		},
+		{
+			"party": "OTH",
+			"votes": 646,
+			"share": 1.20
+		}
+	]
+}

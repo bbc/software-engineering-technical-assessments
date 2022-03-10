@@ -29,6 +29,7 @@ During your assessment we will ask you to work though the task in `tasks.md` wit
 `pip install -r requirements.txt`
 
 ### To Run
+`python ./main.py`
 
 ### To Test
 

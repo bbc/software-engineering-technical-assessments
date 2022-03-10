@@ -1,0 +1,32 @@
+{
+	"id": 478,
+	"name": "Romsey \u0026 Southampton North",
+	"seqNo": 54,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 19217,
+			"share": 43.60
+		},
+		{
+			"party": "CON",
+			"votes": 19013,
+			"share": 43.10
+		},
+		{
+			"party": "LAB",
+			"votes": 4816,
+			"share": 10.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1025,
+			"share": 2.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

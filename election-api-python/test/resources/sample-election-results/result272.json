@@ -1,0 +1,32 @@
+{
+	"id": 392,
+	"name": "Meriden",
+	"seqNo": 272,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22975,
+			"share": 47.60
+		},
+		{
+			"party": "LAB",
+			"votes": 15563,
+			"share": 32.30
+		},
+		{
+			"party": "LD",
+			"votes": 8075,
+			"share": 16.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1620,
+			"share": 3.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

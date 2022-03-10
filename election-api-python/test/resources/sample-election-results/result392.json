@@ -1,0 +1,32 @@
+{
+	"id": 237,
+	"name": "Enfield North",
+	"seqNo": 392,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 17167,
+			"share": 43.10
+		},
+		{
+			"party": "LAB",
+			"votes": 16230,
+			"share": 40.80
+		},
+		{
+			"party": "LD",
+			"votes": 4548,
+			"share": 11.40
+		},
+		{
+			"party": "OTH",
+			"votes": 1167,
+			"share": 2.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 711,
+			"share": 1.80
+		}
+	]
+}

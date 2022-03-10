@@ -1,0 +1,32 @@
+{
+	"id": 69,
+	"name": "Blackpool North \u0026 Cleveleys",
+	"seqNo": 429,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17470,
+			"share": 45.70
+		},
+		{
+			"party": "CON",
+			"votes": 14229,
+			"share": 37.20
+		},
+		{
+			"party": "LD",
+			"votes": 5222,
+			"share": 13.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1278,
+			"share": 3.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

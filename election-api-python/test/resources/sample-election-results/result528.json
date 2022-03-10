@@ -1,0 +1,37 @@
+{
+	"id": 142,
+	"name": "Chesham \u0026 Amersham",
+	"seqNo": 528,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 25427,
+			"share": 53.50
+		},
+		{
+			"party": "LD",
+			"votes": 12453,
+			"share": 26.20
+		},
+		{
+			"party": "LAB",
+			"votes": 6479,
+			"share": 13.60
+		},
+		{
+			"party": "GRN",
+			"votes": 1656,
+			"share": 3.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1496,
+			"share": 3.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

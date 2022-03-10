@@ -1,0 +1,32 @@
+{
+	"id": 236,
+	"name": "Eltham",
+	"seqNo": 410,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16135,
+			"share": 42.20
+		},
+		{
+			"party": "CON",
+			"votes": 13231,
+			"share": 34.60
+		},
+		{
+			"party": "LD",
+			"votes": 6636,
+			"share": 17.40
+		},
+		{
+			"party": "OTH",
+			"votes": 1126,
+			"share": 2.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1067,
+			"share": 2.80
+		}
+	]
+}

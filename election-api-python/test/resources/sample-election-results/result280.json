@@ -1,0 +1,42 @@
+{
+	"id": 6,
+	"name": "Airdrie \u0026 Shotts",
+	"seqNo": 280,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19568,
+			"share": 59.00
+		},
+		{
+			"party": "SNP",
+			"votes": 5484,
+			"share": 16.50
+		},
+		{
+			"party": "LD",
+			"votes": 3792,
+			"share": 11.40
+		},
+		{
+			"party": "CON",
+			"votes": 3271,
+			"share": 9.90
+		},
+		{
+			"party": "SSP",
+			"votes": 706,
+			"share": 2.10
+		},
+		{
+			"party": "SIP",
+			"votes": 337,
+			"share": 1.00
+		},
+		{
+			"party": "OTH",
+			"votes": 337,
+			"share": 1.00
+		}
+	]
+}

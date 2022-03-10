@@ -1,0 +1,32 @@
+{
+	"id": 571,
+	"name": "Thurrock",
+	"seqNo": 205,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19017,
+			"share": 46.20
+		},
+		{
+			"party": "CON",
+			"votes": 13659,
+			"share": 33.20
+		},
+		{
+			"party": "LD",
+			"votes": 4555,
+			"share": 11.10
+		},
+		{
+			"party": "OTH",
+			"votes": 2526,
+			"share": 6.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1409,
+			"share": 3.40
+		}
+	]
+}

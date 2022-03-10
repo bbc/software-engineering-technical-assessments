@@ -1,0 +1,32 @@
+{
+	"id": 167,
+	"name": "Coventry South",
+	"seqNo": 383,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18826,
+			"share": 45.80
+		},
+		{
+			"party": "CON",
+			"votes": 12589,
+			"share": 30.60
+		},
+		{
+			"party": "LD",
+			"votes": 7229,
+			"share": 17.60
+		},
+		{
+			"party": "OTH",
+			"votes": 1585,
+			"share": 3.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 846,
+			"share": 2.10
+		}
+	]
+}

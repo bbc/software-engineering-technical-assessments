@@ -1,0 +1,37 @@
+{
+	"id": 307,
+	"name": "Herefordshire North",
+	"seqNo": 30,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23422,
+			"share": 52.50
+		},
+		{
+			"party": "LD",
+			"votes": 10734,
+			"share": 24.10
+		},
+		{
+			"party": "LAB",
+			"votes": 6926,
+			"share": 15.50
+		},
+		{
+			"party": "GRN",
+			"votes": 2092,
+			"share": 4.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1449,
+			"share": 3.20
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 485,
+	"name": "Runnymede \u0026 Weybridge",
+	"seqNo": 283,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22366,
+			"share": 51.40
+		},
+		{
+			"party": "LAB",
+			"votes": 10017,
+			"share": 23.00
+		},
+		{
+			"party": "LD",
+			"votes": 7771,
+			"share": 17.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1719,
+			"share": 3.90
+		},
+		{
+			"party": "GRN",
+			"votes": 1180,
+			"share": 2.70
+		},
+		{
+			"party": "OTH",
+			"votes": 471,
+			"share": 1.10
+		}
+	]
+}

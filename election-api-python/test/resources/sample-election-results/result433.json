@@ -1,0 +1,32 @@
+{
+	"id": 563,
+	"name": "Tatton",
+	"seqNo": 433,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21415,
+			"share": 51.50
+		},
+		{
+			"party": "LAB",
+			"votes": 9878,
+			"share": 23.70
+		},
+		{
+			"party": "LD",
+			"votes": 9066,
+			"share": 21.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1006,
+			"share": 2.40
+		},
+		{
+			"party": "OTH",
+			"votes": 239,
+			"share": 0.60
+		}
+	]
+}

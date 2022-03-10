@@ -1,0 +1,32 @@
+{
+	"id": 424,
+	"name": "Norfolk South",
+	"seqNo": 501,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22172,
+			"share": 44.20
+		},
+		{
+			"party": "LD",
+			"votes": 15453,
+			"share": 30.80
+		},
+		{
+			"party": "LAB",
+			"votes": 11153,
+			"share": 22.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 1407,
+			"share": 2.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

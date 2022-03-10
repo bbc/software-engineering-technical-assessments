@@ -1,0 +1,32 @@
+{
+	"id": 196,
+	"name": "Doncaster North",
+	"seqNo": 620,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19300,
+			"share": 51.10
+		},
+		{
+			"party": "CON",
+			"votes": 7273,
+			"share": 19.30
+		},
+		{
+			"party": "LD",
+			"votes": 5919,
+			"share": 15.70
+		},
+		{
+			"party": "OTH",
+			"votes": 4432,
+			"share": 11.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 841,
+			"share": 2.20
+		}
+	]
+}

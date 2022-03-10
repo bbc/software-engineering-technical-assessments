@@ -1,0 +1,27 @@
+{
+	"id": 323,
+	"name": "Hull East",
+	"seqNo": 102,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18361,
+			"share": 56.10
+		},
+		{
+			"party": "LD",
+			"votes": 6621,
+			"share": 20.20
+		},
+		{
+			"party": "CON",
+			"votes": 4258,
+			"share": 13.00
+		},
+		{
+			"party": "OTH",
+			"votes": 3513,
+			"share": 10.70
+		}
+	]
+}

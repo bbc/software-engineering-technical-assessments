@@ -1,0 +1,42 @@
+{
+	"id": 641,
+	"name": "Wrexham",
+	"seqNo": 158,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 13993,
+			"share": 46.10
+		},
+		{
+			"party": "LD",
+			"votes": 7174,
+			"share": 23.60
+		},
+		{
+			"party": "CON",
+			"votes": 6079,
+			"share": 20.00
+		},
+		{
+			"party": "PC",
+			"votes": 1744,
+			"share": 5.70
+		},
+		{
+			"party": "OTH",
+			"votes": 1395,
+			"share": 4.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 0,
+			"share": 0
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

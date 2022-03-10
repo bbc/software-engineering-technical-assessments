@@ -1,0 +1,42 @@
+{
+	"id": 576,
+	"name": "Torfaen",
+	"seqNo": 487,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20472,
+			"share": 56.90
+		},
+		{
+			"party": "CON",
+			"votes": 5681,
+			"share": 15.80
+		},
+		{
+			"party": "LD",
+			"votes": 5678,
+			"share": 15.80
+		},
+		{
+			"party": "PC",
+			"votes": 2242,
+			"share": 6.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 1145,
+			"share": 3.20
+		},
+		{
+			"party": "OTH",
+			"votes": 761,
+			"share": 2.10
+		},
+		{
+			"party": "PV",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

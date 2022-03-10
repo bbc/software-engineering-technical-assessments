@@ -1,0 +1,37 @@
+{
+	"id": 279,
+	"name": "Guildford",
+	"seqNo": 415,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22112,
+			"share": 43.40
+		},
+		{
+			"party": "LD",
+			"votes": 22023,
+			"share": 43.30
+		},
+		{
+			"party": "LAB",
+			"votes": 5033,
+			"share": 9.90
+		},
+		{
+			"party": "GRN",
+			"votes": 811,
+			"share": 1.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 636,
+			"share": 1.20
+		},
+		{
+			"party": "OTH",
+			"votes": 278,
+			"share": 0.50
+		}
+	]
+}

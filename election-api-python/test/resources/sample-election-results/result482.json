@@ -1,0 +1,32 @@
+{
+	"id": 281,
+	"name": "Hackney South \u0026 Shoreditch",
+	"seqNo": 482,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16178,
+			"share": 52.70
+		},
+		{
+			"party": "LD",
+			"votes": 6549,
+			"share": 21.30
+		},
+		{
+			"party": "CON",
+			"votes": 4230,
+			"share": 13.80
+		},
+		{
+			"party": "OTH",
+			"votes": 2042,
+			"share": 6.70
+		},
+		{
+			"party": "GRN",
+			"votes": 1698,
+			"share": 5.50
+		}
+	]
+}

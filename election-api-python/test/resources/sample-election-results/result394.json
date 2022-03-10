@@ -1,0 +1,42 @@
+{
+	"id": 401,
+	"name": "Monmouth",
+	"seqNo": 394,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21396,
+			"share": 46.90
+		},
+		{
+			"party": "LAB",
+			"votes": 16869,
+			"share": 37.00
+		},
+		{
+			"party": "LD",
+			"votes": 5852,
+			"share": 12.80
+		},
+		{
+			"party": "PC",
+			"votes": 993,
+			"share": 2.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 543,
+			"share": 1.20
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		},
+		{
+			"party": "ED",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

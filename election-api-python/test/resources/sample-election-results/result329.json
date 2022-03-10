@@ -1,0 +1,32 @@
+{
+	"id": 165,
+	"name": "Coventry North East",
+	"seqNo": 329,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21859,
+			"share": 56.90
+		},
+		{
+			"party": "CON",
+			"votes": 7238,
+			"share": 18.80
+		},
+		{
+			"party": "LD",
+			"votes": 6352,
+			"share": 16.50
+		},
+		{
+			"party": "OTH",
+			"votes": 1874,
+			"share": 4.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1076,
+			"share": 2.80
+		}
+	]
+}

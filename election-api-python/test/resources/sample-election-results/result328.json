@@ -1,0 +1,32 @@
+{
+	"id": 380,
+	"name": "Luton North",
+	"seqNo": 328,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19095,
+			"share": 48.60
+		},
+		{
+			"party": "CON",
+			"votes": 12656,
+			"share": 32.20
+		},
+		{
+			"party": "LD",
+			"votes": 6130,
+			"share": 15.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1259,
+			"share": 3.20
+		},
+		{
+			"party": "OTH",
+			"votes": 152,
+			"share": 0.40
+		}
+	]
+}

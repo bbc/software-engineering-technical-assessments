@@ -1,0 +1,27 @@
+{
+	"id": 91,
+	"name": "Brent North",
+	"seqNo": 466,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21751,
+			"share": 49.40
+		},
+		{
+			"party": "CON",
+			"votes": 12921,
+			"share": 29.30
+		},
+		{
+			"party": "LD",
+			"votes": 8571,
+			"share": 19.50
+		},
+		{
+			"party": "OTH",
+			"votes": 811,
+			"share": 1.80
+		}
+	]
+}

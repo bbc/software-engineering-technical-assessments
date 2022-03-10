@@ -1,0 +1,32 @@
+{
+	"id": 634,
+	"name": "Worcestershire Mid",
+	"seqNo": 489,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24246,
+			"share": 51.30
+		},
+		{
+			"party": "LAB",
+			"votes": 11340,
+			"share": 24.00
+		},
+		{
+			"party": "LD",
+			"votes": 9575,
+			"share": 20.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 2060,
+			"share": 4.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

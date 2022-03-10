@@ -1,0 +1,32 @@
+{
+	"id": 7,
+	"name": "Aldershot",
+	"seqNo": 509,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 18474,
+			"share": 44.00
+		},
+		{
+			"party": "LD",
+			"votes": 12129,
+			"share": 28.90
+		},
+		{
+			"party": "LAB",
+			"votes": 9113,
+			"share": 21.70
+		},
+		{
+			"party": "OTH",
+			"votes": 1254,
+			"share": 3.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 992,
+			"share": 2.40
+		}
+	]
+}

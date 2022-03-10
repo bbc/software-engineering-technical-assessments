@@ -1,0 +1,32 @@
+{
+	"id": 116,
+	"name": "Calder Valley",
+	"seqNo": 478,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18347,
+			"share": 38.50
+		},
+		{
+			"party": "CON",
+			"votes": 17044,
+			"share": 35.80
+		},
+		{
+			"party": "LD",
+			"votes": 9007,
+			"share": 18.90
+		},
+		{
+			"party": "OTH",
+			"votes": 1887,
+			"share": 4.00
+		},
+		{
+			"party": "GRN",
+			"votes": 1371,
+			"share": 2.90
+		}
+	]
+}

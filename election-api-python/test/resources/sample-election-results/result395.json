@@ -1,0 +1,32 @@
+{
+	"id": 395,
+	"name": "Middlesbrough South \u0026 Cleveland East",
+	"seqNo": 395,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 22021,
+			"share": 50.30
+		},
+		{
+			"party": "CON",
+			"votes": 13925,
+			"share": 31.80
+		},
+		{
+			"party": "LD",
+			"votes": 6034,
+			"share": 13.80
+		},
+		{
+			"party": "OTH",
+			"votes": 1099,
+			"share": 2.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 658,
+			"share": 1.50
+		}
+	]
+}

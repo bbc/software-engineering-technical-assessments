@@ -1,0 +1,47 @@
+{
+	"id": 268,
+	"name": "Glasgow South West",
+	"seqNo": 440,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18653,
+			"share": 60.20
+		},
+		{
+			"party": "SNP",
+			"votes": 4757,
+			"share": 15.40
+		},
+		{
+			"party": "LD",
+			"votes": 3593,
+			"share": 11.60
+		},
+		{
+			"party": "CON",
+			"votes": 1786,
+			"share": 5.80
+		},
+		{
+			"party": "SSP",
+			"votes": 1666,
+			"share": 5.40
+		},
+		{
+			"party": "OTH",
+			"votes": 522,
+			"share": 1.70
+		},
+		{
+			"party": "IGV",
+			"votes": 379,
+			"share": 1.20
+		},
+		{
+			"party": "SLP",
+			"votes": 143,
+			"share": 0.50
+		}
+	]
+}

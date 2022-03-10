@@ -1,0 +1,32 @@
+{
+	"id": 461,
+	"name": "Pudsey",
+	"seqNo": 234,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20120,
+			"share": 45.40
+		},
+		{
+			"party": "CON",
+			"votes": 14916,
+			"share": 33.70
+		},
+		{
+			"party": "LD",
+			"votes": 8044,
+			"share": 18.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 1229,
+			"share": 2.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

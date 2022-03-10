@@ -1,0 +1,32 @@
+{
+	"id": 72,
+	"name": "Blaydon",
+	"seqNo": 137,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21591,
+			"share": 51.60
+		},
+		{
+			"party": "LD",
+			"votes": 15843,
+			"share": 37.90
+		},
+		{
+			"party": "CON",
+			"votes": 3356,
+			"share": 8.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 1028,
+			"share": 2.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

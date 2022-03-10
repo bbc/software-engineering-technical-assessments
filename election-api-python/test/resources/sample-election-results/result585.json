@@ -1,0 +1,37 @@
+{
+	"id": 244,
+	"name": "Exeter",
+	"seqNo": 585,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20887,
+			"share": 42.10
+		},
+		{
+			"party": "CON",
+			"votes": 12328,
+			"share": 24.90
+		},
+		{
+			"party": "LD",
+			"votes": 10376,
+			"share": 20.90
+		},
+		{
+			"party": "OTH",
+			"votes": 2405,
+			"share": 4.90
+		},
+		{
+			"party": "GRN",
+			"votes": 1896,
+			"share": 3.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1682,
+			"share": 3.40
+		}
+	]
+}

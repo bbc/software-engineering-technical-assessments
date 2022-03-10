@@ -1,0 +1,37 @@
+{
+	"id": 444,
+	"name": "Oxford West \u0026 Abingdon",
+	"seqNo": 612,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 23418,
+			"share": 46.10
+		},
+		{
+			"party": "CON",
+			"votes": 16602,
+			"share": 32.70
+		},
+		{
+			"party": "LAB",
+			"votes": 8056,
+			"share": 15.90
+		},
+		{
+			"party": "GRN",
+			"votes": 1929,
+			"share": 3.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 763,
+			"share": 1.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

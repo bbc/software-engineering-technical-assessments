@@ -1,0 +1,32 @@
+{
+	"id": 526,
+	"name": "Southport",
+	"seqNo": 94,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 19093,
+			"share": 46.30
+		},
+		{
+			"party": "CON",
+			"votes": 15255,
+			"share": 37.00
+		},
+		{
+			"party": "LAB",
+			"votes": 5277,
+			"share": 12.80
+		},
+		{
+			"party": "OTH",
+			"votes": 827,
+			"share": 2.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 749,
+			"share": 1.80
+		}
+	]
+}

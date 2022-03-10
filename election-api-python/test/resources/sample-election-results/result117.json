@@ -1,0 +1,32 @@
+{
+	"id": 557,
+	"name": "Sutton Coldfield",
+	"seqNo": 117,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24235,
+			"share": 52.60
+		},
+		{
+			"party": "LAB",
+			"votes": 11917,
+			"share": 25.90
+		},
+		{
+			"party": "LD",
+			"votes": 7679,
+			"share": 16.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 2262,
+			"share": 4.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

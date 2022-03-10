@@ -1,0 +1,32 @@
+{
+	"id": 626,
+	"name": "Witham",
+	"seqNo": 75,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20822,
+			"share": 49.70
+		},
+		{
+			"party": "LAB",
+			"votes": 13581,
+			"share": 32.40
+		},
+		{
+			"party": "LD",
+			"votes": 6345,
+			"share": 15.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 1131,
+			"share": 2.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

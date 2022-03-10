@@ -1,0 +1,42 @@
+{
+	"id": 614,
+	"name": "West Ham",
+	"seqNo": 308,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19989,
+			"share": 51.70
+		},
+		{
+			"party": "RES",
+			"votes": 7715,
+			"share": 20.00
+		},
+		{
+			"party": "CON",
+			"votes": 4659,
+			"share": 12.10
+		},
+		{
+			"party": "LD",
+			"votes": 3926,
+			"share": 10.20
+		},
+		{
+			"party": "GRN",
+			"votes": 1144,
+			"share": 3.00
+		},
+		{
+			"party": "OTH",
+			"votes": 802,
+			"share": 2.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 409,
+			"share": 1.10
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 31,
+	"name": "Barrow \u0026 Furness",
+	"seqNo": 446,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17445,
+			"share": 45.20
+		},
+		{
+			"party": "CON",
+			"votes": 12602,
+			"share": 32.60
+		},
+		{
+			"party": "LD",
+			"votes": 6870,
+			"share": 17.80
+		},
+		{
+			"party": "OTH",
+			"votes": 922,
+			"share": 2.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 786,
+			"share": 2.00
+		}
+	]
+}

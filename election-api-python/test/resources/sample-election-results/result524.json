@@ -1,0 +1,32 @@
+{
+	"id": 349,
+	"name": "Lancashire West",
+	"seqNo": 524,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20746,
+			"share": 48.10
+		},
+		{
+			"party": "CON",
+			"votes": 14662,
+			"share": 34.00
+		},
+		{
+			"party": "LD",
+			"votes": 6059,
+			"share": 14.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 871,
+			"share": 2.00
+		},
+		{
+			"party": "OTH",
+			"votes": 817,
+			"share": 1.90
+		}
+	]
+}

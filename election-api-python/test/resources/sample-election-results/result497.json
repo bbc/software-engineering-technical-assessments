@@ -1,0 +1,37 @@
+{
+	"id": 497,
+	"name": "Scarborough \u0026 Whitby",
+	"seqNo": 497,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 19248,
+			"share": 41.00
+		},
+		{
+			"party": "LAB",
+			"votes": 18003,
+			"share": 38.40
+		},
+		{
+			"party": "LD",
+			"votes": 7495,
+			"share": 16.00
+		},
+		{
+			"party": "GRN",
+			"votes": 1214,
+			"share": 2.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 952,
+			"share": 2.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

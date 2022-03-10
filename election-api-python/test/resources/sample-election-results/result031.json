@@ -1,0 +1,37 @@
+{
+	"id": 317,
+	"name": "Hornchurch \u0026 Upminster",
+	"seqNo": 31,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23375,
+			"share": 47.50
+		},
+		{
+			"party": "LAB",
+			"votes": 15317,
+			"share": 31.10
+		},
+		{
+			"party": "OTH",
+			"votes": 4718,
+			"share": 9.60
+		},
+		{
+			"party": "LD",
+			"votes": 4184,
+			"share": 8.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1071,
+			"share": 2.20
+		},
+		{
+			"party": "GRN",
+			"votes": 543,
+			"share": 1.10
+		}
+	]
+}
