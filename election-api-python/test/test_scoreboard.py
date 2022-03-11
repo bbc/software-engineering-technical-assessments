@@ -1,4 +1,7 @@
-import unittest, json
+import unittest, json, sys, os
+testdir = os.path.dirname(__file__)
+srcdir = "../src"
+sys.path.insert(0, os.path.abspath(os.path.join(testdir, srcdir)))
 from server import app, controller
 
 class TestScoreboard(unittest.TestCase):
@@ -26,6 +29,7 @@ class TestScoreboard(unittest.TestCase):
     @unittest.skip("_")
     def test_first_5(self):
         self.load_results(5)
+        self.assertEqual(1, 1)
 
     @unittest.skip("_")
     def test_first_100(self):
