@@ -11,36 +11,36 @@ class TestScoreboard(unittest.TestCase):
         self.server = app.test_client(self)
         self.RESULT_SAMPLE_PATH = "../test/resources/sample-election-results"
 
-    def load_and_post_result_file(self, num) -> dict:
+    def load_and_post_result_file(self, num: str) -> dict:
         file_number: str = str(num).zfill(3)
         with open(f"{self.RESULT_SAMPLE_PATH}/result{file_number}.json", "r") as file:
             result = file.read()
         return self.server.post("/result", json=json.loads(result))
 
-    def load_results(self, quantity) -> list[dict]:
+    def load_results(self, quantity: int) -> list[dict]:
         results = []
         for i in range(quantity):
             results.append(self.load_and_post_result_file(i + 1))
         return results
 
-    def setUp(self):
+    def setUp(self) -> None:
         controller.reset()
 
     @unittest.skip("_")
-    def test_first_5(self):
+    def test_first_5(self) -> None:
         self.load_results(5)
         self.assertEqual(1, 1)
 
     @unittest.skip("_")
-    def test_first_100(self):
+    def test_first_100(self) -> None:
         self.load_results(100)
     
     @unittest.skip("_")
-    def test_first_554(self):
+    def test_first_554(self) -> None:
         self.load_results(554)
 
     @unittest.skip("_")
-    def test_all_results(self):
+    def test_all_results(self) -> None:
         self.load_results(650)
     
     # Test test
