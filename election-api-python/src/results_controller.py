@@ -16,8 +16,5 @@ class ResultsController:
         self.store.reset()
     
     def scoreboard(self) -> None:
+        # Left blank for you to fill in
         return ""
-
-    # DEBUG
-    def get_all(self) -> list[dict]:
-        return self.store.get_all()

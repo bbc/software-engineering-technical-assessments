@@ -30,10 +30,11 @@ During your assessment we will ask you to work though the task in `tasks.md` wit
 `pip install -r requirements.txt`
 
 ### To Run
-`python ./main.py`
+`python ./src/main.py`
 
 or if you need to run it on another port,
-`PORT=**** python ./main.py`
+`PORT=**** python ./src/main.py`
 
 ### To Test
+`python ./src/test_scoreboard.py`
 

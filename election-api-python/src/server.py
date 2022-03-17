@@ -15,8 +15,4 @@ def add_result() -> dict:
 @app.route("/scoreboard", methods=["GET"])
 def scoreboard() -> str:
     return controller.scoreboard()
-
-# Debugging only
-@app.route("/debug", methods=["GET"])
-def debug() -> str:
-    return str(controller.get_all()).replace("'", '"')
+    
