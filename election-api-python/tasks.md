@@ -17,8 +17,8 @@ The scoreboard should show:
 - The seats for each party
 - The overall winner (i.e. the party with 325 or more seats) if there is one
 
-There is a function in the [endpoint controller](src/resultsController.js) to put your implementation. You will also need 
-to [complete the tests](test/scoreboard.spec.js) as part of your implementation.
+There is a function in the [endpoint controller](src/results_controller.py) to put your implementation. You will also need 
+to [complete the tests](src/test_scoreboard.py) as part of your implementation.
 
 Bonus information for the scoreboard:
 - The total votes for each party

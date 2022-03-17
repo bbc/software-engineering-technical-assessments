@@ -23,7 +23,7 @@ class TestScoreboard(unittest.TestCase):
     
     def fetch_scoreboard(self) -> list[dict]:
         response = self.server.get("/scoreboard")
-        return [] if response.data == b'' else json.loads(str(response.data))
+        return [] if response.data == b'{}\n' else json.loads(response.data.decode("utf-8"))
 
     def setUp(self) -> None:
         controller.reset()
@@ -63,6 +63,6 @@ class TestScoreboard(unittest.TestCase):
 		# assert CON == 210
 		# assert winner = LAB
 		# assert sum = 650
-  
+
 if __name__ == "__main__":
     unittest.main()

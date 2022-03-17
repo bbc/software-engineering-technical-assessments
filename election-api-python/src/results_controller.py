@@ -15,6 +15,6 @@ class ResultsController:
     def reset(self) -> None:
         self.store.reset()
     
-    def scoreboard(self) -> None:
+    def scoreboard(self) -> dict:
         # Left blank for you to fill in
-        return ""
+        return {}

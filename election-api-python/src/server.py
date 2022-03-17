@@ -13,6 +13,6 @@ def add_result() -> dict:
     return controller.new_result(request.json)
 
 @app.route("/scoreboard", methods=["GET"])
-def scoreboard() -> str:
+def scoreboard() -> dict:
     return controller.scoreboard()
     
