@@ -1,0 +1,37 @@
+{
+	"id": 299,
+	"name": "Havant",
+	"seqNo": 422,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 18192,
+			"share": 44.30
+		},
+		{
+			"party": "LAB",
+			"votes": 11797,
+			"share": 28.70
+		},
+		{
+			"party": "LD",
+			"votes": 8293,
+			"share": 20.20
+		},
+		{
+			"party": "GRN",
+			"votes": 1006,
+			"share": 2.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 991,
+			"share": 2.40
+		},
+		{
+			"party": "OTH",
+			"votes": 757,
+			"share": 1.80
+		}
+	]
+}

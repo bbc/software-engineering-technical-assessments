@@ -1,0 +1,32 @@
+{
+	"id": 619,
+	"name": "Wiltshire North",
+	"seqNo": 548,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22321,
+			"share": 49.70
+		},
+		{
+			"party": "LD",
+			"votes": 15433,
+			"share": 34.40
+		},
+		{
+			"party": "LAB",
+			"votes": 5365,
+			"share": 11.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 1200,
+			"share": 2.70
+		},
+		{
+			"party": "OTH",
+			"votes": 578,
+			"share": 1.30
+		}
+	]
+}

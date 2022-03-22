@@ -1,0 +1,37 @@
+{
+	"id": 548,
+	"name": "Suffolk Coastal",
+	"seqNo": 319,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23391,
+			"share": 44.60
+		},
+		{
+			"party": "LAB",
+			"votes": 13717,
+			"share": 26.10
+		},
+		{
+			"party": "LD",
+			"votes": 11610,
+			"share": 22.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 2014,
+			"share": 3.80
+		},
+		{
+			"party": "GRN",
+			"votes": 1753,
+			"share": 3.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 442,
+	"name": "Orpington",
+	"seqNo": 352,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24800,
+			"share": 51.20
+		},
+		{
+			"party": "LD",
+			"votes": 19579,
+			"share": 40.40
+		},
+		{
+			"party": "LAB",
+			"votes": 2893,
+			"share": 6.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 1131,
+			"share": 2.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

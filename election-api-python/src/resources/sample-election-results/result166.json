@@ -1,0 +1,32 @@
+{
+	"id": 629,
+	"name": "Wokingham",
+	"seqNo": 166,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22619,
+			"share": 48.10
+		},
+		{
+			"party": "LD",
+			"votes": 15362,
+			"share": 32.70
+		},
+		{
+			"party": "LAB",
+			"votes": 7044,
+			"share": 15.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 1008,
+			"share": 2.10
+		},
+		{
+			"party": "OTH",
+			"votes": 979,
+			"share": 2.10
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 572,
+	"name": "Tiverton \u0026 Honiton",
+	"seqNo": 565,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23961,
+			"share": 46.70
+		},
+		{
+			"party": "LD",
+			"votes": 14954,
+			"share": 29.10
+		},
+		{
+			"party": "LAB",
+			"votes": 6851,
+			"share": 13.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 2466,
+			"share": 4.80
+		},
+		{
+			"party": "OTH",
+			"votes": 1701,
+			"share": 3.30
+		},
+		{
+			"party": "GRN",
+			"votes": 1399,
+			"share": 2.70
+		}
+	]
+}

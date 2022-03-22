@@ -1,0 +1,37 @@
+{
+	"id": 245,
+	"name": "Falkirk",
+	"seqNo": 105,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 23264,
+			"share": 50.90
+		},
+		{
+			"party": "SNP",
+			"votes": 9789,
+			"share": 21.40
+		},
+		{
+			"party": "LD",
+			"votes": 7321,
+			"share": 16.00
+		},
+		{
+			"party": "CON",
+			"votes": 4538,
+			"share": 9.90
+		},
+		{
+			"party": "SSP",
+			"votes": 838,
+			"share": 1.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

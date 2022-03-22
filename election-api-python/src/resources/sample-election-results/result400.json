@@ -1,0 +1,37 @@
+{
+	"id": 97,
+	"name": "Brighton Kemptown",
+	"seqNo": 400,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 14939,
+			"share": 39.00
+		},
+		{
+			"party": "CON",
+			"votes": 13086,
+			"share": 34.10
+		},
+		{
+			"party": "LD",
+			"votes": 6482,
+			"share": 16.90
+		},
+		{
+			"party": "GRN",
+			"votes": 2506,
+			"share": 6.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 726,
+			"share": 1.90
+		},
+		{
+			"party": "OTH",
+			"votes": 599,
+			"share": 1.60
+		}
+	]
+}

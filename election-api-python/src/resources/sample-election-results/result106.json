@@ -1,0 +1,37 @@
+{
+	"id": 12,
+	"name": "Angus",
+	"seqNo": 106,
+	"partyResults": [
+		{
+			"party": "SNP",
+			"votes": 12840,
+			"share": 33.70
+		},
+		{
+			"party": "CON",
+			"votes": 11239,
+			"share": 29.50
+		},
+		{
+			"party": "LAB",
+			"votes": 6850,
+			"share": 18.00
+		},
+		{
+			"party": "LD",
+			"votes": 6660,
+			"share": 17.50
+		},
+		{
+			"party": "SSP",
+			"votes": 556,
+			"share": 1.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

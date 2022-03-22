@@ -1,0 +1,37 @@
+{
+	"id": 584,
+	"name": "Tyrone West",
+	"seqNo": 640,
+	"partyResults": [
+		{
+			"party": "SF",
+			"votes": 16910,
+			"share": 38.90
+		},
+		{
+			"party": "IND",
+			"votes": 11905,
+			"share": 27.40
+		},
+		{
+			"party": "DUP",
+			"votes": 7742,
+			"share": 17.80
+		},
+		{
+			"party": "SDLP",
+			"votes": 3949,
+			"share": 9.10
+		},
+		{
+			"party": "UUP",
+			"votes": 2981,
+			"share": 6.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

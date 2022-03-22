@@ -1,0 +1,32 @@
+{
+	"id": 103,
+	"name": "Broadland",
+	"seqNo": 9,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20442,
+			"share": 43.40
+		},
+		{
+			"party": "LD",
+			"votes": 13869,
+			"share": 29.50
+		},
+		{
+			"party": "LAB",
+			"votes": 11128,
+			"share": 23.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1627,
+			"share": 3.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

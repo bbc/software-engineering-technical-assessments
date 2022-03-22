@@ -1,0 +1,32 @@
+{
+	"id": 637,
+	"name": "Worsley \u0026 Eccles South",
+	"seqNo": 76,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20804,
+			"share": 53.30
+		},
+		{
+			"party": "CON",
+			"votes": 10803,
+			"share": 27.70
+		},
+		{
+			"party": "LD",
+			"votes": 5044,
+			"share": 12.90
+		},
+		{
+			"party": "UKIP",
+			"votes": 2386,
+			"share": 6.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

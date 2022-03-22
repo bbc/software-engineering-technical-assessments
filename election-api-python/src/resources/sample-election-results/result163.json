@@ -1,0 +1,32 @@
+{
+	"id": 612,
+	"name": "West Bromwich East",
+	"seqNo": 163,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20183,
+			"share": 55.80
+		},
+		{
+			"party": "CON",
+			"votes": 8236,
+			"share": 22.80
+		},
+		{
+			"party": "LD",
+			"votes": 4464,
+			"share": 12.30
+		},
+		{
+			"party": "OTH",
+			"votes": 2689,
+			"share": 7.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 628,
+			"share": 1.70
+		}
+	]
+}

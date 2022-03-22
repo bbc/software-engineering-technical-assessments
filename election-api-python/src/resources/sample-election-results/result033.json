@@ -1,0 +1,32 @@
+{
+	"id": 339,
+	"name": "Kenilworth \u0026 Southam",
+	"seqNo": 33,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22245,
+			"share": 50.40
+		},
+		{
+			"party": "LAB",
+			"votes": 11289,
+			"share": 25.60
+		},
+		{
+			"party": "LD",
+			"votes": 9736,
+			"share": 22.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 910,
+			"share": 2.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"id": 583,
+	"name": "Tyneside North",
+	"seqNo": 298,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 23713,
+			"share": 59.40
+		},
+		{
+			"party": "LD",
+			"votes": 8784,
+			"share": 22.00
+		},
+		{
+			"party": "CON",
+			"votes": 7438,
+			"share": 18.60
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

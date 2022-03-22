@@ -1,0 +1,32 @@
+{
+	"id": 513,
+	"name": "Skipton \u0026 Ripon",
+	"seqNo": 629,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24747,
+			"share": 50.00
+		},
+		{
+			"party": "LD",
+			"votes": 13151,
+			"share": 26.60
+		},
+		{
+			"party": "LAB",
+			"votes": 9038,
+			"share": 18.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 2274,
+			"share": 4.60
+		},
+		{
+			"party": "OTH",
+			"votes": 274,
+			"share": 0.60
+		}
+	]
+}

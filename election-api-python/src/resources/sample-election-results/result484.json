@@ -1,0 +1,37 @@
+{
+	"id": 413,
+	"name": "Newcastle Under Lyme",
+	"seqNo": 484,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18053,
+			"share": 45.40
+		},
+		{
+			"party": "CON",
+			"votes": 9945,
+			"share": 25.00
+		},
+		{
+			"party": "LD",
+			"votes": 7528,
+			"share": 18.90
+		},
+		{
+			"party": "OTH",
+			"votes": 1908,
+			"share": 4.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1436,
+			"share": 3.60
+		},
+		{
+			"party": "GRN",
+			"votes": 918,
+			"share": 2.30
+		}
+	]
+}

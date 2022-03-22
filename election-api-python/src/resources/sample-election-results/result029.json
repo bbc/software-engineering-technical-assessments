@@ -1,0 +1,37 @@
+{
+	"id": 306,
+	"name": "Hereford \u0026 South Herefordshire",
+	"seqNo": 29,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 19793,
+			"share": 43.40
+		},
+		{
+			"party": "CON",
+			"votes": 18704,
+			"share": 41.00
+		},
+		{
+			"party": "LAB",
+			"votes": 4678,
+			"share": 10.30
+		},
+		{
+			"party": "GRN",
+			"votes": 1034,
+			"share": 2.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 1007,
+			"share": 2.20
+		},
+		{
+			"party": "OTH",
+			"votes": 404,
+			"share": 0.90
+		}
+	]
+}

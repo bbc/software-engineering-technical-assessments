@@ -1,0 +1,32 @@
+{
+	"id": 187,
+	"name": "Devizes",
+	"seqNo": 613,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21849,
+			"share": 51.00
+		},
+		{
+			"party": "LAB",
+			"votes": 9590,
+			"share": 22.40
+		},
+		{
+			"party": "LD",
+			"votes": 9549,
+			"share": 22.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 1825,
+			"share": 4.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

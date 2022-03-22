@@ -1,0 +1,37 @@
+{
+	"id": 34,
+	"name": "Basingstoke",
+	"seqNo": 541,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 16409,
+			"share": 38.80
+		},
+		{
+			"party": "LAB",
+			"votes": 13758,
+			"share": 32.60
+		},
+		{
+			"party": "LD",
+			"votes": 9261,
+			"share": 21.90
+		},
+		{
+			"party": "OTH",
+			"votes": 969,
+			"share": 2.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 942,
+			"share": 2.20
+		},
+		{
+			"party": "GRN",
+			"votes": 928,
+			"share": 2.20
+		}
+	]
+}

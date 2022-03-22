@@ -1,0 +1,37 @@
+{
+	"id": 321,
+	"name": "Hove",
+	"seqNo": 206,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16829,
+			"share": 37.40
+		},
+		{
+			"party": "CON",
+			"votes": 16381,
+			"share": 36.40
+		},
+		{
+			"party": "LD",
+			"votes": 8077,
+			"share": 18.00
+		},
+		{
+			"party": "GRN",
+			"votes": 2593,
+			"share": 5.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 577,
+			"share": 1.30
+		},
+		{
+			"party": "OTH",
+			"votes": 495,
+			"share": 1.10
+		}
+	]
+}

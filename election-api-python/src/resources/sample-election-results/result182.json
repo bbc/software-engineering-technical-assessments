@@ -1,0 +1,37 @@
+{
+	"id": 504,
+	"name": "Sheffield Central",
+	"seqNo": 182,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 15463,
+			"share": 46.50
+		},
+		{
+			"party": "LD",
+			"votes": 10438,
+			"share": 31.40
+		},
+		{
+			"party": "CON",
+			"votes": 3046,
+			"share": 9.20
+		},
+		{
+			"party": "GRN",
+			"votes": 1901,
+			"share": 5.70
+		},
+		{
+			"party": "OTH",
+			"votes": 1823,
+			"share": 5.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 554,
+			"share": 1.70
+		}
+	]
+}

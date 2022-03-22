@@ -1,0 +1,37 @@
+{
+	"id": 212,
+	"name": "Dundee West",
+	"seqNo": 248,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16468,
+			"share": 44.60
+		},
+		{
+			"party": "SNP",
+			"votes": 11089,
+			"share": 30.00
+		},
+		{
+			"party": "LD",
+			"votes": 5323,
+			"share": 14.40
+		},
+		{
+			"party": "CON",
+			"votes": 3062,
+			"share": 8.30
+		},
+		{
+			"party": "SSP",
+			"votes": 994,
+			"share": 2.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

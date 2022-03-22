@@ -1,0 +1,32 @@
+{
+	"id": 62,
+	"name": "Birmingham Northfield",
+	"seqNo": 201,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19900,
+			"share": 50.30
+		},
+		{
+			"party": "CON",
+			"votes": 12021,
+			"share": 30.40
+		},
+		{
+			"party": "LD",
+			"votes": 4875,
+			"share": 12.30
+		},
+		{
+			"party": "OTH",
+			"votes": 1860,
+			"share": 4.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 878,
+			"share": 2.20
+		}
+	]
+}

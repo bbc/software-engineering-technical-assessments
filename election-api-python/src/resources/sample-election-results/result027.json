@@ -1,0 +1,37 @@
+{
+	"id": 290,
+	"name": "Hampstead \u0026 Kilburn",
+	"seqNo": 27,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 15138,
+			"share": 36.30
+		},
+		{
+			"party": "LD",
+			"votes": 14664,
+			"share": 35.20
+		},
+		{
+			"party": "CON",
+			"votes": 9559,
+			"share": 22.90
+		},
+		{
+			"party": "GRN",
+			"votes": 1948,
+			"share": 4.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 275,
+			"share": 0.70
+		},
+		{
+			"party": "OTH",
+			"votes": 91,
+			"share": 0.20
+		}
+	]
+}

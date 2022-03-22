@@ -1,0 +1,32 @@
+{
+	"id": 514,
+	"name": "Sleaford \u0026 North Hykeham",
+	"seqNo": 567,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 26566,
+			"share": 50.60
+		},
+		{
+			"party": "LAB",
+			"votes": 13879,
+			"share": 26.40
+		},
+		{
+			"party": "LD",
+			"votes": 9485,
+			"share": 18.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 2614,
+			"share": 5.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

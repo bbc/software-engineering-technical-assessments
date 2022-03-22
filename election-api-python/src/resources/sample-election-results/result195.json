@@ -1,0 +1,37 @@
+{
+	"id": 330,
+	"name": "Inverclyde",
+	"seqNo": 195,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18318,
+			"share": 50.70
+		},
+		{
+			"party": "SNP",
+			"votes": 7059,
+			"share": 19.60
+		},
+		{
+			"party": "LD",
+			"votes": 6123,
+			"share": 17.00
+		},
+		{
+			"party": "CON",
+			"votes": 3692,
+			"share": 10.20
+		},
+		{
+			"party": "SSP",
+			"votes": 906,
+			"share": 2.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

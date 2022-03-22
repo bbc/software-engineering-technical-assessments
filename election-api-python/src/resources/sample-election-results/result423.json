@@ -1,0 +1,37 @@
+{
+	"id": 42,
+	"name": "Bedfordshire Mid",
+	"seqNo": 423,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 23408,
+			"share": 46.60
+		},
+		{
+			"party": "LD",
+			"votes": 11815,
+			"share": 23.50
+		},
+		{
+			"party": "LAB",
+			"votes": 11261,
+			"share": 22.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1376,
+			"share": 2.70
+		},
+		{
+			"party": "GRN",
+			"votes": 1292,
+			"share": 2.60
+		},
+		{
+			"party": "OTH",
+			"votes": 1070,
+			"share": 2.10
+		}
+	]
+}

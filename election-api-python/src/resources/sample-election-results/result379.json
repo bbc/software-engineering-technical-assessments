@@ -1,0 +1,27 @@
+{
+	"id": 382,
+	"name": "Macclesfield",
+	"seqNo": 379,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22735,
+			"share": 49.60
+		},
+		{
+			"party": "LAB",
+			"votes": 13271,
+			"share": 29.00
+		},
+		{
+			"party": "LD",
+			"votes": 8945,
+			"share": 19.50
+		},
+		{
+			"party": "OTH",
+			"votes": 848,
+			"share": 1.90
+		}
+	]
+}

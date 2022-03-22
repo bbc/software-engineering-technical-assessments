@@ -1,0 +1,42 @@
+{
+	"id": 135,
+	"name": "Ceredigion",
+	"seqNo": 268,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 13045,
+			"share": 36.50
+		},
+		{
+			"party": "PC",
+			"votes": 12827,
+			"share": 35.90
+		},
+		{
+			"party": "CON",
+			"votes": 4426,
+			"share": 12.40
+		},
+		{
+			"party": "LAB",
+			"votes": 4309,
+			"share": 12.10
+		},
+		{
+			"party": "GRN",
+			"votes": 841,
+			"share": 2.40
+		},
+		{
+			"party": "OTH",
+			"votes": 268,
+			"share": 0.80
+		},
+		{
+			"party": "IND",
+			"votes": 0,
+			"share": 0
+		}
+	]
+}

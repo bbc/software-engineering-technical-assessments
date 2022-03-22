@@ -1,0 +1,37 @@
+{
+	"id": 510,
+	"name": "Shrewsbury \u0026 Atcham",
+	"seqNo": 372,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 18960,
+			"share": 37.70
+		},
+		{
+			"party": "LAB",
+			"votes": 17152,
+			"share": 34.10
+		},
+		{
+			"party": "LD",
+			"votes": 11487,
+			"share": 22.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1349,
+			"share": 2.70
+		},
+		{
+			"party": "GRN",
+			"votes": 1138,
+			"share": 2.30
+		},
+		{
+			"party": "OTH",
+			"votes": 210,
+			"share": 0.40
+		}
+	]
+}

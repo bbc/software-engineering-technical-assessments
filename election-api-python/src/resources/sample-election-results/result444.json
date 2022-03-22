@@ -1,0 +1,32 @@
+{
+	"id": 164,
+	"name": "Cotswolds, The",
+	"seqNo": 444,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24907,
+			"share": 49.40
+		},
+		{
+			"party": "LD",
+			"votes": 14165,
+			"share": 28.10
+		},
+		{
+			"party": "LAB",
+			"votes": 9392,
+			"share": 18.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1595,
+			"share": 3.20
+		},
+		{
+			"party": "OTH",
+			"votes": 392,
+			"share": 0.80
+		}
+	]
+}

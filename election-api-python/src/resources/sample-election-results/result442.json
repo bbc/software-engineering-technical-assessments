@@ -1,0 +1,37 @@
+{
+	"id": 20,
+	"name": "Ashford",
+	"seqNo": 442,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 25225,
+			"share": 51.40
+		},
+		{
+			"party": "LAB",
+			"votes": 12957,
+			"share": 26.40
+		},
+		{
+			"party": "LD",
+			"votes": 7648,
+			"share": 15.60
+		},
+		{
+			"party": "GRN",
+			"votes": 1664,
+			"share": 3.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1541,
+			"share": 3.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

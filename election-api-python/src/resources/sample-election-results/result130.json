@@ -1,0 +1,27 @@
+{
+	"id": 216,
+	"name": "Durham North West",
+	"seqNo": 130,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 21312,
+			"share": 53.90
+		},
+		{
+			"party": "LD",
+			"votes": 7869,
+			"share": 19.90
+		},
+		{
+			"party": "CON",
+			"votes": 6463,
+			"share": 16.40
+		},
+		{
+			"party": "OTH",
+			"votes": 3865,
+			"share": 9.80
+		}
+	]
+}

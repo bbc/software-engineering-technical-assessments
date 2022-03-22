@@ -1,0 +1,32 @@
+{
+	"id": 188,
+	"name": "Devon Central",
+	"seqNo": 18,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20517,
+			"share": 43.80
+		},
+		{
+			"party": "LD",
+			"votes": 18179,
+			"share": 38.80
+		},
+		{
+			"party": "LAB",
+			"votes": 5429,
+			"share": 11.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 2755,
+			"share": 5.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

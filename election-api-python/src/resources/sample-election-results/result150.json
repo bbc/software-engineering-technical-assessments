@@ -1,0 +1,37 @@
+{
+	"id": 156,
+	"name": "Coatbridge, Chryston \u0026 Bellshill",
+	"seqNo": 150,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 24725,
+			"share": 64.50
+		},
+		{
+			"party": "SNP",
+			"votes": 5206,
+			"share": 13.60
+		},
+		{
+			"party": "LD",
+			"votes": 4605,
+			"share": 12.00
+		},
+		{
+			"party": "CON",
+			"votes": 2775,
+			"share": 7.20
+		},
+		{
+			"party": "SSP",
+			"votes": 1033,
+			"share": 2.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

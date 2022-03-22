@@ -1,0 +1,32 @@
+{
+	"id": 394,
+	"name": "Middlesbrough",
+	"seqNo": 104,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18486,
+			"share": 57.60
+		},
+		{
+			"party": "LD",
+			"votes": 6010,
+			"share": 18.70
+		},
+		{
+			"party": "CON",
+			"votes": 5283,
+			"share": 16.50
+		},
+		{
+			"party": "OTH",
+			"votes": 1552,
+			"share": 4.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 768,
+			"share": 2.40
+		}
+	]
+}

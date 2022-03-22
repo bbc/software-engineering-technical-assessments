@@ -1,0 +1,32 @@
+{
+	"id": 617,
+	"name": "Weston-Super-Mare",
+	"seqNo": 416,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 19760,
+			"share": 40.30
+		},
+		{
+			"party": "LD",
+			"votes": 17672,
+			"share": 36.10
+		},
+		{
+			"party": "LAB",
+			"votes": 9151,
+			"share": 18.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1204,
+			"share": 2.50
+		},
+		{
+			"party": "OTH",
+			"votes": 1190,
+			"share": 2.40
+		}
+	]
+}

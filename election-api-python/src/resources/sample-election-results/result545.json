@@ -1,0 +1,32 @@
+{
+	"id": 136,
+	"name": "Charnwood",
+	"seqNo": 545,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22230,
+			"share": 48.30
+		},
+		{
+			"party": "LAB",
+			"votes": 13617,
+			"share": 29.60
+		},
+		{
+			"party": "LD",
+			"votes": 8739,
+			"share": 19.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 1404,
+			"share": 3.10
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

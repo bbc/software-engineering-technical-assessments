@@ -1,0 +1,32 @@
+{
+	"id": 411,
+	"name": "Newark",
+	"seqNo": 480,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 22950,
+			"share": 50.50
+		},
+		{
+			"party": "LAB",
+			"votes": 12873,
+			"share": 28.30
+		},
+		{
+			"party": "LD",
+			"votes": 8354,
+			"share": 18.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1267,
+			"share": 2.80
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

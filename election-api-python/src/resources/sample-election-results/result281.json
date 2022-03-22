@@ -1,0 +1,32 @@
+{
+	"id": 93,
+	"name": "Brentwood \u0026 Ongar",
+	"seqNo": 281,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 24865,
+			"share": 54.00
+		},
+		{
+			"party": "LD",
+			"votes": 12343,
+			"share": 26.80
+		},
+		{
+			"party": "LAB",
+			"votes": 6817,
+			"share": 14.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 1836,
+			"share": 4.00
+		},
+		{
+			"party": "OTH",
+			"votes": 155,
+			"share": 0.30
+		}
+	]
+}

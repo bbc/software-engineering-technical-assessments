@@ -1,0 +1,32 @@
+{
+	"id": 475,
+	"name": "Rochester \u0026 Strood",
+	"seqNo": 53,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 18877,
+			"share": 42.60
+		},
+		{
+			"party": "LAB",
+			"votes": 18374,
+			"share": 41.50
+		},
+		{
+			"party": "LD",
+			"votes": 5468,
+			"share": 12.40
+		},
+		{
+			"party": "UKIP",
+			"votes": 1547,
+			"share": 3.50
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

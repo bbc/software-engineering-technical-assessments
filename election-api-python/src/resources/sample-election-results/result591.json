@@ -1,0 +1,37 @@
+{
+	"id": 505,
+	"name": "Sheffield Hallam",
+	"seqNo": 591,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 21253,
+			"share": 46.40
+		},
+		{
+			"party": "CON",
+			"votes": 13837,
+			"share": 30.20
+		},
+		{
+			"party": "LAB",
+			"votes": 8160,
+			"share": 17.80
+		},
+		{
+			"party": "GRN",
+			"votes": 1171,
+			"share": 2.60
+		},
+		{
+			"party": "OTH",
+			"votes": 810,
+			"share": 1.80
+		},
+		{
+			"party": "UKIP",
+			"votes": 621,
+			"share": 1.40
+		}
+	]
+}

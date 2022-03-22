@@ -1,0 +1,52 @@
+{
+	"id": 224,
+	"name": "East Lothian",
+	"seqNo": 185,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18983,
+			"share": 41.50
+		},
+		{
+			"party": "LD",
+			"votes": 11363,
+			"share": 24.80
+		},
+		{
+			"party": "CON",
+			"votes": 7315,
+			"share": 16.00
+		},
+		{
+			"party": "SNP",
+			"votes": 5995,
+			"share": 13.10
+		},
+		{
+			"party": "SGP",
+			"votes": 1132,
+			"share": 2.50
+		},
+		{
+			"party": "SSP",
+			"votes": 504,
+			"share": 1.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 306,
+			"share": 0.70
+		},
+		{
+			"party": "OTH",
+			"votes": 178,
+			"share": 0.40
+		},
+		{
+			"party": "OCV",
+			"votes": 178,
+			"share": 0.40
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": 430,
+	"name": "Norwich North",
+	"seqNo": 611,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19212,
+			"share": 47.10
+		},
+		{
+			"party": "CON",
+			"votes": 12443,
+			"share": 30.50
+		},
+		{
+			"party": "LD",
+			"votes": 6551,
+			"share": 16.10
+		},
+		{
+			"party": "GRN",
+			"votes": 1321,
+			"share": 3.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 949,
+			"share": 2.30
+		},
+		{
+			"party": "OTH",
+			"votes": 308,
+			"share": 0.80
+		}
+	]
+}

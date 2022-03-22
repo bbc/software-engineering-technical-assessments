@@ -1,0 +1,37 @@
+{
+	"id": 318,
+	"name": "Hornsey \u0026 Wood Green",
+	"seqNo": 204,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 20512,
+			"share": 43.30
+		},
+		{
+			"party": "LAB",
+			"votes": 18117,
+			"share": 38.30
+		},
+		{
+			"party": "CON",
+			"votes": 6014,
+			"share": 12.70
+		},
+		{
+			"party": "GRN",
+			"votes": 2377,
+			"share": 5.00
+		},
+		{
+			"party": "UKIP",
+			"votes": 310,
+			"share": 0.70
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

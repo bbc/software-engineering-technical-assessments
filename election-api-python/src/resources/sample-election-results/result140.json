@@ -1,0 +1,37 @@
+{
+	"id": 524,
+	"name": "Southampton Test",
+	"seqNo": 140,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 18022,
+			"share": 44.20
+		},
+		{
+			"party": "CON",
+			"votes": 10205,
+			"share": 25.00
+		},
+		{
+			"party": "LD",
+			"votes": 9826,
+			"share": 24.10
+		},
+		{
+			"party": "GRN",
+			"votes": 1482,
+			"share": 3.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1232,
+			"share": 3.00
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

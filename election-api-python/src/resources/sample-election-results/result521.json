@@ -1,0 +1,37 @@
+{
+	"id": 272,
+	"name": "Gosport",
+	"seqNo": 521,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 19268,
+			"share": 44.80
+		},
+		{
+			"party": "LAB",
+			"votes": 13538,
+			"share": 31.50
+		},
+		{
+			"party": "LD",
+			"votes": 7145,
+			"share": 16.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 1825,
+			"share": 4.20
+		},
+		{
+			"party": "GRN",
+			"votes": 1258,
+			"share": 2.90
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

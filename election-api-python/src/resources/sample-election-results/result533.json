@@ -1,0 +1,32 @@
+{
+	"id": 163,
+	"name": "Cornwall South East",
+	"seqNo": 533,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 21795,
+			"share": 46.80
+		},
+		{
+			"party": "CON",
+			"votes": 16310,
+			"share": 35.00
+		},
+		{
+			"party": "LAB",
+			"votes": 4873,
+			"share": 10.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 2380,
+			"share": 5.10
+		},
+		{
+			"party": "OTH",
+			"votes": 1228,
+			"share": 2.60
+		}
+	]
+}

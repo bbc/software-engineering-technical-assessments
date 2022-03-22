@@ -1,0 +1,37 @@
+{
+	"id": 117,
+	"name": "Camberwell \u0026 Peckham",
+	"seqNo": 276,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 24529,
+			"share": 63.30
+		},
+		{
+			"party": "LD",
+			"votes": 7921,
+			"share": 20.40
+		},
+		{
+			"party": "CON",
+			"votes": 3842,
+			"share": 9.90
+		},
+		{
+			"party": "GRN",
+			"votes": 1796,
+			"share": 4.60
+		},
+		{
+			"party": "UKIP",
+			"votes": 440,
+			"share": 1.10
+		},
+		{
+			"party": "OTH",
+			"votes": 245,
+			"share": 0.60
+		}
+	]
+}

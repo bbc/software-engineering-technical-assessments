@@ -1,0 +1,32 @@
+{
+	"id": 528,
+	"name": "Stafford",
+	"seqNo": 555,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 19970,
+			"share": 43.20
+		},
+		{
+			"party": "CON",
+			"votes": 18118,
+			"share": 39.20
+		},
+		{
+			"party": "LD",
+			"votes": 6613,
+			"share": 14.30
+		},
+		{
+			"party": "UKIP",
+			"votes": 1525,
+			"share": 3.30
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 357,
+	"name": "Leicester South",
+	"seqNo": 373,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 16702,
+			"share": 39.30
+		},
+		{
+			"party": "LD",
+			"votes": 12975,
+			"share": 30.60
+		},
+		{
+			"party": "CON",
+			"votes": 7556,
+			"share": 17.80
+		},
+		{
+			"party": "OTH",
+			"votes": 3824,
+			"share": 9.00
+		},
+		{
+			"party": "GRN",
+			"votes": 1389,
+			"share": 3.30
+		}
+	]
+}

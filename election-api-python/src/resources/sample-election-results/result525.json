@@ -1,0 +1,32 @@
+{
+	"id": 291,
+	"name": "Harborough",
+	"seqNo": 525,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20749,
+			"share": 41.50
+		},
+		{
+			"party": "LD",
+			"votes": 16702,
+			"share": 33.40
+		},
+		{
+			"party": "LAB",
+			"votes": 9334,
+			"share": 18.70
+		},
+		{
+			"party": "OTH",
+			"votes": 1737,
+			"share": 3.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1525,
+			"share": 3.00
+		}
+	]
+}

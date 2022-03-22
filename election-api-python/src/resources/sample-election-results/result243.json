@@ -1,0 +1,42 @@
+{
+	"id": 559,
+	"name": "Swansea West",
+	"seqNo": 243,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 13833,
+			"share": 41.80
+		},
+		{
+			"party": "LD",
+			"votes": 9564,
+			"share": 28.90
+		},
+		{
+			"party": "CON",
+			"votes": 5285,
+			"share": 16.00
+		},
+		{
+			"party": "PC",
+			"votes": 2150,
+			"share": 6.50
+		},
+		{
+			"party": "OTH",
+			"votes": 907,
+			"share": 2.70
+		},
+		{
+			"party": "GRN",
+			"votes": 738,
+			"share": 2.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 609,
+			"share": 1.80
+		}
+	]
+}

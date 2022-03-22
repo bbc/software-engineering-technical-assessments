@@ -1,0 +1,32 @@
+{
+	"id": 608,
+	"name": "Wellingborough",
+	"seqNo": 549,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 20860,
+			"share": 42.70
+		},
+		{
+			"party": "LAB",
+			"votes": 20250,
+			"share": 41.40
+		},
+		{
+			"party": "LD",
+			"votes": 5637,
+			"share": 11.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1125,
+			"share": 2.30
+		},
+		{
+			"party": "OTH",
+			"votes": 983,
+			"share": 2.00
+		}
+	]
+}

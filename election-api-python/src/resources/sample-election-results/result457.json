@@ -1,0 +1,32 @@
+{
+	"id": 226,
+	"name": "Eastleigh",
+	"seqNo": 457,
+	"partyResults": [
+		{
+			"party": "LD",
+			"votes": 18313,
+			"share": 38.30
+		},
+		{
+			"party": "CON",
+			"votes": 17779,
+			"share": 37.20
+		},
+		{
+			"party": "LAB",
+			"votes": 10069,
+			"share": 21.10
+		},
+		{
+			"party": "UKIP",
+			"votes": 1615,
+			"share": 3.40
+		},
+		{
+			"party": "OTH",
+			"votes": 0,
+			"share": 0.00
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": 468,
+	"name": "Reigate",
+	"seqNo": 301,
+	"partyResults": [
+		{
+			"party": "CON",
+			"votes": 21198,
+			"share": 48.60
+		},
+		{
+			"party": "LD",
+			"votes": 10105,
+			"share": 23.10
+		},
+		{
+			"party": "LAB",
+			"votes": 9388,
+			"share": 21.50
+		},
+		{
+			"party": "UKIP",
+			"votes": 1952,
+			"share": 4.50
+		},
+		{
+			"party": "OTH",
+			"votes": 1008,
+			"share": 2.30
+		}
+	]
+}

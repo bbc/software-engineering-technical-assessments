@@ -1,0 +1,32 @@
+{
+	"id": 199,
+	"name": "Dorset South",
+	"seqNo": 589,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 20231,
+			"share": 41.60
+		},
+		{
+			"party": "CON",
+			"votes": 18419,
+			"share": 37.90
+		},
+		{
+			"party": "LD",
+			"votes": 7647,
+			"share": 15.70
+		},
+		{
+			"party": "UKIP",
+			"votes": 1571,
+			"share": 3.20
+		},
+		{
+			"party": "OTH",
+			"votes": 716,
+			"share": 1.50
+		}
+	]
+}

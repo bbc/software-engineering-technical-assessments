@@ -1,0 +1,32 @@
+{
+	"id": 539,
+	"name": "Stoke On Trent South",
+	"seqNo": 325,
+	"partyResults": [
+		{
+			"party": "LAB",
+			"votes": 17195,
+			"share": 46.80
+		},
+		{
+			"party": "CON",
+			"votes": 8871,
+			"share": 24.20
+		},
+		{
+			"party": "LD",
+			"votes": 5529,
+			"share": 15.10
+		},
+		{
+			"party": "OTH",
+			"votes": 4110,
+			"share": 11.20
+		},
+		{
+			"party": "UKIP",
+			"votes": 1009,
+			"share": 2.70
+		}
+	]
+}
