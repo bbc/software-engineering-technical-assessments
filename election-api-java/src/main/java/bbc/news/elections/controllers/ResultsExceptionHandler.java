@@ -14,22 +14,14 @@ public class ResultsExceptionHandler {
     @ExceptionHandler(ResultNotFoundException.class)
     public ResponseEntity<ApiResponse> handleNotFoundApiException(
             ResultNotFoundException ex) {
-        ApiResponse response =
-                ApiResponse.builder()
-                        .error("not-found-001")
-                        .message(String.format("%d not found",ex.getId()))
-                        .build();
+        ApiResponse response = new ApiResponse("not-found-001",String.format("%d not found",ex.getId()));
         return new ResponseEntity<>(response, HttpStatus.NOT_FOUND);
     }
 
     @ExceptionHandler(NotImplementedException.class)
     public ResponseEntity<ApiResponse> handleNotImplementedApiException(
             NotImplementedException ex) {
-        ApiResponse response =
-                ApiResponse.builder()
-                        .error("not-implemented-002")
-                        .message("Function not yet implemented")
-                        .build();
+        ApiResponse response = new ApiResponse("not-implemented-002", "Function not yet implemented");
         return new ResponseEntity<>(response, HttpStatus.INTERNAL_SERVER_ERROR);
     }
 }

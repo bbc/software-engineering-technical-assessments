@@ -16,7 +16,6 @@ import org.springframework.http.ResponseEntity;
 import java.io.InputStream;
 import java.net.URL;
 
-import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
