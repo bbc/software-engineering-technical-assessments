@@ -5,9 +5,9 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import java.math.BigDecimal;
 
 public class PartyResult {
-   final String party;
-   final Integer votes;
-   final BigDecimal share;
+   private final String party;
+   private final Integer votes;
+   private final BigDecimal share;
 
    public PartyResult(
            // JsonProperty annotations required for Jackson deserialisation during testing
@@ -19,6 +19,12 @@ public class PartyResult {
       this.votes = votes;
       this.share = share;
    }
+
+   public String getParty() { return party; }
+
+   public Integer getVotes() { return votes; }
+
+   public BigDecimal getShare() { return share; }
 }
 
 

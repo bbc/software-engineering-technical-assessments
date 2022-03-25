@@ -5,10 +5,10 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.List;
 
 public class ConstituencyResult {
-    final Integer id;
-    final String name;
-    final Integer seqNo;
-    final List<PartyResult> partyResults;
+    private final Integer id;
+    private final String name;
+    private final Integer seqNo;
+    private final List<PartyResult> partyResults;
 
     public ConstituencyResult(
             // JsonProperty annotations required for Jackson deserialisation during testing
@@ -24,4 +24,10 @@ public class ConstituencyResult {
     }
 
     public Integer getId() { return id; }
+
+    public String getName() { return name; }
+
+    public Integer getSeqNo() { return seqNo; }
+
+    public List<PartyResult> getPartyResults() { return partyResults; }
 }
