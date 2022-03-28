@@ -17,33 +17,31 @@ The API has 3 endpoints:
 - POST `/result` to add a new result
 - GET `/scoreboard` to get the running totals. This is unimplemented.
 
-### Task
+## Setup
+Requires: 
+* node (14) - available from https://nodejs.org/en/download/
+* npm - will be installed with node, or see https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
-During your assessment we will ask you to work though the task in `tasks.md` with a pair. Please do not work on or complete these prior to the assessment.
-
-:warning:  If you make any changes to the code, please ensure you return it to it's initial (HEAD) state before your assessment.
-
-## Prerequisites
-- Node 14
-
-### To Build
-
-```bash
-npm install
 ```
-
-### To Run
-
-```bash
+npm install
 npm start
 ```
-or if you need to run it on another port,
+
+If you need to run it on another port, instead of `npm start`, you can run the below, where 9000 is swapped for your preferred port:
+
 ```bash
 PORT=9000 npm start
 ```
 
-### To Test
+At this point we don't ask you to do any more until your booked assessment time. 
 
-```bash
-npm test
-```
+You're ready for your assessment as long as the following are true:
+- You can open this folder in your preferred code editor
+- You can run all the tests with `npm test` and all 4 pass
+- You can run `npm start` without any errors and http://localhost:3000/ returns "Cannot GET /"
+
+:warning:  If you make any changes to the code, please ensure you return it to it's initial (HEAD) state before your assessment.
+
+## Assessment Time
+
+During your assessment we will ask you to work though the task in `tasks.md` with a pair. Please do not work on or complete these prior to the assessment.
