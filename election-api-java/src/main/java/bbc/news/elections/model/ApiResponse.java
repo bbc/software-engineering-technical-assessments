@@ -1,8 +1,11 @@
 package bbc.news.elections.model;
 
 public class ApiResponse {
-    private final String error;
-    private final String message;
+    private String error;
+    private String message;
+
+    public ApiResponse() {
+    }
 
     public ApiResponse(String error, String message) {
         this.error = error;
@@ -15,5 +18,13 @@ public class ApiResponse {
 
     public String getMessage() {
         return message;
+    }
+
+    public void setError(String error) {
+        this.error = error;
+    }
+
+    public void setMessage(String message) {
+        this.message = message;
     }
 }

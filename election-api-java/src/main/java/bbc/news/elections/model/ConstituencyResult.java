@@ -1,26 +1,14 @@
 package bbc.news.elections.model;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-
 import java.util.List;
 
 public class ConstituencyResult {
-    private final Integer id;
-    private final String name;
-    private final Integer seqNo;
-    private final List<PartyResult> partyResults;
+    private Integer id;
+    private String name;
+    private Integer seqNo;
+    private List<PartyResult> partyResults;
 
-    public ConstituencyResult(
-            // JsonProperty annotations required for Jackson deserialisation during testing
-            @JsonProperty("id")  Integer id,
-            @JsonProperty("name")  String name,
-            @JsonProperty("seqNo")  Integer seqNo,
-            @JsonProperty("partyResults")  List<PartyResult> partyResults)
-    {
-        this.id = id;
-        this.name = name;
-        this.seqNo = seqNo;
-        this.partyResults = partyResults;
+    public ConstituencyResult() {
     }
 
     public Integer getId() { return id; }
@@ -30,4 +18,20 @@ public class ConstituencyResult {
     public Integer getSeqNo() { return seqNo; }
 
     public List<PartyResult> getPartyResults() { return partyResults; }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setSeqNo(Integer seqNo) {
+        this.seqNo = seqNo;
+    }
+
+    public void setPartyResults(List<PartyResult> partyResults) {
+        this.partyResults = partyResults;
+    }
 }
