@@ -24,7 +24,7 @@
     "moduleNameMapper": {
       "^.+\\.css$": "<rootDir>/node_modules/identity-obj-proxy"
     },
-    "testEnvironment": "jsdom",
+    "testEnvironment": "jest-environment-jsdom",
     "setupFilesAfterEnv": [
       "<rootDir>/src/setupTests.js"
     ],
