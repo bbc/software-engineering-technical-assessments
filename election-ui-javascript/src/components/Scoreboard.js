@@ -11,6 +11,7 @@ function Scoreboard() {
   const [results, setResults] = useState([]);
 
   async function getData() {
+    debugger
     try {
       setLoading(true);
       const resultData = await fetchData();

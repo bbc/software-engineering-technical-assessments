@@ -1,3 +1,4 @@
+import React from 'react';
 import './PartyLinks.css';
 
 const PARTIES = [
