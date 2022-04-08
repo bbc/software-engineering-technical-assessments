@@ -13,8 +13,7 @@ Requires:
 * npm (8.x) - will be installed with node 16, or see https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 ```
-npm install
-npm run build
+npm ci 
 npm start
 ```
 

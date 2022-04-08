@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "npx parcel src/index.html",
-    "build": "parcel build",
+    "build": "parcel build src/index.html",
     "test": "jest --watch"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead",
