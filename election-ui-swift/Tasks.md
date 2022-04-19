@@ -6,7 +6,7 @@ The product owner has asked us to use to add some additional features to the app
 
 ### 1) There is no way to tell when the counting has finished and a winner has been declared.
 
-- When counting is complete can be remove the refresh button?
+- When counting is complete can we remove the refresh button?
 - Can we make it clear when the counting is complete?
 - Can we calculate the winner and highlight them in the table somehow?
 
