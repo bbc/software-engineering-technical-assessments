@@ -24,7 +24,7 @@ During your assessment we will ask you to work though the task in `tasks.md` wit
 :warning:  If you make any changes to the code, please ensure you return it to it's initial (HEAD) state before your assessment.
 
 ## Prerequisites
-- python 3.6 or higher
+- python 3.9 or higher
 
 ### To Build
 `pip install -r requirements.txt`
