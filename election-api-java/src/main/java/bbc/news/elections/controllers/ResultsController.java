@@ -16,25 +16,25 @@ import java.util.Map;
 @RestController
 public class ResultsController {
 
-    private final ResultService results;
+    private final ResultService resultService;
 
     public ResultsController(ResultService resultService) {
-        this.results = resultService;
+        this.resultService = resultService;
     }
 
     @GetMapping("/result/{id}")
     ConstituencyResult getResult(@PathVariable Integer id) {
-        ConstituencyResult result = results.GetResult(id);
+        ConstituencyResult result = resultService.GetResult(id);
         if (result == null) {
             throw new ResultNotFoundException(id);
         }
-        return results.GetResult(id);
+        return resultService.GetResult(id);
     }
 
     @PostMapping("/result")
     ResponseEntity<String> newResult(@RequestBody ConstituencyResult result) {
         if (result.getId() != null) {
-            results.NewResult(result);
+            resultService.NewResult(result);
             return ResponseEntity.created(URI.create("/result/"+result.getId())).build();
         }
         return ResponseEntity.badRequest().body("Id was null");
