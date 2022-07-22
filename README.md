@@ -14,6 +14,7 @@ The applications:
 - `election-api-python` A fake elction API written with Python
 - `election-ui-javascript` A fake elections Web UI written with React and Javascript
 - `election-ui-swift` A fake elections iOS app written with Swift (with UIKit and SwiftUI variations)
+- `election-ui-kotlin` A fake elections Android app written with Kotlin (with XML layout and Jetpack Compose variations)
 
 Each makes up part a mock elections system which could show results pages similar to how BBC News covers elections, for example: https://www.bbc.co.uk/news/topics/c37d28xdn99t/scottish-parliament-election-2021. These pieces of software don't rely on one another or interact in any way.
 
