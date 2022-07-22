@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Elections Application</string>
+    <string name="refresh">Refresh</string>
+    <string name="results_header_party">Party</string>
+    <string name="results_header_candidate">Candidate</string>
+    <string name="results_header_votes">Votes</string>
+</resources>
