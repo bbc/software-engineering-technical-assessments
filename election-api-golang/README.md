@@ -6,7 +6,7 @@ The results API presents a simple elections result service.
 
 ### Domain
 The domain for the election represents some key concepts:
-- _**consituencyId**_ a unique integer id to identify a location. E.g "Brent Central" is 90
+- _**constituencyId**_ a unique integer id to identify a location. E.g "Brent Central" is 90
 - _**party**_ is a short 3, or 4, letter code for a party for instance LAB = Labour, CON = Conservative etc.
 - _**votes**_ the number of votes gained by a party in a constituency
 - _**share**_ the % share of the total votes the party received
