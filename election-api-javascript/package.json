@@ -1,5 +1,5 @@
 {
-  "name": "hiring-api-test",
+  "name": "elections-api",
   "version": "1.0.0",
   "description": "Node.js coding test",
   "main": "src/index.js",
