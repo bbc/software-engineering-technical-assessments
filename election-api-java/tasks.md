@@ -11,7 +11,7 @@ your implementation.
 
 # Task 1: count each party's "seats"
 
-Show how many consistuencies (known as "seats") each party has won.
+Show how many constituencies (known as "seats") each party has won.
 
 For each constituency a winner can be declared:
 
