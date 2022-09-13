@@ -2,7 +2,7 @@
 
 This repository contains the different technical assessments that are used for the BBC Assessment Centre. You will need to choose **one** of the assessments to undertake in your technical interview. 
 
-Each assessment makes up part a mock elections system which could show results pages similar to how [BBC News covers elections](https://www.bbc.co.uk/news/topics/c37d28xdn99t/scottish-parliament-election-2021). 
+Each assessment makes up part of a mock elections system which could show results pages similar to how [BBC News covers elections](https://www.bbc.co.uk/news/topics/c37d28xdn99t/scottish-parliament-election-2021). 
 
 **These pieces of software don't rely on one another or interact in any way.**
 
@@ -50,4 +50,4 @@ In the assessment we will ask you to screenshare your working environment with u
 
 # Questions?
 
-If you have any questions about any of this. Please contact your recruitment contact, and/or the person who sent you the link to this repository.
+If you have any questions about any of this, please contact your recruitment contact, and/or the person who sent you the link to this repository.
