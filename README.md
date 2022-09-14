@@ -36,7 +36,7 @@ Things to take into account when choosing your assessment:
 * If you want a **web/front end/fullstack** role you must choose the `election-ui-javascript` assessment. 
 * If you want a **mobile development** role you must choose the `election-ui-swift` or `election-ui-kotlin` assessment.
 * Otherwise, choose a language you are most comfortable and that gives you the best opportunity to show your ability. 
-* More information on each assesment can be found inside the readme of the relevant application. 
+* More information on each assessment can be found inside the readme of the relevant application. 
 
 Once you have decided, please let your recruitment contact know.
 
