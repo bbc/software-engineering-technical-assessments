@@ -7,8 +7,14 @@ class ResultsServiceImpl: ResultsService {
         self.resultsRepository = resultsRepository
     }
     
-    func latestResults() async throws -> Results {
-        let results = try await resultsRepository.latestResults()
-        return results
+    func latestResults(completion: @escaping (Result<ElectionResponse, ResultsServiceError>) -> Void) {
+        resultsRepository.latestResults { result in
+            switch result {
+            case .success(let response):
+                completion(.success(response))
+            case .failure:
+                completion(.failure(.invalidJSON))
+            }
+        }
     }
 }

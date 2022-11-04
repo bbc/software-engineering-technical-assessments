@@ -27,18 +27,15 @@ class ResultsViewModelImpl: ResultsViewModel {
     }
     
     func load() {
-        Task {
-            let results = try await resultsService.latestResults()
-            
-            await MainActor.run {
-                items = results.results.map { adapt(result: $0) }
-                viewDelegate?.bind()
+        resultsService.latestResults { response in
+            if case let .success(successfulResponse) = response {
+                let itemViewModels = successfulResponse.electionResults.map { result in
+                    ResultCellViewModel(party: result.party, candidate: String(result.candidateId), votes: String(result.votes))
+                }
+                self.items = itemViewModels
+                self.viewDelegate?.bind()
             }
         }
-    }
-    
-    private func adapt(result: Result) -> ResultCellViewModel {
-        ResultCellViewModel(party: result.party, candidate: String(result.candidateId), votes: String(result.votes))
     }
 }
 

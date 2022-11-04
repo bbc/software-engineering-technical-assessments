@@ -5,11 +5,9 @@ import XCTest
 @testable import ElectionResults
 
 class StubResultsService: ResultsService {
-
-    var stubbedLatestResultsResult: Results!
-
-    func latestResults() async throws -> Results {
-        return stubbedLatestResultsResult
+    var completion: ((Result<ElectionResults.ElectionResponse, ElectionResults.ResultsRepositoryError>) -> Void)?
+    func latestResults(completion:  @escaping (Result<ElectionResults.ElectionResponse, ElectionResults.ResultsRepositoryError>) -> Void) {
+        self.completion = completion
     }
 }
 
@@ -44,20 +42,17 @@ class ResultsViewModelImplTests: XCTestCase {
     }
 
     func testLoad() throws {
-        let mockResult = Result(candidateId: 1, party: "party", votes: 1)
-        let mockResults = Results(isComplete: false, results: [mockResult])
-        stubResultsService.stubbedLatestResultsResult = mockResults
-        
-        let expectation = expectation(description: "loads items")
+        let mockResult = ElectionResult(candidateId: 1, party: "party", votes: 1)
+        let mockResults = ElectionResponse(isComplete: false, electionResults: [mockResult])
+
         stubDelegate.bindWasCalled = {
-            expectation.fulfill()
             let first = self.viewModel.items.first!
             XCTAssertEqual(first.party, mockResult.party)
             XCTAssertEqual(first.candidate, String(mockResult.candidateId))
             XCTAssertEqual(first.votes, String(mockResult.votes))
         }
         viewModel.load()
-        wait(for: [expectation], timeout: 0.3)
+        stubResultsService.completion!(.success(mockResults))
     }
 
 

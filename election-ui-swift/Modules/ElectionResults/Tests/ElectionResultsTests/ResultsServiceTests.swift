@@ -6,9 +6,9 @@ class StubResultsRepository: ResultsRepository {
 
     var invokedLatestResults = false
     var invokedLatestResultsCount = 0
-    var stubbedLatestResultsResult: Results!
+    var stubbedLatestResultsResult: ElectionResponse!
 
-    func latestResults() async throws -> Results {
+    func latestResults() async throws -> ElectionResponse {
         invokedLatestResults = true
         invokedLatestResultsCount += 1
         return stubbedLatestResultsResult
@@ -36,11 +36,11 @@ class ResultsServiceTests: XCTestCase {
     }
 
     func testLatestResults() async throws {
-        let mockResult = Result(candidateId: 1, party: "party", votes: 1)
-        let mockResults = Results(isComplete: false, results: [mockResult])
+        let mockResult = ElectionResult(candidateId: 1, party: "party", votes: 1)
+        let mockResults = ElectionResponse(isComplete: false, electionResults: [mockResult])
         stubResultsRepository.stubbedLatestResultsResult = mockResults
         let results = try await service.latestResults()
         XCTAssertFalse(results.isComplete)
-        XCTAssertEqual(results.results.count, 1)
+        XCTAssertEqual(results.electionResults.count, 1)
     }
 }

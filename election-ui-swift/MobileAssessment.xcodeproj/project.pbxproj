@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8365108E28E6FC2A007D7D96 /* ResultItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8365108D28E6FC2A007D7D96 /* ResultItemViewModel.swift */; };
+		8365109028EC1D07007D7D96 /* ViewModelFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8365108F28EC1D07007D7D96 /* ViewModelFactory.swift */; };
 		CF0A6F4F27F466100068092A /* ResultsView.xib in Resources */ = {isa = PBXBuildFile; fileRef = CF0A6F4E27F466100068092A /* ResultsView.xib */; };
 		CF0A6F5227F466440068092A /* ResultsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF0A6F5127F466440068092A /* ResultsView.swift */; };
 		CF0A6F5427F467380068092A /* UIView+Nib.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF0A6F5327F467380068092A /* UIView+Nib.swift */; };
@@ -23,11 +25,9 @@
 		CF30C8B027EDE9F1003BD727 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF30C8AF27EDE9F1003BD727 /* Preview Assets.xcassets */; };
 		CF30C8D127EDEA7E003BD727 /* ResultsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF30C8D027EDEA7E003BD727 /* ResultsView.swift */; };
 		CF30C8D327EDEE70003BD727 /* ResultsRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF30C8D227EDEE70003BD727 /* ResultsRow.swift */; };
-		CF30C8D527EDF016003BD727 /* ResultsViewPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF30C8D427EDF016003BD727 /* ResultsViewPresenter.swift */; };
 		CF30C8D727EDF1AF003BD727 /* ElectionResults in Frameworks */ = {isa = PBXBuildFile; productRef = CF30C8D627EDF1AF003BD727 /* ElectionResults */; };
 		CF30C8D927EDF1CC003BD727 /* ResultsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF30C8D827EDF1CC003BD727 /* ResultsViewModel.swift */; };
-		CF30C8DB27EDF268003BD727 /* PresenterFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF30C8DA27EDF268003BD727 /* PresenterFactory.swift */; };
-		CF30C8DE27EE09E1003BD727 /* ElectionResultsViewPresenterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF30C8DD27EE09E1003BD727 /* ElectionResultsViewPresenterTests.swift */; };
+		CF30C8DE27EE09E1003BD727 /* ResultsViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF30C8DD27EE09E1003BD727 /* ResultsViewModelTests.swift */; };
 		CF30C8ED27EE130B003BD727 /* ResultsViewModelImplTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF30C8EC27EE130B003BD727 /* ResultsViewModelImplTests.swift */; };
 		CF523ECB27EB442400B67772 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF523ECA27EB442400B67772 /* AppDelegate.swift */; };
 		CF523ECD27EB442400B67772 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF523ECC27EB442400B67772 /* SceneDelegate.swift */; };
@@ -56,6 +56,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8365108D28E6FC2A007D7D96 /* ResultItemViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultItemViewModel.swift; sourceTree = "<group>"; };
+		8365108F28EC1D07007D7D96 /* ViewModelFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelFactory.swift; sourceTree = "<group>"; };
 		CF0A6F4E27F466100068092A /* ResultsView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ResultsView.xib; sourceTree = "<group>"; };
 		CF0A6F5127F466440068092A /* ResultsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsView.swift; sourceTree = "<group>"; };
 		CF0A6F5327F467380068092A /* UIView+Nib.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Nib.swift"; sourceTree = "<group>"; };
@@ -74,11 +76,9 @@
 		CF30C8B527EDE9F2003BD727 /* AssessmentSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AssessmentSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF30C8D027EDEA7E003BD727 /* ResultsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsView.swift; sourceTree = "<group>"; };
 		CF30C8D227EDEE70003BD727 /* ResultsRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsRow.swift; sourceTree = "<group>"; };
-		CF30C8D427EDF016003BD727 /* ResultsViewPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewPresenter.swift; sourceTree = "<group>"; };
 		CF30C8D827EDF1CC003BD727 /* ResultsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewModel.swift; sourceTree = "<group>"; };
-		CF30C8DA27EDF268003BD727 /* PresenterFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresenterFactory.swift; sourceTree = "<group>"; };
 		CF30C8DC27EDF4A9003BD727 /* Tasks.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Tasks.md; sourceTree = "<group>"; };
-		CF30C8DD27EE09E1003BD727 /* ElectionResultsViewPresenterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElectionResultsViewPresenterTests.swift; sourceTree = "<group>"; };
+		CF30C8DD27EE09E1003BD727 /* ResultsViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewModelTests.swift; sourceTree = "<group>"; };
 		CF30C8E327EE12CC003BD727 /* AssessmentUIKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AssessmentUIKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF30C8EC27EE130B003BD727 /* ResultsViewModelImplTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewModelImplTests.swift; sourceTree = "<group>"; };
 		CF523EC827EB442400B67772 /* AssessmentUIKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AssessmentUIKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -126,6 +126,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8365108B28E6FB2D007D7D96 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				CF30C8D027EDEA7E003BD727 /* ResultsView.swift */,
+				CF30C8D227EDEE70003BD727 /* ResultsRow.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		8365108C28E6FB38007D7D96 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				CF30C8D827EDF1CC003BD727 /* ResultsViewModel.swift */,
+				8365108D28E6FC2A007D7D96 /* ResultItemViewModel.swift */,
+				8365108F28EC1D07007D7D96 /* ViewModelFactory.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
 		CF0A6F5027F4661D0068092A /* Views */ = {
 			isa = PBXGroup;
 			children = (
@@ -163,11 +182,8 @@
 				CF30C8A827EDE9EF003BD727 /* AssessmentSwiftUIApp.swift */,
 				CF30C8AC27EDE9F1003BD727 /* Assets.xcassets */,
 				CF30C8AE27EDE9F1003BD727 /* Preview Content */,
-				CF30C8D027EDEA7E003BD727 /* ResultsView.swift */,
-				CF30C8D227EDEE70003BD727 /* ResultsRow.swift */,
-				CF30C8D427EDF016003BD727 /* ResultsViewPresenter.swift */,
-				CF30C8D827EDF1CC003BD727 /* ResultsViewModel.swift */,
-				CF30C8DA27EDF268003BD727 /* PresenterFactory.swift */,
+				8365108B28E6FB2D007D7D96 /* View */,
+				8365108C28E6FB38007D7D96 /* ViewModel */,
 			);
 			path = AssessmentSwiftUI;
 			sourceTree = "<group>";
@@ -184,7 +200,7 @@
 		CF30C8B827EDE9F2003BD727 /* AssessmentSwiftUITests */ = {
 			isa = PBXGroup;
 			children = (
-				CF30C8DD27EE09E1003BD727 /* ElectionResultsViewPresenterTests.swift */,
+				CF30C8DD27EE09E1003BD727 /* ResultsViewModelTests.swift */,
 			);
 			path = AssessmentSwiftUITests;
 			sourceTree = "<group>";
@@ -414,13 +430,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8365108E28E6FC2A007D7D96 /* ResultItemViewModel.swift in Sources */,
 				CF30C8D327EDEE70003BD727 /* ResultsRow.swift in Sources */,
 				CF30C8D927EDF1CC003BD727 /* ResultsViewModel.swift in Sources */,
 				CF30C8D127EDEA7E003BD727 /* ResultsView.swift in Sources */,
-				CF30C8D527EDF016003BD727 /* ResultsViewPresenter.swift in Sources */,
 				CFBFE8D427F600170062CB6E /* PreviewData.swift in Sources */,
 				CF30C8A927EDE9EF003BD727 /* AssessmentSwiftUIApp.swift in Sources */,
-				CF30C8DB27EDF268003BD727 /* PresenterFactory.swift in Sources */,
+				8365109028EC1D07007D7D96 /* ViewModelFactory.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -428,7 +444,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CF30C8DE27EE09E1003BD727 /* ElectionResultsViewPresenterTests.swift in Sources */,
+				CF30C8DE27EE09E1003BD727 /* ResultsViewModelTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
