@@ -5,11 +5,9 @@ import SwiftUI
 struct ResultsView: View {
     
     @ObservedObject var viewModel: ResultsViewModel
-    private var presenter: ResultsViewPresenter
     
-    init(presenter: ResultsViewPresenter) {
-        self.presenter = presenter
-        self.viewModel = presenter.viewModel
+    init(viewModel: ResultsViewModel) {
+        self.viewModel = viewModel
     }
     
     var body: some View {
@@ -38,14 +36,14 @@ struct ResultsView: View {
         }
         .toolbar {
             Button {
-                presenter.refresh()
+                viewModel.refresh()
             } label: {
                 Image(systemName: "arrow.clockwise.circle.fill")
             }
         }
-        .navigationTitle("Results")
+        .navigationTitle(viewModel.title)
         .onAppear {
-            presenter.refresh()
+            viewModel.refresh()
         }
     }
 }
@@ -66,21 +64,6 @@ extension View {
 
 struct ResultsView_Previews: PreviewProvider {
     static var previews: some View {
-        ResultsView(presenter: PreviewPresenter())
+        ResultsView(viewModel: ViewModelFactory.resultsViewModel())
     }
-}
-
-class PreviewPresenter: ResultsViewPresenter {
-    var viewModel: ResultsViewModel
-    
-    init() {
-        viewModel = ResultsViewModel()
-        viewModel.items = [PreviewData.resultItemViewModel()]
-    }
-    
-    func refresh() {
-        
-    }
-    
-    
 }
