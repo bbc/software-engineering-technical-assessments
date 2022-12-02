@@ -3,25 +3,26 @@ import XCTest
 @testable import ElectionResults
 
 class StubResultsRepository: ResultsRepository {
-
+    
     var invokedLatestResults = false
     var invokedLatestResultsCount = 0
-    var stubbedLatestResultsResult: ElectionResponse!
+    var stubbedLatestResultsCompletionResult: (Result<ElectionResponse, ResultsRepositoryError>, Void)?
 
-    func latestResults() async throws -> ElectionResponse {
+    func latestResults(completion: (Result<ElectionResponse, ResultsRepositoryError>) -> Void) {
         invokedLatestResults = true
         invokedLatestResultsCount += 1
-        return stubbedLatestResultsResult
+        if let result = stubbedLatestResultsCompletionResult {
+            completion(result.0)
+        }
     }
-    
+
     var invokedAllCandidates = false
     var invokedAllCandidatesCount = 0
-    var stubbedAllCandidatesResult:  [Candidate]!
-    
-    func allCandidates() async throws -> [Candidate] {
+
+    func allCandidates() async throws -> [ElectionResults.Candidate] {
         invokedAllCandidates = true
         invokedAllCandidatesCount += 1
-        return stubbedAllCandidatesResult
+        return []
     }
 }
 
@@ -38,9 +39,15 @@ class ResultsServiceTests: XCTestCase {
     func testLatestResults() async throws {
         let mockResult = ElectionResult(candidateId: 1, party: "party", votes: 1)
         let mockResults = ElectionResponse(isComplete: false, electionResults: [mockResult])
-        stubResultsRepository.stubbedLatestResultsResult = mockResults
-        let results = try await service.latestResults()
-        XCTAssertFalse(results.isComplete)
-        XCTAssertEqual(results.electionResults.count, 1)
+        stubResultsRepository.stubbedLatestResultsCompletionResult = (.success(mockResults), ())
+        let expectation = XCTestExpectation()
+        service.latestResults { result in
+            if case let .success(response) = result {
+                XCTAssertFalse(response.isComplete)
+                XCTAssertEqual(response.electionResults.count, 1)
+                expectation.fulfill()
+            }
+        }
+        wait(for: [expectation], timeout: 0.1)
     }
 }

@@ -5,9 +5,11 @@ import XCTest
 @testable import ElectionResults
 
 class StubResultsService: ResultsService {
-    var completion: ((Result<ElectionResults.ElectionResponse, ElectionResults.ResultsRepositoryError>) -> Void)?
-    func latestResults(completion:  @escaping (Result<ElectionResults.ElectionResponse, ElectionResults.ResultsRepositoryError>) -> Void) {
-        self.completion = completion
+    var completionResult: (Result<ElectionResponse, ResultsServiceError>, Void)?
+    func latestResults(completion: @escaping (Result<ElectionResponse, ResultsServiceError>) -> Void) {
+        if let result = completionResult {
+            completion(result.0)
+        }
     }
 }
 
@@ -45,6 +47,8 @@ class ResultsViewModelImplTests: XCTestCase {
         let mockResult = ElectionResult(candidateId: 1, party: "party", votes: 1)
         let mockResults = ElectionResponse(isComplete: false, electionResults: [mockResult])
 
+        stubResultsService.completionResult = (.success(mockResults), ())
+
         stubDelegate.bindWasCalled = {
             let first = self.viewModel.items.first!
             XCTAssertEqual(first.party, mockResult.party)
@@ -52,7 +56,6 @@ class ResultsViewModelImplTests: XCTestCase {
             XCTAssertEqual(first.votes, String(mockResult.votes))
         }
         viewModel.load()
-        stubResultsService.completion!(.success(mockResults))
     }
 
 
