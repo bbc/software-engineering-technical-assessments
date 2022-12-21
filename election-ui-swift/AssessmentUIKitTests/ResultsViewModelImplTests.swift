@@ -5,11 +5,11 @@ import XCTest
 @testable import ElectionResults
 
 class StubResultsService: ResultsService {
-
-    var stubbedLatestResultsResult: Results!
-
-    func latestResults() async throws -> Results {
-        return stubbedLatestResultsResult
+    var completionResult: (Result<ElectionResponse, ResultsServiceError>, Void)?
+    func latestResults(completion: @escaping (Result<ElectionResponse, ResultsServiceError>) -> Void) {
+        if let result = completionResult {
+            completion(result.0)
+        }
     }
 }
 
@@ -44,20 +44,18 @@ class ResultsViewModelImplTests: XCTestCase {
     }
 
     func testLoad() throws {
-        let mockResult = Result(candidateId: 1, party: "party", votes: 1)
-        let mockResults = Results(isComplete: false, results: [mockResult])
-        stubResultsService.stubbedLatestResultsResult = mockResults
-        
-        let expectation = expectation(description: "loads items")
+        let mockResult = ElectionResult(candidateId: 1, party: "party", votes: 1)
+        let mockResults = ElectionResponse(isComplete: false, electionResults: [mockResult])
+
+        stubResultsService.completionResult = (.success(mockResults), ())
+
         stubDelegate.bindWasCalled = {
-            expectation.fulfill()
             let first = self.viewModel.items.first!
             XCTAssertEqual(first.party, mockResult.party)
             XCTAssertEqual(first.candidate, String(mockResult.candidateId))
             XCTAssertEqual(first.votes, String(mockResult.votes))
         }
         viewModel.load()
-        wait(for: [expectation], timeout: 0.3)
     }
 
 

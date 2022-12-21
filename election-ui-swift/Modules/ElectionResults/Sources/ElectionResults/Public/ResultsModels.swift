@@ -2,15 +2,15 @@
 import Foundation
 
 /// Data object containing a complete results summary
-public struct Results {
+public struct ElectionResponse {
     /// Boolean value to indicate the current state of the election. When `isComplete` is set to true, no more votes will be added to the tallies and a winner can be called.
     public let isComplete: Bool
     /// An array of election candidates and their current standings
-    public let results: [Result]
+    public let electionResults: [ElectionResult]
 }
 
 /// Data object encapsulating an individual candidate's current result
-public struct Result {
+public struct ElectionResult {
     /// The integer identifier for this candidate. This value is a unique internal identifier for this specific candidate.
     public let candidateId: Int
     /// The name of the party this candidate is standing for, or 'Independent' if the candidate is not a member of a politicial party

@@ -11,21 +11,34 @@ class JSONResultsRepositoryTests: XCTestCase {
     }
 
     func testLatestResults() async throws {
-        let results = try await repository.latestResults()
-        let first = results.results.first!
-        XCTAssertFalse(results.isComplete)
-        XCTAssertEqual(results.results.count, 3)
-        XCTAssertEqual(first.candidateId, 1)
-        XCTAssertEqual(first.party, "Adder Party")
-        XCTAssertEqual(first.votes, 1056)
+        let expectation = XCTestExpectation()
+        repository.latestResults { result in
+            if case let .success(response) = result {
+                let first = response.electionResults.first!
+                XCTAssertFalse(response.isComplete)
+                XCTAssertEqual(response.electionResults.count, 3)
+                XCTAssertEqual(first.candidateId, 1)
+                XCTAssertEqual(first.party, "Adder Party")
+                XCTAssertEqual(first.votes, 1056)
+                expectation.fulfill()
+            }
+        }
+        wait(for: [expectation], timeout: 0.1)
     }
 
     func testIsCompleteTrue() async throws {
-        let _ = try await repository.latestResults()
-        let _ = try await repository.latestResults()
-        let results = try await repository.latestResults()
-        XCTAssertTrue(results.isComplete)
-        XCTAssertEqual(results.results.count, 3)
+        let expectation = XCTestExpectation()
+
+        repository.latestResults { _ in }
+        repository.latestResults { _ in }
+        repository.latestResults { result in
+            if case let .success(response) = result {
+                XCTAssertTrue(response.isComplete)
+                XCTAssertEqual(response.electionResults.count, 3)
+                expectation.fulfill()
+            }
+        }
+        wait(for: [expectation], timeout: 0.1)
     }
     
     func testAllCandidatese() async throws {
