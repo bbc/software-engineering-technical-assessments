@@ -1,6 +1,7 @@
 {
   "name": "elections-ui",
   "version": "0.1.0",
+  "license": "APACHE-2.0",
   "private": true,
   "dependencies": {
     "@babel/core": "7.12.3",
