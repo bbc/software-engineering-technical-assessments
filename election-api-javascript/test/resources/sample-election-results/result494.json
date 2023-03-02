@@ -1,32 +1,32 @@
 {
-	"id": 241,
-	"name": "Erewash",
-	"seqNo": 494,
-	"partyResults": [
-		{
-			"party": "LAB",
-			"votes": 19369,
-			"share": 44.70
-		},
-		{
-			"party": "CON",
-			"votes": 12587,
-			"share": 29.10
-		},
-		{
-			"party": "LD",
-			"votes": 5850,
-			"share": 13.50
-		},
-		{
-			"party": "OTH",
-			"votes": 4679,
-			"share": 10.80
-		},
-		{
-			"party": "UKIP",
-			"votes": 824,
-			"share": 1.90
-		}
-	]
+  "id": 241,
+  "name": "Erewash",
+  "seqNo": 494,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 19369,
+      "share": 44.7
+    },
+    {
+      "party": "CON",
+      "votes": 12587,
+      "share": 29.1
+    },
+    {
+      "party": "LD",
+      "votes": 5850,
+      "share": 13.5
+    },
+    {
+      "party": "OTH",
+      "votes": 4679,
+      "share": 10.8
+    },
+    {
+      "party": "UKIP",
+      "votes": 824,
+      "share": 1.9
+    }
+  ]
 }

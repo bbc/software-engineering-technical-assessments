@@ -1,32 +1,32 @@
 {
-	"id": 139,
-	"name": "Chelmsford",
-	"seqNo": 11,
-	"partyResults": [
-		{
-			"party": "CON",
-			"votes": 18686,
-			"share": 39.50
-		},
-		{
-			"party": "LD",
-			"votes": 14328,
-			"share": 30.30
-		},
-		{
-			"party": "LAB",
-			"votes": 12749,
-			"share": 26.90
-		},
-		{
-			"party": "UKIP",
-			"votes": 1590,
-			"share": 3.40
-		},
-		{
-			"party": "OTH",
-			"votes": 0,
-			"share": 0.00
-		}
-	]
+  "id": 139,
+  "name": "Chelmsford",
+  "seqNo": 11,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 18686,
+      "share": 39.5
+    },
+    {
+      "party": "LD",
+      "votes": 14328,
+      "share": 30.3
+    },
+    {
+      "party": "LAB",
+      "votes": 12749,
+      "share": 26.9
+    },
+    {
+      "party": "UKIP",
+      "votes": 1590,
+      "share": 3.4
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
 }

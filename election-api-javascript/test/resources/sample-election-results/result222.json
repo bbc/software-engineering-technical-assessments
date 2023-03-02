@@ -1,32 +1,32 @@
 {
-	"id": 434,
-	"name": "Nottingham South",
-	"seqNo": 222,
-	"partyResults": [
-		{
-			"party": "LAB",
-			"votes": 15939,
-			"share": 45.90
-		},
-		{
-			"party": "CON",
-			"votes": 9274,
-			"share": 26.70
-		},
-		{
-			"party": "LD",
-			"votes": 8158,
-			"share": 23.50
-		},
-		{
-			"party": "UKIP",
-			"votes": 1347,
-			"share": 3.90
-		},
-		{
-			"party": "OTH",
-			"votes": 0,
-			"share": 0.00
-		}
-	]
+  "id": 434,
+  "name": "Nottingham South",
+  "seqNo": 222,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 15939,
+      "share": 45.9
+    },
+    {
+      "party": "CON",
+      "votes": 9274,
+      "share": 26.7
+    },
+    {
+      "party": "LD",
+      "votes": 8158,
+      "share": 23.5
+    },
+    {
+      "party": "UKIP",
+      "votes": 1347,
+      "share": 3.9
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
 }

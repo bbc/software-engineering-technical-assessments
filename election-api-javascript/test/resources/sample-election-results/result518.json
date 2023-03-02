@@ -1,32 +1,32 @@
 {
-	"id": 178,
-	"name": "Daventry",
-	"seqNo": 518,
-	"partyResults": [
-		{
-			"party": "CON",
-			"votes": 24809,
-			"share": 53.00
-		},
-		{
-			"party": "LAB",
-			"votes": 13033,
-			"share": 27.80
-		},
-		{
-			"party": "LD",
-			"votes": 6797,
-			"share": 14.50
-		},
-		{
-			"party": "UKIP",
-			"votes": 1357,
-			"share": 2.90
-		},
-		{
-			"party": "OTH",
-			"votes": 822,
-			"share": 1.80
-		}
-	]
+  "id": 178,
+  "name": "Daventry",
+  "seqNo": 518,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 24809,
+      "share": 53.0
+    },
+    {
+      "party": "LAB",
+      "votes": 13033,
+      "share": 27.8
+    },
+    {
+      "party": "LD",
+      "votes": 6797,
+      "share": 14.5
+    },
+    {
+      "party": "UKIP",
+      "votes": 1357,
+      "share": 2.9
+    },
+    {
+      "party": "OTH",
+      "votes": 822,
+      "share": 1.8
+    }
+  ]
 }

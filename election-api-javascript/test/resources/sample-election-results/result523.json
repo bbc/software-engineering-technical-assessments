@@ -1,32 +1,32 @@
 {
-	"id": 639,
-	"name": "Worthing West",
-	"seqNo": 523,
-	"partyResults": [
-		{
-			"party": "CON",
-			"votes": 21391,
-			"share": 47.60
-		},
-		{
-			"party": "LD",
-			"votes": 12008,
-			"share": 26.70
-		},
-		{
-			"party": "LAB",
-			"votes": 8635,
-			"share": 19.20
-		},
-		{
-			"party": "UKIP",
-			"votes": 2375,
-			"share": 5.30
-		},
-		{
-			"party": "OTH",
-			"votes": 515,
-			"share": 1.10
-		}
-	]
+  "id": 639,
+  "name": "Worthing West",
+  "seqNo": 523,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 21391,
+      "share": 47.6
+    },
+    {
+      "party": "LD",
+      "votes": 12008,
+      "share": 26.7
+    },
+    {
+      "party": "LAB",
+      "votes": 8635,
+      "share": 19.2
+    },
+    {
+      "party": "UKIP",
+      "votes": 2375,
+      "share": 5.3
+    },
+    {
+      "party": "OTH",
+      "votes": 515,
+      "share": 1.1
+    }
+  ]
 }
