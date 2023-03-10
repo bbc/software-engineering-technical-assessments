@@ -1,27 +1,27 @@
 {
-	"id": 29,
-	"name": "Barnsley Central",
-	"seqNo": 81,
-	"partyResults": [
-		{
-			"party": "LAB",
-			"votes": 17805,
-			"share": 57.60
-		},
-		{
-			"party": "LD",
-			"votes": 5966,
-			"share": 19.30
-		},
-		{
-			"party": "CON",
-			"votes": 4548,
-			"share": 14.70
-		},
-		{
-			"party": "OTH",
-			"votes": 2578,
-			"share": 8.30
-		}
-	]
+  "id": 29,
+  "name": "Barnsley Central",
+  "seqNo": 81,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 17805,
+      "share": 57.6
+    },
+    {
+      "party": "LD",
+      "votes": 5966,
+      "share": 19.3
+    },
+    {
+      "party": "CON",
+      "votes": 4548,
+      "share": 14.7
+    },
+    {
+      "party": "OTH",
+      "votes": 2578,
+      "share": 8.3
+    }
+  ]
 }

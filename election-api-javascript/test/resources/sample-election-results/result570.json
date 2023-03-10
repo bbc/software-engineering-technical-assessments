@@ -1,32 +1,32 @@
 {
-	"id": 32,
-	"name": "Basildon \u0026 Billericay",
-	"seqNo": 570,
-	"partyResults": [
-		{
-			"party": "CON",
-			"votes": 18699,
-			"share": 46.00
-		},
-		{
-			"party": "LAB",
-			"votes": 14140,
-			"share": 34.80
-		},
-		{
-			"party": "LD",
-			"votes": 5376,
-			"share": 13.20
-		},
-		{
-			"party": "OTH",
-			"votes": 1435,
-			"share": 3.50
-		},
-		{
-			"party": "UKIP",
-			"votes": 993,
-			"share": 2.40
-		}
-	]
+  "id": 32,
+  "name": "Basildon \u0026 Billericay",
+  "seqNo": 570,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 18699,
+      "share": 46.0
+    },
+    {
+      "party": "LAB",
+      "votes": 14140,
+      "share": 34.8
+    },
+    {
+      "party": "LD",
+      "votes": 5376,
+      "share": 13.2
+    },
+    {
+      "party": "OTH",
+      "votes": 1435,
+      "share": 3.5
+    },
+    {
+      "party": "UKIP",
+      "votes": 993,
+      "share": 2.4
+    }
+  ]
 }

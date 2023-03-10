@@ -1,37 +1,37 @@
 {
-	"id": 443,
-	"name": "Oxford East",
-	"seqNo": 284,
-	"partyResults": [
-		{
-			"party": "LAB",
-			"votes": 16294,
-			"share": 35.90
-		},
-		{
-			"party": "LD",
-			"votes": 15962,
-			"share": 35.20
-		},
-		{
-			"party": "CON",
-			"votes": 7863,
-			"share": 17.30
-		},
-		{
-			"party": "OTH",
-			"votes": 2423,
-			"share": 5.30
-		},
-		{
-			"party": "GRN",
-			"votes": 2029,
-			"share": 4.50
-		},
-		{
-			"party": "UKIP",
-			"votes": 786,
-			"share": 1.70
-		}
-	]
+  "id": 443,
+  "name": "Oxford East",
+  "seqNo": 284,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 16294,
+      "share": 35.9
+    },
+    {
+      "party": "LD",
+      "votes": 15962,
+      "share": 35.2
+    },
+    {
+      "party": "CON",
+      "votes": 7863,
+      "share": 17.3
+    },
+    {
+      "party": "OTH",
+      "votes": 2423,
+      "share": 5.3
+    },
+    {
+      "party": "GRN",
+      "votes": 2029,
+      "share": 4.5
+    },
+    {
+      "party": "UKIP",
+      "votes": 786,
+      "share": 1.7
+    }
+  ]
 }
