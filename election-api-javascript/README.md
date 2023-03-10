@@ -19,7 +19,7 @@ The API has 3 endpoints:
 
 ## Setup
 Requires: 
-* node (14) - available from https://nodejs.org/en/download/
+* node (18) - available from https://nodejs.org/en/download/
 * npm - will be installed with node, or see https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 ```
