@@ -51,10 +51,7 @@ class TestScoreboard(unittest.TestCase):
         # * Assert that LD have won 1 seat
 
     def test_should_report_no_winner_when_majority_not_reached(self) -> None:
-        labour_seat_count = 324
-        seats_declared_so_far = 400
-
-        for i in range(labour_seat_count):
+        for i in range(324):
             self.client.post('/result', json={
                 "id": i,
                 "name": f"Constituency {i}",
@@ -65,7 +62,7 @@ class TestScoreboard(unittest.TestCase):
                 ]
             })
         
-        for i in range(labour_seat_count, seats_declared_so_far):
+        for i in range(324, 400):
             self.client.post('/result', json={
                 "id": i,
                 "name": f"Constituency {i}",
@@ -82,7 +79,7 @@ class TestScoreboard(unittest.TestCase):
         # * Assert that there's no winner yet
 
     def test_should_report_winner_when_majority_reached(self) -> None:
-        # LAB have won 325 seats, they have a majority (even if not all constituencies declared yet)
+        # LAB have won 325 seats, so they have a majority (even if not all constituencies declared yet)
         for i in range(325):
             self.client.post('/result', json={
                 "id": i,
@@ -93,8 +90,7 @@ class TestScoreboard(unittest.TestCase):
                     { "party": "LD", "votes": 1 },
                 ]
             })
-        
-        # CON have won the rest of the seats reported so far
+
         for i in range(325, 400):
             self.client.post('/result', json={
                 "id": i,
