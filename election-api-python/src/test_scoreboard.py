@@ -109,7 +109,7 @@ class TestScoreboard(unittest.TestCase):
         scoreboard = self.fetch_scoreboard()
 
         ### Add your assertions here. ###
-        # * Assert that there's no winner yet
+        # * Assert that LAB are the winner
 
     # Add more test cases here
 
