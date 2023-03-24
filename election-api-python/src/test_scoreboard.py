@@ -81,7 +81,7 @@ class TestScoreboard(unittest.TestCase):
         ### Add your assertions here. ###
         # * Assert that there's no winner yet
 
-    def test_should_report_no_winner_when_majority_reached(self) -> None:
+    def test_should_report_winner_when_majority_reached(self) -> None:
         # LAB have won 325 seats, they have a majority (even if not all constituencies declared yet)
         for i in range(325):
             self.client.post('/result', json={
