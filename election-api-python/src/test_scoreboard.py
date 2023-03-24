@@ -50,7 +50,6 @@ class TestScoreboard(unittest.TestCase):
         # * Assert that LAB have won 2 seats
         # * Assert that LD have won 1 seat
 
-    @unittest.skip
     def test_should_report_no_winner_when_majority_not_reached(self) -> None:
         labour_seat_count = 324
         seats_declared_so_far = 400
@@ -81,8 +80,7 @@ class TestScoreboard(unittest.TestCase):
 
         ### Add your assertions here. ###
         # * Assert that there's no winner yet
-    
-    @unittest.skip
+
     def test_should_report_no_winner_when_majority_reached(self) -> None:
         # LAB have won 325 seats, they have a majority (even if not all constituencies declared yet)
         for i in range(325):
