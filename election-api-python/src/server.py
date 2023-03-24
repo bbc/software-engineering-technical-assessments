@@ -15,4 +15,3 @@ def add_result() -> dict:
 @app.route("/scoreboard", methods=["GET"])
 def scoreboard() -> dict:
     return controller.scoreboard()
-    

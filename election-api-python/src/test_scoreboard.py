@@ -1,68 +1,119 @@
-import unittest, json, os
+import unittest, json
 from server import app, controller
 
 class TestScoreboard(unittest.TestCase):
-
-    def __init__(self, methodName: str = ...) -> None:
-        super().__init__(methodName)
-        self.server = app.test_client(self)
-        file_dir: str = os.path.dirname(os.path.realpath(__file__))
-        self.RESULT_SAMPLE_PATH: str = f"{file_dir}/resources/sample-election-results"
-
-    def load_and_post_result_file(self, num: str) -> dict:
-        file_number: str = str(num).zfill(3)
-        with open(f"{self.RESULT_SAMPLE_PATH}/result{file_number}.json", "r") as file:
-            result = file.read()
-        return self.server.post("/result", json=json.loads(result))
-
-    def load_results(self, quantity: int) -> list[dict]:
-        results = []
-        for i in range(quantity):
-            results.append(self.load_and_post_result_file(i + 1))
-        return results
-    
-    def fetch_scoreboard(self) -> list[dict]:
-        response = self.server.get("/scoreboard")
-        return [] if response.data == b'{}\n' else json.loads(response.data.decode("utf-8"))
+    @classmethod
+    def setUpClass(self) -> None:
+        self.client = app.test_client(self)
 
     def setUp(self) -> None:
         controller.reset()
 
-    def test_first_5(self) -> None:
-        self.load_results(5)
-        scoreboard: list = self.fetch_scoreboard()
-        self.assertNotEqual(len(scoreboard), 0)
-        # assert LD == 1
-		# assert LAB = 4
-		# assert winner = noone
+    def fetch_scoreboard(self) -> list[dict]:
+        response = self.client.get("/scoreboard")
+        return json.loads(response.get_data(as_text=True))
 
-    def test_first_100(self) -> None:
-        self.load_results(100)
-        scoreboard: list = self.fetch_scoreboard()
-        self.assertNotEqual(len(scoreboard), 0)
-        # assert LD == 12
-		# assert LAB == 56
-		# assert CON == 31
-		# assert winner = noone
+    def test_should_count_total_seats_per_party(self) -> None:
+        self.client.post('/result', json={
+            "id": 1,
+            "name": "Aberconwy",
+            "partyResults": [
+                { "party": "LAB", "votes": 3 },
+                { "party": "CON", "votes": 2 },
+                { "party": "LD", "votes": 1 },
+            ]
+        })
 
-    def test_first_554(self) -> None:
-        self.load_results(554)
-        scoreboard: list = self.fetch_scoreboard()
-        self.assertNotEqual(len(scoreboard), 0)
-        # assert LD == 52
-		# assert LAB = 325
-		# assert CON = 167
-		# assert winner = LAB
+        self.client.post('/result', json={
+            "id": 2,
+            "name": "Arfon",
+            "partyResults": [
+                { "party": "LAB", "votes": 3 },
+                { "party": "CON", "votes": 2 },
+                { "party": "LD", "votes": 1 },
+            ]
+        })
 
-    def test_all_results(self) -> None:
-        self.load_results(650)
-        scoreboard: list = self.fetch_scoreboard()
-        self.assertNotEqual(len(scoreboard), 0)
-        # assert LD == 62
-		# assert LAB == 349
-		# assert CON == 210
-		# assert winner = LAB
-		# assert sum = 650
+        self.client.post('/result', json={
+            "id": 3,
+            "name": "Basildon South \u0026 East Thurrock",
+            "partyResults": [
+                { "party": "LD", "votes": 3 },
+                { "party": "CON", "votes": 2 },
+                { "party": "LAB", "votes": 1 },
+            ]
+        })
+
+        scoreboard = self.fetch_scoreboard()
+
+        # Add your assertions here.
+        # * Assert that LAB have won 2 seats
+        # * Assert that LD have won 1 seat
+
+    @unittest.skip
+    def test_should_report_no_winner_when_majority_not_reached(self) -> None:
+        labour_seat_count = 324
+        seats_declared_so_far = 400
+
+        for i in range(labour_seat_count):
+            self.client.post('/result', json={
+                "id": i,
+                "name": f"Constituency {i}",
+                "partyResults": [
+                    { "party": "LAB", "votes": 3 },
+                    { "party": "CON", "votes": 2 },
+                    { "party": "LD", "votes": 1 },
+                ]
+            })
+        
+        for i in range(labour_seat_count, seats_declared_so_far):
+            self.client.post('/result', json={
+                "id": i,
+                "name": f"Constituency {i}",
+                "partyResults": [
+                    { "party": "CON", "votes": 3 },
+                    { "party": "LD", "votes": 2 },
+                    { "party": "LAB", "votes": 1 },
+                ]
+            })
+        
+        scoreboard = self.fetch_scoreboard()
+
+        ### Add your assertions here. ###
+        # * Assert that there's no winner yet
+    
+    @unittest.skip
+    def test_should_report_no_winner_when_majority_reached(self) -> None:
+        # LAB have won 325 seats, they have a majority (even if not all constituencies declared yet)
+        for i in range(325):
+            self.client.post('/result', json={
+                "id": i,
+                "name": f"Constituency {i}",
+                "partyResults": [
+                    { "party": "LAB", "votes": 3 },
+                    { "party": "CON", "votes": 2 },
+                    { "party": "LD", "votes": 1 },
+                ]
+            })
+        
+        # CON have won the rest of the seats reported so far
+        for i in range(325, 400):
+            self.client.post('/result', json={
+                "id": i,
+                "name": f"Constituency {i}",
+                "partyResults": [
+                    { "party": "CON", "votes": 3 },
+                    { "party": "LD", "votes": 2 },
+                    { "party": "LAB", "votes": 1 },
+                ]
+            })
+        
+        scoreboard = self.fetch_scoreboard()
+
+        ### Add your assertions here. ###
+        # * Assert that there's no winner yet
+
+    # Add more test cases here
 
 if __name__ == "__main__":
     unittest.main()
