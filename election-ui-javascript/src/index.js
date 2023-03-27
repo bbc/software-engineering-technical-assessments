@@ -1,11 +1,14 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import Scoreboard from './components/Scoreboard';
+import React from "react";
+import * as ReactDOMClient from "react-dom/client";
+import "./index.css";
+import Scoreboard from "./components/Scoreboard";
 
-ReactDOM.render(
+const root = ReactDOMClient.createRoot(
+  document.getElementById("root")
+);
+
+root.render(
   <React.StrictMode>
     <Scoreboard />
-  </React.StrictMode>,
-  document.getElementById('root')
+  </React.StrictMode>
 );
