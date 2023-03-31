@@ -19,7 +19,7 @@ const candidateData = [
 
 const defaultData = {
   metadata: {
-    isComplete: false
+    isComplete: true
   },
   results: [
     {

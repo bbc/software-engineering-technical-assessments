@@ -4,7 +4,10 @@ async function fetchResults() {
   const results = await fetchResultData();
   const candidateData = fetchCandidateData();
 
-  return results;
+  return {
+    results,
+    candidateData
+  };
 }
 
 export default fetchResults;

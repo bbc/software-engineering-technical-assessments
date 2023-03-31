@@ -1,24 +1,25 @@
-import { render } from '@testing-library/react';
+import { render, screen, within } from '@testing-library/react';
 import PartyLinks from '.';
 
 test('renders party links as a list', async () => {
-  const { container } = render(<PartyLinks/>);
+  render(<PartyLinks />);
 
-  const partyLinks = container.querySelector('.Party-links')
-  expect(partyLinks.nodeName).toBe('UL');
+  const partyLinks = screen.getByRole('list');
+  expect(partyLinks).toBeInTheDocument();
 });
 
 test('renders all the party links', async () => {
-  const { container } = render(<PartyLinks/>);
+  render(<PartyLinks />);
 
-  const partyLink = container.querySelectorAll('li.Party-link')
-  expect(partyLink.length).toBe(6);
+  const partyLinks = screen.getAllByRole('link', { name: /Party Link/ });
+  expect(partyLinks.length).toBe(6);
 });
 
 test('renders a party link with the correct text and href', async () => {
-  const { container } = render(<PartyLinks/>);
+  render(<PartyLinks />);
 
-  const partyLinksAnchorTag = container.querySelector('.Party-link a')
-  expect(partyLinksAnchorTag.textContent).toBe('Hippo Party');
-  expect(partyLinksAnchorTag.href).toBe('https://en.wikipedia.org/wiki/Hippopotamus');
+  const partyLink = screen.getByText('Hippo Party');
+  const partyLinkAnchorTag = within(partyLink).getByRole('link');
+
+  expect(partyLinkAnchorTag).toHaveAttribute('href', 'https://en.wikipedia.org/wiki/Hippopotamus');
 });

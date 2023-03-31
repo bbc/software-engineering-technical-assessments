@@ -11,9 +11,9 @@ const PARTIES = [
 
 function PartyLinks() {
   return (
-    <ul className="Party-links">
+    <ul className="party__links">
       {PARTIES.map((party) =>
-        (<li className="Party-link" key={party.name}>
+        (<li className="party__link" key={party.name}>
           <a href={party.url}>{party.name}</a>
         </li>)
       )}
