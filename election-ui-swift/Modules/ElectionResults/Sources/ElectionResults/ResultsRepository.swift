@@ -1,5 +1,5 @@
 
 protocol ResultsRepository {
     func latestResults(completion: (Result<ElectionResponse, ResultsRepositoryError>) -> Void)
-    func allCandidates() async throws -> [Candidate]
+    func allCandidates(completion: (Result<[Candidate], ResultsRepositoryError>) -> Void)
 }
