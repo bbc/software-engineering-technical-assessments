@@ -14,9 +14,8 @@ class JSONResultsRepository: ResultsRepository {
                 incrementIndex()
                 completion(.success(adapt(dto: results)))
             }
-        } catch {
-            completion(.failure(ResultsRepositoryError.invalidJSON))
-        }
+        } catch { }
+        completion(.failure(ResultsRepositoryError.invalidJSON))
     }
 
     func allCandidates(completion: (Result<[Candidate], ResultsRepositoryError>) -> Void) {
@@ -26,9 +25,8 @@ class JSONResultsRepository: ResultsRepository {
                 let result = try decoder.decode([CandidateDto].self, from: data)
                 completion(.success(result.map { Candidate(id: $0.id, name: $0.name) }))
             }
-        } catch {
-            completion(.failure(ResultsRepositoryError.invalidJSON))
-        }
+        } catch { }
+        completion(.failure(ResultsRepositoryError.invalidJSON))
     }
 
     private func incrementIndex() {
