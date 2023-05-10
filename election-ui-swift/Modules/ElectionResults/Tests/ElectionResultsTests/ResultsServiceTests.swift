@@ -3,7 +3,7 @@ import XCTest
 @testable import ElectionResults
 
 class StubResultsRepository: ResultsRepository {
-    
+
     var invokedLatestResults = false
     var invokedLatestResultsCount = 0
     var stubbedLatestResultsCompletionResult: (Result<ElectionResponse, ResultsRepositoryError>, Void)?
@@ -19,15 +19,14 @@ class StubResultsRepository: ResultsRepository {
     var invokedAllCandidates = false
     var invokedAllCandidatesCount = 0
 
-    func allCandidates() async throws -> [ElectionResults.Candidate] {
+    func allCandidates(completion: (Result<[Candidate], ResultsRepositoryError>) -> Void) {
         invokedAllCandidates = true
         invokedAllCandidatesCount += 1
-        return []
     }
 }
 
 class ResultsServiceTests: XCTestCase {
-    
+
     var service: ResultsServiceImpl!
     var stubResultsRepository: StubResultsRepository!
 

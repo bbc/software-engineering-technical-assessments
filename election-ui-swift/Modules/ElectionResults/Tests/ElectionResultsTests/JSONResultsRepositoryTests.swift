@@ -3,7 +3,7 @@ import XCTest
 @testable import ElectionResults
 
 class JSONResultsRepositoryTests: XCTestCase {
-    
+
     var repository: JSONResultsRepository!
 
     override func setUpWithError() throws {
@@ -40,12 +40,19 @@ class JSONResultsRepositoryTests: XCTestCase {
         }
         wait(for: [expectation], timeout: 0.1)
     }
-    
-    func testAllCandidatese() async throws {
-        let all = try await repository.allCandidates()
-        let first = all.first!
-        XCTAssertEqual(all.count, 3)
-        XCTAssertEqual(first.id, 1)
-        XCTAssertEqual(first.name, "Baldrick")
+
+    func testAllCandidates() async throws {
+        let expectation = XCTestExpectation()
+
+        repository.allCandidates { result in
+            if case let .success(response) = result {
+                let first = response.first!
+                XCTAssertEqual(response.count, 3)
+                XCTAssertEqual(first.id, 1)
+                XCTAssertEqual(first.name, "Baldrick")
+                expectation.fulfill()
+            }
+        }
+        wait(for: [expectation], timeout: 0.1)
     }
 }
