@@ -1,15 +1,15 @@
-import { render, screen } from '@testing-library/react';
-import Scorecard from '.';
+import { render, screen } from "@testing-library/react";
+import Scorecard from ".";
 
 const results = [
   {
-    'party': 'Green',
-    'candidateId': 2,
-    'votes': '1056'
-  }
+    party: "Green",
+    candidateId: 2,
+    votes: "1056",
+  },
 ];
 
-test('renders results', async () => {
+test("renders results", async () => {
   render(<Scorecard results={results} />);
 
   const partyHeading = screen.getByText(/Party/i);
@@ -27,7 +27,7 @@ test('renders results', async () => {
   expect(votes).toBeInTheDocument();
 });
 
-test('renders No Results if there are no results', async () => {
+test("renders No Results if there are no results", async () => {
   render(<Scorecard />);
   const noResultsMessage = screen.getByText(/No results/i);
   expect(noResultsMessage).toBeInTheDocument();

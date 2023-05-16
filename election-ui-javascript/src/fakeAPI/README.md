@@ -7,11 +7,13 @@ This directory contains a rudimentary mock of a data API for the purposes of the
 The mock API exports two named functions `fetchResultData` and `fetchCandidateData`, and a default export of `fetchResultData`.
 
 ### `fetchResultData`
+
 - Takes no parameters.
 - Mocks an asynchronous request by waiting for 500ms before resolving.
 - Returns an object.
 
 Expected initial output:
+
 ```js
 {
   metadata: {
@@ -65,6 +67,7 @@ Expected output after 4 calls from the UI:
 ```
 
 ### `fetchCandidateData`
+
 - Takes no parameters.
 - Returns an array.
 
@@ -74,15 +77,15 @@ Expected output:
 [
   {
     id: 1,
-    name: 'Baldrick'
+    name: "Baldrick",
   },
   {
     id: 2,
-    name: 'Lord Buckethead'
+    name: "Lord Buckethead",
   },
   {
-    id:3,
-    name: 'Count Binface'
-  }
-]
+    id: 3,
+    name: "Count Binface",
+  },
+];
 ```
