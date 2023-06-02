@@ -1,0 +1,37 @@
+{
+  "id": 604,
+  "name": "Watford",
+  "seqNo": 439,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 16572,
+      "share": 33.6
+    },
+    {
+      "party": "LD",
+      "votes": 15421,
+      "share": 31.2
+    },
+    {
+      "party": "CON",
+      "votes": 14631,
+      "share": 29.6
+    },
+    {
+      "party": "GRN",
+      "votes": 1466,
+      "share": 3.0
+    },
+    {
+      "party": "UKIP",
+      "votes": 1292,
+      "share": 2.6
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

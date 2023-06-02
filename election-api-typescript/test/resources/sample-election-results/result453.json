@@ -1,0 +1,32 @@
+{
+  "id": 240,
+  "name": "Epsom \u0026 Ewell",
+  "seqNo": 453,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 26832,
+      "share": 54.9
+    },
+    {
+      "party": "LD",
+      "votes": 10490,
+      "share": 21.5
+    },
+    {
+      "party": "LAB",
+      "votes": 9773,
+      "share": 20.0
+    },
+    {
+      "party": "UKIP",
+      "votes": 1738,
+      "share": 3.6
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

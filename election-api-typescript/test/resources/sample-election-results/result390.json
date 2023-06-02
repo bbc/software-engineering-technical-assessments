@@ -1,0 +1,32 @@
+{
+  "id": 552,
+  "name": "Surrey East",
+  "seqNo": 390,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 27659,
+      "share": 56.2
+    },
+    {
+      "party": "LD",
+      "votes": 11738,
+      "share": 23.8
+    },
+    {
+      "party": "LAB",
+      "votes": 7288,
+      "share": 14.8
+    },
+    {
+      "party": "UKIP",
+      "votes": 2158,
+      "share": 4.4
+    },
+    {
+      "party": "OTH",
+      "votes": 410,
+      "share": 0.8
+    }
+  ]
+}

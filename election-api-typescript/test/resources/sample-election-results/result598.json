@@ -1,0 +1,32 @@
+{
+  "id": 18,
+  "name": "Arundel \u0026 South Downs",
+  "seqNo": 598,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 25968,
+      "share": 50.3
+    },
+    {
+      "party": "LD",
+      "votes": 13677,
+      "share": 26.5
+    },
+    {
+      "party": "LAB",
+      "votes": 8947,
+      "share": 17.3
+    },
+    {
+      "party": "UKIP",
+      "votes": 2713,
+      "share": 5.3
+    },
+    {
+      "party": "OTH",
+      "votes": 313,
+      "share": 0.6
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 436,
+  "name": "Ochil \u0026 South Perthshire",
+  "seqNo": 388,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 14645,
+      "share": 31.4
+    },
+    {
+      "party": "SNP",
+      "votes": 13957,
+      "share": 29.9
+    },
+    {
+      "party": "CON",
+      "votes": 10021,
+      "share": 21.5
+    },
+    {
+      "party": "LD",
+      "votes": 6218,
+      "share": 13.3
+    },
+    {
+      "party": "SGP",
+      "votes": 978,
+      "share": 2.1
+    },
+    {
+      "party": "SSP",
+      "votes": 420,
+      "share": 0.9
+    },
+    {
+      "party": "UKIP",
+      "votes": 275,
+      "share": 0.6
+    },
+    {
+      "party": "FSP",
+      "votes": 183,
+      "share": 0.4
+    },
+    {
+      "party": "OTH",
+      "votes": 183,
+      "share": 0.4
+    }
+  ]
+}

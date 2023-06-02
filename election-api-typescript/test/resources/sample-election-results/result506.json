@@ -1,0 +1,37 @@
+{
+  "id": 298,
+  "name": "Hastings \u0026 Rye",
+  "seqNo": 506,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 18519,
+      "share": 40.6
+    },
+    {
+      "party": "CON",
+      "votes": 17363,
+      "share": 38.1
+    },
+    {
+      "party": "LD",
+      "votes": 7228,
+      "share": 15.9
+    },
+    {
+      "party": "UKIP",
+      "votes": 1233,
+      "share": 2.7
+    },
+    {
+      "party": "GRN",
+      "votes": 1032,
+      "share": 2.3
+    },
+    {
+      "party": "OTH",
+      "votes": 207,
+      "share": 0.5
+    }
+  ]
+}

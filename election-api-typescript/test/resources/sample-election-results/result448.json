@@ -1,0 +1,32 @@
+{
+  "id": 41,
+  "name": "Bedford",
+  "seqNo": 448,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 17657,
+      "share": 41.6
+    },
+    {
+      "party": "CON",
+      "votes": 14244,
+      "share": 33.5
+    },
+    {
+      "party": "LD",
+      "votes": 9263,
+      "share": 21.8
+    },
+    {
+      "party": "UKIP",
+      "votes": 1011,
+      "share": 2.4
+    },
+    {
+      "party": "OTH",
+      "votes": 283,
+      "share": 0.7
+    }
+  ]
+}

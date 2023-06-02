@@ -1,0 +1,32 @@
+{
+  "id": 378,
+  "name": "Louth \u0026 Horncastle",
+  "seqNo": 515,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 21598,
+      "share": 46.4
+    },
+    {
+      "party": "LAB",
+      "votes": 11785,
+      "share": 25.3
+    },
+    {
+      "party": "LD",
+      "votes": 9554,
+      "share": 20.5
+    },
+    {
+      "party": "UKIP",
+      "votes": 3611,
+      "share": 7.8
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 126,
+  "name": "Cardiff Central",
+  "seqNo": 266,
+  "partyResults": [
+    {
+      "party": "LD",
+      "votes": 17991,
+      "share": 49.8
+    },
+    {
+      "party": "LAB",
+      "votes": 12398,
+      "share": 34.3
+    },
+    {
+      "party": "CON",
+      "votes": 3339,
+      "share": 9.2
+    },
+    {
+      "party": "PC",
+      "votes": 1271,
+      "share": 3.5
+    },
+    {
+      "party": "OTH",
+      "votes": 750,
+      "share": 2.1
+    },
+    {
+      "party": "UKIP",
+      "votes": 383,
+      "share": 1.1
+    }
+  ]
+}

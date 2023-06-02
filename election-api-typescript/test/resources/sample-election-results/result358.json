@@ -1,0 +1,37 @@
+{
+  "id": 5,
+  "name": "Aberdeenshire West \u0026 Kincardine",
+  "seqNo": 358,
+  "partyResults": [
+    {
+      "party": "LD",
+      "votes": 19285,
+      "share": 46.3
+    },
+    {
+      "party": "CON",
+      "votes": 11814,
+      "share": 28.4
+    },
+    {
+      "party": "LAB",
+      "votes": 5470,
+      "share": 13.1
+    },
+    {
+      "party": "SNP",
+      "votes": 4700,
+      "share": 11.3
+    },
+    {
+      "party": "SSP",
+      "votes": 379,
+      "share": 0.9
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

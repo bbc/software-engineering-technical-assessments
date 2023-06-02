@@ -1,0 +1,47 @@
+{
+  "id": 46,
+  "name": "Belfast North",
+  "seqNo": 635,
+  "partyResults": [
+    {
+      "party": "DUP",
+      "votes": 13935,
+      "share": 45.6
+    },
+    {
+      "party": "SF",
+      "votes": 8747,
+      "share": 28.6
+    },
+    {
+      "party": "SDLP",
+      "votes": 4950,
+      "share": 16.2
+    },
+    {
+      "party": "UUP",
+      "votes": 2154,
+      "share": 7.1
+    },
+    {
+      "party": "AP",
+      "votes": 438,
+      "share": 1.4
+    },
+    {
+      "party": "WP",
+      "votes": 165,
+      "share": 0.5
+    },
+    {
+      "party": "VFY",
+      "votes": 151,
+      "share": 0.5
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}
