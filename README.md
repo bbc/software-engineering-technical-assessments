@@ -21,7 +21,7 @@ Each assessment makes up part of a mock elections system which could show result
 - `election-api-java` A fake election API written with Java
 - `election-api-javascript` A fake election API written with NodeJS
 - `election-api-scala` A fake election API written with Scala
-- `election-api-python` A fake elction API written with Python
+- `election-api-python` A fake election API written with Python
 
 - `election-ui-javascript` A fake elections Web UI written with React and Javascript
 
