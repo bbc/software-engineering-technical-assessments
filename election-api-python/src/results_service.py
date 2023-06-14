@@ -1,5 +1,4 @@
 class ResultStore:
-
     def __init__(self) -> None:
         self.store: list[dict] = []
     

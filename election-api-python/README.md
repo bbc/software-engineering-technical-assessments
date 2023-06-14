@@ -5,16 +5,32 @@ If you are not familiar with how elections work in the UK, please see this short
 The results API presents a simple elections result service.
 
 ### Domain
-The domain for the election represents some key concepts:
-- _**constituencyId**_ a unique integer id to identify a location. E.g "Brent Central" is 90
-- _**party**_ is a short 3, or 4, letter code for a party for instance LAB = Labour, CON = Conservative etc.
-- _**votes**_ the number of votes gained by a party in a constituency
-- _**share**_ the % share of the total votes the party received
+
+**Constituency** results are POSTed to the API and stored. A constituency result looks like this:
+
+```json
+{
+    "id": 1,
+    "name": "Aberconwy",
+    "partyResults": [
+        { "party": "LAB", "votes": 8894 },
+        { "party": "CON", "votes": 7924 },
+        { "party": "LD", "votes": 5197 },
+    ]
+}
+```
+
+* _**id**_: the unique integer ID of the consituency.
+* _**name**_: the name of the constituency.
+* _**party**_: a unique 3 or 4 letter code representing a political party (LAB = Labour, CON = Conservative, etc).
+* _**votes**_: the number of votes won.
 
 ### API
+
 The API has 3 endpoints:
-- GET `/result/{id}` to get an elections result for a given id.
-- POST `/result` to add a new result
+
+- GET `/result/{id}` to get the result for a given constituency ID.
+- POST `/result` to add a new constituency result.
 - GET `/scoreboard` to get the running totals. This is unimplemented.
 
 ### Task
@@ -23,8 +39,11 @@ During your assessment we will ask you to work though the task in `tasks.md` wit
 
 :warning:  If you make any changes to the code, please ensure you return it to it's initial (HEAD) state before your assessment.
 
-## Prerequisites
-- python 3.9 or higher
+## Setup
+
+System requirements:
+
+- Python 3.9 or higher
 
 ### To Build
 `pip install -r requirements.txt`
