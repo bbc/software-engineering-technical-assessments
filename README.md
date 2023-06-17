@@ -51,3 +51,5 @@ In the assessment we will ask you to screenshare your working environment with u
 # Questions?
 
 If you have any questions about any of this, please contact your recruitment contact, and/or the person who sent you the link to this repository.
+
+Copyright © 2023 BBC
