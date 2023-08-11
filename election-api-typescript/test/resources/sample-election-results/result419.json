@@ -1,0 +1,32 @@
+{
+  "id": 554,
+  "name": "Surrey South West",
+  "seqNo": 419,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 26903,
+      "share": 50.6
+    },
+    {
+      "party": "LD",
+      "votes": 20934,
+      "share": 39.4
+    },
+    {
+      "party": "LAB",
+      "votes": 4171,
+      "share": 7.8
+    },
+    {
+      "party": "UKIP",
+      "votes": 967,
+      "share": 1.8
+    },
+    {
+      "party": "OTH",
+      "votes": 172,
+      "share": 0.3
+    }
+  ]
+}

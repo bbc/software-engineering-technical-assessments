@@ -1,0 +1,47 @@
+{
+  "id": 269,
+  "name": "Glenrothes",
+  "seqNo": 90,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 19395,
+      "share": 51.9
+    },
+    {
+      "party": "SNP",
+      "votes": 8731,
+      "share": 23.4
+    },
+    {
+      "party": "LD",
+      "votes": 4728,
+      "share": 12.7
+    },
+    {
+      "party": "CON",
+      "votes": 2651,
+      "share": 7.1
+    },
+    {
+      "party": "PPS",
+      "votes": 716,
+      "share": 1.9
+    },
+    {
+      "party": "OTH",
+      "votes": 716,
+      "share": 1.9
+    },
+    {
+      "party": "SSP",
+      "votes": 705,
+      "share": 1.9
+    },
+    {
+      "party": "UKIP",
+      "votes": 440,
+      "share": 1.2
+    }
+  ]
+}

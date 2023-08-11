@@ -1,0 +1,47 @@
+{
+  "id": 25,
+  "name": "Ayrshire North \u0026 Arran",
+  "seqNo": 110,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 19417,
+      "share": 43.9
+    },
+    {
+      "party": "CON",
+      "votes": 8121,
+      "share": 18.4
+    },
+    {
+      "party": "SNP",
+      "votes": 7938,
+      "share": 18.0
+    },
+    {
+      "party": "LD",
+      "votes": 7264,
+      "share": 16.4
+    },
+    {
+      "party": "SSP",
+      "votes": 780,
+      "share": 1.8
+    },
+    {
+      "party": "UKIP",
+      "votes": 382,
+      "share": 0.9
+    },
+    {
+      "party": "SLP",
+      "votes": 303,
+      "share": 0.7
+    },
+    {
+      "party": "OTH",
+      "votes": 303,
+      "share": 0.7
+    }
+  ]
+}

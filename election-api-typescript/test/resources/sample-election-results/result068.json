@@ -1,0 +1,37 @@
+{
+  "id": 570,
+  "name": "Thornbury \u0026 Yate",
+  "seqNo": 68,
+  "partyResults": [
+    {
+      "party": "LD",
+      "votes": 25622,
+      "share": 54.3
+    },
+    {
+      "party": "CON",
+      "votes": 14562,
+      "share": 30.9
+    },
+    {
+      "party": "LAB",
+      "votes": 5122,
+      "share": 10.9
+    },
+    {
+      "party": "GRN",
+      "votes": 922,
+      "share": 2.0
+    },
+    {
+      "party": "UKIP",
+      "votes": 818,
+      "share": 1.7
+    },
+    {
+      "party": "OTH",
+      "votes": 114,
+      "share": 0.2
+    }
+  ]
+}
