@@ -7,10 +7,10 @@ const getResult = (id: number): Result | null => {
   return store.getResult(id);
 };
 
-// TODO: Ask someone why this returns empty object instead of result and add type
 const newResult = (result: Result) => {
   store.newResult(result);
-  return {};
+  console.log("Store created successfully.");
+  return null;
 };
 
 const reset = (): void => {
