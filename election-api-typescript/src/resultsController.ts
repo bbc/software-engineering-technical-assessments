@@ -3,7 +3,7 @@ import { Result } from "./types";
 
 const store = resultStore();
 
-const getResult = (id: number): Result | undefined => {
+const getResult = (id: number): Result | null => {
   return store.getResult(id);
 };
 
