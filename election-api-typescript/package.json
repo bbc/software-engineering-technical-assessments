@@ -1,7 +1,7 @@
 {
   "name": "hiring-api-test",
   "version": "1.0.0",
-  "description": "Node.jsn and TypeScript coding test",
+  "description": "Node.js and TypeScript coding test",
   "main": "/dist/src/index.js",
   "scripts": {
     "start": "node dist/src/index.js",
