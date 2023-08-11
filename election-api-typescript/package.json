@@ -10,7 +10,7 @@
     "test": "prettier --loglevel=error --write * && jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "BBC",
   "license": "ISC",
   "devDependencies": {
     "@types/express": "^4.17.17",
