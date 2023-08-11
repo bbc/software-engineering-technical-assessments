@@ -15,6 +15,7 @@
 
     /* Type Checking */
     "strict": true,
+    "noImplicitAny": true,
 
     /* Completeness */
     "skipLibCheck": true
