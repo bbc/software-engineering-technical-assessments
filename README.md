@@ -1,53 +1,54 @@
-# Software Engineering Technical Assessments
+## Description
 
-This repository contains the different technical assessments that are used for the BBC Assessment Centre. You will need to choose **one** of the assessments to undertake in your technical interview. 
+If you are not familiar with how elections work in the UK, please see this short BBC video https://www.youtube.com/watch?v=cRxUhGetEPQ
 
-Each assessment makes up part of a mock elections system which could show results pages similar to how [BBC News covers elections](https://www.bbc.co.uk/news/topics/c37d28xdn99t/scottish-parliament-election-2021). 
+The results API presents a simple elections result service.
 
-**These pieces of software don't rely on one another or interact in any way.**
+### Domain
 
-## What to do before your interview
+The domain for the election represents some key concepts:
 
-* Choose **ONE** assessment you wish to undertake and let your recruitment contact know. Please see guidelines below on choosing one.
-* Familiarise yourself with the codebase of your chosen assessment.
-* If you are not familiar with how elections work in the UK please watch [this video](https://www.youtube.com/watch?v=cRxUhGetEPQ). 
-* Follow the "setup" steps in the Readme of your chosen assessment and get it running locally.
-* Ensure you are ready to "screenshare" your working environment on Zoom during the interview.
-* **Do not** complete the assessment before the interview
+- _**constituencyId**_ a unique integer id to identify a location. E.g "Brent Central" is 90
+- _**party**_ is a short 3, or 4, letter code for a party for instance LAB = Labour, CON = Conservative etc.
+- _**votes**_ the number of votes gained by a party in a constituency
+- _**share**_ the % share of the total votes the party received
 
-## The applications:
+### API
 
-- `election-api-golang` A fake election API written with Go
-- `election-api-java` A fake election API written with Java
-- `election-api-javascript` A fake election API written with NodeJS
-- `election-api-scala` A fake election API written with Scala
-- `election-api-python` A fake elction API written with Python
+The API has 3 endpoints:
 
-- `election-ui-javascript` A fake elections Web UI written with React and Javascript
+- GET `/result/{id}` to get an elections result for a given id.
+- POST `/result` to add a new result
+- GET `/scoreboard` to get the running totals. This is unimplemented.
 
-- `election-ui-swift` A fake elections iOS app written with Swift (with UIKit and SwiftUI variations)
-- `election-ui-kotlin` A fake elections Android app written with Kotlin (with XML layout and Jetpack Compose variations)
+## Setup
 
-## Choosing an assessment
+Requires:
 
-Things to take into account when choosing your assessment:
+- node (18) - available from https://nodejs.org/en/download/
+- npm - will be installed with node, or see https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
-* You must choose **ONE** assessment
-* If you want a **web/front end/fullstack** role you must choose the `election-ui-javascript` assessment. 
-* If you want a mid- or senior-level **mobile development** role you must choose the `election-ui-swift` or `election-ui-kotlin` assessment. If you'd consider a junior-level mobile development role we're happy to assess your programming skills based on whichever platform you're most comfortable.
-* Otherwise, choose a language you are most comfortable and that gives you the best opportunity to show your ability. 
-* More information on each assessment can be found inside the readme of the relevant application. 
+```
+npm install
+npm start
+```
 
-Once you have decided, please let your recruitment contact know.
+If you need to run it on another port, instead of `npm start`, you can run the below, where 9000 is swapped for your preferred port:
 
-## What to expect in your interview
+```bash
+PORT=9000 npm start
+```
 
-In the assessment we will ask you to screenshare your working environment with us as we discuss and work on the following:
+At this point we don't ask you to do any more until your booked assessment time.
 
-1) How does the software work?
-2) Are there any changes/improvements that you would suggest and/or want to tackle?
-3) Our elections product team have asked for some new features to be added! With the help of a pair, you will be asked to try to implement one or more of these features.
+You're ready for your assessment as long as the following are true:
 
-# Questions?
+- You can open this folder in your preferred code editor
+- You can run all the tests with `npm test` and all 4 pass
+- You can run `npm start` without any errors and http://localhost:3000/ returns "Cannot GET /"
 
-If you have any questions about any of this, please contact your recruitment contact, and/or the person who sent you the link to this repository.
+:warning: If you make any changes to the code, please ensure you return it to it's initial (HEAD) state before your assessment.
+
+## Assessment Time
+
+During your assessment we will ask you to work though the task in `tasks.md` with a pair. Please do not work on or complete these prior to the assessment.
