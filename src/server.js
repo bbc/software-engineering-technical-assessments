@@ -10,10 +10,12 @@ const server = express();
 server.use(express.json());
 
 server.get("/result/:id", (req, res) => {
+    // TODO: passing in unsanitised reqparams :(
   res.send(getResult(parseInt(req.params.id, 10)));
 });
 
 server.post("/result", (req, res) => {
+  // TODO: passing in unsanitised req.body :(
   res.send(newResult(req.body));
 });
 
