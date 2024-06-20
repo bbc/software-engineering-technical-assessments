@@ -5,12 +5,13 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "test": "prettier --loglevel=error --write * && jest"
+    "test": "prettier --loglevel=error --write * && mocha"
   },
   "author": "BBC News and Weather Apps",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^27.0.4",
+    "chai": "^4.4.1",
+    "mocha": "^10.4.0",
     "prettier": "^2.8.4",
     "supertest": "^6.1.3"
   },
