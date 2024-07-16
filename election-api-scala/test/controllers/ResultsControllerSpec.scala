@@ -1,6 +1,5 @@
 package controllers
 
-import akka.stream.Materializer
 import model.Scoreboard
 import org.scalatestplus.play._
 import org.scalatestplus.play.guice._
@@ -10,7 +9,6 @@ import play.api.libs.json.{Json, OFormat}
 import service.MapResultService
 
 class ResultsControllerSpec extends PlaySpec with GuiceOneAppPerTest with Injecting {
-  implicit lazy val materializer: Materializer = app.materializer
   //TODO: You will need the json format for any classes used within the Scoreboard here
   implicit val scoreboardJson: OFormat[Scoreboard] = Json.format[Scoreboard]
 
