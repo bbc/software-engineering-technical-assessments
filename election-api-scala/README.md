@@ -21,7 +21,7 @@ The API has 3 endpoints:
 
 During your assessment we will ask you to work though the task in `tasks.md` with a pair. Please do not work on or complete these prior to the assessment.
 
-:warning:  If you make any changes to the code, please ensure you return it to it's initial (HEAD) state before your assessment.
+__Warning:__  If you make any changes to the code, please ensure you return it to it's initial (HEAD) state before your assessment.
 
 ## Prerequisites
 - Java 11
@@ -35,6 +35,10 @@ During your assessment we will ask you to work though the task in `tasks.md` wit
 ### To Run
 
 `sbt run`
+
+You may get a port error when you try to run this. If so, run the following command:
+
+`export PLAY_HTTP_PORT=9001`
 
 ### To Test
 

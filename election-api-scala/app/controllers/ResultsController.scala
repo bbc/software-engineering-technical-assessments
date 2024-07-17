@@ -45,7 +45,6 @@ class ResultsController @Inject()(val controllerComponents: ControllerComponents
   }
 
   def getScoreboard: Action[AnyContent] =  Action {
-
-    Ok(Json.toJson(Scoreboard(0)))
+    Ok(Json.toJson(None))
   }
 }
