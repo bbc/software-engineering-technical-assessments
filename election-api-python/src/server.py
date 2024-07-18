@@ -5,8 +5,8 @@ app: Flask = Flask(__name__)
 controller: ResultsController = ResultsController()
 
 @app.route("/result/<id>", methods=["GET"])
-def individual_result(id) -> dict:
-    return controller.get_result(int(id))
+def individual_result(identifier) -> dict:
+    return controller.get_result(int(identifier))
 
 @app.route("/result", methods=["POST"])
 def add_result() -> dict:
