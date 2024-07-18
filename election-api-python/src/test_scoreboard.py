@@ -35,9 +35,7 @@ class TestScoreboard(unittest.TestCase):
         self.load_results(5)
         status_code, scoreboard = self.fetch_scoreboard()
 
-        if status_code != 200:
-            self.fail(f"non-200 status code received: {status_code}")
-
+        self.assertEqual(status_code, 200, f"non-200 status code received: {status_code}")
         self.assertNotEqual(len(scoreboard), 0)
         # assert LD == 1
 		# assert LAB = 4
@@ -47,9 +45,7 @@ class TestScoreboard(unittest.TestCase):
         self.load_results(100)
         status_code, scoreboard = self.fetch_scoreboard()
 
-        if status_code != 200:
-            self.fail(f"non-200 status code received: {status_code}")
-
+        self.assertEqual(status_code, 200, f"non-200 status code received: {status_code}")
         self.assertNotEqual(len(scoreboard), 0)
         # assert LD == 12
 		# assert LAB == 56
@@ -60,9 +56,7 @@ class TestScoreboard(unittest.TestCase):
         self.load_results(554)
         status_code, scoreboard = self.fetch_scoreboard()
 
-        if status_code != 200:
-            self.fail(f"non-200 status code received: {status_code}")
-
+        self.assertEqual(status_code, 200, f"non-200 status code received: {status_code}")
         self.assertNotEqual(len(scoreboard), 0)
         # assert LD == 52
 		# assert LAB = 325
@@ -73,9 +67,7 @@ class TestScoreboard(unittest.TestCase):
         self.load_results(650)
         status_code, scoreboard = self.fetch_scoreboard()
 
-        if status_code != 200:
-            self.fail(f"non-200 status code received: {status_code}")
-
+        self.assertEqual(status_code, 200, f"non-200 status code received: {status_code}")
         self.assertNotEqual(len(scoreboard), 0)
         # assert LD == 62
 		# assert LAB == 349
