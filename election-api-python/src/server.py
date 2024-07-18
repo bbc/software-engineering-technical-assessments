@@ -15,4 +15,8 @@ def add_result() -> dict:
 @app.route("/scoreboard", methods=["GET"])
 def scoreboard() -> dict:
     return controller.scoreboard()
-    
+
+@app.errorhandler(Exception)
+def all_exception_handler(e):
+    print(f"[ERROR] - exception ({type(e).__name__}) occurred during request handling: {e}")
+    return {}, 500

@@ -24,16 +24,20 @@ class TestScoreboard(unittest.TestCase):
             results.append(self.load_and_post_result_file(i + 1))
         return results
 
-    def fetch_scoreboard(self) -> list[dict]:
+    def fetch_scoreboard(self) -> tuple[int, dict]: # returns (status_code, response_body_object)
         response = self.server.get("/scoreboard")
-        return [] if response.data == b'{}\n' else json.loads(response.data.decode("utf-8"))
+        return (response.status_code, json.loads(response.data.decode("utf-8")))
 
     def setUp(self) -> None:
         controller.reset()
 
     def test_first_5(self) -> None:
         self.load_results(5)
-        scoreboard: list = self.fetch_scoreboard()
+        status_code, scoreboard = self.fetch_scoreboard()
+
+        if status_code != 200:
+            self.fail(f"non-200 status code received: {status_code}")
+
         self.assertNotEqual(len(scoreboard), 0)
         # assert LD == 1
 		# assert LAB = 4
@@ -41,7 +45,11 @@ class TestScoreboard(unittest.TestCase):
 
     def test_first_100(self) -> None:
         self.load_results(100)
-        scoreboard: list = self.fetch_scoreboard()
+        status_code, scoreboard = self.fetch_scoreboard()
+
+        if status_code != 200:
+            self.fail(f"non-200 status code received: {status_code}")
+
         self.assertNotEqual(len(scoreboard), 0)
         # assert LD == 12
 		# assert LAB == 56
@@ -50,7 +58,11 @@ class TestScoreboard(unittest.TestCase):
 
     def test_first_554(self) -> None:
         self.load_results(554)
-        scoreboard: list = self.fetch_scoreboard()
+        status_code, scoreboard = self.fetch_scoreboard()
+
+        if status_code != 200:
+            self.fail(f"non-200 status code received: {status_code}")
+
         self.assertNotEqual(len(scoreboard), 0)
         # assert LD == 52
 		# assert LAB = 325
@@ -59,7 +71,11 @@ class TestScoreboard(unittest.TestCase):
 
     def test_all_results(self) -> None:
         self.load_results(650)
-        scoreboard: list = self.fetch_scoreboard()
+        status_code, scoreboard = self.fetch_scoreboard()
+
+        if status_code != 200:
+            self.fail(f"non-200 status code received: {status_code}")
+
         self.assertNotEqual(len(scoreboard), 0)
         # assert LD == 62
 		# assert LAB == 349
