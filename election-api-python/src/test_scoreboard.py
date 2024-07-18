@@ -1,4 +1,7 @@
-import unittest, json, os
+import unittest
+import json
+import os
+
 from server import app, controller
 
 class TestScoreboard(unittest.TestCase):
@@ -11,7 +14,7 @@ class TestScoreboard(unittest.TestCase):
 
     def load_and_post_result_file(self, num: str) -> dict:
         file_number: str = str(num).zfill(3)
-        with open(f"{self.RESULT_SAMPLE_PATH}/result{file_number}.json", "r") as file:
+        with open(f"{self.RESULT_SAMPLE_PATH}/result{file_number}.json", "r", encoding="utf-8") as file:
             result = file.read()
         return self.server.post("/result", json=json.loads(result))
 
@@ -20,7 +23,7 @@ class TestScoreboard(unittest.TestCase):
         for i in range(quantity):
             results.append(self.load_and_post_result_file(i + 1))
         return results
-    
+
     def fetch_scoreboard(self) -> list[dict]:
         response = self.server.get("/scoreboard")
         return [] if response.data == b'{}\n' else json.loads(response.data.decode("utf-8"))
