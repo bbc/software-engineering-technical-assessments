@@ -11,7 +11,6 @@ Requires:
 
 - macOS 11.3 (Big Sur) or higher 
 - Xcode 13 or higher
-- [Zoom](https://zoom.us/), for screensharing
 
 Notes:
 
