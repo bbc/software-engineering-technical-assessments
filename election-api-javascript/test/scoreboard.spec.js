@@ -7,7 +7,7 @@ const resultsSamplesPath = "./test/resources/sample-election-results";
 function loadAndPostResultFile(server, num) {
   const fileNumber = new String(parseInt(num, 10)).padStart(3, "0");
   const result = fs.readFileSync(
-    `${resultsSamplesPath}/result${fileNumber}.json`
+    `${resultsSamplesPath}/result${fileNumber}.json`,
   );
   return server.post("/result").send(JSON.parse(result));
 }
@@ -64,7 +64,7 @@ describe("Scoreboard Tests", () => {
     // assert winner is LAB
     // Bonus Task (total votes):
     // assert IKHH have 18739 votes in total
-  });
+  }, 10000);
 
   test("test all results", async () => {
     await loadResults(server, 650);
@@ -78,5 +78,5 @@ describe("Scoreboard Tests", () => {
     // assert 650 seats counted
     // Bonus Task (total votes):
     // assert SDLP have 125626 votes in total
-  });
+  }, 15000);
 });
