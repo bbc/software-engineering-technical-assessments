@@ -5,8 +5,8 @@ app: Flask = Flask(__name__)
 controller: ResultsController = ResultsController()
 
 @app.route("/result/<id>", methods=["GET"])
-def individual_result(id) -> dict:
-    return controller.get_result(int(id))
+def individual_result(identifier) -> dict:
+    return controller.get_result(int(identifier))
 
 @app.route("/result", methods=["POST"])
 def add_result() -> dict:
@@ -15,4 +15,8 @@ def add_result() -> dict:
 @app.route("/scoreboard", methods=["GET"])
 def scoreboard() -> dict:
     return controller.scoreboard()
-    
+
+@app.errorhandler(Exception)
+def all_exception_handler(e):
+    print(f"[ERROR] - exception ({type(e).__name__}) occurred during request handling: {e}")
+    return {}, 500
