@@ -12,7 +12,7 @@ Each assessment makes up part of a mock elections system which could show result
 * Familiarise yourself with the codebase of your chosen assessment.
 * If you are not familiar with how elections work in the UK please watch [this video](https://www.youtube.com/watch?v=cRxUhGetEPQ). 
 * Follow the "setup" steps in the Readme of your chosen assessment and get it running locally.
-* Ensure you are ready to "screenshare" your working environment on Zoom during the interview.
+* Ensure you are ready to "screenshare" your working environment during the interview, as per the instructions from our recruitment team.
 * **Do not** complete the assessment before the interview
 
 ## The applications:
