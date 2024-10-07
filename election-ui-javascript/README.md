@@ -32,7 +32,7 @@ You're ready for your assessment as long as the following are true:
 - You can run all the tests (with `npm test`) and 1 fails and 9 pass
 - You can run `npm start` and see a styled "Elections 2021" webpage in your browser at http://localhost:3000/
 
-:warning:  If you make any changes to the code, please ensure you return it to it's initial (HEAD) state before your assessment.
+__Warning:__  If you make any changes to the code, please ensure you return it to its initial (HEAD) state before your assessment.
 
 ## Assessment Time
 
