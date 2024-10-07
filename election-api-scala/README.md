@@ -36,6 +36,10 @@ During your assessment we will ask you to work though the task in `tasks.md` wit
 
 `sbt run`
 
+You may get a port error when you try to run this. If so, run the following command:
+
+`export PLAY_HTTP_PORT=9001`
+
 ### To Test
 
 `sbt test`
