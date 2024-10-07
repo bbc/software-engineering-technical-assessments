@@ -27,7 +27,3 @@ Bonus information for the scoreboard:
 - The total votes for each party
 - The total share of the vote for each party. So the percentage of votes for each party.
 
-### Possible other implementations
-
-- Absolute majority required. Someone needs 50% + 1 votes or a run off is triggered (check the data that's probably all constituencies)
-- Allocate the seats from the total declarations based on % of vote share
