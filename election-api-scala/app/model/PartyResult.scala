@@ -5,5 +5,6 @@ case class ConstituencyResult(id: Int, name: String, seqNo: Int, partyResults: S
 
 case class ApiResponse (error: String, message: String)
 
-
-case class Scoreboard(declared:Int)
+// TODO:
+// implement this in any way you wish
+case class Scoreboard(winner: String)
