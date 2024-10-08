@@ -1,7 +1,7 @@
 ### Task
 The product owner has asked that we implement the scoreboard endpoint.
 
-First version: First Past the Post
+#### First Past the Post
 
 For each constituency a winner can be declared:
 1. if we have votes for that constituency
