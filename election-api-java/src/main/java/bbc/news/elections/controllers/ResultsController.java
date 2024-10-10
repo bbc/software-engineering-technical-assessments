@@ -24,17 +24,17 @@ public class ResultsController {
 
     @GetMapping("/result/{id}")
     ConstituencyResult getResult(@PathVariable Integer id) {
-        ConstituencyResult result = resultService.GetResult(id);
+        ConstituencyResult result = resultService.getResult(id);
         if (result == null) {
             throw new ResultNotFoundException(id);
         }
-        return resultService.GetResult(id);
+        return resultService.getResult(id);
     }
 
     @PostMapping("/result")
     ResponseEntity<String> newResult(@RequestBody ConstituencyResult result) {
         if (result.getId() != null) {
-            resultService.NewResult(result);
+            resultService.newResult(result);
             return ResponseEntity.created(URI.create("/result/"+result.getId())).build();
         }
         return ResponseEntity.badRequest().body("Id was null");
