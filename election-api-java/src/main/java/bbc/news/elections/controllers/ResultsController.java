@@ -28,7 +28,7 @@ public class ResultsController {
         if (result == null) {
             throw new ResultNotFoundException(id);
         }
-        return resultService.getResult(id);
+        return result;
     }
 
     @PostMapping("/result")
