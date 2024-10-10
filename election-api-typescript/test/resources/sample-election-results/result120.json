@@ -1,0 +1,32 @@
+{
+  "id": 575,
+  "name": "Torbay",
+  "seqNo": 120,
+  "partyResults": [
+    {
+      "party": "LD",
+      "votes": 18943,
+      "share": 41.8
+    },
+    {
+      "party": "CON",
+      "votes": 16216,
+      "share": 35.8
+    },
+    {
+      "party": "LAB",
+      "votes": 6555,
+      "share": 14.5
+    },
+    {
+      "party": "UKIP",
+      "votes": 3634,
+      "share": 8.0
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

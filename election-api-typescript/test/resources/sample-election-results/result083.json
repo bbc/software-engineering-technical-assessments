@@ -1,0 +1,37 @@
+{
+  "id": 590,
+  "name": "Vauxhall",
+  "seqNo": 83,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 17928,
+      "share": 51.7
+    },
+    {
+      "party": "LD",
+      "votes": 9425,
+      "share": 27.2
+    },
+    {
+      "party": "CON",
+      "votes": 5048,
+      "share": 14.6
+    },
+    {
+      "party": "GRN",
+      "votes": 1538,
+      "share": 4.4
+    },
+    {
+      "party": "OTH",
+      "votes": 461,
+      "share": 1.3
+    },
+    {
+      "party": "UKIP",
+      "votes": 244,
+      "share": 0.7
+    }
+  ]
+}

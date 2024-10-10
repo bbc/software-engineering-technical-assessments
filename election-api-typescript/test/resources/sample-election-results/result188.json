@@ -1,0 +1,37 @@
+{
+  "id": 174,
+  "name": "Cynon Valley",
+  "seqNo": 188,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 18329,
+      "share": 63.0
+    },
+    {
+      "party": "PC",
+      "votes": 3939,
+      "share": 13.5
+    },
+    {
+      "party": "LD",
+      "votes": 3547,
+      "share": 12.2
+    },
+    {
+      "party": "CON",
+      "votes": 2498,
+      "share": 8.6
+    },
+    {
+      "party": "UKIP",
+      "votes": 767,
+      "share": 2.6
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

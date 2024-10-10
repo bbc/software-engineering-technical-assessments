@@ -1,0 +1,32 @@
+{
+  "id": 470,
+  "name": "Rhondda",
+  "seqNo": 221,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 21198,
+      "share": 68.1
+    },
+    {
+      "party": "PC",
+      "votes": 4956,
+      "share": 15.9
+    },
+    {
+      "party": "LD",
+      "votes": 3264,
+      "share": 10.5
+    },
+    {
+      "party": "CON",
+      "votes": 1730,
+      "share": 5.6
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

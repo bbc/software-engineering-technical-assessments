@@ -1,0 +1,37 @@
+{
+  "id": 454,
+  "name": "Pontypridd",
+  "seqNo": 208,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 18534,
+      "share": 54.2
+    },
+    {
+      "party": "LD",
+      "votes": 6840,
+      "share": 20.0
+    },
+    {
+      "party": "CON",
+      "votes": 3949,
+      "share": 11.6
+    },
+    {
+      "party": "PC",
+      "votes": 3757,
+      "share": 11.0
+    },
+    {
+      "party": "UKIP",
+      "votes": 871,
+      "share": 2.5
+    },
+    {
+      "party": "OTH",
+      "votes": 233,
+      "share": 0.7
+    }
+  ]
+}

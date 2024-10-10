@@ -1,0 +1,37 @@
+{
+  "id": 263,
+  "name": "Glasgow East",
+  "seqNo": 338,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 18775,
+      "share": 60.7
+    },
+    {
+      "party": "SNP",
+      "votes": 5268,
+      "share": 17.0
+    },
+    {
+      "party": "LD",
+      "votes": 3665,
+      "share": 11.8
+    },
+    {
+      "party": "CON",
+      "votes": 2135,
+      "share": 6.9
+    },
+    {
+      "party": "SSP",
+      "votes": 1096,
+      "share": 3.5
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}
