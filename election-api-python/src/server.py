@@ -4,7 +4,7 @@ from results_controller import ResultsController
 app: Flask = Flask(__name__)
 controller: ResultsController = ResultsController()
 
-@app.route("/result/<id>", methods=["GET"])
+@app.route("/result/<identifier>", methods=["GET"])
 def individual_result(identifier) -> dict:
     return controller.get_result(int(identifier))
 
