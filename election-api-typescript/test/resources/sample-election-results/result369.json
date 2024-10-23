@@ -1,0 +1,27 @@
+{
+  "id": 169,
+  "name": "Crewe \u0026 Nantwich",
+  "seqNo": 369,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 21860,
+      "share": 48.4
+    },
+    {
+      "party": "CON",
+      "votes": 14861,
+      "share": 32.9
+    },
+    {
+      "party": "LD",
+      "votes": 8421,
+      "share": 18.7
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 602,
+  "name": "Warwickshire North",
+  "seqNo": 391,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 20735,
+      "share": 47.4
+    },
+    {
+      "party": "CON",
+      "votes": 14051,
+      "share": 32.1
+    },
+    {
+      "party": "LD",
+      "votes": 5923,
+      "share": 13.5
+    },
+    {
+      "party": "OTH",
+      "votes": 1910,
+      "share": 4.4
+    },
+    {
+      "party": "UKIP",
+      "votes": 1155,
+      "share": 2.6
+    }
+  ]
+}

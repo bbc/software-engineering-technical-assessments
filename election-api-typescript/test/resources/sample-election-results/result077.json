@@ -1,0 +1,32 @@
+{
+  "id": 643,
+  "name": "Wyre \u0026 Preston North",
+  "seqNo": 77,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 24011,
+      "share": 54.7
+    },
+    {
+      "party": "LAB",
+      "votes": 11929,
+      "share": 27.2
+    },
+    {
+      "party": "LD",
+      "votes": 7055,
+      "share": 16.1
+    },
+    {
+      "party": "UKIP",
+      "votes": 931,
+      "share": 2.1
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

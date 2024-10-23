@@ -1,0 +1,32 @@
+{
+  "id": 158,
+  "name": "Colne Valley",
+  "seqNo": 299,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 17862,
+      "share": 35.4
+    },
+    {
+      "party": "CON",
+      "votes": 16595,
+      "share": 32.9
+    },
+    {
+      "party": "LD",
+      "votes": 12370,
+      "share": 24.5
+    },
+    {
+      "party": "OTH",
+      "votes": 2232,
+      "share": 4.4
+    },
+    {
+      "party": "GRN",
+      "votes": 1371,
+      "share": 2.7
+    }
+  ]
+}

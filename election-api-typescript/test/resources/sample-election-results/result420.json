@@ -1,0 +1,47 @@
+{
+  "id": 265,
+  "name": "Glasgow North East",
+  "seqNo": 420,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 15153,
+      "share": 53.3
+    },
+    {
+      "party": "OTH",
+      "votes": 6844,
+      "share": 24.1
+    },
+    {
+      "party": "SNP",
+      "votes": 5019,
+      "share": 17.7
+    },
+    {
+      "party": "SLP",
+      "votes": 4036,
+      "share": 14.2
+    },
+    {
+      "party": "SSP",
+      "votes": 1402,
+      "share": 4.9
+    },
+    {
+      "party": "SUP",
+      "votes": 1266,
+      "share": 4.5
+    },
+    {
+      "party": "BNP",
+      "votes": 920,
+      "share": 3.2
+    },
+    {
+      "party": "IND",
+      "votes": 622,
+      "share": 2.2
+    }
+  ]
+}

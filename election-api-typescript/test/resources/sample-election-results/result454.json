@@ -1,0 +1,32 @@
+{
+  "id": 549,
+  "name": "Suffolk South",
+  "seqNo": 454,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 20551,
+      "share": 42.1
+    },
+    {
+      "party": "LD",
+      "votes": 13887,
+      "share": 28.4
+    },
+    {
+      "party": "LAB",
+      "votes": 11954,
+      "share": 24.5
+    },
+    {
+      "party": "UKIP",
+      "votes": 2461,
+      "share": 5.0
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

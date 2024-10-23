@@ -1,0 +1,32 @@
+{
+  "id": 463,
+  "name": "Rayleigh \u0026 Wickford",
+  "seqNo": 52,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 25556,
+      "share": 53.9
+    },
+    {
+      "party": "LAB",
+      "votes": 12573,
+      "share": 26.5
+    },
+    {
+      "party": "LD",
+      "votes": 7336,
+      "share": 15.5
+    },
+    {
+      "party": "UKIP",
+      "votes": 1972,
+      "share": 4.2
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}
