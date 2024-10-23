@@ -9,24 +9,24 @@ import java.util.concurrent.ConcurrentHashMap;
 @Component
 public class MapBasedRepository implements ResultService {
 
-    private final Map<Integer,ConstituencyResult> results;
+    private final Map<Integer, ConstituencyResult> results;
 
     public MapBasedRepository() {
         results = new ConcurrentHashMap<>();
     }
 
     @Override
-    public ConstituencyResult GetResult(Integer id) {
+    public ConstituencyResult getResult(Integer id) {
         return results.get(id);
     }
 
     @Override
-    public void NewResult(ConstituencyResult result) {
+    public void newResult(ConstituencyResult result) {
         results.put(result.getId(), result);
     }
 
     @Override
-    public Map<Integer, ConstituencyResult> GetAll() {
+    public Map<Integer, ConstituencyResult> getAll() {
         return results;
     }
 
