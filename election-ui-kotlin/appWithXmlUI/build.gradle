@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    compileSdk 32
+    compileSdk 34
 
     defaultConfig {
         applicationId "uk.co.bbc.elections"
@@ -15,6 +15,8 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
+
+    namespace "uk.co.bbc.elections"
 
     buildTypes {
         release {
