@@ -1,0 +1,47 @@
+{
+  "id": 406,
+  "name": "Motherwell \u0026 Wishaw",
+  "seqNo": 99,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 21327,
+      "share": 57.5
+    },
+    {
+      "party": "SNP",
+      "votes": 6105,
+      "share": 16.5
+    },
+    {
+      "party": "LD",
+      "votes": 4464,
+      "share": 12.0
+    },
+    {
+      "party": "CON",
+      "votes": 3440,
+      "share": 9.3
+    },
+    {
+      "party": "SSP",
+      "votes": 1019,
+      "share": 2.7
+    },
+    {
+      "party": "OTH",
+      "votes": 754,
+      "share": 2.0
+    },
+    {
+      "party": "FSP",
+      "votes": 384,
+      "share": 1.0
+    },
+    {
+      "party": "OCV",
+      "votes": 370,
+      "share": 1.0
+    }
+  ]
+}

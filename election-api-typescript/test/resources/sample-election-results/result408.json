@@ -1,0 +1,37 @@
+{
+  "id": 171,
+  "name": "Croydon North",
+  "seqNo": 408,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 24251,
+      "share": 53.6
+    },
+    {
+      "party": "CON",
+      "votes": 10066,
+      "share": 22.3
+    },
+    {
+      "party": "LD",
+      "votes": 7788,
+      "share": 17.2
+    },
+    {
+      "party": "GRN",
+      "votes": 1275,
+      "share": 2.8
+    },
+    {
+      "party": "OTH",
+      "votes": 1047,
+      "share": 2.3
+    },
+    {
+      "party": "UKIP",
+      "votes": 798,
+      "share": 1.8
+    }
+  ]
+}

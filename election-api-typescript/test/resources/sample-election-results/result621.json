@@ -1,0 +1,37 @@
+{
+  "id": 379,
+  "name": "Ludlow",
+  "seqNo": 621,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 20979,
+      "share": 45.1
+    },
+    {
+      "party": "LD",
+      "votes": 18952,
+      "share": 40.7
+    },
+    {
+      "party": "LAB",
+      "votes": 4974,
+      "share": 10.7
+    },
+    {
+      "party": "GRN",
+      "votes": 852,
+      "share": 1.8
+    },
+    {
+      "party": "UKIP",
+      "votes": 783,
+      "share": 1.7
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

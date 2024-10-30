@@ -1,0 +1,47 @@
+{
+  "id": 202,
+  "name": "Down North",
+  "seqNo": 641,
+  "partyResults": [
+    {
+      "party": "UUP",
+      "votes": 16268,
+      "share": 50.4
+    },
+    {
+      "party": "DUP",
+      "votes": 11324,
+      "share": 35.1
+    },
+    {
+      "party": "AP",
+      "votes": 2451,
+      "share": 7.6
+    },
+    {
+      "party": "SDLP",
+      "votes": 1009,
+      "share": 3.1
+    },
+    {
+      "party": "CON",
+      "votes": 822,
+      "share": 2.5
+    },
+    {
+      "party": "IND",
+      "votes": 211,
+      "share": 0.7
+    },
+    {
+      "party": "SF",
+      "votes": 205,
+      "share": 0.6
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 207,
+  "name": "Dumfries \u0026 Galloway",
+  "seqNo": 397,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 20924,
+      "share": 41.1
+    },
+    {
+      "party": "CON",
+      "votes": 18002,
+      "share": 35.4
+    },
+    {
+      "party": "SNP",
+      "votes": 6182,
+      "share": 12.1
+    },
+    {
+      "party": "LD",
+      "votes": 4259,
+      "share": 8.4
+    },
+    {
+      "party": "SGP",
+      "votes": 745,
+      "share": 1.5
+    },
+    {
+      "party": "SSP",
+      "votes": 497,
+      "share": 1.0
+    },
+    {
+      "party": "OTH",
+      "votes": 282,
+      "share": 0.6
+    },
+    {
+      "party": "OCV",
+      "votes": 282,
+      "share": 0.6
+    }
+  ]
+}

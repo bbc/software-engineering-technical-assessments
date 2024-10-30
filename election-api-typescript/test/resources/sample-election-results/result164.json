@@ -1,0 +1,27 @@
+{
+  "id": 56,
+  "name": "Birkenhead",
+  "seqNo": 164,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 20534,
+      "share": 64.8
+    },
+    {
+      "party": "LD",
+      "votes": 5896,
+      "share": 18.6
+    },
+    {
+      "party": "CON",
+      "votes": 5246,
+      "share": 16.6
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

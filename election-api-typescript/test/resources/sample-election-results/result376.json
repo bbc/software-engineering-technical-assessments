@@ -1,0 +1,47 @@
+{
+  "id": 418,
+  "name": "Newport West",
+  "seqNo": 376,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 16021,
+      "share": 44.8
+    },
+    {
+      "party": "CON",
+      "votes": 10563,
+      "share": 29.6
+    },
+    {
+      "party": "LD",
+      "votes": 6398,
+      "share": 17.9
+    },
+    {
+      "party": "PC",
+      "votes": 1278,
+      "share": 3.6
+    },
+    {
+      "party": "UKIP",
+      "votes": 848,
+      "share": 2.4
+    },
+    {
+      "party": "GRN",
+      "votes": 540,
+      "share": 1.5
+    },
+    {
+      "party": "OTH",
+      "votes": 84,
+      "share": 0.2
+    },
+    {
+      "party": "ED",
+      "votes": 0,
+      "share": 0
+    }
+  ]
+}

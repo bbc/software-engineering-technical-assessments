@@ -1,0 +1,47 @@
+{
+  "id": 51,
+  "name": "Berwickshire, Roxburgh \u0026 Selkirk",
+  "seqNo": 505,
+  "partyResults": [
+    {
+      "party": "LD",
+      "votes": 18993,
+      "share": 41.8
+    },
+    {
+      "party": "CON",
+      "votes": 13092,
+      "share": 28.8
+    },
+    {
+      "party": "LAB",
+      "votes": 7206,
+      "share": 15.9
+    },
+    {
+      "party": "SNP",
+      "votes": 3885,
+      "share": 8.6
+    },
+    {
+      "party": "OTH",
+      "votes": 916,
+      "share": 2.0
+    },
+    {
+      "party": "LIB",
+      "votes": 916,
+      "share": 2.0
+    },
+    {
+      "party": "SSP",
+      "votes": 695,
+      "share": 1.5
+    },
+    {
+      "party": "UKIP",
+      "votes": 601,
+      "share": 1.3
+    }
+  ]
+}

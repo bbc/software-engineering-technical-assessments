@@ -1,0 +1,37 @@
+{
+  "id": 52,
+  "name": "Bethnal Green \u0026 Bow",
+  "seqNo": 562,
+  "partyResults": [
+    {
+      "party": "RES",
+      "votes": 14015,
+      "share": 36.5
+    },
+    {
+      "party": "LAB",
+      "votes": 13211,
+      "share": 34.4
+    },
+    {
+      "party": "LD",
+      "votes": 4721,
+      "share": 12.3
+    },
+    {
+      "party": "CON",
+      "votes": 4583,
+      "share": 11.9
+    },
+    {
+      "party": "GRN",
+      "votes": 1730,
+      "share": 4.5
+    },
+    {
+      "party": "OTH",
+      "votes": 106,
+      "share": 0.3
+    }
+  ]
+}

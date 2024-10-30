@@ -1,0 +1,37 @@
+{
+  "id": 190,
+  "name": "Devon North",
+  "seqNo": 537,
+  "partyResults": [
+    {
+      "party": "LD",
+      "votes": 22869,
+      "share": 46.4
+    },
+    {
+      "party": "CON",
+      "votes": 17593,
+      "share": 35.7
+    },
+    {
+      "party": "LAB",
+      "votes": 4379,
+      "share": 8.9
+    },
+    {
+      "party": "UKIP",
+      "votes": 2601,
+      "share": 5.3
+    },
+    {
+      "party": "GRN",
+      "votes": 1826,
+      "share": 3.7
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}
