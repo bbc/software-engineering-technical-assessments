@@ -3,17 +3,17 @@ from results_service import ResultStore
 class ResultsController:
 
     def __init__(self) -> None:
-        self.store: ResultStore = ResultStore()
+        self.result_store: ResultStore = ResultStore()
 
     def get_result(self, identifier: int) -> dict:
-        return self.store.get_result(identifier)
+        return self.result_store.get_result(identifier)
 
     def new_result(self, result: dict) -> dict:
-        self.store.new_result(result)
+        self.result_store.new_result(result)
         return {}
 
     def reset(self) -> None:
-        self.store.reset()
+        self.result_store.reset()
 
     def scoreboard(self) -> dict:
         # Left blank for you to fill in

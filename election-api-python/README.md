@@ -29,12 +29,11 @@ __Warning:__  If you make any changes to the code, please ensure you return it t
 ### To Build
 `pip install -r requirements.txt`
 
+### To Test
+`python ./src/test_scoreboard.py`
+
 ### To Run
 `python ./src/main.py`
 
 or if you need to run it on another port,
 `PORT=**** python ./src/main.py`
-
-### To Test
-`python ./src/test_scoreboard.py`
-
