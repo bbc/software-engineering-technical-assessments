@@ -1,7 +1,8 @@
 package uk.co.bbc.elections.ui.home
 
-import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.consumeWindowInsets
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.safeDrawingPadding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.FloatingActionButton
@@ -38,7 +39,8 @@ fun Home(uiState: HomeUiState, refresh: () -> Unit) = Scaffold(
     LazyColumn(
         Modifier
             .padding(innerPadding)
-            .fillMaxSize()
+            .consumeWindowInsets(innerPadding)
+            .safeDrawingPadding(),
     ) {
         item { ResultHeader() }
         items(uiState.results) { Result(it) }
