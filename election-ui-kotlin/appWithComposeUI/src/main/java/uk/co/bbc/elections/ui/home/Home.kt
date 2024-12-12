@@ -28,7 +28,10 @@ fun Home(viewModel: HomeViewModel) {
 @Composable
 fun Home(uiState: HomeUiState, refresh: () -> Unit) = Scaffold(
     floatingActionButton = {
-        FloatingActionButton(onClick = { if (!uiState.loading) refresh() }) {
+        FloatingActionButton(
+            onClick = { if (!uiState.loading) refresh() },
+            modifier = Modifier.safeDrawingPadding()
+        ) {
             Icon(
                 imageVector = Icons.Filled.Refresh,
                 contentDescription = stringResource(id = R.string.refresh)
@@ -40,7 +43,7 @@ fun Home(uiState: HomeUiState, refresh: () -> Unit) = Scaffold(
         Modifier
             .padding(innerPadding)
             .consumeWindowInsets(innerPadding)
-            .safeDrawingPadding(),
+            .safeDrawingPadding()
     ) {
         item { ResultHeader() }
         items(uiState.results) { Result(it) }
