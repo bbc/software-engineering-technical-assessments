@@ -2,15 +2,19 @@ package uk.co.bbc.elections.ui.home
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.padding
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import androidx.compose.ui.unit.dp
 
 @Composable
 fun Result(result: ResultUiState) = Row(
-    modifier = Modifier.background(MaterialTheme.colors.surface)
+    modifier = Modifier
+        .background(MaterialTheme.colors.surface)
+        .padding(8.dp)
 ) {
     Text(
         modifier = Modifier.weight(1f),
