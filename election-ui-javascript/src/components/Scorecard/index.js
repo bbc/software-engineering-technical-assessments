@@ -1,6 +1,7 @@
 import './Scorecard.css';
 
-function Scorecard({ results, isComplete }) {
+function Scorecard({data}) {
+  const {results, isComplete} = data ; 
   if (!results || results.length === 0) {
     return <div>No results</div>;
   }
