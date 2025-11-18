@@ -9,7 +9,7 @@ This is a mobile client for a mock elections system which could show results pag
 
 Requires:
 
-- Android Studio Chipmunk or higher
+- Android Studio Narwhal 
 
 Notes:
 
