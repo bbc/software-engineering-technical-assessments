@@ -9,8 +9,8 @@ Before your election we would like you to get a 'local' environment set up to ru
 ## Setup
 
 Requires: 
-* node (18) - available from https://nodejs.org/en/download/
-* npm (9.x) - will be installed with node 18, or see https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+* node (22) - available from https://nodejs.org/en/download/
+* npm (10.x) - will be installed with node 22, or see https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 ```sh
 # Install dependencies
