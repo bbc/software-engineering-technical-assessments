@@ -1,8 +1,17 @@
+/**
+ * @jest-environment jsdom
+ */
+
+import '@testing-library/jest-dom'
 import { fireEvent, render, screen, waitFor, within } from '@testing-library/react';
 import Scoreboard from './Scoreboard';
 import dataFetcher from '../dataFetcher';
 
 jest.mock('../dataFetcher');
+
+afterEach(() => {
+    jest.clearAllMocks();
+});
 
 test('renders Results', async () => {
   dataFetcher.mockImplementationOnce(() => {
