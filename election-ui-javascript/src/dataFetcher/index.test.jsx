@@ -1,3 +1,8 @@
+/**Add a comment on  lines R1 to R2Add diff commentMarkdown input:  edit mode selected.WritePreviewAdd a suggestionHeadingBoldItalicQuoteCodeLinkUnordered listNumbered listTask listMentionReferenceSaved repliesAdd FilesPaste, drop, or click to add filesCancelCommentStart a reviewReturn to code
+ * @jest-environment jsdom
+ */
+
+import '@testing-library/jest-dom'
 import fetchResults from '../dataFetcher';
 import { fetchResultData } from '../fakeAPI';
 
