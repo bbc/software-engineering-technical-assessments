@@ -1,3 +1,8 @@
+/**
+ * @jest-environment jsdom
+ */
+
+import '@testing-library/jest-dom'
 import fetchResults from '../dataFetcher';
 import { fetchResultData } from '../fakeAPI';
 
