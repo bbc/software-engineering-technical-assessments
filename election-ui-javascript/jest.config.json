@@ -1,0 +1,5 @@
+{
+  "moduleNameMapper": {
+    "\\.(css|sass)$": "<rootDir>/src/__mocks__/css-mock.js"
+  }
+}
