@@ -1,0 +1,37 @@
+{
+  "id": 623,
+  "name": "Windsor",
+  "seqNo": 366,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 21284,
+      "share": 49.5
+    },
+    {
+      "party": "LD",
+      "votes": 11679,
+      "share": 27.1
+    },
+    {
+      "party": "LAB",
+      "votes": 7722,
+      "share": 17.9
+    },
+    {
+      "party": "UKIP",
+      "votes": 1154,
+      "share": 2.7
+    },
+    {
+      "party": "GRN",
+      "votes": 1020,
+      "share": 2.4
+    },
+    {
+      "party": "OTH",
+      "votes": 182,
+      "share": 0.4
+    }
+  ]
+}

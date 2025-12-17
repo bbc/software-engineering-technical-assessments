@@ -1,0 +1,37 @@
+{
+  "id": 530,
+  "name": "Staffordshire South",
+  "seqNo": 65,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 13794,
+      "share": 50.6
+    },
+    {
+      "party": "LAB",
+      "votes": 5448,
+      "share": 20.0
+    },
+    {
+      "party": "LD",
+      "votes": 3654,
+      "share": 13.4
+    },
+    {
+      "party": "UKIP",
+      "votes": 2757,
+      "share": 10.1
+    },
+    {
+      "party": "OTH",
+      "votes": 1144,
+      "share": 4.2
+    },
+    {
+      "party": "GRN",
+      "votes": 437,
+      "share": 1.6
+    }
+  ]
+}

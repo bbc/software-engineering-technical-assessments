@@ -1,0 +1,42 @@
+{
+  "id": 28,
+  "name": "Barking",
+  "seqNo": 335,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 18293,
+      "share": 49.6
+    },
+    {
+      "party": "CON",
+      "votes": 6110,
+      "share": 16.6
+    },
+    {
+      "party": "BNP",
+      "votes": 5997,
+      "share": 16.3
+    },
+    {
+      "party": "LD",
+      "votes": 3973,
+      "share": 10.8
+    },
+    {
+      "party": "UKIP",
+      "votes": 1291,
+      "share": 3.5
+    },
+    {
+      "party": "GRN",
+      "votes": 618,
+      "share": 1.7
+    },
+    {
+      "party": "OTH",
+      "votes": 589,
+      "share": 1.6
+    }
+  ]
+}

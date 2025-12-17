@@ -1,0 +1,27 @@
+{
+  "id": 415,
+  "name": "Newcastle Upon Tyne East",
+  "seqNo": 87,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 17588,
+      "share": 52.8
+    },
+    {
+      "party": "LD",
+      "votes": 10601,
+      "share": 31.8
+    },
+    {
+      "party": "CON",
+      "votes": 4344,
+      "share": 13.0
+    },
+    {
+      "party": "OTH",
+      "votes": 787,
+      "share": 2.4
+    }
+  ]
+}

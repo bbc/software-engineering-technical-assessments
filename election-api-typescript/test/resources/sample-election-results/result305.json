@@ -1,0 +1,37 @@
+{
+  "id": 389,
+  "name": "Manchester Withington",
+  "seqNo": 305,
+  "partyResults": [
+    {
+      "party": "LD",
+      "votes": 16195,
+      "share": 42.3
+    },
+    {
+      "party": "LAB",
+      "votes": 15664,
+      "share": 40.9
+    },
+    {
+      "party": "CON",
+      "votes": 3972,
+      "share": 10.4
+    },
+    {
+      "party": "GRN",
+      "votes": 1623,
+      "share": 4.2
+    },
+    {
+      "party": "OTH",
+      "votes": 442,
+      "share": 1.2
+    },
+    {
+      "party": "UKIP",
+      "votes": 430,
+      "share": 1.1
+    }
+  ]
+}

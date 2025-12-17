@@ -1,0 +1,37 @@
+{
+  "id": 648,
+  "name": "York Central",
+  "seqNo": 78,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 19490,
+      "share": 48.8
+    },
+    {
+      "party": "CON",
+      "votes": 9146,
+      "share": 22.9
+    },
+    {
+      "party": "LD",
+      "votes": 8040,
+      "share": 20.1
+    },
+    {
+      "party": "GRN",
+      "votes": 2113,
+      "share": 5.3
+    },
+    {
+      "party": "UKIP",
+      "votes": 832,
+      "share": 2.1
+    },
+    {
+      "party": "OTH",
+      "votes": 286,
+      "share": 0.7
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 54,
+  "name": "Bexhill \u0026 Battle",
+  "seqNo": 483,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 27316,
+      "share": 54.2
+    },
+    {
+      "party": "LD",
+      "votes": 11423,
+      "share": 22.7
+    },
+    {
+      "party": "LAB",
+      "votes": 9016,
+      "share": 17.9
+    },
+    {
+      "party": "UKIP",
+      "votes": 2659,
+      "share": 5.3
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

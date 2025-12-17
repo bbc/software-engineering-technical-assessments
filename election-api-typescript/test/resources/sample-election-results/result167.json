@@ -1,0 +1,37 @@
+{
+  "id": 129,
+  "name": "Cardiff West",
+  "seqNo": 167,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 16859,
+      "share": 44.9
+    },
+    {
+      "party": "CON",
+      "votes": 8498,
+      "share": 22.6
+    },
+    {
+      "party": "LD",
+      "votes": 6392,
+      "share": 17.0
+    },
+    {
+      "party": "PC",
+      "votes": 4855,
+      "share": 12.9
+    },
+    {
+      "party": "UKIP",
+      "votes": 807,
+      "share": 2.1
+    },
+    {
+      "party": "OTH",
+      "votes": 167,
+      "share": 0.4
+    }
+  ]
+}

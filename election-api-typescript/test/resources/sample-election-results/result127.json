@@ -1,0 +1,47 @@
+{
+  "id": 1,
+  "name": "Aberavon",
+  "seqNo": 127,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 18077,
+      "share": 60.0
+    },
+    {
+      "party": "LD",
+      "votes": 4140,
+      "share": 13.8
+    },
+    {
+      "party": "PC",
+      "votes": 3545,
+      "share": 11.8
+    },
+    {
+      "party": "CON",
+      "votes": 3064,
+      "share": 10.2
+    },
+    {
+      "party": "OTH",
+      "votes": 768,
+      "share": 2.6
+    },
+    {
+      "party": "GRN",
+      "votes": 510,
+      "share": 1.7
+    },
+    {
+      "party": "NMBP",
+      "votes": 0,
+      "share": 0
+    },
+    {
+      "party": "NPTR",
+      "votes": 0,
+      "share": 0
+    }
+  ]
+}

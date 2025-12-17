@@ -1,0 +1,32 @@
+{
+  "id": 400,
+  "name": "Mole Valley",
+  "seqNo": 475,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 27060,
+      "share": 54.8
+    },
+    {
+      "party": "LD",
+      "votes": 15063,
+      "share": 30.5
+    },
+    {
+      "party": "LAB",
+      "votes": 5310,
+      "share": 10.7
+    },
+    {
+      "party": "UKIP",
+      "votes": 1475,
+      "share": 3.0
+    },
+    {
+      "party": "OTH",
+      "votes": 507,
+      "share": 1.0
+    }
+  ]
+}

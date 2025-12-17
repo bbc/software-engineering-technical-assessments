@@ -1,0 +1,32 @@
+{
+  "id": 205,
+  "name": "Dudley South",
+  "seqNo": 123,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 15896,
+      "share": 44.0
+    },
+    {
+      "party": "CON",
+      "votes": 12674,
+      "share": 35.0
+    },
+    {
+      "party": "LD",
+      "votes": 4587,
+      "share": 12.7
+    },
+    {
+      "party": "OTH",
+      "votes": 1841,
+      "share": 5.1
+    },
+    {
+      "party": "UKIP",
+      "votes": 1165,
+      "share": 3.2
+    }
+  ]
+}

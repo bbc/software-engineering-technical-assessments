@@ -1,0 +1,32 @@
+{
+  "id": 43,
+  "name": "Bedfordshire North East",
+  "seqNo": 398,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 24592,
+      "share": 49.9
+    },
+    {
+      "party": "LAB",
+      "votes": 12464,
+      "share": 25.3
+    },
+    {
+      "party": "LD",
+      "votes": 10295,
+      "share": 20.9
+    },
+    {
+      "party": "UKIP",
+      "votes": 1966,
+      "share": 4.0
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

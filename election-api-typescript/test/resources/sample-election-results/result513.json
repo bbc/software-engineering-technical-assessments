@@ -1,0 +1,32 @@
+{
+  "id": 609,
+  "name": "Wells",
+  "seqNo": 513,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 23071,
+      "share": 43.6
+    },
+    {
+      "party": "LD",
+      "votes": 20031,
+      "share": 37.8
+    },
+    {
+      "party": "LAB",
+      "votes": 8288,
+      "share": 15.6
+    },
+    {
+      "party": "UKIP",
+      "votes": 1575,
+      "share": 3.0
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

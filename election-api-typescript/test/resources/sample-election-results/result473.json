@@ -1,0 +1,32 @@
+{
+  "id": 553,
+  "name": "Surrey Heath",
+  "seqNo": 473,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 24642,
+      "share": 51.5
+    },
+    {
+      "party": "LD",
+      "votes": 13797,
+      "share": 28.8
+    },
+    {
+      "party": "LAB",
+      "votes": 7989,
+      "share": 16.7
+    },
+    {
+      "party": "UKIP",
+      "votes": 1430,
+      "share": 3.0
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

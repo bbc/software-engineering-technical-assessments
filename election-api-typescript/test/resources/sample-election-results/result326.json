@@ -1,0 +1,32 @@
+{
+  "id": 63,
+  "name": "Birmingham Perry Barr",
+  "seqNo": 326,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 17919,
+      "share": 46.3
+    },
+    {
+      "party": "LD",
+      "votes": 10094,
+      "share": 26.1
+    },
+    {
+      "party": "CON",
+      "votes": 6702,
+      "share": 17.3
+    },
+    {
+      "party": "OTH",
+      "votes": 3063,
+      "share": 7.9
+    },
+    {
+      "party": "UKIP",
+      "votes": 920,
+      "share": 2.4
+    }
+  ]
+}

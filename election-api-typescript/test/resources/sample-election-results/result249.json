@@ -1,0 +1,42 @@
+{
+  "id": 273,
+  "name": "Gower",
+  "seqNo": 249,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 16786,
+      "share": 42.5
+    },
+    {
+      "party": "CON",
+      "votes": 10083,
+      "share": 25.5
+    },
+    {
+      "party": "LD",
+      "votes": 7291,
+      "share": 18.4
+    },
+    {
+      "party": "PC",
+      "votes": 3089,
+      "share": 7.8
+    },
+    {
+      "party": "UKIP",
+      "votes": 1264,
+      "share": 3.2
+    },
+    {
+      "party": "GRN",
+      "votes": 1029,
+      "share": 2.6
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}
