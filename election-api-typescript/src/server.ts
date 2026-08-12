@@ -10,7 +10,7 @@ const server: Express = express();
 server.use(express.json());
 
 server.get("/result/:id", (req: Request, res: Response): void => {
-  res.send(getResult(parseInt(req.params.id, 10)));
+  res.send(getResult(parseInt(req.params.id[0], 10)));
 });
 
 server.post("/result", (req: Request, res: Response): void => {

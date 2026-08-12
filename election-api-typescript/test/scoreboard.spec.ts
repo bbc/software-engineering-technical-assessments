@@ -1,4 +1,5 @@
 import fs from "fs";
+import { describe, expect, test, beforeEach } from "vitest";
 import request, { SuperTest, Test, Response } from "supertest";
 import { server as expressServer, resetScores } from "../src/server";
 
