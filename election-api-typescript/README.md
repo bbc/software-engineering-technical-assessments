@@ -25,7 +25,7 @@ The API has 3 endpoints:
 
 Requires:
 
-- node (18) - available from https://nodejs.org/en/download/
+- node (24) - available from https://nodejs.org/en/download/
 - npm - will be installed with node, or see https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 ```
