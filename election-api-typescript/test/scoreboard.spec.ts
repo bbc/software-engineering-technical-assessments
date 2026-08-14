@@ -1,11 +1,13 @@
 import fs from "fs";
 import { describe, expect, test, beforeEach } from "vitest";
-import request, { SuperTest, Test, Response } from "supertest";
+import request, { Test, Response } from "supertest";
 import { server as expressServer, resetScores } from "../src/server";
+
+type TestClient = ReturnType<typeof request>;
 
 const resultsSamplesPath = "./test/resources/sample-election-results";
 
-const loadAndPostResultFile = (server: SuperTest<Test>, num: number): Test => {
+const loadAndPostResultFile = (server: TestClient, num: number): Test => {
   const fileNumber = new String(parseInt(`${num}`, 10)).padStart(3, "0");
   const result = fs.readFileSync(
     `${resultsSamplesPath}/result${fileNumber}.json`,
@@ -14,7 +16,7 @@ const loadAndPostResultFile = (server: SuperTest<Test>, num: number): Test => {
 };
 
 const loadResults = async (
-  server: SuperTest<Test>,
+  server: TestClient,
   quantity: number,
 ): Promise<Response[]> => {
   const results: Response[] = [];
@@ -24,7 +26,7 @@ const loadResults = async (
   return results;
 };
 
-const fetchScoreboard = (server: SuperTest<Test>) => {
+const fetchScoreboard = (server: TestClient) => {
   return server.get("/scoreboard");
 };
 
