@@ -8,14 +8,14 @@ const resultsSamplesPath = "./test/resources/sample-election-results";
 const loadAndPostResultFile = (server: SuperTest<Test>, num: number): Test => {
   const fileNumber = new String(parseInt(`${num}`, 10)).padStart(3, "0");
   const result = fs.readFileSync(
-    `${resultsSamplesPath}/result${fileNumber}.json`
+    `${resultsSamplesPath}/result${fileNumber}.json`,
   );
   return server.post("/result").send(JSON.parse(result.toString()));
 };
 
 const loadResults = async (
   server: SuperTest<Test>,
-  quantity: number
+  quantity: number,
 ): Promise<Response[]> => {
   const results: Response[] = [];
   for (let count = 0; count < quantity; count += 1) {
