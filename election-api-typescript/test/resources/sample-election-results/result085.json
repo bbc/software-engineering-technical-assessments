@@ -1,0 +1,32 @@
+{
+  "id": 414,
+  "name": "Newcastle Upon Tyne Central",
+  "seqNo": 85,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 16466,
+      "share": 50.6
+    },
+    {
+      "party": "LD",
+      "votes": 8957,
+      "share": 27.5
+    },
+    {
+      "party": "CON",
+      "votes": 5400,
+      "share": 16.6
+    },
+    {
+      "party": "GRN",
+      "votes": 1254,
+      "share": 3.9
+    },
+    {
+      "party": "OTH",
+      "votes": 477,
+      "share": 1.5
+    }
+  ]
+}

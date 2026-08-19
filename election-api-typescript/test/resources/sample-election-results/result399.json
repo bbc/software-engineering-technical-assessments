@@ -1,0 +1,37 @@
+{
+  "id": 381,
+  "name": "Luton South",
+  "seqNo": 399,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 16577,
+      "share": 42.8
+    },
+    {
+      "party": "CON",
+      "votes": 10879,
+      "share": 28.1
+    },
+    {
+      "party": "LD",
+      "votes": 8729,
+      "share": 22.5
+    },
+    {
+      "party": "UKIP",
+      "votes": 953,
+      "share": 2.5
+    },
+    {
+      "party": "OTH",
+      "votes": 820,
+      "share": 2.1
+    },
+    {
+      "party": "GRN",
+      "votes": 790,
+      "share": 2.0
+    }
+  ]
+}

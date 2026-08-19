@@ -1,0 +1,32 @@
+{
+  "id": 120,
+  "name": "Cambridgeshire North East",
+  "seqNo": 492,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 22249,
+      "share": 46.9
+    },
+    {
+      "party": "LAB",
+      "votes": 14523,
+      "share": 30.6
+    },
+    {
+      "party": "LD",
+      "votes": 8096,
+      "share": 17.1
+    },
+    {
+      "party": "UKIP",
+      "votes": 2538,
+      "share": 5.4
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

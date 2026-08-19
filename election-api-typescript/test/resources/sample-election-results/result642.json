@@ -1,0 +1,42 @@
+{
+  "id": 586,
+  "name": "Upper Bann",
+  "seqNo": 642,
+  "partyResults": [
+    {
+      "party": "DUP",
+      "votes": 16679,
+      "share": 37.6
+    },
+    {
+      "party": "UUP",
+      "votes": 11281,
+      "share": 25.5
+    },
+    {
+      "party": "SF",
+      "votes": 9305,
+      "share": 21.0
+    },
+    {
+      "party": "SDLP",
+      "votes": 5747,
+      "share": 13.0
+    },
+    {
+      "party": "AP",
+      "votes": 955,
+      "share": 2.2
+    },
+    {
+      "party": "WP",
+      "votes": 355,
+      "share": 0.8
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

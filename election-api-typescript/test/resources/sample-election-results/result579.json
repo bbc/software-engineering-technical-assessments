@@ -1,0 +1,32 @@
+{
+  "id": 550,
+  "name": "Suffolk West",
+  "seqNo": 579,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 21439,
+      "share": 48.9
+    },
+    {
+      "party": "LAB",
+      "votes": 12704,
+      "share": 29.0
+    },
+    {
+      "party": "LD",
+      "votes": 7539,
+      "share": 17.2
+    },
+    {
+      "party": "UKIP",
+      "votes": 2161,
+      "share": 4.9
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

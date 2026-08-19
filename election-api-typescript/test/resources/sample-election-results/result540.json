@@ -1,0 +1,32 @@
+{
+  "id": 341,
+  "name": "Kettering",
+  "seqNo": 540,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 19274,
+      "share": 43.0
+    },
+    {
+      "party": "LAB",
+      "votes": 19098,
+      "share": 42.6
+    },
+    {
+      "party": "LD",
+      "votes": 5488,
+      "share": 12.2
+    },
+    {
+      "party": "UKIP",
+      "votes": 1015,
+      "share": 2.3
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

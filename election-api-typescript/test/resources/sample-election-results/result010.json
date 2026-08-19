@@ -1,0 +1,32 @@
+{
+  "id": 118,
+  "name": "Camborne \u0026 Redruth",
+  "seqNo": 10,
+  "partyResults": [
+    {
+      "party": "LD",
+      "votes": 13830,
+      "share": 35.9
+    },
+    {
+      "party": "LAB",
+      "votes": 11097,
+      "share": 28.8
+    },
+    {
+      "party": "CON",
+      "votes": 9874,
+      "share": 25.6
+    },
+    {
+      "party": "OTH",
+      "votes": 1943,
+      "share": 5.0
+    },
+    {
+      "party": "UKIP",
+      "votes": 1833,
+      "share": 4.8
+    }
+  ]
+}

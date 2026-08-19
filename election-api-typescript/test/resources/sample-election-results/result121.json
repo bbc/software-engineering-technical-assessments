@@ -1,0 +1,37 @@
+{
+  "id": 574,
+  "name": "Tooting",
+  "seqNo": 121,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 18129,
+      "share": 42.7
+    },
+    {
+      "party": "CON",
+      "votes": 12960,
+      "share": 30.5
+    },
+    {
+      "party": "LD",
+      "votes": 8314,
+      "share": 19.6
+    },
+    {
+      "party": "GRN",
+      "votes": 1731,
+      "share": 4.1
+    },
+    {
+      "party": "OTH",
+      "votes": 892,
+      "share": 2.1
+    },
+    {
+      "party": "UKIP",
+      "votes": 431,
+      "share": 1.0
+    }
+  ]
+}

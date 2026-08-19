@@ -1,0 +1,32 @@
+{
+  "id": 301,
+  "name": "Hazel Grove",
+  "seqNo": 190,
+  "partyResults": [
+    {
+      "party": "LD",
+      "votes": 19423,
+      "share": 50.3
+    },
+    {
+      "party": "CON",
+      "votes": 11729,
+      "share": 30.4
+    },
+    {
+      "party": "LAB",
+      "votes": 6219,
+      "share": 16.1
+    },
+    {
+      "party": "UKIP",
+      "votes": 1258,
+      "share": 3.3
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 146,
+  "name": "Chingford \u0026 Woodford Green",
+  "seqNo": 197,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 20555,
+      "share": 53.2
+    },
+    {
+      "party": "LAB",
+      "votes": 9914,
+      "share": 25.7
+    },
+    {
+      "party": "LD",
+      "votes": 6832,
+      "share": 17.7
+    },
+    {
+      "party": "UKIP",
+      "votes": 1078,
+      "share": 2.8
+    },
+    {
+      "party": "OTH",
+      "votes": 269,
+      "share": 0.7
+    }
+  ]
+}

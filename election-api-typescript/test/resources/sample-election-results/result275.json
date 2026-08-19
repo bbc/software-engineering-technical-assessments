@@ -1,0 +1,42 @@
+{
+  "id": 10,
+  "name": "Alyn \u0026 Deeside",
+  "seqNo": 275,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 17331,
+      "share": 48.8
+    },
+    {
+      "party": "CON",
+      "votes": 8953,
+      "share": 25.2
+    },
+    {
+      "party": "LD",
+      "votes": 6174,
+      "share": 17.4
+    },
+    {
+      "party": "PC",
+      "votes": 1320,
+      "share": 3.7
+    },
+    {
+      "party": "UKIP",
+      "votes": 918,
+      "share": 2.6
+    },
+    {
+      "party": "OTH",
+      "votes": 800,
+      "share": 2.3
+    },
+    {
+      "party": "IND",
+      "votes": 0,
+      "share": 0
+    }
+  ]
+}

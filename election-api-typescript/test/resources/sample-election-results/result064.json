@@ -1,0 +1,32 @@
+{
+  "id": 518,
+  "name": "Somerset North East",
+  "seqNo": 64,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 18149,
+      "share": 39.1
+    },
+    {
+      "party": "LAB",
+      "votes": 17937,
+      "share": 38.6
+    },
+    {
+      "party": "LD",
+      "votes": 9096,
+      "share": 19.6
+    },
+    {
+      "party": "UKIP",
+      "votes": 1013,
+      "share": 2.2
+    },
+    {
+      "party": "OTH",
+      "votes": 221,
+      "share": 0.5
+    }
+  ]
+}

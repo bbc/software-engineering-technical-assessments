@@ -1,0 +1,32 @@
+{
+  "id": 284,
+  "name": "Haltemprice \u0026 Howden",
+  "seqNo": 349,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 22687,
+      "share": 47.0
+    },
+    {
+      "party": "LD",
+      "votes": 17607,
+      "share": 36.5
+    },
+    {
+      "party": "LAB",
+      "votes": 6514,
+      "share": 13.5
+    },
+    {
+      "party": "OTH",
+      "votes": 798,
+      "share": 1.7
+    },
+    {
+      "party": "UKIP",
+      "votes": 665,
+      "share": 1.4
+    }
+  ]
+}

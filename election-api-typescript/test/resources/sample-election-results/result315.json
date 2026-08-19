@@ -1,0 +1,27 @@
+{
+  "id": 356,
+  "name": "Leicester East",
+  "seqNo": 315,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 24765,
+      "share": 58.7
+    },
+    {
+      "party": "CON",
+      "votes": 8365,
+      "share": 19.8
+    },
+    {
+      "party": "LD",
+      "votes": 6945,
+      "share": 16.5
+    },
+    {
+      "party": "OTH",
+      "votes": 2100,
+      "share": 5.0
+    }
+  ]
+}

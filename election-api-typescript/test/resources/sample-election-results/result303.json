@@ -1,0 +1,32 @@
+{
+  "id": 260,
+  "name": "Gedling",
+  "seqNo": 303,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 20982,
+      "share": 46.6
+    },
+    {
+      "party": "CON",
+      "votes": 16647,
+      "share": 37.0
+    },
+    {
+      "party": "LD",
+      "votes": 6169,
+      "share": 13.7
+    },
+    {
+      "party": "UKIP",
+      "votes": 785,
+      "share": 1.7
+    },
+    {
+      "party": "OTH",
+      "votes": 411,
+      "share": 0.9
+    }
+  ]
+}

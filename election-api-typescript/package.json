@@ -1,0 +1,29 @@
+{
+  "name": "hiring-api-test",
+  "version": "1.0.0",
+  "description": "Node.js and TypeScript coding test",
+  "main": "/dist/src/index.js",
+  "scripts": {
+    "start": "tsx watch ./src/index.ts",
+    "build": "tsc",
+    "build:watch": "tsc -w",
+    "test": "prettier --loglevel=error --write * && vitest"
+  },
+  "keywords": [],
+  "author": "BBC",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "@types/express": "5.0.6",
+    "@types/node": "26.2.0",
+    "@types/supertest": "^7.2.1",
+    "prettier": "^3.9.6",
+    "supertest": "^7.2.2",
+    "typescript": "7.0.2",
+    "vitest": "^4.1.10"
+  },
+  "dependencies": {
+    "express": "5.2.1",
+    "tsx": "4.23.12"
+  }
+}

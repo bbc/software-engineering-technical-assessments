@@ -1,0 +1,37 @@
+{
+  "id": 588,
+  "name": "Vale Of Clwyd",
+  "seqNo": 101,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 14977,
+      "share": 45.9
+    },
+    {
+      "party": "CON",
+      "votes": 10348,
+      "share": 31.7
+    },
+    {
+      "party": "LD",
+      "votes": 3865,
+      "share": 11.8
+    },
+    {
+      "party": "PC",
+      "votes": 2346,
+      "share": 7.2
+    },
+    {
+      "party": "OTH",
+      "votes": 728,
+      "share": 2.2
+    },
+    {
+      "party": "UKIP",
+      "votes": 380,
+      "share": 1.2
+    }
+  ]
+}

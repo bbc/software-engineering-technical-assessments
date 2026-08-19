@@ -1,0 +1,27 @@
+{
+  "id": 312,
+  "name": "Hexham",
+  "seqNo": 626,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 17463,
+      "share": 42.4
+    },
+    {
+      "party": "LAB",
+      "votes": 12506,
+      "share": 30.4
+    },
+    {
+      "party": "LD",
+      "votes": 10578,
+      "share": 25.7
+    },
+    {
+      "party": "OTH",
+      "votes": 650,
+      "share": 1.6
+    }
+  ]
+}

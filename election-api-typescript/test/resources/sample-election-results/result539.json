@@ -1,0 +1,32 @@
+{
+  "id": 423,
+  "name": "Norfolk North West",
+  "seqNo": 539,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 22920,
+      "share": 49.9
+    },
+    {
+      "party": "LAB",
+      "votes": 14503,
+      "share": 31.6
+    },
+    {
+      "party": "LD",
+      "votes": 6780,
+      "share": 14.8
+    },
+    {
+      "party": "UKIP",
+      "votes": 1694,
+      "share": 3.7
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

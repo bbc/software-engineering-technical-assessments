@@ -1,0 +1,37 @@
+{
+  "id": 363,
+  "name": "Lewisham Deptford",
+  "seqNo": 402,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 19245,
+      "share": 55.4
+    },
+    {
+      "party": "LD",
+      "votes": 6233,
+      "share": 17.9
+    },
+    {
+      "party": "CON",
+      "votes": 4413,
+      "share": 12.7
+    },
+    {
+      "party": "GRN",
+      "votes": 3501,
+      "share": 10.1
+    },
+    {
+      "party": "OTH",
+      "votes": 742,
+      "share": 2.1
+    },
+    {
+      "party": "UKIP",
+      "votes": 626,
+      "share": 1.8
+    }
+  ]
+}

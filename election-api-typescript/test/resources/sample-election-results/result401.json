@@ -1,0 +1,27 @@
+{
+  "id": 256,
+  "name": "Fylde",
+  "seqNo": 401,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 21053,
+      "share": 54.3
+    },
+    {
+      "party": "LAB",
+      "votes": 9936,
+      "share": 25.6
+    },
+    {
+      "party": "LD",
+      "votes": 6137,
+      "share": 15.8
+    },
+    {
+      "party": "OTH",
+      "votes": 1647,
+      "share": 4.2
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 512,
+  "name": "Sittingbourne \u0026 Sheppey",
+  "seqNo": 500,
+  "partyResults": [
+    {
+      "party": "CON",
+      "votes": 17933,
+      "share": 41.7
+    },
+    {
+      "party": "LAB",
+      "votes": 17911,
+      "share": 41.7
+    },
+    {
+      "party": "LD",
+      "votes": 5478,
+      "share": 12.7
+    },
+    {
+      "party": "UKIP",
+      "votes": 989,
+      "share": 2.3
+    },
+    {
+      "party": "OTH",
+      "votes": 671,
+      "share": 1.6
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 601,
+  "name": "Warwick \u0026 Leamington",
+  "seqNo": 517,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 18980,
+      "share": 44.7
+    },
+    {
+      "party": "CON",
+      "votes": 14587,
+      "share": 34.4
+    },
+    {
+      "party": "LD",
+      "votes": 6739,
+      "share": 15.9
+    },
+    {
+      "party": "GRN",
+      "votes": 1425,
+      "share": 3.4
+    },
+    {
+      "party": "UKIP",
+      "votes": 731,
+      "share": 1.7
+    },
+    {
+      "party": "OTH",
+      "votes": 0,
+      "share": 0.0
+    }
+  ]
+}

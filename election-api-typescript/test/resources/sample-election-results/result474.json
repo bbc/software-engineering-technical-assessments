@@ -1,0 +1,32 @@
+{
+  "id": 359,
+  "name": "Leicestershire North West",
+  "seqNo": 474,
+  "partyResults": [
+    {
+      "party": "LAB",
+      "votes": 21449,
+      "share": 45.5
+    },
+    {
+      "party": "CON",
+      "votes": 16972,
+      "share": 36.0
+    },
+    {
+      "party": "LD",
+      "votes": 5682,
+      "share": 12.1
+    },
+    {
+      "party": "UKIP",
+      "votes": 1563,
+      "share": 3.3
+    },
+    {
+      "party": "OTH",
+      "votes": 1474,
+      "share": 3.1
+    }
+  ]
+}
