@@ -1,6 +1,5 @@
 package bbc.news.elections.service;
 
-
 public class ResultNotFoundException extends RuntimeException {
     private Integer resultId;
 
