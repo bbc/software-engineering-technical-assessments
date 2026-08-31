@@ -1,4 +1,4 @@
-.Scorecard {
+/* .Scorecard {
   background-color: #eeeeee;
 }
 
@@ -18,4 +18,51 @@
 
 .Scorecard-table tbody tr:nth-of-type(2n + 1) {
   background-color: white;
+}
+
+.winner{
+  background-color: yellow;
+}
+
+
+.badge {
+    background-color: red;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    border-radius: 5px;
+  } */
+
+.Scorecard {
+  background-color: #eeeeee;
+}
+
+.Scorecard-table {
+  width: 100%;
+  & th,
+  & td {
+    padding: 0.5rem;
+  }
+  & thead {
+    background-color: #bb1919;
+    color: white;
+  }
+
+  & tbody {
+    & tr:nth-of-type(2n + 1) {
+      background-color: white;
+    }
+  }
+}
+
+.winner {
+  background-color: yellow;
+}
+
+.badge {
+  background-color: red;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
 }
